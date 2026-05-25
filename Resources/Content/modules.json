@@ -1,0 +1,170 @@
+[
+  {
+    "id": "module-01",
+    "number": 1,
+    "title": {
+      "zh": "ESG 投资简介",
+      "en": "Introduction to ESG Investing"
+    },
+    "examWeight": "~10%",
+    "questionCount": 83,
+    "questionsFile": "questions/module-01.json",
+    "content": [
+      {
+        "type": "notes",
+        "title": {
+          "zh": "学习笔记",
+          "en": "Study Notes"
+        },
+        "icon": "book.fill",
+        "files": {
+          "zh": "content/module-01/notes.zh.md"
+        }
+      }
+    ]
+  },
+  {
+    "id": "module-02",
+    "number": 2,
+    "title": {
+      "zh": "环境因素",
+      "en": "Environmental Factors"
+    },
+    "examWeight": "~10-15%",
+    "questionCount": 97,
+    "questionsFile": "questions/module-02.json",
+    "content": [
+      {
+        "type": "notes",
+        "title": {
+          "zh": "学习笔记",
+          "en": "Study Notes"
+        },
+        "icon": "book.fill",
+        "files": {
+          "zh": "content/module-02/notes.zh.md"
+        }
+      }
+    ]
+  },
+  {
+    "id": "module-03",
+    "number": 3,
+    "title": {
+      "zh": "社会因素",
+      "en": "Social Factors"
+    },
+    "examWeight": "~10%",
+    "questionCount": 83,
+    "questionsFile": "questions/module-03.json",
+    "content": [
+      {
+        "type": "notes",
+        "title": {
+          "zh": "学习笔记",
+          "en": "Study Notes"
+        },
+        "icon": "book.fill",
+        "files": {
+          "zh": "content/module-03/notes.zh.md"
+        }
+      }
+    ]
+  },
+  {
+    "id": "module-04",
+    "number": 4,
+    "title": {
+      "zh": "治理因素",
+      "en": "Governance Factors"
+    },
+    "examWeight": "~15-20%",
+    "questionCount": 122,
+    "questionsFile": "questions/module-04.json",
+    "content": [
+      {
+        "type": "notes",
+        "title": {
+          "zh": "学习笔记",
+          "en": "Study Notes"
+        },
+        "icon": "book.fill",
+        "files": {
+          "zh": "content/module-04/notes.zh.md"
+        }
+      }
+    ]
+  },
+  {
+    "id": "module-05",
+    "number": 5,
+    "title": {
+      "zh": "股东参与与尽责管理",
+      "en": "Engagement and Stewardship"
+    },
+    "examWeight": "~10%",
+    "questionCount": 0,
+    "questionsFile": "questions/module-05.json",
+    "content": [
+      {
+        "type": "notes",
+        "title": {
+          "zh": "学习笔记",
+          "en": "Study Notes"
+        },
+        "icon": "book.fill",
+        "files": {
+          "zh": "content/module-05/notes.zh.md"
+        }
+      }
+    ]
+  },
+  {
+    "id": "module-06",
+    "number": 6,
+    "title": {
+      "zh": "ESG 分析、估值与整合",
+      "en": "ESG Analysis, Valuation and Integration"
+    },
+    "examWeight": "~15%",
+    "questionCount": 91,
+    "questionsFile": "questions/module-06.json",
+    "content": [
+      {
+        "type": "notes",
+        "title": {
+          "zh": "学习笔记",
+          "en": "Study Notes"
+        },
+        "icon": "book.fill",
+        "files": {
+          "zh": "content/module-06/notes.zh.md"
+        }
+      }
+    ]
+  },
+  {
+    "id": "module-07",
+    "number": 7,
+    "title": {
+      "zh": "ESG 整合型投资组合构建与管理",
+      "en": "ESG Integrated Portfolio Construction and Management"
+    },
+    "examWeight": "~10-15%",
+    "questionCount": 161,
+    "questionsFile": "questions/module-07.json",
+    "content": [
+      {
+        "type": "notes",
+        "title": {
+          "zh": "学习笔记",
+          "en": "Study Notes"
+        },
+        "icon": "book.fill",
+        "files": {
+          "zh": "content/module-07/notes.zh.md"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,7569 @@
+[
+  {
+    "id": "m07-q001",
+    "moduleId": "module-07",
+    "number": 1,
+    "text": {
+      "zh": "Which of the following best describes the difference between ESG screening and ESG integration?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG screening uses ESG factors to select or exclude companies, while ESG integration incorporates ESG factors into all investment decisions (screening, valuation, risk management)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG screening is an active strategy, while ESG integration is a passive strategy",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG screening focuses on environmental factors, while ESG integration focuses on social and governance factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG screening is used for equity portfolios, while ESG integration is used for fixed-income portfolios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q002",
+    "moduleId": "module-07",
+    "number": 2,
+    "text": {
+      "zh": "Which of the following is a key risk of over-reliance on ESG ratings in portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG ratings are too volatile, leading to frequent portfolio rebalancing",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG ratings may not reflect material ESG factors for specific industries, leading to misaligned portfolio risk",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG ratings are always inaccurate, leading to poor investment decisions",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG ratings are only available for large-cap companies, limiting portfolio diversification",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q003",
+    "moduleId": "module-07",
+    "number": 3,
+    "text": {
+      "zh": "Which of the following ESG portfolio strategies is most likely to be used by a value investor integrating ESG factors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Overweighting companies with strong ESG performance that are undervalued by the market",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Excluding all companies with below-average ESG ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investing only in ESG-themed companies, regardless of valuation",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Tracking an ESG index with market-cap weighting",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q004",
+    "moduleId": "module-07",
+    "number": 4,
+    "text": {
+      "zh": "How does ESG integration impact portfolio tracking error when using an ESG index as a benchmark?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It eliminates tracking error, as the portfolio closely mirrors the ESG index",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It may increase tracking error if the portfolio deviates from the index to enhance ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It has no impact on tracking error, as ESG indices are identical to traditional indices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It reduces tracking error, as ESG indices are more stable than traditional indices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q005",
+    "moduleId": "module-07",
+    "number": 5,
+    "text": {
+      "zh": "Which of the following is an example of ESG integration in portfolio risk management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Calculating the portfolio’s average ESG rating quarterly",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Adjusting portfolio weights to reduce exposure to companies with high climate transition risk",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Excluding companies with poor ESG ratings from the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Engaging with company management to improve ESG practices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q006",
+    "moduleId": "module-07",
+    "number": 6,
+    "text": {
+      "zh": "Which of the following best describes the role of scenario analysis in ESG portfolio risk management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To predict exact future ESG performance of portfolio companies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To assess how the portfolio would perform under different ESG-related scenarios (e.g., severe climate regulation, ESG scandal)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To replace traditional risk management tools like value-at-risk (VaR)",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To calculate the portfolio’s average ESG rating under different market conditions",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q007",
+    "moduleId": "module-07",
+    "number": 7,
+    "text": {
+      "zh": "Which of the following ESG portfolio metrics is most useful for assessing the portfolio’s exposure to social risks?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Board independence ratio",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employee turnover rate (portfolio-weighted average)",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG alpha",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q008",
+    "moduleId": "module-07",
+    "number": 8,
+    "text": {
+      "zh": "Which of the following is a key challenge of ESG performance evaluation for portfolios?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG performance is easy to quantify and compare across portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "There is no standard methodology for measuring ESG portfolio performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG performance has no correlation with financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG performance metrics are identical across all asset classes",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q009",
+    "moduleId": "module-07",
+    "number": 9,
+    "text": {
+      "zh": "Which of the following best describes ESG integration in portfolio rebalancing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Rebalancing only when the portfolio’s financial performance deviates from the benchmark",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Rebalancing to maintain the portfolio’s target ESG exposure (e.g., average ESG rating, carbon intensity)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Rebalancing only once a year, regardless of ESG changes",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Rebalancing to exclude all companies with ESG ratings below a threshold, regardless of financial impact",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q010",
+    "moduleId": "module-07",
+    "number": 10,
+    "text": {
+      "zh": "Which of the following ESG portfolio strategies is most likely to have the lowest tracking error relative to a traditional market-cap weighted index?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Best-in-class screening",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Negative screening (sector exclusion)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG factor investing with minimal deviations from the index",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Impact investing focused on niche themes",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q011",
+    "moduleId": "module-07",
+    "number": 11,
+    "text": {
+      "zh": "Which of the following is an example of investor stewardship beyond engagement?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Voting against a shareholder resolution that improves ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Filing a shareholder proposal to require improved climate disclosures",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Excluding a company from the portfolio due to poor ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Calculating the portfolio’s carbon intensity",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q012",
+    "moduleId": "module-07",
+    "number": 12,
+    "text": {
+      "zh": "How does ESG integration impact the cost of portfolio management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It always reduces costs, as ESG portfolios require less rebalancing",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It can increase costs due to ESG data fees, specialized expertise, and potential higher transaction costs from rebalancing",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It has no impact on costs, as ESG integration uses the same tools as traditional portfolio management",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It always increases costs, making ESG portfolios unaffordable for small investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q013",
+    "moduleId": "module-07",
+    "number": 13,
+    "text": {
+      "zh": "Which of the following best describes the difference between ESG integration and ESG overlay in portfolio management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG integration incorporates ESG factors into core investment decisions, while ESG overlay adjusts an existing portfolio to meet ESG goals without changing core decisions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG integration is for equity portfolios, while ESG overlay is for fixed-income portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG integration is passive, while ESG overlay is active",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG integration focuses on exclusion, while ESG overlay focuses on inclusion",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q014",
+    "moduleId": "module-07",
+    "number": 14,
+    "text": {
+      "zh": "Which of the following is an example of an ESG overlay strategy?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Building a portfolio from scratch using best-in-class ESG screening",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Adjusting an existing S&P 500 portfolio by excluding companies with ESG ratings below a threshold",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Incorporating ESG factors into the valuation of all portfolio holdings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Engaging with management of portfolio companies to improve ESG practices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q015",
+    "moduleId": "module-07",
+    "number": 15,
+    "text": {
+      "zh": "Which of the following ESG portfolio risk metrics measures the portfolio’s exposure to governance risks?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Portfolio-weighted average board independence ratio",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG alpha",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q016",
+    "moduleId": "module-07",
+    "number": 16,
+    "text": {
+      "zh": "Which of the following is a key consideration when selecting an ESG benchmark for a portfolio?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The benchmark should have the highest possible ESG rating, regardless of alignment with the portfolio’s strategy",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The benchmark should align with the portfolio’s ESG strategy (e.g., best-in-class, negative screening) and asset allocation",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The benchmark should be a traditional index with no ESG integration",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "The benchmark should include only large-cap companies, regardless of the portfolio’s holdings",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q017",
+    "moduleId": "module-07",
+    "number": 17,
+    "text": {
+      "zh": "How does ESG integration impact portfolio performance during market downturns?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It always outperforms traditional portfolios during downturns",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It can outperform traditional portfolios by reducing exposure to companies with high ESG risks that are more vulnerable to downturns",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It always underperforms traditional portfolios during downturns",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It has no impact on performance during downturns, as ESG factors are irrelevant in crises",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q018",
+    "moduleId": "module-07",
+    "number": 18,
+    "text": {
+      "zh": "Which of the following is a key benefit of ESG overlay strategies?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "They eliminate the need for core ESG integration",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "They allow investors to meet ESG goals without changing their core investment strategy",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "They are more cost-effective than core ESG integration",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "They provide higher financial returns than core ESG integration",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q019",
+    "moduleId": "module-07",
+    "number": 19,
+    "text": {
+      "zh": "Which of the following ESG portfolio strategies is most likely to be used by an investor with a low risk tolerance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG-themed investing in small-cap renewable energy companies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Best-in-class screening with broad sector exposure",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Negative screening excluding multiple sectors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Impact investing in niche private equity assets",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q020",
+    "moduleId": "module-07",
+    "number": 20,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG data providers in portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "They make investment decisions on behalf of investors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "They provide standardized ESG data and ratings to support investor decision-making",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "They replace portfolio managers in ESG integration",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "They ensure that ESG portfolios outperform traditional portfolios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q021",
+    "moduleId": "module-07",
+    "number": 21,
+    "text": {
+      "zh": "Which of the following is a key limitation of ESG overlay strategies?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "They are too complex to implement",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "They may not fully align the portfolio with ESG goals, as they only adjust the existing portfolio rather than building it from scratch",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "They are only applicable to large institutional investors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "They eliminate the need for portfolio rebalancing",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q022",
+    "moduleId": "module-07",
+    "number": 22,
+    "text": {
+      "zh": "Which of the following ESG portfolio performance metrics is most useful for assessing the impact of ESG factors on excess returns?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Portfolio average ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG alpha",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Sharpe ratio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q023",
+    "moduleId": "module-07",
+    "number": 23,
+    "text": {
+      "zh": "How do investors address the issue of ESG data lag in portfolio management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignore ESG data, as it is outdated",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Use forward-looking ESG metrics and scenario analysis to complement lagging data",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Only use ESG data that is less than one month old",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Replace ESG data with financial data",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q024",
+    "moduleId": "module-07",
+    "number": 24,
+    "text": {
+      "zh": "Which of the following is an example of ESG integration in private equity portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding all private equity funds with any ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Assessing the ESG practices of portfolio companies and working with management to improve them",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investing only in private equity funds with the highest ESG ratings, regardless of returns",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring ESG factors, as private equity returns are driven solely by leverage",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q025",
+    "moduleId": "module-07",
+    "number": 25,
+    "text": {
+      "zh": "Which of the following best describes the difference between ESG integration and responsible investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG integration is a subset of responsible investing, which is a broader term that includes screening, engagement, and impact investing",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Responsible investing is a subset of ESG integration, which focuses on financial returns",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG integration focuses on environmental factors, while responsible investing focuses on social factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG integration is passive, while responsible investing is active",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q026",
+    "moduleId": "module-07",
+    "number": 26,
+    "text": {
+      "zh": "Which of the following is a key risk of ESG integration in portfolio management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG factors are not material to long-term portfolio performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Overemphasis on ESG factors may lead to sacrificing financial returns",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG integration eliminates all portfolio risks",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG integration is too simple, leading to overconfidence",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q027",
+    "moduleId": "module-07",
+    "number": 27,
+    "text": {
+      "zh": "Which of the following ESG portfolio metrics is most useful for assessing the portfolio’s exposure to environmental risks?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Portfolio-weighted average ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Carbon intensity (portfolio-weighted average)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Board independence ratio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Employee turnover rate",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q028",
+    "moduleId": "module-07",
+    "number": 28,
+    "text": {
+      "zh": "Which of the following best describes the role of portfolio diversification in ESG portfolio management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It eliminates all ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It reduces idiosyncratic ESG risks (specific to individual companies) but not systemic ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It has no impact on ESG risks, as ESG factors are systemic",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It increases ESG risks by including more companies with varying ESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q029",
+    "moduleId": "module-07",
+    "number": 29,
+    "text": {
+      "zh": "Which of the following is an example of ESG integration in real estate portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investing only in green buildings with LEED certification, regardless of location or rental income",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Assessing the energy efficiency and climate resilience of properties to evaluate long-term rental income and value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Excluding all commercial real estate properties",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring ESG factors, as real estate returns are driven solely by location",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q030",
+    "moduleId": "module-07",
+    "number": 30,
+    "text": {
+      "zh": "Which of the following best describes the impact of ESG integration on portfolio volatility?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It always reduces volatility, as ESG portfolios are more stable",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It can reduce volatility by reducing exposure to companies with high ESG risks that are more volatile",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It always increases volatility, as ESG factors are more volatile than financial factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It has no impact on volatility, as ESG factors do not affect asset prices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q031",
+    "moduleId": "module-07",
+    "number": 31,
+    "text": {
+      "zh": "Which of the following is a key component of ESG portfolio performance reporting?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Only reporting financial performance, ignoring ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Reporting both financial performance and ESG performance metrics, along with an explanation of how ESG factors impacted returns",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Only reporting ESG performance, ignoring financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reporting ESG performance without any context or explanation",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q032",
+    "moduleId": "module-07",
+    "number": 32,
+    "text": {
+      "zh": "Which of the following ESG portfolio strategies is most likely to be used by a passive investor who wants to integrate ESG factors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Active engagement with portfolio companies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Tracking an ESG index that uses screening or integration rules",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG factor investing with frequent rebalancing",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Impact investing in niche private assets",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q033",
+    "moduleId": "module-07",
+    "number": 33,
+    "text": {
+      "zh": "Which of the following is a key challenge of ESG integration in private equity portfolio management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Private equity companies have no ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG data for private companies is often limited or inconsistent",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Private equity investors have no influence over portfolio companies’ ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG factors have no impact on private equity returns",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q034",
+    "moduleId": "module-07",
+    "number": 34,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG factors in portfolio optimization models?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "They are ignored, as optimization models only consider financial factors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "They are incorporated as constraints (e.g., minimum average ESG rating) or objectives (e.g., minimizing carbon intensity)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "They replace financial factors in optimization models",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "They are only used to screen companies before optimization",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q035",
+    "moduleId": "module-07",
+    "number": 35,
+    "text": {
+      "zh": "Which of the following is an example of a systemic ESG risk that could impact a real estate portfolio?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A single office building facing a mold infestation",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A regulatory change requiring all buildings to meet new energy efficiency standards",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A tenant defaulting on rent due to poor ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A decline in the ESG rating of a single property",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q036",
+    "moduleId": "module-07",
+    "number": 36,
+    "text": {
+      "zh": "Which of the following ESG portfolio performance metrics is most useful for comparing portfolios with different ESG strategies?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Portfolio average ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG risk-adjusted return",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Number of ESG-friendly companies in the portfolio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q037",
+    "moduleId": "module-07",
+    "number": 37,
+    "text": {
+      "zh": "How does investor engagement impact ESG portfolio risk?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It increases risk by diverting resources from portfolio management",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It reduces risk by encouraging portfolio companies to improve ESG practices and reduce ESG-related risks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It has no impact on risk, as engagement does not change company behavior",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It increases risk by focusing on ESG factors instead of financial factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q038",
+    "moduleId": "module-07",
+    "number": 38,
+    "text": {
+      "zh": "Which of the following is a key principle of ESG portfolio governance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Prioritizing ESG performance over financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Ensuring transparency in ESG integration processes and performance reporting",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Excluding all companies with any ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Relying solely on ESG data providers for investment decisions",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q039",
+    "moduleId": "module-07",
+    "number": 39,
+    "text": {
+      "zh": "Which of the following ESG portfolio strategies is most likely to be used by an investor who wants to minimize ESG-related regulatory risk?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG-themed investing in renewable energy",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Negative screening of companies in highly regulated ESG sectors (e.g., fossil fuels, tobacco)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Best-in-class screening with broad sector exposure",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Impact investing in niche private assets",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q040",
+    "moduleId": "module-07",
+    "number": 40,
+    "text": {
+      "zh": "Which of the following best describes the difference between ESG factor investing and best-in-class screening?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG factor investing focuses on specific ESG factors (e.g., carbon efficiency), while best-in-class screening selects top ESG-rated companies in each industry",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG factor investing is passive, while best-in-class screening is active",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG factor investing excludes companies with poor ESG performance, while best-in-class screening includes all companies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG factor investing is for fixed-income portfolios, while best-in-class screening is for equity portfolios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q041",
+    "moduleId": "module-07",
+    "number": 41,
+    "text": {
+      "zh": "Which of the following is a key limitation of using portfolio average ESG rating as a performance metric?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It is too complex to calculate",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It does not account for the relative size of portfolio holdings (e.g., a large holding with a low ESG rating has a bigger impact than a small holding with a high rating)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It is not comparable across portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It only considers social factors, not environmental or governance factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q042",
+    "moduleId": "module-07",
+    "number": 42,
+    "text": {
+      "zh": "Which of the following ESG portfolio management activities is most likely to be performed by a portfolio manager?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Collecting ESG data from third-party providers",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Analyzing ESG data to assess portfolio risk and performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Creating ESG ratings for companies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Filing shareholder proposals on behalf of investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q043",
+    "moduleId": "module-07",
+    "number": 43,
+    "text": {
+      "zh": "Which of the following best describes the impact of ESG integration on portfolio construction for institutional investors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It is optional and has no impact on fiduciary duty",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It is increasingly required to meet fiduciary duty, as ESG factors are material to long-term returns",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It is prohibited by fiduciary duty, as it prioritizes ESG over financial returns",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It is only required for public sector institutional investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q044",
+    "moduleId": "module-07",
+    "number": 44,
+    "text": {
+      "zh": "Which of the following best describes the primary goal of integrating ESG factors into portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To eliminate all financial risks in the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To enhance long-term portfolio resilience and risk-adjusted returns by incorporating non-financial factors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To focus exclusively on companies with the highest ESG ratings, regardless of financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To replace traditional portfolio diversification strategies with ESG screening",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q045",
+    "moduleId": "module-07",
+    "number": 45,
+    "text": {
+      "zh": "Which of the following is a key difference between negative screening and positive screening in ESG portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Negative screening excludes companies with poor ESG performance, while positive screening selects companies with strong ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Negative screening focuses on environmental factors, while positive screening focuses on social and governance factors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Negative screening is only used for equity portfolios, while positive screening is only used for fixed-income portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Negative screening is a passive strategy, while positive screening is an active strategy",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q046",
+    "moduleId": "module-07",
+    "number": 46,
+    "text": {
+      "zh": "Which of the following ESG portfolio construction strategies is most likely to use a \"best-in-class\" approach?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding all companies in the fossil fuel sector",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Selecting the top 20% of companies with the strongest ESG ratings in each industry",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Incorporating ESG factors into the discount rate of valuation models",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Engaging with company management to improve ESG practices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q047",
+    "moduleId": "module-07",
+    "number": 47,
+    "text": {
+      "zh": "How does ESG integration impact portfolio diversification?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It reduces diversification by excluding entire sectors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It enhances diversification by incorporating non-financial factors that are not highly correlated with traditional financial factors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It has no impact on diversification, as ESG factors are highly correlated with financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It replaces traditional diversification with ESG factor diversification",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q048",
+    "moduleId": "module-07",
+    "number": 48,
+    "text": {
+      "zh": "Which of the following is an example of ESG integration in fixed-income portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding all bonds issued by companies with ESG ratings below a certain threshold",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Adjusting bond valuations based on the issuer’s ESG-related credit risk",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investing only in green bonds, regardless of their yield",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring ESG factors, as fixed-income returns are driven solely by interest rates",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q049",
+    "moduleId": "module-07",
+    "number": 49,
+    "text": {
+      "zh": "Which of the following portfolio optimization techniques incorporates ESG factors most directly?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Mean-variance optimization that includes ESG scores as a constraint or objective",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Naive diversification across asset classes",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Market-cap weighting without any ESG adjustments",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Factor-based investing focused solely on value and growth factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q050",
+    "moduleId": "module-07",
+    "number": 50,
+    "text": {
+      "zh": "What is the primary challenge of using ESG factors in portfolio optimization?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG data is too standardized, leading to overcrowding in ESG portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG factors are not material to portfolio performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG data is often inconsistent, noisy, or incomplete, leading to unreliable optimization results",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG optimization requires complex models that are not accessible to most investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q051",
+    "moduleId": "module-07",
+    "number": 51,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG factor investing in portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It involves investing in companies that score high on specific ESG factors (e.g., carbon efficiency, gender diversity)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It replaces traditional factor investing (e.g., value, quality) with ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It focuses on excluding companies with low ESG scores, rather than selecting based on specific factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It is only applicable to equity portfolios, not fixed-income or alternative assets",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q052",
+    "moduleId": "module-07",
+    "number": 52,
+    "text": {
+      "zh": "Which of the following ESG portfolio strategies is most likely to be used by a passive investor?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Active ESG integration with regular portfolio rebalancing based on ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG-themed investing that focuses on renewable energy companies",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG index tracking, where the index uses ESG screening or integration rules",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Investor engagement with company management to improve ESG practices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q053",
+    "moduleId": "module-07",
+    "number": 53,
+    "text": {
+      "zh": "How does ESG integration affect portfolio rebalancing frequency?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It reduces rebalancing frequency, as ESG factors change more slowly than financial factors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It increases rebalancing frequency, as ESG ratings and factors can change over time (e.g., regulatory changes, company ESG practices)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It has no impact on rebalancing frequency, as ESG factors are static",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It eliminates the need for rebalancing, as ESG portfolios are self-adjusting",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q054",
+    "moduleId": "module-07",
+    "number": 54,
+    "text": {
+      "zh": "Which of the following is a key risk of ESG-themed portfolios (e.g., renewable energy, gender equality)?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Low correlation with traditional financial markets, leading to reduced diversification",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Concentration risk, as the portfolio is focused on a narrow set of companies or sectors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Lack of ESG data, making it difficult to assess performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "High liquidity, leading to increased transaction costs",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q055",
+    "moduleId": "module-07",
+    "number": 55,
+    "text": {
+      "zh": "Which of the following best describes ESG integration in alternative asset portfolios (e.g., private equity, real estate)?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It is not feasible, as alternative assets have no ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It involves assessing ESG factors that impact the asset’s long-term value (e.g., climate risk for real estate, labor practices for private equity)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It focuses solely on environmental factors, ignoring social and governance factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It is identical to ESG integration in public equity portfolios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q056",
+    "moduleId": "module-07",
+    "number": 56,
+    "text": {
+      "zh": "Which of the following is a key metric used to evaluate the ESG performance of a portfolio?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Sharpe ratio",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Portfolio average ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Beta",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Return on investment (ROI)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q057",
+    "moduleId": "module-07",
+    "number": 57,
+    "text": {
+      "zh": "How do investors measure the impact of ESG integration on portfolio performance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "By comparing the portfolio’s ESG rating to its financial return",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "By comparing the portfolio’s performance to a benchmark that does not integrate ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "By focusing solely on the portfolio’s ESG rating, ignoring financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "By measuring the portfolio’s exposure to ESG factors, regardless of performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q058",
+    "moduleId": "module-07",
+    "number": 58,
+    "text": {
+      "zh": "Which of the following is a limitation of using portfolio average ESG rating to evaluate ESG performance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It is too complex to calculate",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It does not account for the materiality of ESG factors to different industries",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It is not comparable across portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It only considers environmental factors, not social or governance factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q059",
+    "moduleId": "module-07",
+    "number": 59,
+    "text": {
+      "zh": "Which of the following performance metrics combines both financial and ESG performance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG alpha (excess return attributed to ESG factors)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Portfolio average ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Sharpe ratio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG risk score",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q060",
+    "moduleId": "module-07",
+    "number": 60,
+    "text": {
+      "zh": "What is the primary goal of investor engagement in the context of ESG portfolio management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To sell holdings in companies with poor ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To influence company management to improve ESG practices, thereby enhancing portfolio value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To replace ESG screening with active management",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To reduce the portfolio’s ESG risk by excluding underperforming companies",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q061",
+    "moduleId": "module-07",
+    "number": 61,
+    "text": {
+      "zh": "Which of the following is an example of active investor engagement?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Voting in favor of a shareholder resolution to improve a company’s climate disclosures",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Excluding a company from the portfolio due to poor ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Tracking an ESG index that includes companies with strong ESG ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Calculating the portfolio’s average ESG rating",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q062",
+    "moduleId": "module-07",
+    "number": 62,
+    "text": {
+      "zh": "Which of the following is a key challenge of investor engagement?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It is too costly and time-consuming for most investors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Companies always refuse to engage with investors on ESG issues",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Engagement has no impact on company ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It is only applicable to large institutional investors, not individual investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q063",
+    "moduleId": "module-07",
+    "number": 63,
+    "text": {
+      "zh": "Which of the following best describes stewardship in ESG portfolio management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The process of selecting companies with strong ESG performance for the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The ongoing monitoring and engagement with portfolio companies to ensure they maintain or improve their ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The process of rebalancing the portfolio to maintain target ESG exposures",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "The evaluation of the portfolio’s ESG performance relative to benchmarks",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q064",
+    "moduleId": "module-07",
+    "number": 64,
+    "text": {
+      "zh": "Which of the following ESG portfolio risk metrics measures the portfolio’s exposure to climate-related risks?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Portfolio average ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Carbon intensity (tons of CO2 per unit of revenue)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG alpha",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Sharpe ratio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q065",
+    "moduleId": "module-07",
+    "number": 65,
+    "text": {
+      "zh": "How does ESG integration help manage portfolio risk?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "By eliminating all non-financial risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "By reducing exposure to companies with high ESG risks (e.g., regulatory, reputational, climate risks)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "By increasing exposure to companies with strong ESG performance, regardless of their financial risk",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "By replacing traditional risk management tools with ESG risk metrics",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q066",
+    "moduleId": "module-07",
+    "number": 66,
+    "text": {
+      "zh": "Which of the following is an example of a systemic ESG risk that could impact an entire portfolio?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A single company in the portfolio facing a labor strike",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A regulatory change that imposes carbon taxes on all energy companies",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A company in the portfolio being accused of environmental violations",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A decline in the ESG rating of a single portfolio holding",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q067",
+    "moduleId": "module-07",
+    "number": 67,
+    "text": {
+      "zh": "Which of the following best describes ESG risk aggregation in portfolio management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Calculating the average ESG rating of the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Combining individual company ESG risks to assess the overall ESG risk of the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Excluding companies with high ESG risks from the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Comparing the portfolio’s ESG risk to a benchmark",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q068",
+    "moduleId": "module-07",
+    "number": 68,
+    "text": {
+      "zh": "Which of the following is a key challenge of ESG risk management in portfolios?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG risks are not material to portfolio performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG risks are easy to quantify and manage",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG risks are often interconnected and difficult to isolate",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG risk management requires no specialized expertise",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q069",
+    "moduleId": "module-07",
+    "number": 69,
+    "text": {
+      "zh": "Which of the following ESG portfolio strategies is most likely to use negative screening based on norms-based criteria?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding companies that violate international human rights standards",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Selecting companies with the highest ESG ratings in each industry",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Adjusting portfolio weights based on ESG factor scores",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Engaging with companies to improve their ESG practices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q070",
+    "moduleId": "module-07",
+    "number": 70,
+    "text": {
+      "zh": "Which of the following best describes the difference between ESG integration and impact investing in portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG integration focuses on financial returns, while impact investing focuses solely on ESG impact",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG integration incorporates ESG factors to enhance financial returns, while impact investing seeks both financial returns and measurable ESG impact",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG integration is a passive strategy, while impact investing is an active strategy",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG integration is only for public markets, while impact investing is only for private markets",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q071",
+    "moduleId": "module-07",
+    "number": 71,
+    "text": {
+      "zh": "Which of the following is an example of impact investing in portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investing in a green bond fund that finances renewable energy projects",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Excluding tobacco companies from the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Tracking an ESG index that uses best-in-class screening",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Calculating the portfolio’s carbon intensity",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q072",
+    "moduleId": "module-07",
+    "number": 72,
+    "text": {
+      "zh": "Which of the following is a key consideration when constructing an ESG-integrated portfolio for a client with specific ESG preferences (e.g., avoiding fossil fuels)?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignoring the client’s preferences to maximize financial returns",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Aligning the portfolio’s ESG strategy with the client’s preferences while maintaining risk-adjusted return targets",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Excluding all companies that do not meet the client’s ESG preferences, regardless of diversification",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using only passive ESG strategies to meet the client’s preferences",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q073",
+    "moduleId": "module-07",
+    "number": 73,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG data in portfolio construction and management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It is used to replace financial data in investment decision-making",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It provides insights into non-financial risks and opportunities that financial data may not capture",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It is only used for screening companies, not for valuation or risk management",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It is irrelevant to portfolio performance, as it does not impact financial returns",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q074",
+    "moduleId": "module-07",
+    "number": 74,
+    "text": {
+      "zh": "Which of the following ESG portfolio construction strategies is most likely to result in the highest ESG performance but potentially lower diversification?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Best-in-class screening",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Negative screening (sector exclusion)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG factor investing",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Impact investing",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q075",
+    "moduleId": "module-07",
+    "number": 75,
+    "text": {
+      "zh": "How does the use of ESG ratings from multiple providers impact portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It reduces the reliability of ESG analysis, as ratings may be inconsistent",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It eliminates the need for ESG screening, as multiple providers confirm the same ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It improves the robustness of ESG analysis by cross-verifying ratings and understanding methodological differences",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It increases portfolio risk, as multiple ratings lead to conflicting investment decisions",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q076",
+    "moduleId": "module-07",
+    "number": 76,
+    "text": {
+      "zh": "Which of the following is a key responsibility of portfolio managers in ESG portfolio management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To ensure the portfolio has the highest possible ESG rating, regardless of financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To integrate ESG factors into all aspects of portfolio construction, risk management, and performance evaluation",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To exclude all companies with any ESG risks from the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To rely solely on ESG data providers for investment decisions",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q077",
+    "moduleId": "module-07",
+    "number": 77,
+    "text": {
+      "zh": "Which of the following best describes the impact of ESG integration on portfolio liquidity?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It always reduces liquidity, as ESG portfolios focus on illiquid assets",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It can reduce liquidity if the portfolio focuses on niche ESG themes or small-cap companies, but has no impact on liquid ESG strategies",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It always increases liquidity, as ESG portfolios are more popular with investors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It has no impact on liquidity, as ESG factors do not affect asset liquidity",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q078",
+    "moduleId": "module-07",
+    "number": 78,
+    "text": {
+      "zh": "Which of the following is an example of ESG integration in a multi-asset portfolio?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investing only in equity assets with strong ESG ratings, ignoring fixed-income and alternative assets",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Adjusting the allocation to different asset classes based on their ESG risk profiles (e.g., reducing allocation to high-carbon sectors)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Excluding all fixed-income assets from the portfolio, as they have no ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using the same ESG screening criteria for all asset classes, regardless of their characteristics",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q079",
+    "moduleId": "module-07",
+    "number": 79,
+    "text": {
+      "zh": "Which of the following is a key challenge of ESG integration in multi-asset portfolios?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG data is only available for equity assets",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Different asset classes have different ESG risk profiles and data availability, making integration inconsistent",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Multi-asset portfolios do not need ESG integration, as diversification reduces ESG risk",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG integration is too simple for multi-asset portfolios, leading to over-optimization",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q080",
+    "moduleId": "module-07",
+    "number": 80,
+    "text": {
+      "zh": "Which of the following ESG performance metrics is most useful for comparing ESG portfolios with different asset allocations?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Portfolio average ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG risk-adjusted return (e.g., ESG-adjusted Sharpe ratio)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Number of companies with strong ESG ratings",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q081",
+    "moduleId": "module-07",
+    "number": 81,
+    "text": {
+      "zh": "How does investor engagement impact portfolio performance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It always improves portfolio performance, as companies always improve their ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It can improve long-term portfolio performance by reducing ESG risks and unlocking ESG opportunities for portfolio companies",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It has no impact on portfolio performance, as engagement does not change company behavior",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It reduces portfolio performance, as engagement is costly and time-consuming",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q082",
+    "moduleId": "module-07",
+    "number": 82,
+    "text": {
+      "zh": "Which of the following is a key component of ESG portfolio governance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Selecting the highest ESG-rated companies for the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Establishing clear ESG policies and guidelines for portfolio construction and management",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Calculating the portfolio’s carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Engaging with company management on ESG issues",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q083",
+    "moduleId": "module-07",
+    "number": 83,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG policies in portfolio management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "They are optional and have no impact on portfolio performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "They provide a framework for consistent ESG integration and ensure alignment with investor goals",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "They replace traditional portfolio management policies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "They focus solely on excluding companies with poor ESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q084",
+    "moduleId": "module-07",
+    "number": 84,
+    "text": {
+      "zh": "Which of the following ESG portfolio strategies is most likely to be used by an investor who wants to balance ESG performance with broad market exposure?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Negative screening (sector exclusion)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Best-in-class screening",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG-themed investing",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Impact investing",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q085",
+    "moduleId": "module-07",
+    "number": 85,
+    "text": {
+      "zh": "Which of the following is an example of ESG integration in equity portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investing only in companies with a perfect ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Adjusting the weight of a company in the portfolio based on its ESG score and financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Excluding all companies in the energy sector",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring ESG factors and focusing solely on financial ratios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q086",
+    "moduleId": "module-07",
+    "number": 86,
+    "text": {
+      "zh": "Which of the following best describes the difference between ESG screening and ESG integration?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG screening uses ESG factors to select or exclude companies, while ESG integration incorporates ESG factors into all investment decisions (screening, valuation, risk management)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG screening is an active strategy, while ESG integration is a passive strategy",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG screening focuses on environmental factors, while ESG integration focuses on social and governance factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG screening is used for equity portfolios, while ESG integration is used for fixed-income portfolios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*7.ESG整合的组合构建与管理",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q001",
+    "moduleId": "module-07",
+    "number": 1,
+    "text": {
+      "zh": "Which of the following is a key requirement for ESG reporting under the Task Force on Climate-related Financial Disclosures (TCFD)?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reporting only the portfolio’s carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Disclosing how climate-related risks and opportunities are identified, assessed, and managed",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reporting climate-related information only to regulators, not to clients",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using only qualitative descriptions without quantitative metrics",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q002",
+    "moduleId": "module-07",
+    "number": 2,
+    "text": {
+      "zh": "Which of the following best describes the role of scenario analysis in ESG portfolio analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To predict exact future ESG performance of the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To assess how the portfolio would perform under different ESG-related scenarios (e.g., severe climate regulation, ESG scandal)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To replace traditional financial analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To calculate the portfolio’s average ESG rating",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q003",
+    "moduleId": "module-07",
+    "number": 3,
+    "text": {
+      "zh": "Which of the following is a common client concern about ESG investing that needs to be addressed in communication?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG portfolios will always outperform traditional portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG integration will reduce portfolio diversification",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG data is always accurate and consistent",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG investing is only for institutional investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q004",
+    "moduleId": "module-07",
+    "number": 4,
+    "text": {
+      "zh": "Which of the following is an example of ESG stewardship for a private equity portfolio?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding all private equity funds with any ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Engaging with portfolio company management to implement ESG best practices and improve disclosure",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Focusing only on financial returns, ignoring ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Tracking a public equity ESG index for the private equity portfolio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q005",
+    "moduleId": "module-07",
+    "number": 5,
+    "text": {
+      "zh": "When analyzing a portfolio’s ESG performance, which of the following best describes the purpose of benchmarking?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To determine the exact future ESG performance of the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To compare the portfolio’s ESG performance to a relevant ESG benchmark or peer group",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To replace ESG attribution analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To calculate the portfolio’s carbon intensity",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q006",
+    "moduleId": "module-07",
+    "number": 6,
+    "text": {
+      "zh": "Which of the following is a key challenge in ESG client reporting?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Clients have too much information about ESG metrics",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Aligning ESG reporting with client-specific ESG goals and preferences",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG metrics are too simple to explain to clients",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "There is a single, standardized way to report ESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q007",
+    "moduleId": "module-07",
+    "number": 7,
+    "text": {
+      "zh": "Which of the following best describes the difference between ESG stewardship and shareholder activism?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG stewardship is proactive and collaborative, while shareholder activism is often confrontational and focuses on specific demands",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG stewardship is for retail investors, while shareholder activism is for institutional investors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG stewardship focuses on financial returns, while shareholder activism focuses on ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG stewardship is passive, while shareholder activism is active",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q008",
+    "moduleId": "module-07",
+    "number": 8,
+    "text": {
+      "zh": "Which of the following ESG metrics is most useful for assessing the portfolio’s exposure to social risks related to human rights?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Portfolio-weighted average of supply chain human rights audits",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Board independence ratio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG alpha",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q009",
+    "moduleId": "module-07",
+    "number": 9,
+    "text": {
+      "zh": "Which of the following is a best practice for ESG client communication when the portfolio’s ESG performance is below expectations?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Hiding the underperformance to avoid client dissatisfaction",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Being transparent about the underperformance, explaining the reasons, and outlining actions to improve",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Blaming ESG data providers for the underperformance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Changing the benchmark to make the performance appear better",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q010",
+    "moduleId": "module-07",
+    "number": 10,
+    "text": {
+      "zh": "Which of the following is a key component of ESG portfolio analysis for fixed-income portfolios?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Assessing the credit risk impact of ESG factors on bond issuers",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Calculating the portfolio’s equity ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Focusing only on the bond’s yield, ignoring ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Tracking an equity ESG index",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q011",
+    "moduleId": "module-07",
+    "number": 11,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG stewardship in fiduciary duty?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG stewardship is optional and has no impact on fiduciary duty",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG stewardship is a key part of fiduciary duty, as it helps protect long-term client value by managing ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG stewardship is a separate activity from fiduciary duty",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG stewardship breaches fiduciary duty by focusing on non-financial factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q012",
+    "moduleId": "module-07",
+    "number": 12,
+    "text": {
+      "zh": "Which of the following is an example of a governance factor that impacts ESG stewardship effectiveness?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon emissions from company operations",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Executive compensation tied to ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Supply chain labor practices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Employee turnover rate",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q013",
+    "moduleId": "module-07",
+    "number": 13,
+    "text": {
+      "zh": "When analyzing a portfolio’s ESG performance, which of the following metrics is most useful for assessing the impact of ESG integration on financial returns?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Portfolio average ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG alpha",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Board independence ratio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q014",
+    "moduleId": "module-07",
+    "number": 14,
+    "text": {
+      "zh": "Which of the following is a key requirement for ESG reporting under the EU Taxonomy Regulation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reporting only the portfolio’s ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Disclosing the proportion of the portfolio invested in environmentally sustainable economic activities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reporting ESG information only to institutional clients",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using only qualitative descriptions of ESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q015",
+    "moduleId": "module-07",
+    "number": 15,
+    "text": {
+      "zh": "Which of the following best describes the difference between ESG stewardship for public and private companies?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG stewardship is only relevant for public companies, not private companies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG stewardship for public companies focuses on proxy voting, while for private companies it focuses on direct engagement",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG stewardship for private companies is more passive, while for public companies it is active",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG stewardship for public companies focuses on social factors, while for private companies it focuses on environmental factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q016",
+    "moduleId": "module-07",
+    "number": 16,
+    "text": {
+      "zh": "Which of the following is a common challenge in ESG portfolio analysis for real estate portfolios?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Real estate properties have no ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG data for real estate properties is consistent across data providers",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG metrics for real estate (e.g., energy efficiency) are difficult to compare across properties",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Real estate portfolios do not require ESG analysis",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q017",
+    "moduleId": "module-07",
+    "number": 17,
+    "text": {
+      "zh": "Which of the following best describes client expectation management for ESG investing during market downturns?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Promising clients that ESG portfolios will not lose value during downturns",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Educating clients that ESG portfolios may still experience losses but are more resilient to ESG-related risks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Hiding losses from clients to avoid dissatisfaction",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Telling clients to sell their ESG investments during downturns",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q018",
+    "moduleId": "module-07",
+    "number": 18,
+    "text": {
+      "zh": "Which of the following is an example of collaborative ESG stewardship involving multiple investors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "An investor engaging with a single company to improve its climate disclosures",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A group of investors signing a joint letter to company management requesting improved ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "An investor excluding a company from the portfolio due to poor ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "An investor voting against an ESG-related shareholder resolution",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q019",
+    "moduleId": "module-07",
+    "number": 19,
+    "text": {
+      "zh": "Which of the following ESG metrics is most useful for assessing the portfolio’s exposure to transition climate risk in the energy sector?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Exposure to assets in flood-prone areas",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Portfolio-weighted average carbon intensity (Scope 1 and 2)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Board independence ratio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q020",
+    "moduleId": "module-07",
+    "number": 20,
+    "text": {
+      "zh": "Which of the following is a best practice for ESG client reporting under the UN PRI?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reporting only ESG performance, ignoring financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Disclosing the firm’s ESG stewardship activities and their outcomes",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Using vague language to avoid accountability",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reporting ESG performance only once every two years",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q021",
+    "moduleId": "module-07",
+    "number": 21,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG data in client reporting?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG data is used to replace financial data in client reports",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG data is used to provide clients with transparency on the portfolio’s ESG risks and performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG data is irrelevant to client reports, as clients only care about financial returns",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG data is used only to make the report look more professional",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q022",
+    "moduleId": "module-07",
+    "number": 22,
+    "text": {
+      "zh": "Which of the following is a key challenge in ESG stewardship for institutional investors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Institutional investors have no influence over portfolio companies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Balancing stewardship activities with other investment responsibilities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG stewardship is not required for institutional investors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Institutional investors have no ESG-related fiduciary duties",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q023",
+    "moduleId": "module-07",
+    "number": 23,
+    "text": {
+      "zh": "When analyzing a portfolio’s ESG performance, which of the following best describes the difference between weighted and unweighted average ESG ratings?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Weighted average considers the size of portfolio holdings, while unweighted average treats all holdings equally",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Weighted average is used for equity portfolios, while unweighted average is used for fixed-income portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Weighted average focuses on environmental factors, while unweighted average focuses on governance factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Weighted average is more difficult to calculate than unweighted average",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q024",
+    "moduleId": "module-07",
+    "number": 24,
+    "text": {
+      "zh": "Which of the following is an example of ESG stewardship for a public equity portfolio?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding all public equity companies with ESG ratings below a threshold",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Voting on ESG-related shareholder resolutions and engaging with company management",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Focusing only on the company’s stock price, ignoring ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Tracking a fixed-income ESG index for the equity portfolio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q025",
+    "moduleId": "module-07",
+    "number": 25,
+    "text": {
+      "zh": "Which of the following best describes the role of client feedback in ESG reporting?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Client feedback is irrelevant to ESG reporting, as the report is standardized",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Client feedback helps tailor ESG reports to meet client needs and preferences",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Client feedback is only used to justify poor ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Client feedback is ignored to maintain consistency in reporting",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q026",
+    "moduleId": "module-07",
+    "number": 26,
+    "text": {
+      "zh": "Which of the following is a key component of ESG portfolio analysis for impact investing portfolios?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Assessing the portfolio’s financial return only",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Assessing both financial return and measurable ESG impact (e.g., carbon reduction, job creation)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Focusing only on ESG impact, ignoring financial return",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using the same metrics as traditional ESG portfolios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q027",
+    "moduleId": "module-07",
+    "number": 27,
+    "text": {
+      "zh": "Which of the following best describes the difference between ESG reporting and financial reporting?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG reporting is voluntary, while financial reporting is mandatory",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG reporting focuses on non-financial factors, while financial reporting focuses on financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG reporting is only for institutional clients, while financial reporting is for all clients",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG reporting is standardized, while financial reporting is not",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q028",
+    "moduleId": "module-07",
+    "number": 28,
+    "text": {
+      "zh": "Which of the following is a common challenge in ESG stewardship for retail investors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Retail investors have too much influence over portfolio companies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Retail investors often lack the resources to engage directly with company management",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Retail investors are not allowed to exercise proxy voting rights",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Retail investors have no interest in ESG stewardship",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q029",
+    "moduleId": "module-07",
+    "number": 29,
+    "text": {
+      "zh": "When analyzing a portfolio’s ESG performance, which of the following metrics is most useful for assessing social risk related to community relations?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Portfolio-weighted average of community engagement initiatives",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Board independence ratio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG alpha",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q030",
+    "moduleId": "module-07",
+    "number": 30,
+    "text": {
+      "zh": "Which of the following is a best practice for ESG client communication when introducing a new ESG portfolio strategy?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Hiding the risks of the new strategy to encourage client adoption",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Clearly explaining the strategy’s ESG goals, how it integrates ESG factors, and its potential risks and returns",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Focusing only on the strategy’s ESG benefits, ignoring financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using complex jargon to demonstrate expertise",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q031",
+    "moduleId": "module-07",
+    "number": 31,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG stewardship in reducing portfolio volatility?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG stewardship eliminates all portfolio volatility",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG stewardship reduces volatility by addressing ESG-related risks that can cause price swings",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG stewardship increases volatility by focusing on non-financial factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG stewardship has no impact on portfolio volatility",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q032",
+    "moduleId": "module-07",
+    "number": 32,
+    "text": {
+      "zh": "Which of the following is a key disclosure requirement under the SEC’s ESG Disclosure Rules for investment advisors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Disclosing only the portfolio’s financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Disclosing how ESG factors are integrated into the investment advisory process",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Disclosing ESG information only to institutional clients",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using only qualitative descriptions of ESG practices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q033",
+    "moduleId": "module-07",
+    "number": 33,
+    "text": {
+      "zh": "Which of the following is an example of ESG stewardship that focuses on governance factors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Engaging with a company to reduce its carbon emissions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Voting in favor of a shareholder resolution to increase board diversity",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Engaging with a company to improve its supply chain labor practices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Calculating the portfolio’s carbon intensity",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q034",
+    "moduleId": "module-07",
+    "number": 34,
+    "text": {
+      "zh": "Which of the following best defines fiduciary duty in the context of ESG stewardship?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Prioritizing ESG performance over financial returns to meet client values",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Acting in the best long-term financial interests of clients, considering material ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Excluding all companies with ESG risks to protect client assets",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Delegating all ESG decision-making to third-party stewardship providers",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q035",
+    "moduleId": "module-07",
+    "number": 35,
+    "text": {
+      "zh": "Which of the following is a key component of effective ESG stewardship implementation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Focusing solely on shareholder voting without engaging with company management",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Setting clear ESG stewardship goals aligned with client objectives and portfolio strategy",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring small-cap companies, as they have minimal ESG impact",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using a one-size-fits-all approach for all portfolio companies",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q036",
+    "moduleId": "module-07",
+    "number": 36,
+    "text": {
+      "zh": "When analyzing an ESG portfolio’s performance, which of the following best describes the difference between absolute ESG performance and relative ESG performance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Absolute ESG performance measures against a benchmark, while relative performance measures against a pre-defined target",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Absolute ESG performance measures actual ESG metrics (e.g., carbon intensity), while relative performance compares to a benchmark or peer group",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Absolute ESG performance focuses on governance factors, while relative performance focuses on environmental and social factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Absolute ESG performance is used for equity portfolios, while relative performance is used for fixed-income portfolios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q037",
+    "moduleId": "module-07",
+    "number": 37,
+    "text": {
+      "zh": "Which of the following is a key requirement for ESG client reporting under the UN PRI (Principles for Responsible Investment)?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reporting only financial performance, with a brief mention of ESG activities",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Disclosing how ESG factors are integrated into investment decisions and stewardship activities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Using only qualitative descriptions without quantitative ESG metrics",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reporting ESG performance separately from financial performance, with no connection between the two",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q038",
+    "moduleId": "module-07",
+    "number": 38,
+    "text": {
+      "zh": "Which of the following best describes the role of engagement in ESG stewardship?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Engaging with company management to pressure them to meet arbitrary ESG targets",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Engaging with company management to understand their ESG practices and encourage improvements that align with long-term value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Engaging only with companies that have poor ESG performance, ignoring those with strong ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Engaging with regulators to change ESG disclosure requirements",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q039",
+    "moduleId": "module-07",
+    "number": 39,
+    "text": {
+      "zh": "When analyzing a portfolio’s ESG risk exposure, which of the following metrics is most useful for assessing physical climate risk?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Portfolio-weighted average ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Carbon intensity (Scope 1 and 2 emissions)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Exposure to assets in high-risk climate zones (e.g., flood-prone areas)",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Board independence ratio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q040",
+    "moduleId": "module-07",
+    "number": 40,
+    "text": {
+      "zh": "Which of the following is a common challenge in ESG client communication?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Clients are overly familiar with ESG terminology and require no explanation",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Aligning client ESG expectations with realistic portfolio performance and ESG outcomes",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Clients prioritize ESG performance over all financial returns, making it easy to set goals",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "There is a single, standardized way to measure and communicate ESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q041",
+    "moduleId": "module-07",
+    "number": 41,
+    "text": {
+      "zh": "Which of the following best describes the difference between active and passive stewardship?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Active stewardship involves voting and engagement, while passive stewardship involves only tracking an ESG index",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Active stewardship is for institutional investors, while passive stewardship is for retail investors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Active stewardship focuses on environmental factors, while passive stewardship focuses on governance factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Active stewardship requires higher fees, while passive stewardship is free",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q042",
+    "moduleId": "module-07",
+    "number": 42,
+    "text": {
+      "zh": "When reporting ESG portfolio performance to clients, which of the following is a best practice?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Using only positive ESG metrics to avoid client concerns",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Providing both quantitative metrics and qualitative context to explain ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Comparing the portfolio to an unrelated benchmark to make performance appear stronger",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Avoiding any discussion of ESG risks, focusing only on ESG opportunities",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q043",
+    "moduleId": "module-07",
+    "number": 43,
+    "text": {
+      "zh": "Which of the following is an example of a material ESG factor for a technology company that should be included in portfolio analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon emissions from manufacturing facilities (Scope 1)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Data privacy and cybersecurity practices",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Agricultural supply chain practices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Mining waste management",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q044",
+    "moduleId": "module-07",
+    "number": 44,
+    "text": {
+      "zh": "Which of the following best defines stewardship in the context of ESG investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The process of selecting investments based on ESG ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The process of monitoring and engaging with portfolio companies to improve their ESG practices and long-term value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The process of excluding companies with poor ESG performance from the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "The process of reporting ESG performance to regulators",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q045",
+    "moduleId": "module-07",
+    "number": 45,
+    "text": {
+      "zh": "When analyzing a portfolio’s ESG performance, which of the following metrics is most useful for assessing social risk exposure?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Portfolio-weighted average employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Board independence ratio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG alpha",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q046",
+    "moduleId": "module-07",
+    "number": 46,
+    "text": {
+      "zh": "Which of the following is a key disclosure requirement under the EU Sustainable Finance Disclosure Regulation (SFDR) for investment firms?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Disclosing only the financial performance of ESG portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Disclosing how ESG factors are integrated into the investment decision-making process",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Disclosing ESG performance only to institutional clients, not retail clients",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Disclosing ESG metrics without any context or explanation",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q047",
+    "moduleId": "module-07",
+    "number": 47,
+    "text": {
+      "zh": "Which of the following best describes the role of proxy voting in ESG stewardship?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Proxy voting is a passive activity that has no impact on company ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Proxy voting allows investors to express their views on ESG-related shareholder resolutions and hold management accountable",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Proxy voting is only used for financial matters, not ESG issues",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Proxy voting is reserved for large institutional investors, not retail investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q048",
+    "moduleId": "module-07",
+    "number": 48,
+    "text": {
+      "zh": "When communicating ESG performance to clients, which of the following is important to avoid?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Using clear, non-technical language to explain ESG metrics",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Making exaggerated claims about ESG performance (e.g., \"this portfolio is 100% ESG-friendly\")",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Providing context for ESG metrics (e.g., how they compare to a benchmark)",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Discussing both ESG strengths and weaknesses of the portfolio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q049",
+    "moduleId": "module-07",
+    "number": 49,
+    "text": {
+      "zh": "Which of the following is an example of collaborative stewardship?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "An investor engaging with a single company to improve its ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A group of investors working together to file a shareholder proposal on climate disclosures",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "An investor excluding a company from the portfolio due to poor ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "An investor voting against all ESG-related shareholder resolutions",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q050",
+    "moduleId": "module-07",
+    "number": 50,
+    "text": {
+      "zh": "When analyzing a portfolio’s ESG performance, which of the following best describes the purpose of attribution analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To determine the financial return of the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To identify how much of the portfolio’s ESG performance is due to specific ESG factors or stewardship actions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To compare the portfolio’s ESG performance to a peer group",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To calculate the portfolio’s carbon intensity",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q051",
+    "moduleId": "module-07",
+    "number": 51,
+    "text": {
+      "zh": "Which of the following is a key consideration when setting ESG reporting frequency for clients?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reporting as infrequently as possible to reduce administrative burden",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Aligning reporting frequency with client expectations and the availability of ESG data",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reporting only when ESG performance is positive",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using a fixed annual reporting schedule regardless of client needs",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q052",
+    "moduleId": "module-07",
+    "number": 52,
+    "text": {
+      "zh": "Which of the following best describes the difference between ESG stewardship and ESG integration?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG stewardship focuses on selecting investments, while ESG integration focuses on monitoring investments",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG stewardship is a subset of ESG integration, focusing on post-investment monitoring and engagement",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG integration is a subset of ESG stewardship, focusing on pre-investment screening",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG stewardship is for passive investors, while ESG integration is for active investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q053",
+    "moduleId": "module-07",
+    "number": 53,
+    "text": {
+      "zh": "Which of the following is an example of a governance factor that should be included in portfolio ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon emissions intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Employee diversity and inclusion policies",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Board independence and diversity",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Supply chain labor practices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q054",
+    "moduleId": "module-07",
+    "number": 54,
+    "text": {
+      "zh": "Which of the following is a key challenge in ESG portfolio analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG data is consistent and standardized across all data providers",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG metrics are easy to compare across different asset classes",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG data is often lagging and inconsistent across data providers",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG factors have no impact on portfolio performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q055",
+    "moduleId": "module-07",
+    "number": 55,
+    "text": {
+      "zh": "When reporting ESG performance to clients, which of the following metrics is most useful for demonstrating the impact of stewardship actions?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Portfolio average ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Number of companies engaged with and improvements achieved (e.g., policy changes, emissions reductions)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Carbon intensity of the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG alpha",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q056",
+    "moduleId": "module-07",
+    "number": 56,
+    "text": {
+      "zh": "Which of the following best describes the fiduciary duty of investment managers with respect to ESG factors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investment managers must prioritize ESG factors over financial returns if clients request it",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Investment managers must consider material ESG factors that could impact long-term financial returns",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investment managers are not required to consider ESG factors unless required by law",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Investment managers must exclude all companies with ESG risks to fulfill their fiduciary duty",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q057",
+    "moduleId": "module-07",
+    "number": 57,
+    "text": {
+      "zh": "Which of the following is an example of ESG stewardship for a fixed-income portfolio?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding all bonds issued by companies with poor ESG ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Engaging with bond issuers to improve their ESG practices and disclosure",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Tracking an ESG equity index for the fixed-income portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Focusing only on the financial yield of bonds, ignoring ESG factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q058",
+    "moduleId": "module-07",
+    "number": 58,
+    "text": {
+      "zh": "When analyzing a portfolio’s ESG performance, which of the following is a key difference between scope 1, scope 2, and scope 3 carbon emissions?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Scope 1 emissions are direct emissions from the company, scope 2 are indirect emissions from purchased energy, and scope 3 are other indirect emissions from the value chain",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Scope 1 emissions are from the supply chain, scope 2 are from direct operations, and scope 3 are from purchased energy",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Scope 1 emissions are voluntary to report, scope 2 and 3 are mandatory",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Scope 1 emissions are for equity portfolios, scope 2 and 3 are for fixed-income portfolios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q059",
+    "moduleId": "module-07",
+    "number": 59,
+    "text": {
+      "zh": "Which of the following best describes client expectation management in ESG investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Promising clients that ESG portfolios will always outperform traditional portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Educating clients about the limitations of ESG integration and setting realistic ESG and financial goals",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Hiding ESG risks from clients to avoid concerns",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Telling clients that ESG factors have no impact on financial returns",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q060",
+    "moduleId": "module-07",
+    "number": 60,
+    "text": {
+      "zh": "Which of the following is a key component of ESG stewardship policies for investment firms?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A clear framework for voting on ESG-related shareholder resolutions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A policy to exclude all companies with ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A policy to delegate all stewardship actions to third parties",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A policy to focus only on environmental factors, ignoring social and governance factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q061",
+    "moduleId": "module-07",
+    "number": 61,
+    "text": {
+      "zh": "When analyzing a portfolio’s ESG performance, which of the following metrics is most useful for assessing transition climate risk?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Exposure to assets in flood-prone areas",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Portfolio-weighted carbon intensity (Scope 1 and 2)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Board independence ratio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q062",
+    "moduleId": "module-07",
+    "number": 62,
+    "text": {
+      "zh": "Which of the following is a best practice for ESG client reporting under the Global Reporting Initiative (GRI) standards?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reporting only quantitative ESG metrics without qualitative context",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Aligning reporting with the GRI’s ESG topics that are material to the portfolio and clients",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Using vague language to avoid accountability",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reporting ESG performance only once every two years",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q063",
+    "moduleId": "module-07",
+    "number": 63,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG data in portfolio analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG data is used to replace financial data in portfolio analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG data is used to assess ESG risks and opportunities that could impact portfolio performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG data is irrelevant to portfolio analysis, as it does not impact financial returns",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG data is used only to screen companies, not to monitor performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q064",
+    "moduleId": "module-07",
+    "number": 64,
+    "text": {
+      "zh": "Which of the following is an example of a social factor that should be included in portfolio ESG analysis for a retail company?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon emissions from store operations",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Supply chain labor practices (e.g., fair wages, working conditions)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Board independence",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Executive compensation",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q065",
+    "moduleId": "module-07",
+    "number": 65,
+    "text": {
+      "zh": "Which of the following best describes the difference between direct and indirect engagement in ESG stewardship?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Direct engagement involves communicating directly with company management, while indirect engagement involves working through third parties (e.g., proxy advisors)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Direct engagement is for institutional investors, while indirect engagement is for retail investors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Direct engagement focuses on environmental factors, while indirect engagement focuses on social factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Direct engagement is passive, while indirect engagement is active",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q066",
+    "moduleId": "module-07",
+    "number": 66,
+    "text": {
+      "zh": "When reporting ESG performance to clients, which of the following is important to include to avoid greenwashing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Exaggerated claims about the portfolio’s ESG credentials",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Clear disclosure of ESG limitations (e.g., data gaps, areas for improvement)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Hiding negative ESG metrics",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using jargon to confuse clients about ESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q067",
+    "moduleId": "module-07",
+    "number": 67,
+    "text": {
+      "zh": "Which of the following is a key challenge in ESG stewardship for small and medium-sized enterprises (SMEs)?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "SMEs have no ESG risks, so stewardship is unnecessary",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "SMEs often have limited resources to improve ESG practices and disclose ESG data",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "SMEs are not included in ESG portfolios, so stewardship is irrelevant",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "SMEs have better ESG practices than large companies, so stewardship is not needed",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q068",
+    "moduleId": "module-07",
+    "number": 68,
+    "text": {
+      "zh": "When analyzing a portfolio’s ESG performance, which of the following metrics is most useful for assessing governance risk?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Portfolio-weighted average board independence ratio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG alpha",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q069",
+    "moduleId": "module-07",
+    "number": 69,
+    "text": {
+      "zh": "Which of the following best describes the role of proxy advisors in ESG stewardship?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Proxy advisors make investment decisions on behalf of investors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Proxy advisors provide recommendations on how to vote on shareholder resolutions, including ESG-related ones",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Proxy advisors replace portfolio managers in ESG integration",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Proxy advisors ensure that ESG portfolios outperform traditional portfolios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q070",
+    "moduleId": "module-07",
+    "number": 70,
+    "text": {
+      "zh": "When communicating ESG performance to retail clients, which of the following is a best practice?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Using complex ESG terminology to demonstrate expertise",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Using simple, non-technical language to explain ESG metrics and performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Providing only quantitative metrics without explanation",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Avoiding any discussion of financial returns, focusing only on ESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q071",
+    "moduleId": "module-07",
+    "number": 71,
+    "text": {
+      "zh": "Which of the following is an example of ESG stewardship for a real estate portfolio?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding all commercial real estate properties",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Engaging with property managers to improve energy efficiency and climate resilience",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Focusing only on the rental income of properties, ignoring ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Tracking an equity ESG index for the real estate portfolio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q072",
+    "moduleId": "module-07",
+    "number": 72,
+    "text": {
+      "zh": "Which of the following best describes the difference between material and non-material ESG factors in portfolio analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Material ESG factors are those that impact the portfolio’s short-term returns, while non-material factors impact long-term returns",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Material ESG factors are those that could significantly impact a company’s financial performance or value, while non-material factors have little to no impact",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Material ESG factors are environmental factors, while non-material factors are social and governance factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Material ESG factors are for equity portfolios, while non-material factors are for fixed-income portfolios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q073",
+    "moduleId": "module-07",
+    "number": 73,
+    "text": {
+      "zh": "Which of the following is a key requirement for ESG reporting under the Task Force on Climate-related Financial Disclosures (TCFD)?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reporting only the portfolio’s carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Disclosing how climate-related risks and opportunities are identified, assessed, and managed",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reporting climate-related information only to regulators, not to clients",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using only qualitative descriptions without quantitative metrics",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q074",
+    "moduleId": "module-07",
+    "number": 74,
+    "text": {
+      "zh": "Which of the following best describes the role of scenario analysis in ESG portfolio analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To predict exact future ESG performance of the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To assess how the portfolio would perform under different ESG-related scenarios (e.g., severe climate regulation, ESG scandal)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To replace traditional financial analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To calculate the portfolio’s average ESG rating",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m07-q075",
+    "moduleId": "module-07",
+    "number": 75,
+    "text": {
+      "zh": "Which of the following is a common client concern about ESG investing that needs to be addressed in communication?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG portfolios will always outperform traditional portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG integration will reduce portfolio diversification",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG data is always accurate and consistent",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG investing is only for institutional investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*8.投资委托，组合分析与客户报告",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  }
+]

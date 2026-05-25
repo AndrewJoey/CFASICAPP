@@ -1,0 +1,19 @@
+{
+  "id": "cfa-sic",
+  "version": "7.0.0",
+  "title": {
+    "zh": "CFA-SIC 可持续投资证书备考",
+    "en": "CFA-SIC Exam Preparation"
+  },
+  "description": {
+    "zh": "CFA Institute 可持续投资证书（原 ESG Investing Certificate）备考学习工具",
+    "en": "CFA Institute Certificate in Sustainable Investing & Climate Exam Prep"
+  },
+  "totalModules": 7,
+  "totalQuestions": 637,
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lastUpdated": "2025-05-25"
+}
