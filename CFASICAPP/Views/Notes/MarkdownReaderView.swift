@@ -39,29 +39,26 @@ extension Theme {
         .heading1 { config in
             config.label
                 .markdownMargin(top: 16, bottom: 12)
-                .markdownFontSize(24)
-                .fontWeight(.bold)
+                .font(.system(size: 24, weight: .bold))
         }
         .heading2 { config in
             config.label
                 .markdownMargin(top: 14, bottom: 8)
-                .markdownFontSize(20)
-                .fontWeight(.semibold)
+                .font(.system(size: 20, weight: .semibold))
         }
         .heading3 { config in
             config.label
                 .markdownMargin(top: 12, bottom: 6)
-                .markdownFontSize(17)
-                .fontWeight(.semibold)
+                .font(.system(size: 17, weight: .semibold))
         }
         .code {
-            FontFamily(.monospaced)
+            FontFamily(.system(.monospaced))
             FontSize(14)
             BackgroundColor(Color(.systemGray6))
         }
         .blockquote { config in
             config.label
-                .markdownPadding(12)
+                .padding(12)
                 .markdownMargin(top: 8, bottom: 8)
                 .background(Color(.systemBlue).opacity(0.08))
                 .cornerRadius(8)

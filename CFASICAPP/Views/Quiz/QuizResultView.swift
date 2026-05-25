@@ -2,6 +2,17 @@ import SwiftUI
 
 struct QuizResultView: View {
     let viewModel: StudyViewModel
+    let onDismiss: () -> Void
+    let onRetry: () -> Void
+
+    @State private var showReviewSheet = false
+    @State private var reviewInitialIndex = 0
+
+    private var wrongQuestions: [(index: Int, question: Question)] {
+        viewModel.questions.enumerated().filter { index, _ in
+            index < viewModel.sessionResults.count && !viewModel.sessionResults[index].correct
+        }.map { (index: $0.offset, question: $0.element) }
+    }
 
     private var emoji: String {
         let acc = viewModel.accuracy
@@ -32,19 +43,21 @@ struct QuizResultView: View {
             .background(Color(.systemGray6))
             .cornerRadius(16)
 
-            // Per-module breakdown
-            if !viewModel.sessionResults.isEmpty {
-                let wrongQuestions = viewModel.questions.enumerated().filter { index, _ in
-                    index < viewModel.sessionResults.count && !viewModel.sessionResults[index].correct
-                }
+            // Wrong questions list
+            if !wrongQuestions.isEmpty {
+                VStack(alignment: .leading, spacing: 8) {
+                    Text("错题回顾")
+                        .font(.headline)
+                        .frame(maxWidth: .infinity, alignment: .leading)
 
-                if !wrongQuestions.isEmpty {
-                    VStack(alignment: .leading, spacing: 8) {
-                        Text("错题回顾")
-                            .font(.headline)
-                            .frame(maxWidth: .infinity, alignment: .leading)
-
-                        ForEach(wrongQuestions, id: \.offset) { index, question in
+                    ForEach(Array(wrongQuestions.enumerated()), id: \.element.index) { _, item in
+                        let (index, question) = item
+                        Button {
+                            if let reviewIdx = viewModel.wrongQuestionDetails.firstIndex(where: { $0.question.id == question.id }) {
+                                reviewInitialIndex = reviewIdx
+                                showReviewSheet = true
+                            }
+                        } label: {
                             HStack(alignment: .top) {
                                 Text("Q\(question.number)")
                                     .font(.caption)
@@ -53,20 +66,58 @@ struct QuizResultView: View {
                                 Text(question.text.display)
                                     .font(.subheadline)
                                     .lineLimit(2)
+                                Spacer()
+                                Image(systemName: "chevron.right")
+                                    .font(.caption)
+                                    .foregroundStyle(.tertiary)
                             }
                         }
+                        .buttonStyle(.plain)
                     }
-                    .padding()
-                    .background(Color(.systemGray6))
-                    .cornerRadius(12)
-                    .alignmentHorizontal(.leading)
                 }
+                .padding()
+                .background(Color(.systemGray6))
+                .cornerRadius(12)
             }
 
-            Spacer()
+            // Action buttons
+            VStack(spacing: 12) {
+                if !viewModel.wrongQuestionDetails.isEmpty {
+                    Button {
+                        reviewInitialIndex = 0
+                        showReviewSheet = true
+                    } label: {
+                        Label("回顾错题 (\(viewModel.wrongQuestionDetails.count)题)", systemImage: "arrow.trianglehead.counterclockwise")
+                            .frame(maxWidth: .infinity)
+                    }
+                    .buttonStyle(.bordered)
+                }
+
+                Button {
+                    onRetry()
+                } label: {
+                    Label("再来一次", systemImage: "arrow.clockwise")
+                        .frame(maxWidth: .infinity)
+                }
+                .buttonStyle(.borderedProminent)
+
+                Button {
+                    onDismiss()
+                } label: {
+                    Label("返回首页", systemImage: "house.fill")
+                        .frame(maxWidth: .infinity)
+                }
+                .buttonStyle(.bordered)
+            }
         }
         .padding()
         .navigationBarBackButtonHidden()
+        .sheet(isPresented: $showReviewSheet) {
+            WrongQuestionReviewView(
+                wrongQuestions: viewModel.wrongQuestionDetails,
+                initialIndex: reviewInitialIndex
+            )
+        }
     }
 }
 

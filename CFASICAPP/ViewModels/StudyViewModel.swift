@@ -13,8 +13,12 @@ final class StudyViewModel {
     var currentIndex: Int = 0
     var selectedAnswer: String? = nil
     var isAnswered: Bool = false
-    var sessionResults: [(questionId: String, correct: Bool)] = []
+    var sessionResults: [(questionId: String, correct: Bool, selectedAnswer: String)] = []
     var isFinished: Bool = false
+
+    var sessionModuleId: String?
+    var sessionMode: QuizMode?
+    var sessionQuestionCount: Int?
 
     var currentQuestion: Question? {
         guard currentIndex < questions.count else { return nil }
@@ -35,6 +39,13 @@ final class StudyViewModel {
         return Double(correctCount) / Double(sessionResults.count)
     }
 
+    var wrongQuestionDetails: [(question: Question, selectedAnswer: String)] {
+        questions.enumerated().compactMap { index, question in
+            guard index < sessionResults.count, !sessionResults[index].correct else { return nil }
+            return (question: question, selectedAnswer: sessionResults[index].selectedAnswer)
+        }
+    }
+
     func startSession(moduleId: String?, mode: QuizMode, questionCount: Int? = nil, modelContext: ModelContext) {
         var pool: [Question]
 
@@ -51,6 +62,10 @@ final class StudyViewModel {
             pool = Array(pool.prefix(count))
         }
 
+        self.sessionModuleId = moduleId
+        self.sessionMode = mode
+        self.sessionQuestionCount = questionCount
+
         questions = pool
         currentIndex = 0
         selectedAnswer = nil
@@ -59,13 +74,23 @@ final class StudyViewModel {
         isFinished = false
     }
 
+    func retrySameSession(modelContext: ModelContext) {
+        guard let mode = sessionMode else { return }
+        startSession(
+            moduleId: sessionModuleId,
+            mode: mode,
+            questionCount: sessionQuestionCount,
+            modelContext: modelContext
+        )
+    }
+
     func submitAnswer(_ answer: String, modelContext: ModelContext) {
         guard let question = currentQuestion else { return }
         isAnswered = true
         selectedAnswer = answer
 
         let correct = answer == question.correctAnswer
-        sessionResults.append((questionId: question.id, correct: correct))
+        sessionResults.append((questionId: question.id, correct: correct, selectedAnswer: answer))
 
         if !correct {
             saveWrongAnswer(question: question, selectedAnswer: answer, modelContext: modelContext)

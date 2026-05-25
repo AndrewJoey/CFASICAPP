@@ -4,8 +4,6 @@ import Foundation
 final class DataLoader {
     static let shared = DataLoader()
 
-    private let contentRoot = "Content"
-
     var modules: [ModuleInfo] = []
     var glossary: [GlossaryTerm] = []
     private var questionsCache: [String: [Question]] = [:]
@@ -18,7 +16,7 @@ final class DataLoader {
     // MARK: - Modules
 
     private func loadModules() {
-        guard let url = Bundle.main.url(forResource: "modules", withExtension: "json", subdirectory: contentRoot),
+        guard let url = Bundle.main.url(forResource: "modules", withExtension: "json"),
               let data = try? Data(contentsOf: url) else {
             print("Error: Could not load modules.json")
             return
@@ -27,7 +25,7 @@ final class DataLoader {
     }
 
     private func loadGlossary() {
-        guard let url = Bundle.main.url(forResource: "glossary", withExtension: "json", subdirectory: contentRoot),
+        guard let url = Bundle.main.url(forResource: "glossary", withExtension: "json"),
               let data = try? Data(contentsOf: url) else {
             print("Error: Could not load glossary.json")
             return
@@ -44,11 +42,11 @@ final class DataLoader {
         guard let module = modules.first(where: { $0.id == moduleId }) else { return [] }
 
         let path = module.questionsFile
-        let filename = (path as NSString).deletingPathExtension
-        let ext = (path as NSString).pathExtension
-        let subdirectory = "\(contentRoot)/\(filename.deletingLastPathComponent)"
+        let pathURL = URL(fileURLWithPath: path)
+        let resourceName = pathURL.deletingPathExtension().lastPathComponent
+        let ext = pathURL.pathExtension
 
-        guard let url = Bundle.main.url(forResource: filename.lastPathComponent, withExtension: ext, subdirectory: subdirectory),
+        guard let url = Bundle.main.url(forResource: resourceName, withExtension: ext),
               let data = try? Data(contentsOf: url) else {
             return []
         }
@@ -65,11 +63,11 @@ final class DataLoader {
     // MARK: - Notes / Content
 
     func loadMarkdown(relativePath: String) -> String? {
-        let filename = (relativePath as NSString).deletingPathExtension
-        let ext = (relativePath as NSString).pathExtension
-        let subdirectory = "\(contentRoot)/\(filename.deletingLastPathComponent)"
+        let pathURL = URL(fileURLWithPath: relativePath)
+        let resourceName = pathURL.deletingPathExtension().lastPathComponent
+        let ext = pathURL.pathExtension
 
-        guard let url = Bundle.main.url(forResource: filename.lastPathComponent, withExtension: ext, subdirectory: subdirectory) else {
+        guard let url = Bundle.main.url(forResource: resourceName, withExtension: ext) else {
             return nil
         }
         return try? String(contentsOf: url, encoding: .utf8)
@@ -88,16 +86,5 @@ final class DataLoader {
                 .sorted { $0.key < $1.key }
         }
         return [("", sorted)]
-    }
-}
-
-// MARK: - String path helpers
-
-private extension String {
-    var lastPathComponent: String {
-        (self as NSString).lastPathComponent
-    }
-    var deletingLastPathComponent: String {
-        (self as NSString).deletingLastPathComponent
     }
 }

@@ -18,7 +18,7 @@
         },
         "icon": "book.fill",
         "files": {
-          "zh": "content/module-01/notes.zh.md"
+          "zh": "content/module-01/module-01.zh.md"
         }
       }
     ]
@@ -42,7 +42,7 @@
         },
         "icon": "book.fill",
         "files": {
-          "zh": "content/module-02/notes.zh.md"
+          "zh": "content/module-02/module-02.zh.md"
         }
       }
     ]
@@ -66,7 +66,7 @@
         },
         "icon": "book.fill",
         "files": {
-          "zh": "content/module-03/notes.zh.md"
+          "zh": "content/module-03/module-03.zh.md"
         }
       }
     ]
@@ -90,7 +90,7 @@
         },
         "icon": "book.fill",
         "files": {
-          "zh": "content/module-04/notes.zh.md"
+          "zh": "content/module-04/module-04.zh.md"
         }
       }
     ]
@@ -114,7 +114,7 @@
         },
         "icon": "book.fill",
         "files": {
-          "zh": "content/module-05/notes.zh.md"
+          "zh": "content/module-05/module-05.zh.md"
         }
       }
     ]
@@ -138,7 +138,7 @@
         },
         "icon": "book.fill",
         "files": {
-          "zh": "content/module-06/notes.zh.md"
+          "zh": "content/module-06/module-06.zh.md"
         }
       }
     ]
@@ -162,7 +162,7 @@
         },
         "icon": "book.fill",
         "files": {
-          "zh": "content/module-07/notes.zh.md"
+          "zh": "content/module-07/module-07.zh.md"
         }
       }
     ]

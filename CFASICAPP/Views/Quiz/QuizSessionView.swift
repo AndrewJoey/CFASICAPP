@@ -2,14 +2,18 @@ import SwiftUI
 import SwiftData
 
 struct QuizSessionView: View {
+    @Environment(\.dismiss) private var dismiss
     @Bindable var viewModel: StudyViewModel
     @Environment(\.modelContext) private var modelContext
-    @State private var showResult = false
 
     var body: some View {
         Group {
             if viewModel.isFinished {
-                QuizResultView(viewModel: viewModel)
+                QuizResultView(
+                    viewModel: viewModel,
+                    onDismiss: { dismiss() },
+                    onRetry: { viewModel.retrySameSession(modelContext: modelContext) }
+                )
             } else if let question = viewModel.currentQuestion {
                 questionView(question)
             }

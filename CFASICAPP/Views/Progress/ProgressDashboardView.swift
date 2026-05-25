@@ -85,9 +85,7 @@ struct ProgressDashboardView: View {
             .chartYScale(domain: 0...1)
             .chartYAxis {
                 AxisMarks(position: .leading, values: [0, 0.25, 0.5, 0.75, 1.0]) {
-                    AxisValueLabel {
-                        Text("\($0)")
-                    }
+                    AxisValueLabel()
                 }
             }
             .frame(height: 200)

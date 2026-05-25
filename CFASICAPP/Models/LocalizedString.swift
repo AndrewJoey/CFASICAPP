@@ -1,6 +1,6 @@
 import Foundation
 
-struct LocalizedString: Codable, ExpressibleByStringLiteral, Equatable {
+struct LocalizedString: Codable, ExpressibleByStringLiteral, Equatable, Hashable {
     let zh: String
     let en: String?
 
