@@ -1,0 +1,4152 @@
+[
+  {
+    "id": "m03-q001",
+    "moduleId": "module-03",
+    "number": 1,
+    "text": {
+      "zh": "Which of the following is the core focus of the Social (S) dimension in the ESG framework?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Corporate carbon emission reduction",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Corporate treatment of employees, communities and stakeholders",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Corporate board independence",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Corporate waste disposal",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The Social (S) dimension of ESG mainly focuses on how enterprises treat employees, communities, customers, suppliers and other stakeholders, and the impact of their operations on society. A and D belong to the Environmental (E) dimension, and C belongs to the Governance (G) dimension.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q002",
+    "moduleId": "module-03",
+    "number": 2,
+    "text": {
+      "zh": "Which of the following is NOT a key indicator of the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Customer satisfaction",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Carbon emission intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Community contribution",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Carbon emission intensity is a core indicator of the Environmental (E) dimension, reflecting the efficiency of corporate carbon emission reduction. A, B, and D are all key indicators of the Social (S) dimension, involving employee management, customer management and community responsibility.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q003",
+    "moduleId": "module-03",
+    "number": 3,
+    "text": {
+      "zh": "What does \"employee welfare\" in the Social (S) dimension mainly refer to?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The salary paid by the enterprise to employees",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A series of benefits provided by the enterprise to employees in addition to wages, including insurance, leave and subsidies",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The training opportunities provided by the enterprise to employees",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "The promotion mechanism of the enterprise",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Employee welfare refers to the non-wage benefits provided by enterprises to employees to improve their quality of life and work satisfaction, including social insurance, supplementary commercial insurance, paid leave, transportation subsidies, etc. A is employee salary, C and D are part of employee development, not the core of welfare.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q004",
+    "moduleId": "module-03",
+    "number": 4,
+    "text": {
+      "zh": "Which of the following belongs to the content of employee rights protection in the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprises force employees to work overtime without compensation",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Enterprises sign labor contracts with employees in accordance with the law",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Enterprises refuse to pay employees' social insurance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enterprises discriminate against employees in terms of salary",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Signing labor contracts in accordance with the law is an important part of protecting employees' legitimate rights and interests, which can clarify the rights and obligations of both parties. A, C, and D are all acts that violate employees' rights and interests and do not conform to the requirements of the Social (S) dimension.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q005",
+    "moduleId": "module-03",
+    "number": 5,
+    "text": {
+      "zh": "What is the main purpose of corporate employee training?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reduce employee salaries",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Improve employees' professional skills and comprehensive quality to promote enterprise development",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increase employee workload",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Replace old employees with new ones",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The core purpose of employee training is to improve employees' professional skills, professional quality and adaptability, so as to better meet the needs of enterprise development and achieve win-win results between employees and enterprises. A, C, and D are not the purpose of employee training.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q006",
+    "moduleId": "module-03",
+    "number": 6,
+    "text": {
+      "zh": "Which of the following is an example of workplace discrimination?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprises recruit employees based on professional ability",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Enterprises refuse to recruit female employees on the ground of \"unsuitable for the post\"",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Enterprises provide the same salary for employees with the same ability and position",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enterprises arrange posts according to employees' strengths",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Workplace discrimination refers to the unfair treatment of employees in recruitment, salary, promotion and other aspects due to factors such as gender, age, race and disability that are not related to work ability. B is gender discrimination, which belongs to workplace discrimination. A, C, and D are fair employment practices.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q007",
+    "moduleId": "module-03",
+    "number": 7,
+    "text": {
+      "zh": "What is the meaning of \"equal pay for equal work\" in the workplace?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "All employees in the enterprise get the same salary",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Employees with the same position, same working ability and same work performance get the same salary",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employees get salary according to their working hours regardless of their ability",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Employees get salary according to their seniority regardless of their work performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*\"Equal pay for equal work\" means that in the same enterprise, employees who are engaged in the same work, have the same work ability and achieve the same work performance should receive the same or similar labor remuneration, which reflects the fairness of the workplace. A, C, and D are not the correct understanding of \"equal pay for equal work\".",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q008",
+    "moduleId": "module-03",
+    "number": 8,
+    "text": {
+      "zh": "Which of the following is a measure for enterprises to improve employee satisfaction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reducing employee rest time",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Providing a safe and comfortable working environment",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increasing employee workload without increasing salary",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring employees' opinions and suggestions",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Providing a safe, comfortable and harmonious working environment can effectively improve employees' work experience and satisfaction. A, C, and D will reduce employee satisfaction and even cause employee turnover.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q009",
+    "moduleId": "module-03",
+    "number": 9,
+    "text": {
+      "zh": "What is the impact of high employee turnover rate on enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reducing enterprise recruitment costs",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Improving enterprise work efficiency",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increasing enterprise training costs and affecting team stability",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Promoting enterprise innovation",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*High employee turnover rate means that enterprises need to continuously recruit and train new employees, which will increase recruitment and training costs, and at the same time affect the stability of the team and the continuity of work. A, B, and D are opposite to the actual impact of high turnover rate.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q010",
+    "moduleId": "module-03",
+    "number": 10,
+    "text": {
+      "zh": "Which of the following is a key indicator of employee health and safety management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Employee salary level",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Number of workplace safety training sessions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employee promotion opportunities",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Employee annual leave days",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The number of workplace safety training sessions is an important indicator of employee health and safety management, which reflects the enterprise's attention to employee safety and the effectiveness of safety education. A, C, and D are not directly related to health and safety management.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q011",
+    "moduleId": "module-03",
+    "number": 11,
+    "text": {
+      "zh": "What is the core requirement of enterprise occupational health and safety management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ensure that employees do not have any work-related injuries",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Identify and eliminate workplace safety hazards to protect employees' physical and mental health",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reduce safety management costs",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Comply with safety regulations only on the surface",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The core requirement of occupational health and safety management is to identify, assess and eliminate potential safety hazards in the workplace, formulate safety management systems and emergency plans, and protect employees' physical and mental health and personal safety. A is an ideal state, not a core requirement; C and D do not conform to the concept of safety management.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q012",
+    "moduleId": "module-03",
+    "number": 12,
+    "text": {
+      "zh": "Which of the following is a common workplace safety hazard?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Regular safety training for employees",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Unsafe operation of equipment and unqualified protective equipment",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Clean and tidy working environment",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Standardized operation procedures",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Workplace safety hazards refer to factors that may cause work-related injuries or occupational diseases, such as unsafe equipment operation, unqualified protective equipment, and hidden dangers in the working environment. A, C, and D are measures to prevent safety hazards, not hazards themselves.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q013",
+    "moduleId": "module-03",
+    "number": 13,
+    "text": {
+      "zh": "Which of the following is an example of corporate social responsibility (CSR) in the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprises pursue maximum profits regardless of social impact",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Enterprises donate to public welfare causes and support community development",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Enterprises discharge pollutants without treatment",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enterprises default on employees' salaries",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Corporate social responsibility (CSR) refers to the responsibility that enterprises should bear to society while pursuing economic benefits, including public welfare donations, community support, environmental protection, etc. B is a typical CSR behavior. A, C, and D are behaviors that violate social responsibility.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q014",
+    "moduleId": "module-03",
+    "number": 14,
+    "text": {
+      "zh": "What is the relationship between corporate social responsibility (CSR) and the Social (S) dimension of ESG?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "CSR and the S dimension are irrelevant",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The S dimension of ESG is an important part of CSR",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "CSR is an important part of the S dimension of ESG",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "CSR and the S dimension are completely the same",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The Social (S) dimension of ESG focuses on the social impact of enterprises, while corporate social responsibility (CSR) is a broader concept that includes environmental, social and governance responsibilities. CSR is an important part of the S dimension, and the S dimension is one of the core components of ESG.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q015",
+    "moduleId": "module-03",
+    "number": 15,
+    "text": {
+      "zh": "Which of the following is a measure for enterprises to fulfill community responsibility?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Occupy community public resources without compensation",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Provide employment opportunities for community residents",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Pollute the community environment",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignore the demands of community residents",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Fulfilling community responsibility means that enterprises actively participate in community construction, provide employment opportunities, support community public welfare undertakings, and maintain community harmony. B is a positive measure to fulfill community responsibility. A, C, and D are behaviors that damage community interests.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q016",
+    "moduleId": "module-03",
+    "number": 16,
+    "text": {
+      "zh": "What is the impact of enterprises fulfilling social responsibility on their own development?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reducing enterprise profits",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Improving enterprise brand image and enhancing stakeholder trust",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increasing enterprise operating costs and reducing competitiveness",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Attracting negative public attention",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Fulfilling social responsibility can help enterprises establish a good brand image, win the trust of consumers, investors and other stakeholders, and enhance long-term competitiveness. A, C, and D are one-sided understandings; although fulfilling social responsibility may increase short-term costs, it can bring long-term benefits.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q017",
+    "moduleId": "module-03",
+    "number": 17,
+    "text": {
+      "zh": "Which of the following is a key indicator of customer relationship management in the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Corporate carbon emissions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Customer complaint handling rate",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Board diversity",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Customer complaint handling rate is an important indicator of customer relationship management, reflecting the enterprise's attention to customer needs and the efficiency of solving customer problems. A belongs to the E dimension, C belongs to the S dimension (employee management), and D belongs to the G dimension.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q018",
+    "moduleId": "module-03",
+    "number": 18,
+    "text": {
+      "zh": "What is the core purpose of corporate customer relationship management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Maximize sales volume regardless of customer interests",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Maintain long-term customer relationships and improve customer loyalty",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reduce customer service costs",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignore customer feedback",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The core purpose of customer relationship management is to understand customer needs, provide high-quality products and services, solve customer problems in a timely manner, maintain long-term cooperative relationships with customers, and improve customer loyalty and satisfaction. A, C, and D are not the core purpose.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q019",
+    "moduleId": "module-03",
+    "number": 19,
+    "text": {
+      "zh": "Which of the following is an act that damages customer interests?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Providing true product information to customers",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Selling counterfeit and shoddy products to customers",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Providing after-sales service in accordance with the agreement",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Respecting customer privacy",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Selling counterfeit and shoddy products will damage the interests of customers (such as economic losses, personal safety risks) and violate the requirements of the Social (S) dimension. A, C, and D are acts that protect customer interests.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q020",
+    "moduleId": "module-03",
+    "number": 20,
+    "text": {
+      "zh": "What is the meaning of \"customer privacy protection\" for enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Collect customer information at will",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Disclose customer personal information to third parties without authorization",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Protect customer personal information from being leaked or misused",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignore customer requirements for privacy protection",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Customer privacy protection means that enterprises should standardize the collection, storage and use of customer personal information, and prevent customer information from being leaked, misused or sold to protect customer legitimate rights and interests. A, B, and D are acts that violate customer privacy protection.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q021",
+    "moduleId": "module-03",
+    "number": 21,
+    "text": {
+      "zh": "Which of the following is a measure for enterprises to protect customer privacy?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Collecting customer information beyond the scope of business needs",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Encrypting customer information and establishing a secure storage system",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Selling customer information to third parties for profit",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Disclosing customer information in public occasions",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Encrypting customer information and establishing a secure storage system can effectively prevent customer information from being leaked, which is an important measure to protect customer privacy. A, C, and D are acts that damage customer privacy.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q022",
+    "moduleId": "module-03",
+    "number": 22,
+    "text": {
+      "zh": "Which of the following is a key indicator of supplier management in the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Supplier's carbon emission level",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Supplier's compliance with labor standards",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Supplier's product price",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Supplier's delivery speed",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*In the Social (S) dimension, supplier management mainly focuses on whether suppliers comply with labor standards (such as no child labor, no forced labor), environmental protection requirements and ethical norms. A belongs to the E dimension, C and D are operational indicators of suppliers, not social indicators.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q023",
+    "moduleId": "module-03",
+    "number": 23,
+    "text": {
+      "zh": "What is the core requirement of corporate supplier social responsibility management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Choose suppliers with the lowest price regardless of their social responsibility performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Supervise suppliers to comply with labor, environmental and ethical standards",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignore the social responsibility performance of suppliers",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Force suppliers to reduce costs at the expense of social responsibility",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The core requirement of supplier social responsibility management is to establish a supplier evaluation system that includes social responsibility indicators, supervise suppliers to comply with relevant labor standards, environmental regulations and ethical norms, and promote the whole supply chain to fulfill social responsibility. A, C, and D do not conform to the requirement.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q024",
+    "moduleId": "module-03",
+    "number": 24,
+    "text": {
+      "zh": "Which of the following is an unethical behavior of suppliers that enterprises should avoid?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Suppliers provide high-quality products in accordance with the agreement",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Suppliers use child labor in production",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Suppliers comply with environmental protection regulations",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Suppliers pay employees in accordance with the law",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Using child labor is an unethical behavior that violates labor standards and social morality, and enterprises should avoid cooperating with such suppliers. A, C, and D are ethical behaviors of suppliers.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q025",
+    "moduleId": "module-03",
+    "number": 25,
+    "text": {
+      "zh": "What is the impact of poor supplier social responsibility performance on enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Improving enterprise brand image",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Reducing enterprise legal risks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Bringing reputation risks and legal liabilities to enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enhancing enterprise competitiveness",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*If the supplier's social responsibility performance is poor (such as using child labor, polluting the environment), it will be associated with the enterprise, leading to the enterprise's reputation damage, and even legal liabilities if it violates relevant regulations. A, B, and D are opposite to the actual impact.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q026",
+    "moduleId": "module-03",
+    "number": 26,
+    "text": {
+      "zh": "Which of the following is a measure for enterprises to manage supplier social responsibility?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Signing a social responsibility agreement with suppliers",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Ignoring the social responsibility behavior of suppliers",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Choosing suppliers only based on product quality",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reducing the supervision of suppliers",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Signing a social responsibility agreement with suppliers can clarify the social responsibility requirements that suppliers need to meet, and is an effective measure to manage supplier social responsibility. B, C, and D are not effective management measures.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q027",
+    "moduleId": "module-03",
+    "number": 27,
+    "text": {
+      "zh": "What does \"human rights protection\" in the Social (S) dimension of ESG refer to?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Only protecting the rights of enterprise employees",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Protecting the basic human rights of all stakeholders related to the enterprise, including employees, suppliers, customers and communities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring the human rights of vulnerable groups",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Only protecting the rights of enterprise investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Human rights protection in the ESG Social (S) dimension is a broad concept, which requires enterprises to respect and protect the basic human rights of all stakeholders, including the right to work, the right to safety, the right to privacy, etc. A, C, and D are one-sided understandings.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q028",
+    "moduleId": "module-03",
+    "number": 28,
+    "text": {
+      "zh": "Which of the following is an act that violates human rights in enterprise operations?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Providing equal employment opportunities for all employees",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Forcing employees to work overtime for a long time without rest",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Respecting the religious beliefs of employees",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Protecting the personal safety of employees",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Forcing employees to work overtime for a long time without rest violates the employees' right to rest and is an act that violates human rights. A, C, and D are acts that respect and protect human rights.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q029",
+    "moduleId": "module-03",
+    "number": 29,
+    "text": {
+      "zh": "Which of the following enterprises is most likely to face human rights risks?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Software development enterprise",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Textile enterprise that outsources production to areas with weak labor supervision",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Financial consulting enterprise",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Online retail enterprise",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Textile enterprises that outsource production to areas with weak labor supervision may face risks such as child labor, forced labor and low wages in the outsourcing factory, which are typical human rights risks. A, C, and D have relatively low human rights risks.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q030",
+    "moduleId": "module-03",
+    "number": 30,
+    "text": {
+      "zh": "What is the measure for enterprises to avoid human rights risks?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Establishing a human rights management system and conducting regular human rights audits",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Ignoring the human rights status of the supply chain",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Pursuing profits at the expense of human rights",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reducing investment in human rights protection",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Establishing a human rights management system, formulating human rights policies, and conducting regular human rights audits on the enterprise itself and the supply chain can effectively identify and avoid human rights risks. B, C, and D will increase human rights risks.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q031",
+    "moduleId": "module-03",
+    "number": 31,
+    "text": {
+      "zh": "Which of the following is a key indicator of community impact assessment in the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprise's water consumption",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Community residents' satisfaction with the enterprise",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Enterprise's board structure",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enterprise's product sales volume",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Community residents' satisfaction with the enterprise is an important indicator of community impact assessment, reflecting the positive or negative impact of the enterprise's operations on the community. A belongs to the E dimension, C belongs to the G dimension, and D is an economic indicator.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q032",
+    "moduleId": "module-03",
+    "number": 32,
+    "text": {
+      "zh": "What is the purpose of enterprise community impact assessment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignore the impact of the enterprise on the community",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Identify the positive and negative impacts of the enterprise on the community and formulate improvement measures",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reduce the enterprise's investment in the community",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Avoid communicating with the community",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The purpose of community impact assessment is to systematically evaluate the positive (such as providing employment, supporting public welfare) and negative (such as environmental pollution, noise interference) impacts of the enterprise's operations on the community, and formulate corresponding measures to strengthen positive impacts and reduce negative impacts. A, C, and D are not the purpose.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q033",
+    "moduleId": "module-03",
+    "number": 33,
+    "text": {
+      "zh": "Which of the following is a positive impact of enterprises on the community?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Polluting the community's air and water",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Providing employment opportunities for community residents and promoting local economic development",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Occupying community public space",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Causing noise pollution to the community",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Providing employment opportunities for community residents, supporting community public welfare undertakings, and promoting local economic development are all positive impacts of enterprises on the community. A, C, and D are negative impacts.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q034",
+    "moduleId": "module-03",
+    "number": 34,
+    "text": {
+      "zh": "How can enterprises reduce the negative impact on the community?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Strengthen environmental protection measures to reduce pollution",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Ignore the community's demands for environmental protection",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Expand production scale regardless of community impact",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reduce communication with community residents",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Strengthening environmental protection measures, reducing air, water and noise pollution, and standardizing production operations can effectively reduce the negative impact of enterprises on the community. B, C, and D will increase the negative impact.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q035",
+    "moduleId": "module-03",
+    "number": 35,
+    "text": {
+      "zh": "Which of the following is a measure for enterprises to communicate with the community?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Refusing to hold community communication meetings",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Establishing a community communication mechanism to listen to residents' opinions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Hiding the enterprise's production and operation information from the community",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring the community's suggestions for improvement",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Establishing a community communication mechanism (such as holding communication meetings, setting up feedback channels) to listen to the opinions and suggestions of community residents is an important measure for enterprises to communicate with the community. A, C, and D are acts that block community communication.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q036",
+    "moduleId": "module-03",
+    "number": 36,
+    "text": {
+      "zh": "What is the meaning of \"diversity and inclusion\" in the workplace?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Recruiting only employees of the same gender and age",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Respecting and accepting employees of different genders, ages, races, religions, and abilities, and providing equal development opportunities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Discriminating against employees with different backgrounds",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Promoting only employees with the same educational background",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Workplace diversity and inclusion refer to enterprises respecting and accepting employees with different backgrounds (gender, age, race, religion, disability, etc.), eliminating discrimination, and providing equal employment, training and promotion opportunities for all employees. A, C, and D are opposite to the concept of diversity and inclusion.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q037",
+    "moduleId": "module-03",
+    "number": 37,
+    "text": {
+      "zh": "Which of the following is an example of workplace inclusion?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Providing reasonable accommodation for employees with disabilities",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Refusing to recruit employees with disabilities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Separating employees of different races in work arrangements",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Giving preferential treatment to employees of a certain gender",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Providing reasonable accommodation for employees with disabilities (such as barrier-free facilities, adjusted work arrangements) is a typical example of workplace inclusion, which helps employees with disabilities better complete their work. B, C, and D are acts of exclusion and discrimination.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q038",
+    "moduleId": "module-03",
+    "number": 38,
+    "text": {
+      "zh": "What is the benefit of enterprises promoting workplace diversity and inclusion?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reducing team innovation ability",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Improving employee satisfaction and team cohesion",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increasing workplace conflicts",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reducing enterprise competitiveness",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Promoting workplace diversity and inclusion can make employees feel respected and valued, improve work satisfaction and loyalty, and at the same time bring different perspectives and ideas to the team, enhance innovation ability and competitiveness. A, C, and D are opposite to the actual benefits.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q039",
+    "moduleId": "module-03",
+    "number": 39,
+    "text": {
+      "zh": "Which of the following is a measure for enterprises to promote workplace diversity and inclusion?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Formulating anti-discrimination policies and conducting diversity training",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Maintaining a single team structure",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Discriminating against employees with different backgrounds",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring the needs of vulnerable groups of employees",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Formulating anti-discrimination policies, conducting diversity and inclusion training for employees, and establishing a fair evaluation and promotion mechanism are effective measures to promote workplace diversity and inclusion. B, C, and D are not conducive to promoting diversity and inclusion.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q040",
+    "moduleId": "module-03",
+    "number": 40,
+    "text": {
+      "zh": "What is the core content of enterprise labor relations management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Controlling employee wages and reducing labor costs",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Establishing a harmonious and stable labor relationship between enterprises and employees",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Forcing employees to accept unreasonable working conditions",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring employees' legitimate demands",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The core content of labor relations management is to standardize the rights and obligations of both enterprises and employees, resolve labor disputes in a timely manner, and establish a harmonious, stable and mutually beneficial labor relationship. A, C, and D are acts that damage labor relations.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q041",
+    "moduleId": "module-03",
+    "number": 41,
+    "text": {
+      "zh": "Which of the following is a way to resolve labor disputes between enterprises and employees?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprises unilaterally terminate labor contracts without reason",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Negotiation, mediation, arbitration and litigation",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring employees' appeals",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Threatening employees to give up their legitimate rights and interests",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The legal ways to resolve labor disputes include negotiation between both parties, mediation by trade unions or labor dispute mediation committees, arbitration by labor dispute arbitration commissions, and litigation by people's courts. A, C, and D are illegal ways to handle labor disputes.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q042",
+    "moduleId": "module-03",
+    "number": 42,
+    "text": {
+      "zh": "What is the impact of harmonious labor relations on enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Increasing employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Reducing enterprise work efficiency",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Improving employee loyalty and reducing labor disputes",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Increasing enterprise operating costs",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Harmonious labor relations can make employees have a sense of belonging and loyalty, reduce labor disputes and employee turnover, and improve work efficiency and enterprise stability. A, B, and D are opposite to the actual impact.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q043",
+    "moduleId": "module-03",
+    "number": 43,
+    "text": {
+      "zh": "Which of the following is a measure for enterprises to maintain harmonious labor relations?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Signing labor contracts with employees in accordance with the law and paying wages on time",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Defaulting on employees' wages and social insurance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Refusing to negotiate with employees on labor issues",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Violating labor laws and regulations",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Signing labor contracts in accordance with the law, paying wages and social insurance on time, and respecting employees' legitimate rights and interests are important measures to maintain harmonious labor relations. B, C, and D are acts that damage labor relations.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q044",
+    "moduleId": "module-03",
+    "number": 44,
+    "text": {
+      "zh": "What does \"product safety\" in the Social (S) dimension refer to?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The product is cheap and affordable",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The product meets national safety standards and will not cause harm to consumers' personal and property safety",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The product has a beautiful appearance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "The product has a long service life",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Product safety in the Social (S) dimension refers to the fact that enterprise products meet national and industry safety standards, do not contain harmful substances, and will not cause harm to consumers' personal health and property safety during use. A, C, and D are not the core of product safety.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q045",
+    "moduleId": "module-03",
+    "number": 45,
+    "text": {
+      "zh": "Which of the following is an act that violates product safety requirements?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Conducting strict quality inspection on products before they leave the factory",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Selling products that do not meet safety standards",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Providing product safety instructions to consumers",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Recalling unqualified products in a timely manner",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Selling products that do not meet safety standards (such as food with excessive additives, electrical products with potential safety hazards) will endanger consumers' personal and property safety, which is an act that violates product safety requirements. A, C, and D are acts that ensure product safety.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q046",
+    "moduleId": "module-03",
+    "number": 46,
+    "text": {
+      "zh": "What is the responsibility of enterprises for product safety?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignore product safety issues and focus only on sales volume",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Establish a product quality and safety management system to ensure product safety",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Shift the responsibility for product safety to consumers",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Hide product safety hazards from consumers",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Enterprises are the main responsible subjects for product safety, and need to establish a complete product quality and safety management system, conduct strict quality inspection, and take timely measures to recall unqualified products to ensure product safety. A, C, and D are acts that shirk product safety responsibility.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q047",
+    "moduleId": "module-03",
+    "number": 47,
+    "text": {
+      "zh": "What is the impact of product safety incidents on enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Improving enterprise brand reputation",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Reducing consumer trust and facing legal liabilities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increasing product sales volume",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enhancing enterprise competitiveness",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Product safety incidents (such as food safety accidents, electrical product safety hazards) will damage consumers' trust in the enterprise, lead to a decline in product sales, and even make the enterprise face legal liabilities such as fines and compensation. A, C, and D are opposite to the actual impact.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q048",
+    "moduleId": "module-03",
+    "number": 48,
+    "text": {
+      "zh": "Which of the following is a measure for enterprises to ensure product safety?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Establishing a product quality inspection mechanism",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Reducing product quality inspection costs",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Using unqualified raw materials to reduce production costs",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring product safety standards",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Establishing a strict product quality inspection mechanism, conducting full-process inspection of raw materials, production processes and finished products, can effectively ensure product safety. B, C, and D will reduce product safety and increase safety risks.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q049",
+    "moduleId": "module-03",
+    "number": 49,
+    "text": {
+      "zh": "What is the meaning of \"ethical business conduct\" in the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprises pursue profits through improper means such as fraud and bribery",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Enterprises conduct business activities in accordance with laws, regulations and moral norms, and do not engage in unethical behaviors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Enterprises ignore the interests of stakeholders to maximize their own profits",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enterprises engage in false advertising to promote products",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Ethical business conduct refers to enterprises abiding by national laws and regulations, adhering to business ethics, and conducting business activities in a fair, honest and responsible manner, without engaging in fraud, bribery, false advertising and other unethical behaviors. A, C, and D are unethical business conducts.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q050",
+    "moduleId": "module-03",
+    "number": 50,
+    "text": {
+      "zh": "Which of the following is an unethical business conduct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Honest transaction with customers and suppliers",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Providing true and accurate product information to consumers",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Bribery of government officials to obtain business opportunities",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Complying with market competition rules",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Bribery of government officials to obtain business opportunities is an unethical and illegal business conduct, which violates market rules and social morality. A, B, and D are ethical business conducts.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q051",
+    "moduleId": "module-03",
+    "number": 51,
+    "text": {
+      "zh": "What is the benefit of enterprises adhering to ethical business conduct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Gaining short-term benefits but losing long-term trust",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Establishing a good corporate image and enhancing long-term competitiveness",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reducing enterprise operating costs",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Avoiding market competition",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Adhering to ethical business conduct can help enterprises gain the trust of consumers, investors and other stakeholders, establish a good brand image, and enhance long-term competitiveness. A, C, and D are not the benefits of ethical business conduct.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q052",
+    "moduleId": "module-03",
+    "number": 52,
+    "text": {
+      "zh": "Which of the following is a measure for enterprises to strengthen ethical management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Formulating a code of business ethics and conducting ethical training for employees",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Ignoring unethical behaviors of employees",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Encouraging employees to pursue profits through any means",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Hiding unethical business behaviors from the public",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Formulating a code of business ethics, clarifying ethical norms for employees, and conducting regular ethical training can help employees establish ethical awareness and standardize business behaviors. B, C, and D are not conducive to strengthening ethical management.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q053",
+    "moduleId": "module-03",
+    "number": 53,
+    "text": {
+      "zh": "Which of the following is a key indicator of enterprise social performance in the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprise's carbon emission reduction volume",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Employee training hours per capita",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Enterprise's return on investment (ROI)",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enterprise's board size",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Employee training hours per capita is an important indicator of enterprise social performance, reflecting the enterprise's attention to employee development and investment in human resources. A belongs to the E dimension, C is an economic indicator, and D belongs to the G dimension.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q054",
+    "moduleId": "module-03",
+    "number": 54,
+    "text": {
+      "zh": "How do enterprises measure and evaluate social performance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignoring social performance indicators and focusing only on economic benefits",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Establishing a social performance evaluation system to track indicators such as employee welfare, customer satisfaction and community contribution",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Falsifying social performance data to meet external requirements",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Only evaluating social performance based on public praise",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Enterprises need to establish a scientific social performance evaluation system, select key indicators (such as employee turnover rate, customer complaint handling rate, public welfare donation amount), track and analyze data, and comprehensively evaluate social performance. A, C, and D are unscientific evaluation methods.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q055",
+    "moduleId": "module-03",
+    "number": 55,
+    "text": {
+      "zh": "What is the role of evaluating enterprise social performance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To meet the requirements of regulators perfunctorily",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To identify the advantages and disadvantages of social responsibility performance and promote continuous improvement",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To reduce the enterprise's investment in social responsibility",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To hide the enterprise's poor social performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Evaluating social performance can help enterprises clearly understand their own advantages and disadvantages in fulfilling social responsibility, find existing problems, and formulate improvement measures to continuously improve social performance. A, C, and D are not the role of social performance evaluation.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q056",
+    "moduleId": "module-03",
+    "number": 56,
+    "text": {
+      "zh": "Which of the following is an example of enterprise social performance improvement?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reducing employee training investment",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Improving customer complaint handling rate from 80% to 95%",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reducing public welfare donations",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring employee safety and health",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Improving the customer complaint handling rate means that the enterprise is more efficient in solving customer problems, which is an improvement in social performance (customer management). A, C, and D are all declines in social performance.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q057",
+    "moduleId": "module-03",
+    "number": 57,
+    "text": {
+      "zh": "What is the meaning of \"stakeholder engagement\" in the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprises only pay attention to the interests of investors and ignore other stakeholders",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Enterprises communicate and interact with all stakeholders (employees, customers, suppliers, communities, etc.) to understand their needs and opinions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Enterprises refuse to communicate with stakeholders",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enterprises only communicate with stakeholders when there is a problem",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Stakeholder engagement refers to enterprises taking the initiative to communicate and interact with all stakeholders, understand their needs, opinions and expectations, and take these into account in business decision-making to achieve balanced development of stakeholder interests. A, C, and D are not the correct understanding of stakeholder engagement.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q058",
+    "moduleId": "module-03",
+    "number": 58,
+    "text": {
+      "zh": "Which of the following is a stakeholder of an enterprise?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Only enterprise investors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Only enterprise employees",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employees, customers, suppliers, communities, investors and other groups related to the enterprise",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Only enterprise customers",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Stakeholders of an enterprise refer to all groups or individuals that are affected by the enterprise's operations or can affect the enterprise's operations, including investors, employees, customers, suppliers, communities, government departments, etc. A, B, and D are only part of the stakeholders.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q059",
+    "moduleId": "module-03",
+    "number": 59,
+    "text": {
+      "zh": "What is the purpose of enterprise stakeholder engagement?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignore the needs of stakeholders to maximize their own profits",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Build good relationships with stakeholders and promote the sustainable development of the enterprise",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reduce the enterprise's communication costs",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Avoid the demands of stakeholders",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The purpose of stakeholder engagement is to build trust and good relationships with stakeholders, understand their needs and expectations, resolve potential conflicts, and promote the long-term sustainable development of the enterprise. A, C, and D are not the purpose.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q060",
+    "moduleId": "module-03",
+    "number": 60,
+    "text": {
+      "zh": "Which of the following is a way for enterprises to engage with stakeholders?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Holding stakeholder forums and collecting opinions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Refusing to respond to stakeholders' inquiries",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Hiding enterprise information from stakeholders",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring stakeholders' suggestions",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Holding stakeholder forums, setting up feedback channels, and publishing social responsibility reports are all effective ways for enterprises to engage with stakeholders. B, C, and D are acts that block stakeholder engagement.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q061",
+    "moduleId": "module-03",
+    "number": 61,
+    "text": {
+      "zh": "Which of the following is a key indicator of employee development in the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Employee salary level",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Employee promotion rate",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Enterprise's energy consumption",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Product sales volume",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Employee promotion rate is an important indicator of employee development, reflecting the enterprise's promotion mechanism and the space for employee growth. A is an indicator of employee welfare, C belongs to the E dimension, and D is an economic indicator.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q062",
+    "moduleId": "module-03",
+    "number": 62,
+    "text": {
+      "zh": "What is the measure for enterprises to promote employee development?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Providing regular training and establishing a fair promotion mechanism",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Refusing to provide training opportunities for employees",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Promoting employees only based on seniority",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring employees' career development needs",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Providing regular professional training, skill training and management training for employees, and establishing a fair promotion mechanism based on ability and performance can effectively promote employee development. B, C, and D are not conducive to employee development.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q063",
+    "moduleId": "module-03",
+    "number": 63,
+    "text": {
+      "zh": "What is the impact of employee development on enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Increasing employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Improving employee professional ability and enterprise work efficiency",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reducing enterprise operating costs",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Increasing workplace conflicts",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Promoting employee development can improve employees' professional skills and comprehensive quality, enhance work efficiency and innovation ability, and at the same time improve employee loyalty and reduce turnover rate. A, C, and D are opposite to the actual impact.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q064",
+    "moduleId": "module-03",
+    "number": 64,
+    "text": {
+      "zh": "Which of the following is an example of employee career development support provided by enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Formulating personalized career plans for employees",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Ignoring employees' career development needs",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Refusing to provide training for employees' career development",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Limiting employees' career development space",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Formulating personalized career plans for employees, providing targeted training and guidance, and creating a good career development environment are examples of enterprises supporting employee career development. B, C, and D are acts that hinder employee career development.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q065",
+    "moduleId": "module-03",
+    "number": 65,
+    "text": {
+      "zh": "What is the meaning of \"work-life balance\" for employees?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Working overtime for a long time to complete work tasks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Balancing work and personal life, ensuring sufficient rest and family time while completing work tasks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring work tasks and focusing only on personal life",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Working without rest to pursue career development",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Work-life balance refers to employees being able to balance the relationship between work and personal life, complete work tasks efficiently, and at the same time have sufficient time to rest, accompany family and engage in personal hobbies, so as to maintain physical and mental health. A, C, and D are not the correct understanding of work-life balance.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q066",
+    "moduleId": "module-03",
+    "number": 66,
+    "text": {
+      "zh": "Which of the following is a measure for enterprises to help employees achieve work-life balance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Encouraging employees to work overtime without compensation",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Implementing a flexible working system and providing paid leave",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increasing employee workload",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring employees' needs for rest",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Implementing a flexible working system (such as flexible working hours, remote work), providing sufficient paid leave, and avoiding unnecessary overtime are effective measures to help employees achieve work-life balance. A, C, and D will damage work-life balance.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q067",
+    "moduleId": "module-03",
+    "number": 67,
+    "text": {
+      "zh": "What is the benefit of employees achieving work-life balance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reducing work efficiency",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Improving physical and mental health and work satisfaction",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increasing workplace conflicts",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reducing employee loyalty",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Employees who achieve work-life balance can maintain good physical and mental health, reduce work pressure, improve work satisfaction and loyalty, and thus improve work efficiency. A, C, and D are opposite to the actual benefits.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q068",
+    "moduleId": "module-03",
+    "number": 68,
+    "text": {
+      "zh": "Which of the following is a key indicator of customer satisfaction in the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Customer repurchase rate",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Enterprise's carbon emissions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Board diversity",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Customer repurchase rate is an important indicator of customer satisfaction, reflecting the degree of customer recognition of the enterprise's products and services. A high repurchase rate indicates high customer satisfaction. B belongs to the E dimension, C belongs to the S dimension (employee management), and D belongs to the G dimension.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q069",
+    "moduleId": "module-03",
+    "number": 69,
+    "text": {
+      "zh": "How do enterprises improve customer satisfaction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Providing low-quality products and services",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Listening to customer feedback and continuously improving products and services",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring customer complaints",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Increasing product prices arbitrarily",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Listening to customer feedback, solving customer problems in a timely manner, improving product quality and service level, and providing personalized services can effectively improve customer satisfaction. A, C, and D will reduce customer satisfaction.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q070",
+    "moduleId": "module-03",
+    "number": 70,
+    "text": {
+      "zh": "What is the impact of high customer satisfaction on enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reducing product sales volume",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Improving customer loyalty and increasing market share",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increasing customer complaints",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reducing enterprise competitiveness",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*High customer satisfaction can improve customer loyalty, promote customer repurchase, and attract new customers through word-of-mouth, thereby increasing market share and enterprise competitiveness. A, C, and D are opposite to the actual impact.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q071",
+    "moduleId": "module-03",
+    "number": 71,
+    "text": {
+      "zh": "Which of the following is a measure for enterprises to collect customer feedback?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Setting up customer feedback hotlines and online feedback channels",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Refusing to accept customer feedback",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring customer suggestions",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Hiding customer feedback information",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Setting up customer feedback hotlines, online feedback platforms, and conducting customer surveys are effective ways to collect customer feedback. B, C, and D are acts that ignore customer feedback.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q072",
+    "moduleId": "module-03",
+    "number": 72,
+    "text": {
+      "zh": "What is the meaning of \"supply chain social responsibility\" in the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprises only pay attention to their own social responsibility and ignore the social responsibility of suppliers",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Enterprises promote the whole supply chain to fulfill social responsibility, including suppliers, distributors and other partners",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Enterprises force suppliers to reduce costs regardless of social responsibility",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enterprises ignore the social responsibility performance of the supply chain",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Supply chain social responsibility refers to enterprises not only fulfilling their own social responsibility, but also guiding and supervising suppliers, distributors and other partners in the supply chain to comply with labor standards, environmental regulations and ethical norms, and promote the sustainable development of the whole supply chain. A, C, and D are not the correct understanding.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q073",
+    "moduleId": "module-03",
+    "number": 73,
+    "text": {
+      "zh": "Which of the following is a measure for enterprises to promote supply chain social responsibility?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Establishing a supply chain social responsibility evaluation system",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Ignoring the social responsibility performance of suppliers",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Choosing suppliers only based on product price",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reducing the supervision of suppliers",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Establishing a supply chain social responsibility evaluation system, incorporating social responsibility indicators into supplier selection and evaluation, and conducting regular audits of suppliers are effective measures to promote supply chain social responsibility. B, C, and D are not effective measures.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q074",
+    "moduleId": "module-03",
+    "number": 74,
+    "text": {
+      "zh": "What is the risk of ignoring supply chain social responsibility?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Improving enterprise brand image",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Reducing enterprise legal risks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Bringing reputation risks and legal liabilities to enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enhancing enterprise competitiveness",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*If enterprises ignore the social responsibility performance of the supply chain (such as suppliers using child labor, polluting the environment), it will affect the enterprise's brand reputation, and even lead to legal liabilities if it violates relevant regulations. A, B, and D are opposite to the actual risks.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q075",
+    "moduleId": "module-03",
+    "number": 75,
+    "text": {
+      "zh": "Which of the following is a key indicator of supply chain social responsibility?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Supplier's product quality",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Supplier's compliance with labor standards",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Supplier's delivery speed",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Supplier's product price",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Supplier's compliance with labor standards (such as no child labor, no forced labor, fair wages) is a key indicator of supply chain social responsibility. A, C, and D are operational indicators of suppliers, not social responsibility indicators.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q076",
+    "moduleId": "module-03",
+    "number": 76,
+    "text": {
+      "zh": "What is the meaning of \"community investment\" in the Social (S) dimension?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprises invest in the community to obtain immediate economic benefits",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Enterprises invest resources (funds, technology, personnel) in the community to promote community development and improve residents' quality of life",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Enterprises occupy community resources without investment",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enterprises invest in the community only to meet regulatory requirements",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Community investment refers to enterprises taking the initiative to invest funds, technology, personnel and other resources in the community, such as supporting community public welfare undertakings, building public facilities, and providing skills training for residents, to promote community development and improve residents' quality of life. A, C, and D are not the correct understanding of community investment.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q077",
+    "moduleId": "module-03",
+    "number": 77,
+    "text": {
+      "zh": "Which of the following is an example of enterprise community investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Donating funds to build community schools and hospitals",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Occupying community public space for production",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Polluting the community environment",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring the community's development needs",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Donating funds to build community schools, hospitals, public green spaces and other public facilities is a typical example of community investment, which can promote community development and improve residents' quality of life. B, C, and D are acts that damage community interests.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q078",
+    "moduleId": "module-03",
+    "number": 78,
+    "text": {
+      "zh": "What is the benefit of enterprise community investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reducing enterprise profits",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Improving the relationship between the enterprise and the community and enhancing brand influence",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increasing enterprise operating costs",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Attracting negative public attention",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Community investment can help enterprises build a good relationship with the community, gain the recognition and support of community residents, enhance brand influence and social image, and create a good development environment for the enterprise. A, C, and D are one-sided understandings.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q079",
+    "moduleId": "module-03",
+    "number": 79,
+    "text": {
+      "zh": "Which of the following is a key indicator of enterprise community investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprise's community investment amount",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Enterprise's carbon emissions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Product sales volume",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Enterprise's community investment amount (such as public welfare donation amount, investment in community projects) is an important indicator of community investment, reflecting the enterprise's investment in the community. B belongs to the E dimension, C belongs to the S dimension (employee management), and D is an economic indicator.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q080",
+    "moduleId": "module-03",
+    "number": 80,
+    "text": {
+      "zh": "What is the meaning of \"anti-corruption\" in the Social (S) dimension of ESG?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprises turn a blind eye to corruption behaviors of employees",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Enterprises establish anti-corruption systems to prevent and combat corruption behaviors in business activities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Enterprises encourage employees to engage in corruption to obtain business opportunities",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enterprises cover up corruption behaviors of employees",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Anti-corruption in the ESG Social (S) dimension refers to enterprises establishing a sound anti-corruption system, formulating anti-corruption policies, strengthening anti-corruption education for employees, and preventing and combating corruption behaviors such as bribery and embezzlement in business activities. A, C, and D are opposite to the concept of anti-corruption.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q081",
+    "moduleId": "module-03",
+    "number": 81,
+    "text": {
+      "zh": "Which of the following is an anti-corruption measure for enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Establishing an anti-corruption complaint mechanism and investigating corruption behaviors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Ignoring corruption behaviors of employees",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Covering up corruption behaviors of senior management",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Encouraging employees to accept bribes",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Establishing an anti-corruption complaint mechanism, conducting regular anti-corruption training, and investigating and punishing corruption behaviors are effective anti-corruption measures. B, C, and D are acts that encourage or condone corruption.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q082",
+    "moduleId": "module-03",
+    "number": 82,
+    "text": {
+      "zh": "What is the impact of corruption on enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Improving enterprise operating efficiency",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Damaging enterprise reputation and facing legal liabilities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Enhancing enterprise competitiveness",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reducing enterprise operating costs",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Corruption behaviors (such as bribery, embezzlement) will damage the enterprise's brand reputation, disrupt the normal business order, and make the enterprise face legal liabilities such as fines and criminal penalties. A, C, and D are opposite to the actual impact.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m03-q083",
+    "moduleId": "module-03",
+    "number": 83,
+    "text": {
+      "zh": "Which of the following is a key indicator of enterprise anti-corruption performance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Number of anti-corruption training sessions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Enterprise's carbon emissions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employee salary level",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Product sales volume",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*3.社会因素",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The number of anti-corruption training sessions is an important indicator of enterprise anti-corruption performance, reflecting the enterprise's attention to anti-corruption and the effectiveness of anti-corruption education. B belongs to the E dimension, C is an employee welfare indicator, and D is an economic indicator.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  }
+]

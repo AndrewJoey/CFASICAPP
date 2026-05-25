@@ -1,0 +1,4279 @@
+[
+  {
+    "id": "m06-q001",
+    "moduleId": "module-06",
+    "number": 1,
+    "text": {
+      "zh": "Which of the following is an example of a social factor that could impact a company’s valuation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A company’s failure to meet carbon emissions targets",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A company’s board of directors having no independent members",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A company facing a boycott due to poor labor practices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A company’s high debt-to-equity ratio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q002",
+    "moduleId": "module-06",
+    "number": 2,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG analysis in portfolio construction?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To eliminate all non-financial risks from the portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To incorporate ESG factors into asset allocation and security selection to build more resilient portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To focus only on companies with perfect ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To replace traditional portfolio construction techniques",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q003",
+    "moduleId": "module-06",
+    "number": 3,
+    "text": {
+      "zh": "Which of the following ESG frameworks is most closely aligned with the concept of \"double materiality\"?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "TCFD (Task Force on Climate-related Financial Disclosures)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "GRI (Global Reporting Initiative)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "SASB (Sustainability Accounting Standards Board)",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "UN PRI (Principles for Responsible Investment)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q004",
+    "moduleId": "module-06",
+    "number": 4,
+    "text": {
+      "zh": "Which of the following is a key limitation of using company self-reported ESG data?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It is always inaccurate and unreliable",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It may be biased or selective, as companies may emphasize positive ESG performance and downplay negative aspects",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It is not available for public companies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It is too detailed and difficult to analyze",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q005",
+    "moduleId": "module-06",
+    "number": 5,
+    "text": {
+      "zh": "How does ESG integration differ from thematic investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG integration focuses on specific ESG themes (e.g., renewable energy), while thematic investing incorporates ESG factors into financial analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG integration incorporates ESG factors into financial analysis, while thematic investing focuses on specific ESG themes to build portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG integration is only for fixed-income investors, while thematic investing is only for equity investors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG integration ignores financial performance, while thematic investing prioritizes financial performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q006",
+    "moduleId": "module-06",
+    "number": 6,
+    "text": {
+      "zh": "Which of the following ESG factors is most likely to be material for a banking institution?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon emissions from manufacturing facilities",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Climate-related credit risk (environmental factor)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Labor practices in agricultural supply chains",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Waste management practices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q007",
+    "moduleId": "module-06",
+    "number": 7,
+    "text": {
+      "zh": "Which of the following best describes the impact of ESG data quality on valuation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Poor ESG data quality has no impact on valuation, as investors can rely on financial data",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Poor ESG data quality increases uncertainty, leading to a higher discount rate and lower valuation",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Poor ESG data quality always leads to a higher valuation, as investors assume no ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Good ESG data quality decreases valuation, as it reveals ESG risks",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q008",
+    "moduleId": "module-06",
+    "number": 8,
+    "text": {
+      "zh": "Which of the following is an example of ESG integration in private debt investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding all private debt issuers with poor ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Assessing the impact of ESG factors on the issuer’s ability to repay debt",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investing only in private debt issuers with the highest ESG ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring ESG factors, as private debt returns are driven solely by interest rates",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q009",
+    "moduleId": "module-06",
+    "number": 9,
+    "text": {
+      "zh": "Which of the following is a key metric used in social ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Employee retention rate",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Board independence ratio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Return on assets (ROA)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q010",
+    "moduleId": "module-06",
+    "number": 10,
+    "text": {
+      "zh": "Which of the following best defines \"ESG materiality assessment\"?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A process to rank companies based on their ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A process to identify and prioritize ESG factors that are most likely to impact a company’s financial performance or long-term value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A process to compare ESG data across different companies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A process to measure the financial impact of ESG factors on a company’s valuation",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q011",
+    "moduleId": "module-06",
+    "number": 11,
+    "text": {
+      "zh": "Which of the following is a challenge of ESG integration in real estate investment trusts (REITs)?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "REITs have no ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG factors have no impact on REIT valuations",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Variability in ESG data across different property types (e.g., residential vs. commercial)",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "REITs are required to disclose all ESG data, making integration unnecessary",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q012",
+    "moduleId": "module-06",
+    "number": 12,
+    "text": {
+      "zh": "How does ESG analysis impact the price-to-book (P/B) multiple of a company?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Good ESG performance may lead to a higher P/B multiple, as investors value intangible assets (e.g., reputation) not captured in book value",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Good ESG performance always leads to a lower P/B multiple, as investors prioritize ESG over book value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG analysis has no impact on the P/B multiple",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Poor ESG performance leads to a higher P/B multiple, as investors demand a premium for risk",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q013",
+    "moduleId": "module-06",
+    "number": 13,
+    "text": {
+      "zh": "Which of the following is an example of an environmental factor that could positively impact a company’s valuation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Implementing energy-efficient technologies that reduce operational costs",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Facing regulatory fines for environmental non-compliance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increasing carbon emissions due to expanded operations",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using non-renewable energy sources for production",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q014",
+    "moduleId": "module-06",
+    "number": 14,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG ratings in ESG integration?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG ratings are the sole basis for investment decisions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG ratings provide a starting point for ESG analysis, which is then complemented by financial and industry analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG ratings replace financial analysis in ESG integration",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG ratings are irrelevant to ESG integration",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q015",
+    "moduleId": "module-06",
+    "number": 15,
+    "text": {
+      "zh": "Which of the following is a key difference between GRI and SASB frameworks?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "GRI is industry-specific, while SASB is a comprehensive framework for all industries",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "GRI focuses on double materiality, while SASB focuses on financial materiality",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "GRI is for investors, while SASB is for companies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "GRI focuses on governance factors, while SASB focuses on environmental factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q016",
+    "moduleId": "module-06",
+    "number": 16,
+    "text": {
+      "zh": "Which of the following ESG factors is most likely to be material for a pharmaceutical company?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon emissions from manufacturing",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Access to affordable medicines (social factor)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Water usage in agriculture",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Board independence",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q017",
+    "moduleId": "module-06",
+    "number": 17,
+    "text": {
+      "zh": "How do investors address inconsistencies in ESG ratings from different providers?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignore the inconsistencies and use the highest rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Analyze the methodologies of each provider to understand the differences and reconcile the ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Exclude the company from the portfolio due to inconsistencies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Assume the lowest rating is the most accurate",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q018",
+    "moduleId": "module-06",
+    "number": 18,
+    "text": {
+      "zh": "Which of the following best describes the \"ESG valuation premium\"?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A fixed discount applied to companies with poor ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A premium in valuation paid for companies with strong ESG performance, reflecting lower risk and higher long-term value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A premium paid to ESG data providers for access to high-quality data",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A discount applied to companies with good ESG performance, as investors prioritize financial returns",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q019",
+    "moduleId": "module-06",
+    "number": 19,
+    "text": {
+      "zh": "Which of the following is a challenge of ESG integration in venture capital investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Venture capital firms have no influence over the ESG practices of portfolio companies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Early-stage companies often have limited ESG data and immature ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG factors have no impact on the value of early-stage companies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Venture capital investors do not consider ESG factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q020",
+    "moduleId": "module-06",
+    "number": 20,
+    "text": {
+      "zh": "Which of the following is an example of a governance factor that could impact a company’s cash flow?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A company’s carbon emissions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A company’s executive compensation structure that rewards short-term profits over long-term value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A company’s employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A company’s community outreach programs",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q021",
+    "moduleId": "module-06",
+    "number": 21,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG data in risk management for investors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To eliminate all investment risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To identify non-financial risks that may not be captured by traditional risk metrics (e.g., volatility)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To focus only on environmental risks and ignore social and governance risks",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To replace traditional risk management metrics",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q022",
+    "moduleId": "module-06",
+    "number": 22,
+    "text": {
+      "zh": "Which of the following ESG frameworks is used by investors to guide their ESG integration practices?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "GRI (Global Reporting Initiative)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "SASB (Sustainability Accounting Standards Board)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "UN PRI (Principles for Responsible Investment)",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "TCFD (Task Force on Climate-related Financial Disclosures)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q023",
+    "moduleId": "module-06",
+    "number": 23,
+    "text": {
+      "zh": "Which of the following is a key benefit of using third-party ESG data in analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It is always free to access",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It provides standardized and verified data, making cross-company comparisons easier",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It is always more accurate than company self-reported data",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It only covers large-cap companies, making analysis simpler",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q024",
+    "moduleId": "module-06",
+    "number": 24,
+    "text": {
+      "zh": "How does ESG analysis impact the cost of capital for a company?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Good ESG performance increases the cost of capital, as investors demand a higher return",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Poor ESG performance increases the cost of capital, as investors demand a premium for higher risk",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG analysis has no impact on the cost of capital",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Good ESG performance decreases the cost of capital, as investors demand a higher return",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q025",
+    "moduleId": "module-06",
+    "number": 25,
+    "text": {
+      "zh": "Which of the following is an example of ESG integration in commodity investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding all commodities with any ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Assessing the ESG risks of commodity producers (e.g., mining companies) to evaluate supply chain stability",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investing only in commodities with the highest ESG ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring ESG factors, as commodity prices are driven solely by supply and demand",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q026",
+    "moduleId": "module-06",
+    "number": 26,
+    "text": {
+      "zh": "Which of the following best describes the \"ESG data gap\"?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The difference between a company’s ESG rating and its financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The lack of standardized ESG data across companies and industries",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The difference between ESG ratings from different providers",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "The missing ESG data for a company or industry, making analysis difficult",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "D",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q027",
+    "moduleId": "module-06",
+    "number": 27,
+    "text": {
+      "zh": "Which of the following is a key principle of ESG integration for fixed-income investors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignore ESG factors, as they do not impact credit risk",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Assess the impact of ESG factors on the issuer’s creditworthiness and default probability",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Focus only on environmental factors, as social and governance factors are irrelevant",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Exclude all issuers with poor ESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q028",
+    "moduleId": "module-06",
+    "number": 28,
+    "text": {
+      "zh": "Which of the following ESG factors is most likely to be material for a food and beverage company?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon emissions from power plants",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Supply chain sustainability (e.g., sustainable agriculture, fair trade)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Data privacy and cybersecurity",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Board independence",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q029",
+    "moduleId": "module-06",
+    "number": 29,
+    "text": {
+      "zh": "How do investors use qualitative ESG data in their analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "As the sole basis for investment decisions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To complement quantitative ESG data and gain insights into a company’s ESG practices and culture",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To replace quantitative ESG data, as it is more accurate",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To ignore quantitative ESG data, as qualitative data is more relevant",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q030",
+    "moduleId": "module-06",
+    "number": 30,
+    "text": {
+      "zh": "Which of the following is a limitation of ESG valuation adjustments?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "They are too easy to calculate and apply",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "They rely on subjective assumptions about the financial impact of ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "They always lead to higher valuations for companies with good ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "They are only applicable to large-cap companies",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q031",
+    "moduleId": "module-06",
+    "number": 31,
+    "text": {
+      "zh": "Which of the following best describes the relationship between ESG performance and cost of debt?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Good ESG performance increases the cost of debt, as investors demand a higher return",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Poor ESG performance increases the cost of debt, as lenders demand a premium for higher credit risk",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG performance has no impact on the cost of debt",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Good ESG performance decreases the cost of debt, as lenders demand a higher return",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q032",
+    "moduleId": "module-06",
+    "number": 32,
+    "text": {
+      "zh": "Which of the following is an example of a governance factor that could positively impact a company’s valuation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A strong and independent board of directors that provides effective oversight",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A lack of transparency in executive compensation",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A board of directors dominated by company insiders",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A lack of audit committee oversight",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q033",
+    "moduleId": "module-06",
+    "number": 33,
+    "text": {
+      "zh": "Which of the following is a key challenge of ESG integration in emerging market equities?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Emerging market equities have no ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG data is more readily available for emerging market equities than for developed market equities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Weaker regulatory frameworks lead to inconsistent ESG disclosure and enforcement",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Emerging market investors do not consider ESG factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q034",
+    "moduleId": "module-06",
+    "number": 34,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG analysis in mergers and acquisitions (M&A)?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To ignore ESG factors, as M&A decisions are driven solely by financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To assess the ESG risks and opportunities of the target company, which can impact the acquisition price and post-merger integration",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To focus only on the target company’s financial performance, not its ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To replace financial due diligence with ESG due diligence",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q035",
+    "moduleId": "module-06",
+    "number": 35,
+    "text": {
+      "zh": "Which of the following is a key metric used in governance ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon intensity",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Employee retention rate",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Board independence ratio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Return on equity (ROE)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q036",
+    "moduleId": "module-06",
+    "number": 36,
+    "text": {
+      "zh": "Which of the following is a benefit of ESG integration for companies?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reduced access to capital",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Improved operational efficiency and cost savings",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increased regulatory risk",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reduced brand reputation",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q037",
+    "moduleId": "module-06",
+    "number": 37,
+    "text": {
+      "zh": "Which of the following best describes the difference between ESG integration and best-in-class screening?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG integration excludes companies with poor ESG performance, while best-in-class screening incorporates ESG factors into financial analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG integration incorporates ESG factors into financial analysis, while best-in-class screening selects companies with the best ESG performance in their industry",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG integration focuses on negative ESG factors, while best-in-class screening focuses on positive factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG integration is only for equity investors, while best-in-class screening is only for fixed-income investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q038",
+    "moduleId": "module-06",
+    "number": 38,
+    "text": {
+      "zh": "Which of the following ESG factors is most likely to be material for a technology company?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon emissions from manufacturing",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Data privacy and cybersecurity (governance factor)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Water usage in agriculture",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Labor practices in mining",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q039",
+    "moduleId": "module-06",
+    "number": 39,
+    "text": {
+      "zh": "How do investors address the subjectivity of ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignore subjective factors and focus only on quantitative data",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Use standardized frameworks and methodologies to reduce subjectivity",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Exclude companies with subjective ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Assume all subjective factors are irrelevant",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q040",
+    "moduleId": "module-06",
+    "number": 40,
+    "text": {
+      "zh": "Which of the following is a limitation of using TCFD framework for ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It covers all ESG factors, making analysis too complex",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It focuses solely on climate-related factors, ignoring social and governance factors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It is only applicable to small-cap companies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It is not used by investors, only by companies",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q041",
+    "moduleId": "module-06",
+    "number": 41,
+    "text": {
+      "zh": "Which of the following best describes the impact of ESG performance on investor sentiment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Good ESG performance has no impact on investor sentiment",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Good ESG performance improves investor sentiment, leading to higher demand for the company’s securities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Poor ESG performance improves investor sentiment, as investors expect higher returns",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Good ESG performance worsens investor sentiment, as investors worry about ESG costs",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q042",
+    "moduleId": "module-06",
+    "number": 42,
+    "text": {
+      "zh": "Which of the following is an example of ESG integration in infrastructure investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding all infrastructure projects with any ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Assessing the climate resilience of infrastructure projects (e.g., flood protection for roads) to evaluate long-term viability",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investing only in infrastructure projects with the highest ESG ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring ESG factors, as infrastructure returns are driven solely by cash flows",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q043",
+    "moduleId": "module-06",
+    "number": 43,
+    "text": {
+      "zh": "Which of the following best defines \"ESG integration in investment management\"?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A strategy that excludes companies with poor ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A strategy that incorporates ESG factors into all aspects of investment decision-making, including analysis, valuation, and risk management",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A strategy that invests only in companies with the best ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A strategy that ignores ESG factors and focuses solely on financial performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q044",
+    "moduleId": "module-06",
+    "number": 44,
+    "text": {
+      "zh": "Which of the following is a key challenge of ESG data quality?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Data is too standardized, making cross-company comparisons difficult",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Data is often inconsistent, inaccurate, or incomplete",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Data is only available for large-cap companies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Data is too easy to access, leading to over-reliance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q045",
+    "moduleId": "module-06",
+    "number": 45,
+    "text": {
+      "zh": "Which of the following ESG factors is most likely to be material for an energy company?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Data privacy and cybersecurity",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Carbon emissions and climate transition risk (environmental factor)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Labor practices in retail supply chains",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Board independence",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q046",
+    "moduleId": "module-06",
+    "number": 46,
+    "text": {
+      "zh": "Which of the following best describes the core purpose of ESG analysis in investment decision-making?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To replace traditional financial analysis with non-financial factors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To identify non-financial risks and opportunities that may affect long-term investment value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To prioritize environmental factors over social and governance factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To ensure all investments meet the highest ESG standards regardless of financial returns",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q047",
+    "moduleId": "module-06",
+    "number": 47,
+    "text": {
+      "zh": "According to the CFA ESG v7 Outline, which of the following is a key step in the ESG analysis process?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignoring industry-specific ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Assessing the materiality of ESG factors for the company",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Relying solely on company-reported ESG data without verification",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Focusing only on negative ESG factors and ignoring positive ones",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q048",
+    "moduleId": "module-06",
+    "number": 48,
+    "text": {
+      "zh": "Which of the following best defines \"materiality\" in the context of ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The extent to which ESG factors are discussed in a company’s annual report",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The likelihood that an ESG factor will have a significant impact on a company’s financial performance or value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The number of ESG metrics a company reports",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "The degree to which ESG factors align with global sustainability standards",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q049",
+    "moduleId": "module-06",
+    "number": 49,
+    "text": {
+      "zh": "Which of the following ESG frameworks is most focused on providing a standardized set of ESG disclosure requirements for companies?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "UN PRI (Principles for Responsible Investment)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "GRI (Global Reporting Initiative)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "MSCI ESG Ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "SASB (Sustainability Accounting Standards Board)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q050",
+    "moduleId": "module-06",
+    "number": 50,
+    "text": {
+      "zh": "How does ESG analysis typically impact the valuation of a company?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It has no impact on valuation, as ESG factors are non-financial",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It can adjust the discount rate or cash flow projections to reflect ESG risks and opportunities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It always increases the company’s valuation, regardless of ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It only impacts valuation for companies in high-risk industries",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q051",
+    "moduleId": "module-06",
+    "number": 51,
+    "text": {
+      "zh": "Which of the following is an example of an ESG factor that could negatively impact a company’s cash flow projections?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Implementing a renewable energy program that reduces operational costs",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Facing a lawsuit due to non-compliance with environmental regulations",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Improving employee retention through better social practices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enhancing brand reputation through sustainable supply chain practices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q052",
+    "moduleId": "module-06",
+    "number": 52,
+    "text": {
+      "zh": "Which of the following best describes the \"ESG integration\" approach in investment management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding companies with poor ESG performance from the investment portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Incorporating ESG factors into traditional financial analysis and investment decision-making",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investing only in companies with the highest ESG ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Separating ESG analysis from financial analysis to avoid conflicts",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q053",
+    "moduleId": "module-06",
+    "number": 53,
+    "text": {
+      "zh": "Which of the following is a key challenge in ESG integration for equity investors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Lack of standardized ESG data across companies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG factors have no impact on equity returns",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "All companies report ESG data in the same format",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG integration is only applicable to fixed-income investments",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q054",
+    "moduleId": "module-06",
+    "number": 54,
+    "text": {
+      "zh": "How do fixed-income investors typically integrate ESG factors into their analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "By focusing only on the environmental factors of the issuer",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "By assessing the impact of ESG factors on the issuer’s credit risk and default probability",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "By excluding all fixed-income securities with any ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "By ignoring ESG factors, as they do not impact fixed-income returns",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q055",
+    "moduleId": "module-06",
+    "number": 55,
+    "text": {
+      "zh": "Which of the following ESG data sources is considered the most objective and independent?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Company self-reported ESG data in annual reports",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Third-party ESG data providers (e.g., MSCI, Sustainalytics)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Social media sentiment about the company’s ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Industry trade associations’ ESG reports",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q056",
+    "moduleId": "module-06",
+    "number": 56,
+    "text": {
+      "zh": "Which of the following is a limitation of using third-party ESG data?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It is too expensive to access",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It is always outdated and irrelevant",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Different providers may use different methodologies, leading to inconsistent ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It only covers large-cap companies and ignores small-cap companies",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q057",
+    "moduleId": "module-06",
+    "number": 57,
+    "text": {
+      "zh": "Which of the following best describes the \"double materiality\" concept in ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The materiality of ESG factors for both the company’s financial performance and its impact on society and the environment",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The materiality of both positive and negative ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The materiality of ESG factors for both short-term and long-term performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "The materiality of ESG factors for both equity and fixed-income investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q058",
+    "moduleId": "module-06",
+    "number": 58,
+    "text": {
+      "zh": "Which of the following ESG factors is most likely to be material for a technology company?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon emissions from manufacturing facilities",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Data privacy and cybersecurity (governance factor)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Water usage in agricultural supply chains",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Mining practices for raw materials",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q059",
+    "moduleId": "module-06",
+    "number": 59,
+    "text": {
+      "zh": "How does ESG analysis affect the discount rate in a discounted cash flow (DCF) valuation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Poor ESG performance increases the discount rate to account for higher risk",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Good ESG performance increases the discount rate to account for higher opportunity cost",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG analysis has no impact on the discount rate",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG performance only affects cash flow projections, not the discount rate",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q060",
+    "moduleId": "module-06",
+    "number": 60,
+    "text": {
+      "zh": "Which of the following is an example of ESG integration in real estate investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investing only in LEED-certified buildings",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Assessing the energy efficiency of a building to estimate operating costs and rental income",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Excluding buildings located in environmentally sensitive areas",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring ESG factors, as real estate returns are driven solely by location",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q061",
+    "moduleId": "module-06",
+    "number": 61,
+    "text": {
+      "zh": "Which of the following best defines \"ESG valuation adjustment\"?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A fixed percentage added to a company’s valuation based on its ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A modification to a company’s valuation to reflect the financial impact of ESG risks and opportunities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A discount applied to all companies with poor ESG performance, regardless of materiality",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A premium applied to all companies with good ESG performance, regardless of industry",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q062",
+    "moduleId": "module-06",
+    "number": 62,
+    "text": {
+      "zh": "Which of the following is a key principle of effective ESG data management for investors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Using only one source of ESG data to avoid inconsistencies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Regularly verifying and updating ESG data to ensure accuracy",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring missing ESG data, as it is irrelevant to analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Focusing only on quantitative ESG data and ignoring qualitative data",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q063",
+    "moduleId": "module-06",
+    "number": 63,
+    "text": {
+      "zh": "How does the SASB (Sustainability Accounting Standards Board) framework support ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It provides a comprehensive set of ESG disclosure guidelines for all industries",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It identifies industry-specific material ESG factors and metrics",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It ranks companies based on their ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "It focuses solely on environmental factors and ignores social and governance factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q064",
+    "moduleId": "module-06",
+    "number": 64,
+    "text": {
+      "zh": "Which of the following is an example of a qualitative ESG factor in analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A company’s carbon emissions (tons of CO2)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The percentage of women on a company’s board",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A company’s policy on stakeholder engagement",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A company’s water usage (liters per unit of production)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q065",
+    "moduleId": "module-06",
+    "number": 65,
+    "text": {
+      "zh": "Which of the following is a challenge of integrating ESG factors into private equity investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Private equity firms have no influence over the ESG practices of portfolio companies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Private companies often have limited ESG data disclosure",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG factors have no impact on the value of private companies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Private equity investors do not care about ESG factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q066",
+    "moduleId": "module-06",
+    "number": 66,
+    "text": {
+      "zh": "Which of the following best describes the relationship between ESG performance and company profitability?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Good ESG performance always leads to higher profitability",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Poor ESG performance always leads to lower profitability",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The relationship is context-dependent, but good ESG performance can enhance long-term profitability by reducing risks and capturing opportunities",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "There is no relationship between ESG performance and profitability",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q067",
+    "moduleId": "module-06",
+    "number": 67,
+    "text": {
+      "zh": "Which of the following ESG integration methods is most commonly used by equity investors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Negative screening (excluding companies with poor ESG performance)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Best-in-class screening (selecting companies with the best ESG performance in their industry)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Integration into financial analysis (e.g., DCF, multiples)",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Thematic investing (focusing on specific ESG themes, e.g., renewable energy)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q068",
+    "moduleId": "module-06",
+    "number": 68,
+    "text": {
+      "zh": "Which of the following is a key consideration when assessing the quality of ESG data?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The number of ESG metrics reported",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The consistency, accuracy, and relevance of the data",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The length of the ESG report",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "The number of times ESG is mentioned in the company’s annual report",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q069",
+    "moduleId": "module-06",
+    "number": 69,
+    "text": {
+      "zh": "How does ESG analysis impact the price-to-earnings (P/E) multiple of a company?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Good ESG performance may lead to a higher P/E multiple, as investors perceive lower risk",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Good ESG performance always leads to a lower P/E multiple, as investors prioritize ESG over earnings",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG analysis has no impact on the P/E multiple",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Poor ESG performance leads to a higher P/E multiple, as investors demand a premium for risk",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q070",
+    "moduleId": "module-06",
+    "number": 70,
+    "text": {
+      "zh": "Which of the following is an example of an environmental factor in ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A company’s board independence",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A company’s employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A company’s waste management practices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A company’s customer satisfaction scores",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q071",
+    "moduleId": "module-06",
+    "number": 71,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG analysis in risk management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To eliminate all investment risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To identify and assess non-financial risks that may not be captured by traditional risk analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To focus only on environmental risks and ignore social and governance risks",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To replace traditional risk management techniques",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q072",
+    "moduleId": "module-06",
+    "number": 72,
+    "text": {
+      "zh": "Which of the following ESG frameworks is focused on climate-related disclosures?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "GRI (Global Reporting Initiative)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "TCFD (Task Force on Climate-related Financial Disclosures)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "SASB (Sustainability Accounting Standards Board)",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "UN PRI (Principles for Responsible Investment)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q073",
+    "moduleId": "module-06",
+    "number": 73,
+    "text": {
+      "zh": "Which of the following is a challenge of ESG integration in emerging markets?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Emerging market companies have no ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG data is more readily available for emerging market companies than for developed market companies",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Weaker regulatory frameworks may lead to inconsistent ESG disclosure and enforcement",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Emerging market investors do not consider ESG factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q074",
+    "moduleId": "module-06",
+    "number": 74,
+    "text": {
+      "zh": "How do investors use ESG ratings in their investment decisions?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "As the sole factor in investment decisions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To complement other analysis (e.g., financial, industry) to assess risk and value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To exclude all companies with a low ESG rating, regardless of other factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To replace financial analysis, as ESG ratings are more predictive of returns",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q075",
+    "moduleId": "module-06",
+    "number": 75,
+    "text": {
+      "zh": "Which of the following is an example of a social factor in ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A company’s greenhouse gas emissions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A company’s executive compensation structure",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A company’s labor practices (e.g., fair wages, working conditions)",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A company’s board of directors composition",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q076",
+    "moduleId": "module-06",
+    "number": 76,
+    "text": {
+      "zh": "Which of the following best describes the \"ESG materiality matrix\"?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A tool to rank companies based on their ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A tool to assess the materiality of ESG factors by evaluating their impact on the company and the company’s impact on stakeholders",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A tool to measure the financial impact of ESG factors on a company’s valuation",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A tool to compare ESG data across different companies",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q077",
+    "moduleId": "module-06",
+    "number": 77,
+    "text": {
+      "zh": "Which of the following is a limitation of ESG integration in investment management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG factors are too easy to measure and integrate",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The lack of standardized ESG metrics and reporting makes integration challenging",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG integration always leads to lower investment returns",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG factors are only relevant for long-term investments",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q078",
+    "moduleId": "module-06",
+    "number": 78,
+    "text": {
+      "zh": "How does ESG analysis impact the credit spread of a fixed-income security?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Good ESG performance increases the credit spread, as investors demand a higher return",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Poor ESG performance increases the credit spread, as investors demand a premium for higher credit risk",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG analysis has no impact on the credit spread",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Good ESG performance decreases the credit spread, as investors demand a lower return for higher risk",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q079",
+    "moduleId": "module-06",
+    "number": 79,
+    "text": {
+      "zh": "Which of the following is an example of a governance factor in ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A company’s water usage",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A company’s employee diversity",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A company’s board independence and oversight",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A company’s community outreach programs",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q080",
+    "moduleId": "module-06",
+    "number": 80,
+    "text": {
+      "zh": "Which of the following best describes the role of ESG data in valuation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG data is used to replace financial data in valuation models",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG data is used to adjust key valuation inputs (e.g., cash flows, discount rate) to reflect non-financial risks and opportunities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG data is irrelevant to valuation, as it is non-financial",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG data is used to determine the final valuation without any financial analysis",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q081",
+    "moduleId": "module-06",
+    "number": 81,
+    "text": {
+      "zh": "Which of the following is a key difference between ESG integration and negative screening?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG integration excludes companies with poor ESG performance, while negative screening incorporates ESG factors into financial analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG integration incorporates ESG factors into financial analysis, while negative screening excludes companies with poor ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG integration focuses on positive ESG factors, while negative screening focuses on negative factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG integration is only for equity investors, while negative screening is only for fixed-income investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q082",
+    "moduleId": "module-06",
+    "number": 82,
+    "text": {
+      "zh": "Which of the following ESG factors is most likely to be material for a consumer goods company?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon emissions from power plants",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Supply chain labor practices (social factor)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Mining practices for raw materials",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Board independence",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q083",
+    "moduleId": "module-06",
+    "number": 83,
+    "text": {
+      "zh": "How do investors address missing ESG data in their analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignore the missing data and proceed with the analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Use proxy data (e.g., industry averages) or qualitative information to fill gaps",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Exclude the company from the investment portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Assume the missing data indicates poor ESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q084",
+    "moduleId": "module-06",
+    "number": 84,
+    "text": {
+      "zh": "Which of the following best describes the \"ESG integration pyramid\"?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A framework that ranks ESG factors by their materiality",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A framework that outlines the levels of ESG integration, from basic screening to full integration into financial analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A tool to measure the financial impact of ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A tool to compare ESG ratings across different providers",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q085",
+    "moduleId": "module-06",
+    "number": 85,
+    "text": {
+      "zh": "Which of the following is a benefit of ESG integration for investors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reduced portfolio diversification",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Improved risk-adjusted returns by identifying non-financial risks and opportunities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Higher short-term returns regardless of ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reduced need for financial analysis",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q086",
+    "moduleId": "module-06",
+    "number": 86,
+    "text": {
+      "zh": "Which of the following is an example of ESG integration in hedge fund investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Shorting companies with poor ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Incorporating ESG factors into fundamental analysis to identify mispriced securities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investing only in companies with the highest ESG ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring ESG factors, as hedge funds focus on short-term returns",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q087",
+    "moduleId": "module-06",
+    "number": 87,
+    "text": {
+      "zh": "Which of the following best describes the relationship between ESG disclosure and company valuation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Higher ESG disclosure always leads to higher valuation",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Higher ESG disclosure can lead to lower valuation if the disclosed ESG performance is poor",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG disclosure has no impact on valuation",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Lower ESG disclosure always leads to higher valuation, as investors prefer less transparency",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q088",
+    "moduleId": "module-06",
+    "number": 88,
+    "text": {
+      "zh": "Which of the following is a key metric used in environmental ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Return on equity (ROE)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Carbon intensity (tons of CO2 per unit of revenue)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Board independence ratio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q089",
+    "moduleId": "module-06",
+    "number": 89,
+    "text": {
+      "zh": "Which of the following is a challenge of using ESG ratings from multiple providers?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ratings from different providers are always consistent",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Different providers use different methodologies, leading to conflicting ratings for the same company",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG ratings are not available from multiple providers",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ratings from multiple providers are too expensive to access",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q090",
+    "moduleId": "module-06",
+    "number": 90,
+    "text": {
+      "zh": "How does ESG analysis impact the terminal value in a DCF valuation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Good ESG performance increases the terminal value by reducing long-term risk",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Good ESG performance decreases the terminal value by increasing long-term costs",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG analysis has no impact on the terminal value",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Poor ESG performance increases the terminal value by increasing long-term growth",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m06-q091",
+    "moduleId": "module-06",
+    "number": 91,
+    "text": {
+      "zh": "Which of the following is an example of a social factor that could impact a company’s valuation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A company’s failure to meet carbon emissions targets",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A company’s board of directors having no independent members",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A company facing a boycott due to poor labor practices",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A company’s high debt-to-equity ratio",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*6.ESG分析，估值与整合",
+      "en": null
+    },
+    "explanation": null,
+    "source": "v7-bank",
+    "tags": []
+  }
+]

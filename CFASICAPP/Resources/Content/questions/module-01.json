@@ -1,0 +1,4152 @@
+[
+  {
+    "id": "m01-q001",
+    "moduleId": "module-01",
+    "number": 1,
+    "text": {
+      "zh": "Which of the following best defines \"sustainable investment\"?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investing only in assets of environmental protection industries",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "An investment method that pursues financial returns while taking into account environmental, social, and governance (ESG) factors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investments that abandon financial returns and prioritize social value",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Investing only in companies with an ESG rating of AAA",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The core of sustainable investment is the \"dual goal\", which is to balance financial returns and ESG value. It does not mean abandoning financial returns or being limited to specific industries/ratings. A, C, and D are all one-sided: A limits the industry, C negates financial returns, and D limits the rating, all of which do not conform to the core definition of sustainable investment.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q002",
+    "moduleId": "module-01",
+    "number": 2,
+    "text": {
+      "zh": "In sustainable investment, what do the three letters ESG stand for?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Environmental, Social, Governance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Economic, Social, Governance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Environmental, Service, Governance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Environmental, Social, Growth",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*ESG is the core analytical framework for sustainable investment, with the standard definition of Environmental, Social, and Governance. The other options have incorrect letter correspondences.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q003",
+    "moduleId": "module-01",
+    "number": 3,
+    "text": {
+      "zh": "Which of the following is NOT a core consideration in the \"Environmental (E)\" dimension of the ESG framework?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Carbon emissions and climate risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Water resource management",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Employee compensation and benefits",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Waste disposal",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Employee compensation and benefits belong to the \"Social (S)\" dimension, focusing on the relationship between the enterprise and its employees. A, B, and D all belong to the environmental dimension, focusing on climate, water resources, waste, and other environment-related issues.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q004",
+    "moduleId": "module-01",
+    "number": 4,
+    "text": {
+      "zh": "What is the core difference between sustainable investment and traditional investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Higher investment return rate",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Shorter investment period",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Whether to incorporate ESG factors into investment decisions",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Investing only in non-fossil energy industries",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Traditional investment mainly focuses on financial indicators, while sustainable investment additionally incorporates ESG factor evaluation on the basis of financial analysis, which is the core difference between the two. A is incorrect (sustainable investment does not necessarily have a higher return rate), B is incorrect (the investment period is usually longer), and D is incorrect (the investment scope is not limited to non-fossil energy).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q005",
+    "moduleId": "module-01",
+    "number": 5,
+    "text": {
+      "zh": "Which of the following belongs to the consideration content of the \"Social (S)\" dimension in the ESG framework?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Board independence",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Supply chain labor standards",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Carbon reduction targets",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Financial report transparency",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Supply chain labor standards focus on the relationship between the enterprise and its supply chain partners and employees, belonging to the social dimension. A and D belong to the Governance (G) dimension, and C belongs to the Environmental (E) dimension.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q006",
+    "moduleId": "module-01",
+    "number": 6,
+    "text": {
+      "zh": "What is the core purpose of the \"Governance (G)\" dimension in sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reduce corporate carbon emissions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Ensure the fairness, transparency and accountability of corporate decisions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Improve employee satisfaction",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reduce corporate operating costs",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The governance dimension focuses on internal corporate management, with the core of ensuring the long-term healthy operation of the enterprise by improving the board structure, enhancing decision-making transparency, and clarifying the accountability mechanism. A belongs to the environmental dimension, C belongs to the social dimension, and D is a possible result of governance optimization, not the core purpose.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q007",
+    "moduleId": "module-01",
+    "number": 7,
+    "text": {
+      "zh": "Which of the following investment strategies is NOT a common strategy for sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Negative Screening",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Positive Screening",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Passive investment focusing only on financial indicators",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Stewardship (Shareholder Engagement)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Passive investment that only focuses on financial indicators is a traditional investment strategy that does not incorporate ESG factors. A, B, and D are all common strategies for sustainable investment: Negative Screening excludes companies with high ESG risks, Positive Screening selects companies with high ESG performance, and Stewardship promotes corporate ESG improvement through exercising rights.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q008",
+    "moduleId": "module-01",
+    "number": 8,
+    "text": {
+      "zh": "What is the core logic of the Negative Screening strategy?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Proactively select enterprises with the best ESG performance for investment",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Exclude enterprises that meet specific negative ESG standards (such as tobacco, weapons)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Invest only in enterprises in the environmental protection industry",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Adjust investment weights according to ESG ratings",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Negative Screening is a basic strategy for sustainable investment, with the core of the \"exclusion method\", that is, eliminating enterprises/industries that do not conform to ESG ethics or have high ESG risks. A is Positive Screening, C is industry limitation, and D is the practice of the ESG Integration strategy.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q009",
+    "moduleId": "module-01",
+    "number": 9,
+    "text": {
+      "zh": "What is the main difference between the Positive Screening strategy and the Negative Screening strategy?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Positive Screening focuses on financial returns, while Negative Screening focuses on ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Positive Screening proactively selects high-quality ESG enterprises, while Negative Screening passively excludes poor ESG enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Positive Screening only invests in the new energy industry, while Negative Screening only excludes the fossil energy industry",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Positive Screening is suitable for institutional investors, while Negative Screening is suitable for individual investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The core difference between the two strategies lies in the investment logic: Positive Screening takes the initiative to select enterprises with excellent ESG performance, while Negative Screening passively excludes enterprises with high ESG risks or violating ESG ethics. A is incorrect (both focus on ESG performance on the basis of financial returns), C is incorrect (the scope is not limited to specific industries), D is incorrect (both are suitable for all types of investors).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q010",
+    "moduleId": "module-01",
+    "number": 10,
+    "text": {
+      "zh": "Which of the following belongs to the scope of the \"Governance (G)\" dimension in the ESG framework?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Corporate water consumption management",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Employee training and development",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Board composition and independence",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Carbon emission reduction measures",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Board composition and independence are core contents of the governance dimension, which directly affect the scientificity and transparency of corporate decision-making. A and D belong to the environmental dimension, and B belongs to the social dimension.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q011",
+    "moduleId": "module-01",
+    "number": 11,
+    "text": {
+      "zh": "What does \"ESG Integration\" in sustainable investment refer to?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Separately investing in environmental, social, and governance-related assets",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Incorporating ESG factors into traditional financial analysis and investment decision-making processes",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Only investing in enterprises with perfect ESG systems",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Abandoning financial analysis and only using ESG indicators for investment",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*ESG Integration is a core strategy of sustainable investment, which refers to integrating ESG factors into the entire process of traditional financial analysis and investment decision-making, rather than separating ESG from financial analysis or abandoning financial analysis. A, C, and D are all misunderstandings of ESG Integration.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q012",
+    "moduleId": "module-01",
+    "number": 12,
+    "text": {
+      "zh": "Which of the following is an example of the Positive Screening strategy?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Excluding tobacco and weapons companies from the investment portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Selecting the top 20% of enterprises with ESG ratings in each industry for investment",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Adjusting the investment weight of enterprises according to their carbon emission levels",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Engaging with management to improve corporate ESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Positive Screening is to take the initiative to select enterprises with excellent ESG performance. Selecting the top 20% of enterprises with ESG ratings in each industry is a typical Positive Screening practice. A is Negative Screening, C is ESG Integration, and D is Stewardship.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q013",
+    "moduleId": "module-01",
+    "number": 13,
+    "text": {
+      "zh": "Which of the following is NOT an environmental risk faced by enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Fines for environmental pollution",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Rising costs due to water scarcity",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Labor disputes in the supply chain",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Policy risks brought by carbon emission reduction regulations",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Labor disputes in the supply chain belong to social risks, which are related to the relationship between enterprises and employees/supply chain partners. A, B, and D are all environmental risks, involving environmental pollution, resource scarcity, and policy changes related to the environment.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q014",
+    "moduleId": "module-01",
+    "number": 14,
+    "text": {
+      "zh": "What is the significance of sustainable investment for enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reducing corporate operating costs in the short term",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Enhancing corporate long-term competitiveness and risk resistance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Obtaining government subsidies unconditionally",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Improving short-term stock prices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The significance of sustainable investment for enterprises lies in helping enterprises identify and manage ESG risks, improve brand image, and enhance long-term competitiveness and risk resistance. A is incorrect (it may increase short-term costs), C is incorrect (government subsidies are not unconditional), D is incorrect (it does not necessarily improve short-term stock prices).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q015",
+    "moduleId": "module-01",
+    "number": 15,
+    "text": {
+      "zh": "Which of the following statements about sustainable investment is correct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Sustainable investment must sacrifice financial returns to achieve ESG value",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Sustainable investment is only suitable for institutional investors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Sustainable investment can help investors avoid potential ESG-related risks",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Sustainable investment has no connection with corporate social responsibility (CSR)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Sustainable investment incorporates ESG factors into investment decisions, which can help investors identify and avoid potential ESG-related risks (such as environmental pollution fines, reputation risks). A is incorrect (sustainable investment pursues both financial returns and ESG value), B is incorrect (it is suitable for both institutional and individual investors), D is incorrect (sustainable investment and CSR are closely related, and both focus on the balanced development of enterprises and society).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q016",
+    "moduleId": "module-01",
+    "number": 16,
+    "text": {
+      "zh": "Which of the following belongs to social risks in the ESG framework?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Equipment damage caused by extreme weather",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Lack of independence of the board of directors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Consumer boycotts due to product quality issues",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Increased energy costs due to rising oil prices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Consumer boycotts due to product quality issues are social risks, which are related to the relationship between enterprises and consumers. A and D are environmental or operational risks, and B is a governance risk.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q017",
+    "moduleId": "module-01",
+    "number": 17,
+    "text": {
+      "zh": "What is the role of ESG ratings in sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Determine the investment return rate of enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Provide a reference for investors to evaluate the ESG performance of enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Mandate enterprises to implement specific ESG measures",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Replace traditional financial analysis",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*ESG ratings are an important tool for sustainable investment, which evaluate the ESG performance of enterprises through a set of indicators, providing a reference for investors to judge ESG risks and opportunities. A is incorrect (it cannot determine the investment return rate), C is incorrect (it has no mandatory effect on enterprises), D is incorrect (it cannot replace traditional financial analysis).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q018",
+    "moduleId": "module-01",
+    "number": 18,
+    "text": {
+      "zh": "Which of the following is a common ESG rating agency?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Federal Reserve",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "MSCI",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "World Bank",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "International Monetary Fund (IMF)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*MSCI is a well-known global ESG rating agency, which provides professional ESG rating services for investors. A is the central bank of the United States, C and D are international financial institutions, and none of them are ESG rating agencies.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q019",
+    "moduleId": "module-01",
+    "number": 19,
+    "text": {
+      "zh": "Which of the following statements about ESG ratings is incorrect?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Different ESG rating agencies may have different rating results for the same enterprise",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG ratings are static and will not change over time",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG ratings need to consider industry characteristics (e.g., high-emission industries focus more on environmental indicators)",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG ratings are an important reference for sustainable investment decisions",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*ESG ratings are dynamic. With the changes of enterprise ESG performance and rating standards, the ratings will be updated regularly. A, C, and D are all correct statements about ESG ratings.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q020",
+    "moduleId": "module-01",
+    "number": 20,
+    "text": {
+      "zh": "What is the core content of \"Stewardship\" in sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Selling assets with poor ESG performance in a timely manner",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Actively engaging with enterprise management to promote ESG improvement",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Only investing in enterprises with high ESG ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Excluding enterprises with high ESG risks",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Stewardship (also known as shareholder engagement) in sustainable investment refers to investors actively communicating with enterprise management, exercising shareholder rights (such as proxy voting), and promoting enterprises to improve ESG performance. A and D are Negative Screening or exit strategies, and C is Positive Screening.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q021",
+    "moduleId": "module-01",
+    "number": 21,
+    "text": {
+      "zh": "Which of the following is a common way of shareholder engagement (Stewardship)?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Selling all shares of the enterprise",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Exercising proxy voting rights",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring the ESG performance of the enterprise",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Investing in competitors of the enterprise",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Common ways of shareholder engagement include proxy voting (exercising shareholder voting rights on important proposals), one-on-one communication with enterprise management, submitting shareholder proposals, etc. A is an exit strategy, C and D are irrelevant to shareholder engagement.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q022",
+    "moduleId": "module-01",
+    "number": 22,
+    "text": {
+      "zh": "Which of the following belongs to the environmental opportunities faced by enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Development of new energy technologies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Fines for environmental violations",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Rising costs of raw materials",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Labor shortages",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The development of new energy technologies is an environmental opportunity for enterprises, which can help enterprises reduce carbon emissions, save energy costs, and open up new markets. B, C, and D are all risks (environmental risk, operational risk, social risk).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q023",
+    "moduleId": "module-01",
+    "number": 23,
+    "text": {
+      "zh": "What is the difference between sustainable investment and impact investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Sustainable investment focuses on ESG factors, while impact investment focuses on generating measurable social and environmental impacts",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Sustainable investment abandons financial returns, while impact investment pursues financial returns",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Sustainable investment is only for listed companies, while impact investment is only for unlisted companies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Sustainable investment is passive, while impact investment is active",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The core difference between the two is their focus: sustainable investment focuses on incorporating ESG factors into investment decisions to balance financial returns and ESG value; impact investment focuses on generating measurable social and environmental impacts while obtaining financial returns. B, C, and D are all incorrect descriptions.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q024",
+    "moduleId": "module-01",
+    "number": 24,
+    "text": {
+      "zh": "Which of the following is an example of impact investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investing in a solar energy company to reduce carbon emissions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Excluding tobacco companies from the investment portfolio",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Adjusting the investment weight according to ESG ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Exercising proxy voting rights to improve corporate governance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Impact investment focuses on generating measurable environmental or social impacts. Investing in a solar energy company to reduce carbon emissions has a clear and measurable environmental impact, which is a typical example of impact investment. B is Negative Screening, C is ESG Integration, D is Stewardship.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q025",
+    "moduleId": "module-01",
+    "number": 25,
+    "text": {
+      "zh": "Which of the following statements about corporate social responsibility (CSR) is correct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "CSR is the same as ESG",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "CSR focuses on the social responsibility of enterprises, while ESG is a broader analytical framework covering environment, social, and governance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "CSR has no connection with sustainable investment",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "CSR is only required for large enterprises",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*CSR focuses on the social responsibility of enterprises (such as employee care, public welfare), while ESG is a broader analytical framework covering three dimensions: environment, social, and governance. CSR is part of the social dimension in ESG. A is incorrect (the two are not the same), C is incorrect (CSR is an important part of sustainable investment), D is incorrect (CSR is applicable to all enterprises).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q026",
+    "moduleId": "module-01",
+    "number": 26,
+    "text": {
+      "zh": "Which of the following is NOT a governance risk in the ESG framework?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Insider trading",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Lack of transparency in financial reporting",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Carbon emission exceeding the standard",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Conflict of interest between the board of directors and shareholders",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Carbon emission exceeding the standard is an environmental risk, which belongs to the environmental dimension. A, B, and D are all governance risks, involving the integrity of corporate management, information disclosure, and the interests of shareholders.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q027",
+    "moduleId": "module-01",
+    "number": 27,
+    "text": {
+      "zh": "What is the main driving force for the development of sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Government regulations and policy guidance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Short-term pursuit of high investment returns",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reduction of investment scope",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Simplification of investment decision-making",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The main driving forces for the development of sustainable investment include government regulations (such as mandatory ESG disclosure policies), policy guidance (such as subsidies for green investment), investor demand for risk management, etc. B is incorrect (sustainable investment focuses on long-term returns), C and D are incorrect (they are not driving forces, but may be the opposite).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q028",
+    "moduleId": "module-01",
+    "number": 28,
+    "text": {
+      "zh": "Which of the following governments has issued mandatory ESG disclosure policies for enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "United States (SEC)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "All countries in the world",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Only European countries",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "No country has issued such policies",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The U.S. Securities and Exchange Commission (SEC) has issued mandatory ESG disclosure policies, requiring listed companies to disclose climate-related risks and other ESG information. B and C are incorrect (not all countries or only European countries have issued such policies), D is incorrect (many countries have issued relevant policies).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q029",
+    "moduleId": "module-01",
+    "number": 29,
+    "text": {
+      "zh": "Which of the following is a challenge faced by sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Too many ESG data sources",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Inconsistent ESG standards and poor data comparability",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "High short-term investment returns",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Too simple investment decision-making process",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*A major challenge in sustainable investment is the lack of unified global ESG standards. Different enterprises and rating agencies have different ESG indicators and calibers, leading to poor data comparability. A is not a challenge, C and D are incorrect (sustainable investment does not necessarily have high short-term returns, and the decision-making process is more complex than traditional investment).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q030",
+    "moduleId": "module-01",
+    "number": 30,
+    "text": {
+      "zh": "What is the meaning of \"materiality\" in ESG analysis?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The accuracy of ESG data",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The importance of ESG issues to the long-term value and risk of enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The timeliness of ESG data disclosure",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "The completeness of ESG data",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Materiality in ESG analysis refers to the importance of ESG issues to the long-term value and risk of enterprises. That is, whether an ESG issue will have a significant impact on the enterprise's financial performance, reputation, or operational stability. A, C, and D are all indicators of ESG data quality, not materiality.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q031",
+    "moduleId": "module-01",
+    "number": 31,
+    "text": {
+      "zh": "Which of the following ESG issues is considered a \"material issue\" for a high-emission enterprise?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Employee training costs",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Carbon emission levels and climate risks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Office space rental costs",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Number of employees",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*For high-emission enterprises, carbon emission levels and climate risks have a significant impact on their operational costs, policy compliance, and long-term development, so they are material issues. A, C, and D are not core ESG issues for high-emission enterprises.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q032",
+    "moduleId": "module-01",
+    "number": 32,
+    "text": {
+      "zh": "Which of the following statements about ESG data is correct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG data can only be obtained from enterprise self-disclosure",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG data from third-party agencies is always more reliable than enterprise self-disclosure",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG data quality includes accuracy, completeness, timeliness, and comparability",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG data does not need to be verified",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The core indicators of ESG data quality include accuracy (authenticity of data), completeness (no missing key information), timeliness (timely update), and comparability (unified caliber). A is incorrect (ESG data can also be obtained from third-party agencies), B is incorrect (third-party data may also have errors), D is incorrect (ESG data needs to be verified to ensure accuracy).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q033",
+    "moduleId": "module-01",
+    "number": 33,
+    "text": {
+      "zh": "Which of the following is a primary source of ESG data?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG ratings released by MSCI",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG reports voluntarily disclosed by enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG research reports issued by securities companies",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG data summaries from financial data platforms",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Primary sources of ESG data refer to original information directly released by enterprises, such as corporate ESG reports, annual reports, and social responsibility reports. Secondary sources refer to data processed and sorted out by third parties, such as MSCI ratings, securities company research reports, and platform data summaries. A, C, and D are all secondary sources.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q034",
+    "moduleId": "module-01",
+    "number": 34,
+    "text": {
+      "zh": "What is the impact of ESG factors on corporate valuation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG factors have no impact on corporate valuation",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Good ESG performance can reduce corporate risk premiums and improve valuation",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Good ESG performance will reduce corporate valuation",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG factors only affect the valuation of environmental protection enterprises",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Good ESG performance can help enterprises reduce risks (such as environmental fines, reputation risks), reduce investor risk premiums, and thus improve corporate valuation. A, C, and D are incorrect (ESG factors affect the valuation of all types of enterprises, and good ESG performance is conducive to improving valuation).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q035",
+    "moduleId": "module-01",
+    "number": 35,
+    "text": {
+      "zh": "Which of the following is a common method for integrating ESG factors into corporate valuation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignoring ESG factors and only using financial indicators",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Adjusting the discount rate according to ESG risk levels",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Only considering ESG factors and abandoning financial analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Using the same valuation method for all enterprises regardless of ESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*A common method for integrating ESG factors into corporate valuation is to adjust the discount rate: enterprises with high ESG risks have higher discount rates (higher risk premiums), and enterprises with good ESG performance have lower discount rates. A is traditional valuation, C is incorrect (cannot abandon financial analysis), D is incorrect (needs to adjust according to ESG performance).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q036",
+    "moduleId": "module-01",
+    "number": 36,
+    "text": {
+      "zh": "Which of the following statements about sustainable investment portfolios is correct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Sustainable investment portfolios must only include environmental protection enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Sustainable investment portfolios can achieve both financial returns and ESG value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Sustainable investment portfolios have lower risk than traditional investment portfolios",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Sustainable investment portfolios have higher short-term returns than traditional investment portfolios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The core of sustainable investment portfolios is to balance financial returns and ESG value, and they are not limited to environmental protection enterprises. A is incorrect (the scope is not limited), C is incorrect (it does not necessarily have lower risk), D is incorrect (it does not necessarily have higher short-term returns).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q037",
+    "moduleId": "module-01",
+    "number": 37,
+    "text": {
+      "zh": "Which of the following is a way to construct a sustainable investment portfolio?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Randomly selecting enterprises for investment",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Selecting enterprises with high ESG ratings and stable financial performance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Excluding all enterprises in high-emission industries",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Investing only in unlisted enterprises",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Constructing a sustainable investment portfolio needs to comprehensively consider ESG performance and financial performance, selecting enterprises with high ESG ratings and stable financial performance. A is random investment, C is too extreme (not all high-emission enterprises have poor ESG performance), D is incorrect (it can invest in both listed and unlisted enterprises).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q038",
+    "moduleId": "module-01",
+    "number": 38,
+    "text": {
+      "zh": "Which of the following is NOT a social opportunity for enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Expanding market share through responsible supply chain management",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Attracting outstanding talents through good employee care",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reducing energy consumption through technological innovation",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Gaining consumer trust through product safety and environmental protection",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Reducing energy consumption through technological innovation is an environmental opportunity, which belongs to the environmental dimension. A, B, and D are all social opportunities, involving supply chain, employees, and consumers.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q039",
+    "moduleId": "module-01",
+    "number": 39,
+    "text": {
+      "zh": "What is the role of proxy voting in sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To allow investors to entrust others to exercise their shareholder voting rights",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To force enterprises to implement specific ESG measures",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To replace ESG ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "To increase short-term investment returns",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Proxy voting is an important tool for sustainable investment, allowing investors (especially institutional investors) to entrust proxy institutions or others to exercise their shareholder voting rights on their behalf, participating in corporate decisions (such as ESG-related proposals). B is incorrect (it cannot force enterprises), C is incorrect (it cannot replace ESG ratings), D is incorrect (it has no direct impact on short-term returns).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q040",
+    "moduleId": "module-01",
+    "number": 40,
+    "text": {
+      "zh": "Which of the following statements about proxy advisory firms is correct? 纠错取消 A Proxy advisory firms manage investors' portfolios directly B Proxy advisory firms provide advice on proxy voting decisions to investors C Proxy advisory firms set ESG rating standards for enterprises D Proxy advisory firms force enterprises to improve ESG performance 【单选题】 正确答案：B 你的答案： 考点：1.可持续投资导论 答案解析： Proxy advisory firms (such as ISS, Glass Lewis) provide professional advice on proxy voting to investors, including analyzing corporate proposals and making voting recommendations. A is the role of fund managers, C is the role of ESG rating agencies, D is incorrect (they cannot force enterprises). 我的笔记： 41Which of the following is a limitation of ESG ratings?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG ratings are too comprehensive",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Different rating agencies have different rating frameworks, leading to inconsistent results",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG ratings are updated too frequently",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG ratings only focus on large enterprises",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*A major limitation of ESG ratings is that different rating agencies have different rating indicators, weight settings, and data sources, leading to inconsistent rating results for the same enterprise. A, C, and D are not limitations (comprehensiveness is an advantage, updates are necessary, and ratings are applicable to all types of enterprises).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q041",
+    "moduleId": "module-01",
+    "number": 41,
+    "text": {
+      "zh": "What is the difference between \"green investment\" and \"sustainable investment\"?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Green investment focuses on environmental factors, while sustainable investment covers E, S, G three dimensions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Green investment pursues financial returns, while sustainable investment does not",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Green investment is only for institutional investors, while sustainable investment is for individual investors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Green investment is a passive strategy, while sustainable investment is an active strategy",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Green investment mainly focuses on environmental factors (such as renewable energy, environmental protection), while sustainable investment is a broader concept, covering environmental, social, and governance three dimensions. B is incorrect (both pursue financial returns), C is incorrect (both are suitable for all types of investors), D is incorrect (both can adopt active or passive strategies).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q042",
+    "moduleId": "module-01",
+    "number": 42,
+    "text": {
+      "zh": "Which of the following is an example of green investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investing in a company that improves labor standards",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Investing in a wind power company",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investing in a company with perfect corporate governance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Investing in a company that donates to public welfare",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Green investment focuses on environmental protection and energy conservation. Investing in a wind power company (a renewable energy enterprise) is a typical example of green investment. A and D are social investment, C is governance investment.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q043",
+    "moduleId": "module-01",
+    "number": 43,
+    "text": {
+      "zh": "Which of the following statements about the Principles for Responsible Investment (PRI) is correct? 纠错取消 A PRI is a mandatory regulation for all investors B PRI signatories are required to integrate ESG factors into investment decisions C PRI only accepts corporate signatories, not investor signatories D PRI sets uniform ESG rating standards for all enterprises 【单选题】 正确答案：B 你的答案： 考点：1.可持续投资导论 答案解析： PRI (Principles for Responsible Investment) is a voluntary initiative. Signatories are required to integrate ESG factors into investment decisions and stewardship practices. A is incorrect (it is voluntary), C is incorrect (main signatories are investors), D is incorrect (it does not set ESG rating standards). 我的笔记： 45What is the core principle of PRI?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Pursuing maximum short-term financial returns",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Integrating ESG factors into investment decision-making and stewardship",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Excluding all high-emission enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Investing only in green industries",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The core principle of PRI is to require signatories to incorporate ESG factors into the entire investment process, including investment decision-making, portfolio management, and stewardship (shareholder engagement). A, C, and D are not core principles of PRI.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q044",
+    "moduleId": "module-01",
+    "number": 44,
+    "text": {
+      "zh": "Which of the following is a social factor considered in sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Corporate energy consumption",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Board diversity",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Supply chain labor rights protection",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Carbon emission intensity",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Supply chain labor rights protection is a social factor, focusing on the relationship between enterprises and supply chain employees. A and D are environmental factors, B is a governance factor.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q045",
+    "moduleId": "module-01",
+    "number": 45,
+    "text": {
+      "zh": "What is the impact of poor ESG performance on enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reducing corporate operational costs",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Increasing corporate financing costs",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Improving corporate brand image",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Attracting more investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Poor ESG performance will increase corporate risks (such as environmental fines, reputation risks), leading to higher financing costs (investors require higher risk premiums). A, C, and D are incorrect (poor ESG performance will increase costs, damage brand image, and reduce investor attractiveness).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q046",
+    "moduleId": "module-01",
+    "number": 46,
+    "text": {
+      "zh": "Which of the following is a governance factor in the ESG framework?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Corporate water resource management",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Employee health and safety",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Financial report transparency",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Product environmental friendliness",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Financial report transparency is a core governance factor, which reflects the integrity and transparency of corporate management. A and D are environmental factors, B is a social factor.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q047",
+    "moduleId": "module-01",
+    "number": 47,
+    "text": {
+      "zh": "Which of the following statements about sustainable investment performance is correct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Sustainable investment always outperforms traditional investment in the short term",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Sustainable investment tends to outperform traditional investment in the long term",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Sustainable investment has no difference from traditional investment in performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Sustainable investment always underperforms traditional investment",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*In the short term, sustainable investment may not outperform traditional investment due to factors such as ESG investment costs; but in the long term, by managing ESG risks and seizing ESG opportunities, sustainable investment tends to outperform traditional investment. A, C, and D are incorrect.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q048",
+    "moduleId": "module-01",
+    "number": 48,
+    "text": {
+      "zh": "Which of the following is a way to evaluate the performance of a sustainable investment portfolio?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Only using financial indicators (such as return rate)",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Only using ESG indicators (such as ESG rating)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Combining financial indicators and ESG indicators",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring both financial and ESG indicators",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The performance evaluation of sustainable investment portfolios needs to combine financial indicators (such as return rate, risk) and ESG indicators (such as portfolio ESG rating, impact on society and the environment), which is consistent with the dual goal of sustainable investment. A, B, and D are incorrect (cannot only use one type of indicator or ignore both).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q049",
+    "moduleId": "module-01",
+    "number": 49,
+    "text": {
+      "zh": "Which of the following is NOT an environmental factor in the ESG framework?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Waste management",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Biodiversity protection",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Customer satisfaction",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Air pollution control",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Customer satisfaction is a social factor, focusing on the relationship between enterprises and customers. A, B, and D are all environmental factors, involving waste, biodiversity, and air pollution.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q050",
+    "moduleId": "module-01",
+    "number": 50,
+    "text": {
+      "zh": "What is the meaning of \"negative externalities\" in the context of sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The positive impact of enterprises on society and the environment",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The negative impact of enterprises on society and the environment that is not borne by the enterprises themselves",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The financial losses caused by poor ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "The positive impact of sustainable investment on investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Negative externalities refer to the negative impacts of enterprise operations on society and the environment (such as environmental pollution), which are not borne by the enterprises themselves but by the public or the environment. A is positive externalities, C and D are not externalities.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q051",
+    "moduleId": "module-01",
+    "number": 51,
+    "text": {
+      "zh": "Which of the following is an example of negative externalities of enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reducing energy consumption through technological innovation",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Emitting pollutants into the air without treatment",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Providing training for employees",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Donating to environmental protection projects",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Emitting pollutants into the air without treatment will cause air pollution, which is a negative externality (the enterprise does not bear the full cost of pollution). A, C, and D are positive behaviors of enterprises, without negative externalities.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q052",
+    "moduleId": "module-01",
+    "number": 52,
+    "text": {
+      "zh": "How can sustainable investment help reduce negative externalities of enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "By excluding enterprises with negative externalities",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "By engaging with enterprises to reduce their negative impacts",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "By ignoring the negative externalities of enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "By investing more in enterprises with negative externalities",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Sustainable investment can reduce corporate negative externalities through stewardship (such as engaging with enterprises to improve environmental protection measures) and screening strategies (excluding enterprises with serious negative externalities). A is a supplementary method, C and D are incorrect (cannot ignore or increase investment in such enterprises).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q053",
+    "moduleId": "module-01",
+    "number": 53,
+    "text": {
+      "zh": "Which of the following statements about ESG disclosure is correct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG disclosure is voluntary for all enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG disclosure can help enterprises improve transparency and attract investors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG disclosure has no impact on enterprise operations",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG disclosure only needs to include positive information",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*ESG disclosure can help enterprises improve information transparency, demonstrate their ESG performance, and attract investors who pay attention to sustainable investment. A is incorrect (some countries/regions require mandatory ESG disclosure), C is incorrect (it can affect enterprise operations and brand image), D is incorrect (it needs to include both positive and negative information).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q054",
+    "moduleId": "module-01",
+    "number": 54,
+    "text": {
+      "zh": "Which of the following is a common ESG disclosure framework?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "MSCI ESG Rating",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Global Reporting Initiative (GRI)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ISS Proxy Voting Guidelines",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "PRI Principles",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*GRI (Global Reporting Initiative) is a common ESG disclosure framework, providing guidelines for enterprises to disclose ESG information. A is an ESG rating system, C is proxy voting guidelines, D is a responsible investment principle.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q055",
+    "moduleId": "module-01",
+    "number": 55,
+    "text": {
+      "zh": "What is the difference between mandatory ESG disclosure and voluntary ESG disclosure?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Mandatory disclosure is required by law, while voluntary disclosure is initiated by enterprises themselves",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Mandatory disclosure only includes environmental factors, while voluntary disclosure includes E, S, G three dimensions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Mandatory disclosure is only for large enterprises, while voluntary disclosure is only for small and medium-sized enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Mandatory disclosure has no standards, while voluntary disclosure has strict standards",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The core difference is the driving force: mandatory disclosure is required by laws and regulations (such as SEC requirements in the United States), while voluntary disclosure is initiated by enterprises to demonstrate their ESG performance. B, C, and D are incorrect (mandatory disclosure also covers E, S, G three dimensions, is applicable to relevant enterprises regardless of size, and has clear standards).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q056",
+    "moduleId": "module-01",
+    "number": 56,
+    "text": {
+      "zh": "Which of the following is a challenge in ESG disclosure?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Too few disclosure indicators",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Inconsistent disclosure standards between enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Too high disclosure costs for small and medium-sized enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Both B and C",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "D",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Challenges in ESG disclosure include inconsistent disclosure standards (different enterprises use different indicators and calibers), high disclosure costs for small and medium-sized enterprises (lack of professional personnel and funds), and incomplete disclosure content. A is incorrect (there are many disclosure indicators).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q057",
+    "moduleId": "module-01",
+    "number": 57,
+    "text": {
+      "zh": "Which of the following belongs to the governance opportunities for enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Improving operational efficiency through perfect board governance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Reducing carbon emissions through renewable energy",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Improving employee satisfaction through salary increases",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Expanding market share through product innovation",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Improving operational efficiency through perfect board governance is a governance opportunity, which can help enterprises make more scientific decisions and reduce operational risks. B is an environmental opportunity, C is a social opportunity, D is an operational opportunity.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q058",
+    "moduleId": "module-01",
+    "number": 58,
+    "text": {
+      "zh": "What is the role of sustainable investment in addressing climate change?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "By investing in fossil energy industries to increase energy supply",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "By investing in renewable energy and low-carbon technologies to reduce carbon emissions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "By ignoring climate change factors in investment decisions",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "By excluding all high-emission enterprises regardless of their ESG improvement potential",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Sustainable investment plays an important role in addressing climate change by investing in renewable energy, low-carbon technologies, and other fields, promoting the transition to a low-carbon economy and reducing global carbon emissions. A, C, and D are incorrect (investing in fossil energy, ignoring climate change, and being too extreme are not conducive to addressing climate change).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q059",
+    "moduleId": "module-01",
+    "number": 59,
+    "text": {
+      "zh": "Which of the following is a climate-related risk for enterprises?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Rising costs due to carbon emission reduction regulations",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Labor disputes",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Board of directors' decision-making errors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Raw material price fluctuations unrelated to climate",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Rising costs due to carbon emission reduction regulations are climate-related risks, which are directly affected by climate change policies. B is a social risk, C is a governance risk, D is an operational risk unrelated to climate.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q060",
+    "moduleId": "module-01",
+    "number": 60,
+    "text": {
+      "zh": "Which of the following statements about climate-related financial disclosures (TCFD) is correct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "TCFD only applies to financial institutions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "TCFD provides guidelines for enterprises to disclose climate-related risks and opportunities",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "TCFD is a mandatory disclosure requirement for all enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "TCFD only focuses on climate-related risks, not opportunities",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*TCFD (Task Force on Climate-related Financial Disclosures) provides a set of guidelines for enterprises (including financial institutions and non-financial institutions) to disclose climate-related risks and opportunities. A is incorrect (it applies to all enterprises), C is incorrect (it is voluntary), D is incorrect (it covers both risks and opportunities).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q061",
+    "moduleId": "module-01",
+    "number": 61,
+    "text": {
+      "zh": "Which of the following is an example of TCFD disclosure content?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Enterprise employee turnover rate",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Climate-related risk management measures",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Corporate financial statements",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Enterprise market share",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*TCFD disclosure content mainly includes climate-related risks, opportunities, risk management measures, and governance. Climate-related risk management measures are a typical TCFD disclosure content. A is a social indicator, C is financial information, D is operational information.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q062",
+    "moduleId": "module-01",
+    "number": 62,
+    "text": {
+      "zh": "Which of the following is a social risk for financial institutions?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Credit risk caused by enterprise ESG defaults",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Carbon emission exceeding the standard",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Lack of board independence",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Rising interest rates",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*For financial institutions, credit risk caused by enterprise ESG defaults (such as enterprises failing to repay loans due to environmental fines) is a social risk. B is an environmental risk, C is a governance risk, D is an operational risk.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q063",
+    "moduleId": "module-01",
+    "number": 63,
+    "text": {
+      "zh": "How do financial institutions integrate ESG factors into credit decisions?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignoring ESG factors and only considering financial indicators",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Rejecting all loan applications from high-emission enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Evaluating the ESG risks of borrowers to adjust loan interest rates and credit limits",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Only providing loans to enterprises with ESG rating of AAA",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Financial institutions integrate ESG factors into credit decisions by evaluating the ESG risks of borrowers (such as environmental pollution risks, social responsibility risks), and adjust loan interest rates (higher interest rates for high ESG risks) and credit limits accordingly. A is traditional credit decision-making, B and D are too extreme.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q064",
+    "moduleId": "module-01",
+    "number": 64,
+    "text": {
+      "zh": "Which of the following statements about sustainable investment in the private equity industry is correct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Private equity funds do not need to consider ESG factors because they invest in unlisted enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Private equity funds can promote ESG improvement of portfolio enterprises through post-investment management",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Sustainable investment is not suitable for private equity funds",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Private equity funds only focus on financial returns and ignore ESG factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Private equity funds can promote the ESG improvement of portfolio enterprises through post-investment management (such as providing ESG consulting, formulating improvement plans), which is an important part of sustainable investment in the private equity industry. A, C, and D are incorrect (private equity funds also need to consider ESG factors, and sustainable investment is suitable for them).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q065",
+    "moduleId": "module-01",
+    "number": 65,
+    "text": {
+      "zh": "Which of the following is a way for private equity funds to practice sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investing in enterprises with poor ESG performance to obtain high returns",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Providing ESG training for portfolio enterprise management teams",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring the ESG performance of portfolio enterprises",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Selling portfolio enterprises immediately after investment",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Providing ESG training for portfolio enterprise management teams is a way for private equity funds to practice sustainable investment, helping enterprises improve ESG performance and long-term value. A, C, and D are not sustainable investment practices.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q066",
+    "moduleId": "module-01",
+    "number": 66,
+    "text": {
+      "zh": "Which of the following is a limitation of sustainable investment in the real estate industry?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Real estate projects have no ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Real estate projects have long cycles, making ESG improvement difficult",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Real estate industry has no ESG opportunities",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Real estate investors do not pay attention to ESG factors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Real estate projects have long construction and operation cycles, and ESG improvement (such as energy conservation and emission reduction, green building construction) requires long-term investment and management, which is a limitation of sustainable investment in the real estate industry. A, C, and D are incorrect (real estate projects have ESG risks and opportunities, and investors are paying more and more attention to ESG factors).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q067",
+    "moduleId": "module-01",
+    "number": 67,
+    "text": {
+      "zh": "Which of the following is an ESG consideration for real estate investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Location of the project",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Green building certification (such as LEED)",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Project construction cost",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Rental income",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Green building certification (such as LEED) is an important ESG consideration for real estate investment, reflecting the environmental performance of the project (such as energy conservation, water conservation, and environmental protection). A, C, and D are traditional real estate investment considerations.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q068",
+    "moduleId": "module-01",
+    "number": 68,
+    "text": {
+      "zh": "Which of the following statements about sustainable investment for individual investors is correct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Individual investors cannot practice sustainable investment",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Individual investors can practice sustainable investment by investing in ESG funds",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Sustainable investment is only suitable for institutional investors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Individual investors need to have professional ESG knowledge to practice sustainable investment",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Individual investors can easily practice sustainable investment by investing in ESG funds (funds that integrate ESG factors), without the need for professional ESG knowledge. A, C, and D are incorrect (individual investors can practice sustainable investment, and it is not limited to institutional investors).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q069",
+    "moduleId": "module-01",
+    "number": 69,
+    "text": {
+      "zh": "Which of the following is an ESG fund?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A fund that only invests in stocks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A fund that integrates ESG factors into investment decisions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A fund that only invests in green industries",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "A fund that has no risk",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*ESG funds refer to funds that integrate ESG factors into the entire investment process (from screening to portfolio management), rather than being limited to specific industries or asset types. A is a stock fund, C is a green fund, D is incorrect (all funds have risks).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q070",
+    "moduleId": "module-01",
+    "number": 70,
+    "text": {
+      "zh": "Which of the following is a way for individual investors to evaluate ESG funds?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Only looking at the fund's return rate",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Only looking at the fund's ESG rating",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Combining the fund's return rate, risk, and ESG performance",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Ignoring the fund's ESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*When evaluating ESG funds, individual investors should comprehensively consider the fund's financial performance (return rate, risk) and ESG performance (portfolio ESG rating, ESG integration level), which is consistent with the dual goal of sustainable investment. A, B, and D are incorrect (cannot only focus on one aspect or ignore ESG performance).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q071",
+    "moduleId": "module-01",
+    "number": 71,
+    "text": {
+      "zh": "Which of the following is a common misunderstanding of sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Sustainable investment pursues both financial returns and ESG value",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Sustainable investment is the same as green investment",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Sustainable investment can help manage investment risks",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Sustainable investment is suitable for long-term investment",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*A common misunderstanding is that sustainable investment is the same as green investment. In fact, green investment focuses on environmental factors, while sustainable investment covers E, S, G three dimensions, which is a broader concept. A, C, and D are correct understandings of sustainable investment.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q072",
+    "moduleId": "module-01",
+    "number": 72,
+    "text": {
+      "zh": "Which of the following statements about sustainable investment is incorrect?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Sustainable investment is a long-term investment strategy",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Sustainable investment can help investors avoid ESG-related risks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Sustainable investment must sacrifice financial returns",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Sustainable investment is supported by government policies",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Sustainable investment does not need to sacrifice financial returns; on the contrary, it pursues the balance of financial returns and ESG value. In the long term, good ESG performance can help improve investment returns. A, B, and D are correct statements.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q073",
+    "moduleId": "module-01",
+    "number": 73,
+    "text": {
+      "zh": "Which of the following is a driver of ESG integration in investment decisions?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investor demand for risk management",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Reduction of investment options",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Simplification of investment decision-making",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Short-term investment goals",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Investor demand for risk management is an important driver of ESG integration—investors realize that ESG factors can affect investment risks and returns, so they integrate ESG into investment decisions. B, C, and D are not drivers (ESG integration may increase investment options, complicate decision-making, and focus on long-term goals).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q074",
+    "moduleId": "module-01",
+    "number": 74,
+    "text": {
+      "zh": "Which of the following is an environmental risk for the agricultural industry?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Crop failure due to climate change",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Labor shortages",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Poor farm management",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Low crop prices",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Crop failure due to climate change (such as drought, flood) is an environmental risk for the agricultural industry, which is directly related to environmental factors. B is a social risk, C is a governance risk, D is an operational risk.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q075",
+    "moduleId": "module-01",
+    "number": 75,
+    "text": {
+      "zh": "How can the agricultural industry practice sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Overusing chemical fertilizers to increase crop yields",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Adopting organic farming methods to protect the environment",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring water resource management",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Cutting down forests to expand farmland",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Adopting organic farming methods (reducing the use of chemical fertilizers and pesticides) can protect the environment and soil, which is a sustainable investment practice in the agricultural industry. A, C, and D are unsustainable practices that will cause environmental damage.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q076",
+    "moduleId": "module-01",
+    "number": 76,
+    "text": {
+      "zh": "Which of the following is a social factor for the technology industry?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Data privacy protection",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Energy consumption of servers",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Board independence",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "R&D investment",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Data privacy protection is a social factor for the technology industry, focusing on the relationship between enterprises and users. B is an environmental factor, C is a governance factor, D is an operational factor.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q077",
+    "moduleId": "module-01",
+    "number": 77,
+    "text": {
+      "zh": "Which of the following statements about ESG in the technology industry is correct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The technology industry has no environmental risks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Data security and privacy protection are important ESG issues for the technology industry",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The technology industry does not need to consider social factors",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "ESG has no impact on the technology industry's development",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Data security and privacy protection are core social issues for the technology industry, which directly affect the trust of users and the reputation of enterprises. A is incorrect (the technology industry has environmental risks such as energy consumption), C is incorrect (it needs to consider social factors), D is incorrect (ESG has an important impact on the industry's long-term development).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q078",
+    "moduleId": "module-01",
+    "number": 78,
+    "text": {
+      "zh": "Which of the following is a governance risk for the financial industry?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Credit risk",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Market risk",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Lack of internal control mechanisms",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Liquidity risk",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Lack of internal control mechanisms is a governance risk for the financial industry, which may lead to operational errors, fraud, and other issues. A, B, and D are operational risks of the financial industry.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q079",
+    "moduleId": "module-01",
+    "number": 79,
+    "text": {
+      "zh": "How can the financial industry improve its ESG performance?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Ignoring the ESG risks of borrowers",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Strengthening internal governance and risk management",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Reducing investment in green industries",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Hiding ESG-related information",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Strengthening internal governance and risk management (such as improving internal control mechanisms, establishing ESG risk assessment systems) can help the financial industry improve its ESG performance. A, C, and D are incorrect (they will reduce ESG performance).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q080",
+    "moduleId": "module-01",
+    "number": 80,
+    "text": {
+      "zh": "Which of the following is a trend in the development of sustainable investment?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reduced government regulation on ESG disclosure",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Decreased investor demand for ESG investment",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Increased integration of ESG into investment decision-making",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reduced attention to climate change issues",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*A major trend in the development of sustainable investment is that more and more investors integrate ESG factors into investment decision-making, and ESG has become an important part of investment analysis. A, B, and D are opposite to the development trend (government regulation is strengthening, investor demand is increasing, and attention to climate change is increasing).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q081",
+    "moduleId": "module-01",
+    "number": 81,
+    "text": {
+      "zh": "Which of the following is a future direction of ESG ratings?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "More unified global ESG rating standards",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "More fragmented rating frameworks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring industry characteristics in ratings",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Reducing the number of rating indicators",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*The future direction of ESG ratings is to move towards more unified global standards, reducing the inconsistency of rating results between different agencies. B, C, and D are incorrect (fragmentation will be reduced, industry characteristics will be emphasized, and the number of indicators will be more comprehensive).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q082",
+    "moduleId": "module-01",
+    "number": 82,
+    "text": {
+      "zh": "Which of the following statements about sustainable investment and corporate value is correct?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Sustainable investment has no impact on corporate value",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Good ESG performance can enhance corporate long-term value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Good ESG performance will reduce corporate value",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Sustainable investment only affects the value of large enterprises",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Good ESG performance can help enterprises reduce risks, improve brand image, and enhance long-term operational stability, thereby enhancing corporate long-term value. A, C, and D are incorrect (sustainable investment affects the value of all types of enterprises, and good ESG performance is conducive to increasing value).",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  },
+  {
+    "id": "m01-q083",
+    "moduleId": "module-01",
+    "number": 83,
+    "text": {
+      "zh": "Which of the following is an example of sustainable investment in the energy industry?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investing in coal-fired power plants",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Investing in solar power projects",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring carbon emission reduction requirements",
+          "en": null
+        }
+      },
+      {
+        "label": "D",
+        "text": {
+          "zh": "Increasing the use of fossil fuels",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "*1.可持续投资导论",
+      "en": null
+    },
+    "explanation": {
+      "zh": "*Investing in solar power projects (renewable energy) is a typical sustainable investment in the energy industry, which helps reduce carbon emissions and promote the transition to a low-carbon economy. A, C, and D are unsustainable practices.",
+      "en": null
+    },
+    "source": "v7-bank",
+    "tags": []
+  }
+]
