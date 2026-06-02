@@ -8,21 +8,43 @@ struct ErrorBookView: View {
     private var wrongAnswers: [WrongAnswerRecord]
 
     @Environment(\.modelContext) private var modelContext
-    @State private var showMastered = false
     @State private var selectedModule: String? = nil
+    @State private var showClearConfirmation = false
+    @State private var showDueOnly = false
 
     let dataLoader = DataLoader.shared
 
+    var dueForReviewCount: Int {
+        let now = Date.now
+        return wrongAnswers.filter { $0.nextReviewDate <= now }.count
+    }
+
     var filteredRecords: [WrongAnswerRecord] {
-        if let moduleId = selectedModule {
-            return wrongAnswers.filter { $0.moduleId == moduleId }
+        var records = Array(wrongAnswers)
+        if showDueOnly {
+            let now = Date.now
+            records = records.filter { $0.nextReviewDate <= now }
         }
-        return Array(wrongAnswers)
+        if let moduleId = selectedModule {
+            records = records.filter { $0.moduleId == moduleId }
+        }
+        return records
     }
 
     var groupedByModule: [(String, [WrongAnswerRecord])] {
         let grouped = Dictionary(grouping: filteredRecords, by: \.moduleId)
         return grouped.sorted { $0.key < $1.key }
+    }
+
+    // Pre-built question lookup cache for the current filtered set
+    private var questionCache: [String: Question] {
+        var cache: [String: Question] = [:]
+        for moduleId in Set(filteredRecords.map(\.moduleId)) {
+            for q in dataLoader.questions(for: moduleId) {
+                cache[q.id] = q
+            }
+        }
+        return cache
     }
 
     var body: some View {
@@ -34,13 +56,21 @@ struct ErrorBookView: View {
                     description: Text("练习中答错的题目会自动记录在这里")
                 )
             } else {
+                let cache = questionCache
                 List {
                     // Module filter
                     Section {
                         ScrollView(.horizontal, showsIndicators: false) {
                             HStack(spacing: 8) {
-                                FilterChip(label: "全部", isSelected: selectedModule == nil) {
+                                FilterChip(label: "全部", isSelected: !showDueOnly && selectedModule == nil) {
+                                    showDueOnly = false
                                     selectedModule = nil
+                                }
+                                if dueForReviewCount > 0 {
+                                    FilterChip(label: "待复习 (\(dueForReviewCount))", isSelected: showDueOnly) {
+                                        showDueOnly.toggle()
+                                        if showDueOnly { selectedModule = nil }
+                                    }
                                 }
                                 ForEach(dataLoader.modules.filter { m in
                                     wrongAnswers.contains(where: { $0.moduleId == m.id })
@@ -50,6 +80,7 @@ struct ErrorBookView: View {
                                         isSelected: selectedModule == module.id
                                     ) {
                                         selectedModule = module.id
+                                        showDueOnly = false
                                     }
                                 }
                             }
@@ -61,7 +92,10 @@ struct ErrorBookView: View {
                     ForEach(groupedByModule, id: \.0) { moduleId, records in
                         Section {
                             ForEach(records) { record in
-                                WrongAnswerRow(record: record)
+                                WrongAnswerRow(record: record, question: cache[record.questionId])
+                            }
+                            .onDelete { indexSet in
+                                deleteRecords(records, at: indexSet)
                             }
                         } header: {
                             if let module = dataLoader.module(by: moduleId) {
@@ -77,13 +111,34 @@ struct ErrorBookView: View {
         .toolbar {
             if !wrongAnswers.isEmpty {
                 Menu {
+                    Button("标记全部已掌握", role: .destructive) {
+                        markAllMastered()
+                    }
                     Button("清除全部错题", role: .destructive) {
-                        clearAll()
+                        showClearConfirmation = true
                     }
                 } label: {
                     Image(systemName: "ellipsis.circle")
                 }
             }
+        }
+        .confirmationDialog("确认清除全部错题", isPresented: $showClearConfirmation, titleVisibility: .visible) {
+            Button("清除全部", role: .destructive) { clearAll() }
+            Button("取消", role: .cancel) {}
+        } message: {
+            Text("此操作不可撤销，共 \(wrongAnswers.count) 条错题将被删除")
+        }
+    }
+
+    private func deleteRecords(_ records: [WrongAnswerRecord], at offsets: IndexSet) {
+        for index in offsets {
+            modelContext.delete(records[index])
+        }
+    }
+
+    private func markAllMastered() {
+        for record in wrongAnswers {
+            record.isMastered = true
         }
     }
 
@@ -96,11 +151,11 @@ struct ErrorBookView: View {
 
 private struct WrongAnswerRow: View {
     let record: WrongAnswerRecord
-    let dataLoader = DataLoader.shared
+    let question: Question?
 
     var body: some View {
         VStack(alignment: .leading, spacing: 4) {
-            if let question = findQuestion() {
+            if let question {
                 Text(question.text.display)
                     .font(.subheadline)
                     .lineLimit(2)
@@ -120,11 +175,14 @@ private struct WrongAnswerRow: View {
             }
         }
         .padding(.vertical, 2)
-    }
-
-    private func findQuestion() -> Question? {
-        dataLoader.questions(for: record.moduleId)
-            .first(where: { $0.id == record.questionId })
+        .swipeActions(edge: .trailing) {
+            Button {
+                record.isMastered = true
+            } label: {
+                Label("已掌握", systemImage: "checkmark.circle")
+            }
+            .tint(.green)
+        }
     }
 }
 
@@ -143,5 +201,6 @@ private struct FilterChip: View {
                 .foregroundStyle(isSelected ? .white : .primary)
                 .cornerRadius(16)
         }
+        .accessibilityAddTraits(isSelected ? .isSelected : [])
     }
 }

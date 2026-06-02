@@ -5,6 +5,8 @@ struct GlossaryListView: View {
     @State private var searchText = ""
     @State private var showFlashcards = false
     @State private var showHighFreqOnly = false
+    @State private var flashcardVM: GlossaryViewModel?
+    @State private var showSingleFlashcard = false
 
     var filteredTerms: [GlossaryTerm] {
         var terms = dataLoader.glossary
@@ -31,11 +33,14 @@ struct GlossaryListView: View {
             ForEach(grouped, id: \.0) { letter, terms in
                 Section {
                     ForEach(terms) { term in
-                        NavigationLink {
-                            FlashcardView(viewModel: GlossaryViewModel(terms: [term] + terms.filter { $0.id != term.id }))
+                        Button {
+                            let ordered = [term] + filteredTerms.filter { $0.id != term.id }
+                            flashcardVM = GlossaryViewModel(terms: ordered)
+                            showSingleFlashcard = true
                         } label: {
                             GlossaryRow(term: term)
                         }
+                        .buttonStyle(.plain)
                     }
                 } header: {
                     Text(letter)
@@ -53,11 +58,21 @@ struct GlossaryListView: View {
                     Image(systemName: showHighFreqOnly ? "star.fill" : "star")
                         .foregroundStyle(showHighFreqOnly ? .yellow : .secondary)
                 }
+                .accessibilityLabel(showHighFreqOnly ? "显示全部术语" : "仅显示高频术语")
 
                 Button {
+                    flashcardVM = GlossaryViewModel(terms: Array(filteredTerms))
                     showFlashcards = true
                 } label: {
                     Image(systemName: "rectangle.on.rectangle.angled")
+                }
+                .accessibilityLabel("闪卡模式")
+            }
+        }
+        .sheet(isPresented: $showSingleFlashcard) {
+            if let vm = flashcardVM {
+                NavigationStack {
+                    FlashcardView(viewModel: vm)
                 }
             }
         }

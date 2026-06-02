@@ -43,8 +43,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The Social (S) dimension of ESG mainly focuses on how enterprises treat employees, communities, customers, suppliers and other stakeholders, and the impact of their operations on society. A and D belong to the Environmental (E) dimension, and C belongs to the Governance (G) dimension.",
-      "en": null
+      "zh": "ESG框架的社会(S)维度主要关注企业如何对待员工、社区、客户及供应商等利益相关者，以及企业运营对社会的影响。A(碳减排)和D(废物处理)属于环境(E)维度，C(董事会独立性)属于治理(G)维度。考生需准确区分E、S、G三个维度的核心关注点。",
+      "en": "*The Social (S) dimension of ESG mainly focuses on how enterprises treat employees, communities, customers, suppliers and other stakeholders, and the impact of their operations on society. A and D belong to the Environmental (E) dimension, and C belongs to the Governance (G) dimension."
     },
     "source": "v7-bank",
     "tags": []
@@ -93,8 +93,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Carbon emission intensity is a core indicator of the Environmental (E) dimension, reflecting the efficiency of corporate carbon emission reduction. A, B, and D are all key indicators of the Social (S) dimension, involving employee management, customer management and community responsibility.",
-      "en": null
+      "zh": "碳排放强度是环境(E)维度的核心指标，反映企业碳减排效率，不属于社会(S)维度的关键指标。A(员工流失率)、B(客户满意度)、D(社区贡献)均为社会(S)维度的关键指标，分别涉及员工管理、客户管理和社区责任。",
+      "en": "*Carbon emission intensity is a core indicator of the Environmental (E) dimension, reflecting the efficiency of corporate carbon emission reduction. A, B, and D are all key indicators of the Social (S) dimension, involving employee management, customer management and community responsibility."
     },
     "source": "v7-bank",
     "tags": []
@@ -143,8 +143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Employee welfare refers to the non-wage benefits provided by enterprises to employees to improve their quality of life and work satisfaction, including social insurance, supplementary commercial insurance, paid leave, transportation subsidies, etc. A is employee salary, C and D are part of employee development, not the core of welfare.",
-      "en": null
+      "zh": "员工福利指企业在工资之外为员工提供的非工资性待遇，旨在改善员工生活质量和工作满意度，包括社会保险、补充商业保险、带薪休假、交通补贴等。A是员工薪酬而非福利，C(培训机会)和D(晋升机制)属于员工发展范畴。",
+      "en": "*Employee welfare refers to the non-wage benefits provided by enterprises to employees to improve their quality of life and work satisfaction, including social insurance, supplementary commercial insurance, paid leave, transportation subsidies, etc. A is employee salary, C and D are part of employee development, not the core of welfare."
     },
     "source": "v7-bank",
     "tags": []
@@ -193,8 +193,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Signing labor contracts in accordance with the law is an important part of protecting employees' legitimate rights and interests, which can clarify the rights and obligations of both parties. A, C, and D are all acts that violate employees' rights and interests and do not conform to the requirements of the Social (S) dimension.",
-      "en": null
+      "zh": "企业依法与员工签订劳动合同是保障员工合法权益的重要举措，能够明确双方的权利和义务关系，是社会(S)维度中员工权益保护的核心内容。A(强制无偿加班)、C(拒缴社保)、D(薪酬歧视)均为侵害员工权益的违规行为。",
+      "en": "*Signing labor contracts in accordance with the law is an important part of protecting employees' legitimate rights and interests, which can clarify the rights and obligations of both parties. A, C, and D are all acts that violate employees' rights and interests and do not conform to the requirements of the Social (S) dimension."
     },
     "source": "v7-bank",
     "tags": []
@@ -243,8 +243,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core purpose of employee training is to improve employees' professional skills, professional quality and adaptability, so as to better meet the needs of enterprise development and achieve win-win results between employees and enterprises. A, C, and D are not the purpose of employee training.",
-      "en": null
+      "zh": "企业员工培训的核心目的是提升员工的专业技能水平、职业素养和综合适应能力，从而更好地满足企业发展的需要，最终实现员工个人成长与企业发展的双赢目标。A(降低薪酬)、C(增加工作量)、D(替代老员工)均非培训目的。",
+      "en": "*The core purpose of employee training is to improve employees' professional skills, professional quality and adaptability, so as to better meet the needs of enterprise development and achieve win-win results between employees and enterprises. A, C, and D are not the purpose of employee training."
     },
     "source": "v7-bank",
     "tags": []
@@ -293,8 +293,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Workplace discrimination refers to the unfair treatment of employees in recruitment, salary, promotion and other aspects due to factors such as gender, age, race and disability that are not related to work ability. B is gender discrimination, which belongs to workplace discrimination. A, C, and D are fair employment practices.",
-      "en": null
+      "zh": "职场歧视指因性别、年龄、种族、残疾等与工作能力无关的因素，在招聘、薪酬、晋升等方面对员工实施不公平对待。B以性别为由拒绝招聘女性属于典型的性别歧视。A(按能力招聘)、C(同工同酬)、D(按特长安排岗位)均属公平雇佣。",
+      "en": "*Workplace discrimination refers to the unfair treatment of employees in recruitment, salary, promotion and other aspects due to factors such as gender, age, race and disability that are not related to work ability. B is gender discrimination, which belongs to workplace discrimination. A, C, and D are fair employment practices."
     },
     "source": "v7-bank",
     "tags": []
@@ -343,8 +343,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*\"Equal pay for equal work\" means that in the same enterprise, employees who are engaged in the same work, have the same work ability and achieve the same work performance should receive the same or similar labor remuneration, which reflects the fairness of the workplace. A, C, and D are not the correct understanding of \"equal pay for equal work\".",
-      "en": null
+      "zh": "\"同工同酬\"指在同一企业中，从事相同工作、具备相同工作能力且取得相同工作业绩的员工，应当获得相同或相近水平的劳动报酬，体现了职场分配的公平性原则。A(全员统一薪酬)、C(仅按工时计薪)、D(仅按资历定薪)均属错误理解。",
+      "en": "*\"Equal pay for equal work\" means that in the same enterprise, employees who are engaged in the same work, have the same work ability and achieve the same work performance should receive the same or similar labor remuneration, which reflects the fairness of the workplace. A, C, and D are not the correct understanding of \"equal pay for equal work\"."
     },
     "source": "v7-bank",
     "tags": []
@@ -393,8 +393,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Providing a safe, comfortable and harmonious working environment can effectively improve employees' work experience and satisfaction. A, C, and D will reduce employee satisfaction and even cause employee turnover.",
-      "en": null
+      "zh": "为员工提供安全、舒适、和谐的工作环境和办公条件，能够有效提升员工的工作体验和整体满意度，是企业增强员工归属感的重要举措。A(压缩休息时间)、C(加量不加薪)、D(漠视员工意见)均会严重降低员工满意度。",
+      "en": "*Providing a safe, comfortable and harmonious working environment can effectively improve employees' work experience and satisfaction. A, C, and D will reduce employee satisfaction and even cause employee turnover."
     },
     "source": "v7-bank",
     "tags": []
@@ -443,8 +443,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*High employee turnover rate means that enterprises need to continuously recruit and train new employees, which will increase recruitment and training costs, and at the same time affect the stability of the team and the continuity of work. A, B, and D are opposite to the actual impact of high turnover rate.",
-      "en": null
+      "zh": "高员工流失率意味着企业需不断招聘和培训新员工，将显著增加招聘和培训成本，同时影响团队稳定性和工作连续性，对企业发展产生负面影响。A(降低招聘成本)、B(提高效率)、D(促进创新)与高流失率的实际影响相反。",
+      "en": "*High employee turnover rate means that enterprises need to continuously recruit and train new employees, which will increase recruitment and training costs, and at the same time affect the stability of the team and the continuity of work. A, B, and D are opposite to the actual impact of high turnover rate."
     },
     "source": "v7-bank",
     "tags": []
@@ -493,8 +493,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The number of workplace safety training sessions is an important indicator of employee health and safety management, which reflects the enterprise's attention to employee safety and the effectiveness of safety education. A, C, and D are not directly related to health and safety management.",
-      "en": null
+      "zh": "职业安全培训次数是员工健康安全管理的重要指标，反映企业对员工安全的重视程度和安全教育的落实效果。A(薪酬水平)属于员工福利指标，C(晋升机会)属于员工发展指标，D(年假天数)属于福利指标，均与健康安全管理无直接关联。",
+      "en": "*The number of workplace safety training sessions is an important indicator of employee health and safety management, which reflects the enterprise's attention to employee safety and the effectiveness of safety education. A, C, and D are not directly related to health and safety management."
     },
     "source": "v7-bank",
     "tags": []
@@ -543,8 +543,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core requirement of occupational health and safety management is to identify, assess and eliminate potential safety hazards in the workplace, formulate safety management systems and emergency plans, and protect employees' physical and mental health and personal safety. A is an ideal state, not a core requirement; C and D do not conform to the concept of safety management.",
-      "en": null
+      "zh": "职业健康安全管理的核心要求是识别、评估和消除工作场所潜在的安全隐患，制定安全管理制度和应急预案，切实保护员工的身心健康和人身安全。A是理想状态而非核心要求，C(降低成本)和D(表面合规)不符合安全管理理念。",
+      "en": "*The core requirement of occupational health and safety management is to identify, assess and eliminate potential safety hazards in the workplace, formulate safety management systems and emergency plans, and protect employees' physical and mental health and personal safety. A is an ideal state, not a core requirement; C and D do not conform to the concept of safety management."
     },
     "source": "v7-bank",
     "tags": []
@@ -593,8 +593,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Workplace safety hazards refer to factors that may cause work-related injuries or occupational diseases, such as unsafe equipment operation, unqualified protective equipment, and hidden dangers in the working environment. A, C, and D are measures to prevent safety hazards, not hazards themselves.",
-      "en": null
+      "zh": "工作场所安全隐患指可能导致工伤或职业病的危险因素，如设备操作不安全、防护装备不合格、工作环境存在物理或化学危害等。A(定期安全培训)、C(整洁环境)、D(规范操作程序)均是预防安全隐患的措施而非隐患本身。",
+      "en": "*Workplace safety hazards refer to factors that may cause work-related injuries or occupational diseases, such as unsafe equipment operation, unqualified protective equipment, and hidden dangers in the working environment. A, C, and D are measures to prevent safety hazards, not hazards themselves."
     },
     "source": "v7-bank",
     "tags": []
@@ -643,8 +643,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Corporate social responsibility (CSR) refers to the responsibility that enterprises should bear to society while pursuing economic benefits, including public welfare donations, community support, environmental protection, etc. B is a typical CSR behavior. A, C, and D are behaviors that violate social responsibility.",
-      "en": null
+      "zh": "企业社会责任(CSR)指企业在追求经济效益的同时应主动承担的社会责任，包括公益捐赠、社区支持、环境保护等。B(捐赠公益事业)是典型的CSR行为。A(忽视社会影响)、C(排放污染物)、D(拖欠工资)均为违背社会责任的行为。",
+      "en": "*Corporate social responsibility (CSR) refers to the responsibility that enterprises should bear to society while pursuing economic benefits, including public welfare donations, community support, environmental protection, etc. B is a typical CSR behavior. A, C, and D are behaviors that violate social responsibility."
     },
     "source": "v7-bank",
     "tags": []
@@ -693,8 +693,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The Social (S) dimension of ESG focuses on the social impact of enterprises, while corporate social responsibility (CSR) is a broader concept that includes environmental, social and governance responsibilities. CSR is an important part of the S dimension, and the S dimension is one of the core components of ESG.",
-      "en": null
+      "zh": "ESG的社会(S)维度聚焦企业运营对社会各方面的影响，而企业社会责任(CSR)是更广泛的概念，涵盖环境、社会和治理责任。CSR是S维度的重要组成部分，S维度则是ESG框架的核心构成之一。考生需理清二者的包含关系。",
+      "en": "*The Social (S) dimension of ESG focuses on the social impact of enterprises, while corporate social responsibility (CSR) is a broader concept that includes environmental, social and governance responsibilities. CSR is an important part of the S dimension, and the S dimension is one of the core components of ESG."
     },
     "source": "v7-bank",
     "tags": []
@@ -743,8 +743,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Fulfilling community responsibility means that enterprises actively participate in community construction, provide employment opportunities, support community public welfare undertakings, and maintain community harmony. B is a positive measure to fulfill community responsibility. A, C, and D are behaviors that damage community interests.",
-      "en": null
+      "zh": "履行社区责任指企业积极参与社区建设，提供就业机会，支持社区公益事业，维护社区和谐发展。B(提供就业机会)是履行社区责任的积极举措。A(无偿占用公共资源)、C(污染社区环境)、D(忽视居民诉求)均损害社区利益。",
+      "en": "*Fulfilling community responsibility means that enterprises actively participate in community construction, provide employment opportunities, support community public welfare undertakings, and maintain community harmony. B is a positive measure to fulfill community responsibility. A, C, and D are behaviors that damage community interests."
     },
     "source": "v7-bank",
     "tags": []
@@ -793,8 +793,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Fulfilling social responsibility can help enterprises establish a good brand image, win the trust of consumers, investors and other stakeholders, and enhance long-term competitiveness. A, C, and D are one-sided understandings; although fulfilling social responsibility may increase short-term costs, it can bring long-term benefits.",
-      "en": null
+      "zh": "企业积极履行社会责任有助于在社会公众心中树立良好的品牌形象和企业信誉，赢得消费者、投资者等核心利益相关者的广泛信任与认可，从而显著增强长期竞争力。A、C、D是片面理解；短期可能增加成本，但长期收益显著。",
+      "en": "*Fulfilling social responsibility can help enterprises establish a good brand image, win the trust of consumers, investors and other stakeholders, and enhance long-term competitiveness. A, C, and D are one-sided understandings; although fulfilling social responsibility may increase short-term costs, it can bring long-term benefits."
     },
     "source": "v7-bank",
     "tags": []
@@ -843,8 +843,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Customer complaint handling rate is an important indicator of customer relationship management, reflecting the enterprise's attention to customer needs and the efficiency of solving customer problems. A belongs to the E dimension, C belongs to the S dimension (employee management), and D belongs to the G dimension.",
-      "en": null
+      "zh": "客户投诉处理率是客户关系管理的重要指标，反映企业对客户需求的重视程度和解决客户问题的响应效率。A(碳排放)属于E维度，C(员工流失率)属于S维度的员工管理，D(董事会多样性)属于G维度。需准确区分各维度指标。",
+      "en": "*Customer complaint handling rate is an important indicator of customer relationship management, reflecting the enterprise's attention to customer needs and the efficiency of solving customer problems. A belongs to the E dimension, C belongs to the S dimension (employee management), and D belongs to the G dimension."
     },
     "source": "v7-bank",
     "tags": []
@@ -893,8 +893,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core purpose of customer relationship management is to understand customer needs, provide high-quality products and services, solve customer problems in a timely manner, maintain long-term cooperative relationships with customers, and improve customer loyalty and satisfaction. A, C, and D are not the core purpose.",
-      "en": null
+      "zh": "客户关系管理的核心目的是深入了解客户需求，提供优质产品和服务，及时解决客户问题，与客户建立长期稳定的合作关系，持续提升客户忠诚度和满意度。A(忽视客户利益追求销量)、C(降低服务成本)、D(忽视反馈)均非核心目的。",
+      "en": "*The core purpose of customer relationship management is to understand customer needs, provide high-quality products and services, solve customer problems in a timely manner, maintain long-term cooperative relationships with customers, and improve customer loyalty and satisfaction. A, C, and D are not the core purpose."
     },
     "source": "v7-bank",
     "tags": []
@@ -943,8 +943,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Selling counterfeit and shoddy products will damage the interests of customers (such as economic losses, personal safety risks) and violate the requirements of the Social (S) dimension. A, C, and D are acts that protect customer interests.",
-      "en": null
+      "zh": "向消费者销售假冒伪劣产品会严重损害客户的经济利益，甚至危及人身安全健康，明显违背了社会(S)维度对企业产品质量和客户权益保护的基本要求。A(提供真实信息)、C(履行售后承诺)、D(保护客户隐私)均是保护客户的正当行为。",
+      "en": "*Selling counterfeit and shoddy products will damage the interests of customers (such as economic losses, personal safety risks) and violate the requirements of the Social (S) dimension. A, C, and D are acts that protect customer interests."
     },
     "source": "v7-bank",
     "tags": []
@@ -993,8 +993,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Customer privacy protection means that enterprises should standardize the collection, storage and use of customer personal information, and prevent customer information from being leaked, misused or sold to protect customer legitimate rights and interests. A, B, and D are acts that violate customer privacy protection.",
-      "en": null
+      "zh": "客户隐私保护指企业应规范客户个人信息的收集、存储和使用流程，采取有效措施防止客户信息被泄露、滥用或非法出售，切实保护客户的合法权益。A(随意收集信息)、B(擅自向第三方披露)、D(忽视隐私要求)均侵犯客户隐私。",
+      "en": "*Customer privacy protection means that enterprises should standardize the collection, storage and use of customer personal information, and prevent customer information from being leaked, misused or sold to protect customer legitimate rights and interests. A, B, and D are acts that violate customer privacy protection."
     },
     "source": "v7-bank",
     "tags": []
@@ -1043,8 +1043,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Encrypting customer information and establishing a secure storage system can effectively prevent customer information from being leaked, which is an important measure to protect customer privacy. A, C, and D are acts that damage customer privacy.",
-      "en": null
+      "zh": "对企业收集的客户个人信息进行全面加密处理，并建立多层次的安全存储防护系统，能有效防止客户数据泄露和被非法获取，是保护客户隐私的关键技术措施。A(超范围采集)、C(出售信息牟利)、D(公开场合披露)均严重侵犯隐私。",
+      "en": "*Encrypting customer information and establishing a secure storage system can effectively prevent customer information from being leaked, which is an important measure to protect customer privacy. A, C, and D are acts that damage customer privacy."
     },
     "source": "v7-bank",
     "tags": []
@@ -1093,8 +1093,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*In the Social (S) dimension, supplier management mainly focuses on whether suppliers comply with labor standards (such as no child labor, no forced labor), environmental protection requirements and ethical norms. A belongs to the E dimension, C and D are operational indicators of suppliers, not social indicators.",
-      "en": null
+      "zh": "在社会(S)维度中，供应商管理主要关注供应商是否遵守劳动标准(如禁止童工、禁止强迫劳动)、环保要求和商业道德规范。A(碳排放水平)属于E维度，C(产品价格)和D(交货速度)是运营指标而非社会责任指标。",
+      "en": "*In the Social (S) dimension, supplier management mainly focuses on whether suppliers comply with labor standards (such as no child labor, no forced labor), environmental protection requirements and ethical norms. A belongs to the E dimension, C and D are operational indicators of suppliers, not social indicators."
     },
     "source": "v7-bank",
     "tags": []
@@ -1143,8 +1143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core requirement of supplier social responsibility management is to establish a supplier evaluation system that includes social responsibility indicators, supervise suppliers to comply with relevant labor standards, environmental regulations and ethical norms, and promote the whole supply chain to fulfill social responsibility. A, C, and D do not conform to the requirement.",
-      "en": null
+      "zh": "供应商社会责任管理的核心要求是建立包含社会责任指标的供应商评估体系，持续监督供应商遵守劳动标准、环保法规和道德规范，推动整个供应链共同履行社会责任。A(只看价格)、C(忽视表现)、D(牺牲责任压成本)均不符合要求。",
+      "en": "*The core requirement of supplier social responsibility management is to establish a supplier evaluation system that includes social responsibility indicators, supervise suppliers to comply with relevant labor standards, environmental regulations and ethical norms, and promote the whole supply chain to fulfill social responsibility. A, C, and D do not conform to the requirement."
     },
     "source": "v7-bank",
     "tags": []
@@ -1193,8 +1193,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Using child labor is an unethical behavior that violates labor standards and social morality, and enterprises should avoid cooperating with such suppliers. A, C, and D are ethical behaviors of suppliers.",
-      "en": null
+      "zh": "在生产过程中使用童工严重违反国际劳工组织公约和各国劳动法规，是极其不道德的行为，企业应严格审查供应链、坚决避免与此类供应商建立合作关系。A(按约提供优质产品)、C(遵守环保法规)、D(依法支付薪酬)均是合规行为。",
+      "en": "*Using child labor is an unethical behavior that violates labor standards and social morality, and enterprises should avoid cooperating with such suppliers. A, C, and D are ethical behaviors of suppliers."
     },
     "source": "v7-bank",
     "tags": []
@@ -1243,8 +1243,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*If the supplier's social responsibility performance is poor (such as using child labor, polluting the environment), it will be associated with the enterprise, leading to the enterprise's reputation damage, and even legal liabilities if it violates relevant regulations. A, B, and D are opposite to the actual impact.",
-      "en": null
+      "zh": "若供应商社会责任表现不佳(如使用童工、污染环境等)，负面事件将与采购企业产生关联，导致企业品牌声誉严重受损，甚至在违反相关法规时承担连带法律责任。A(提升品牌形象)、B(降低法律风险)、D(增强竞争力)均与实际影响相反。",
+      "en": "*If the supplier's social responsibility performance is poor (such as using child labor, polluting the environment), it will be associated with the enterprise, leading to the enterprise's reputation damage, and even legal liabilities if it violates relevant regulations. A, B, and D are opposite to the actual impact."
     },
     "source": "v7-bank",
     "tags": []
@@ -1293,8 +1293,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Signing a social responsibility agreement with suppliers can clarify the social responsibility requirements that suppliers need to meet, and is an effective measure to manage supplier social responsibility. B, C, and D are not effective management measures.",
-      "en": null
+      "zh": "与供应商签订具有约束力的社会责任协议，可以明确约定供应商需要遵守的社会责任标准和行为规范要求，是从制度层面管理供应商社会责任的有效措施。B(忽视供应商行为)、C(仅看产品质量)、D(减少监督力度)均非有效管理手段。",
+      "en": "*Signing a social responsibility agreement with suppliers can clarify the social responsibility requirements that suppliers need to meet, and is an effective measure to manage supplier social responsibility. B, C, and D are not effective management measures."
     },
     "source": "v7-bank",
     "tags": []
@@ -1343,8 +1343,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Human rights protection in the ESG Social (S) dimension is a broad concept, which requires enterprises to respect and protect the basic human rights of all stakeholders, including the right to work, the right to safety, the right to privacy, etc. A, C, and D are one-sided understandings.",
-      "en": null
+      "zh": "ESG社会(S)维度中的人权保护是广义概念，要求企业尊重和保护所有利益相关者的基本人权，涵盖劳动权、安全权、隐私权等多方面。A(仅保护员工)、C(忽视弱势群体)、D(仅保护投资者)均为片面理解，范围过窄。",
+      "en": "*Human rights protection in the ESG Social (S) dimension is a broad concept, which requires enterprises to respect and protect the basic human rights of all stakeholders, including the right to work, the right to safety, the right to privacy, etc. A, C, and D are one-sided understandings."
     },
     "source": "v7-bank",
     "tags": []
@@ -1393,8 +1393,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Forcing employees to work overtime for a long time without rest violates the employees' right to rest and is an act that violates human rights. A, C, and D are acts that respect and protect human rights.",
-      "en": null
+      "zh": "强迫员工长时间连续加班且不给予合理休息时间，严重侵犯了劳动者依法享有的休息权和身体健康权，属于企业运营中典型的侵犯人权行为。A(平等就业机会)、C(尊重宗教信仰)、D(保护人身安全)均是保障人权的积极做法。",
+      "en": "*Forcing employees to work overtime for a long time without rest violates the employees' right to rest and is an act that violates human rights. A, C, and D are acts that respect and protect human rights."
     },
     "source": "v7-bank",
     "tags": []
@@ -1443,8 +1443,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Textile enterprises that outsource production to areas with weak labor supervision may face risks such as child labor, forced labor and low wages in the outsourcing factory, which are typical human rights risks. A, C, and D have relatively low human rights risks.",
-      "en": null
+      "zh": "将生产外包至劳动监管薄弱地区的纺织企业，面临外包工厂使用童工、强迫劳动、超时工作、低工资等严重人权风险，是ESG分析中的典型高风险行业。A(软件开发)、C(金融咨询)、D(在线零售)的人权风险相对较低。",
+      "en": "*Textile enterprises that outsource production to areas with weak labor supervision may face risks such as child labor, forced labor and low wages in the outsourcing factory, which are typical human rights risks. A, C, and D have relatively low human rights risks."
     },
     "source": "v7-bank",
     "tags": []
@@ -1493,8 +1493,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Establishing a human rights management system, formulating human rights policies, and conducting regular human rights audits on the enterprise itself and the supply chain can effectively identify and avoid human rights risks. B, C, and D will increase human rights risks.",
-      "en": null
+      "zh": "建立系统完善的人权管理制度和政策框架，并定期对企业自身及其全球供应链开展独立的人权尽职调查和审计，可有效识别和规避潜在的人权风险。B(忽视供应链人权)、C(牺牲人权逐利)、D(削减人权投入)均会显著增加风险。",
+      "en": "*Establishing a human rights management system, formulating human rights policies, and conducting regular human rights audits on the enterprise itself and the supply chain can effectively identify and avoid human rights risks. B, C, and D will increase human rights risks."
     },
     "source": "v7-bank",
     "tags": []
@@ -1543,8 +1543,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Community residents' satisfaction with the enterprise is an important indicator of community impact assessment, reflecting the positive or negative impact of the enterprise's operations on the community. A belongs to the E dimension, C belongs to the G dimension, and D is an economic indicator.",
-      "en": null
+      "zh": "社区居民对企业的满意度是社区影响评估的核心指标，能综合反映企业运营对社区产生的正面或负面影响。A(用水量)属于E维度，C(董事会结构)属于G维度，D(产品销量)是经济指标。需准确识别各维度的典型指标。",
+      "en": "*Community residents' satisfaction with the enterprise is an important indicator of community impact assessment, reflecting the positive or negative impact of the enterprise's operations on the community. A belongs to the E dimension, C belongs to the G dimension, and D is an economic indicator."
     },
     "source": "v7-bank",
     "tags": []
@@ -1593,8 +1593,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The purpose of community impact assessment is to systematically evaluate the positive (such as providing employment, supporting public welfare) and negative (such as environmental pollution, noise interference) impacts of the enterprise's operations on the community, and formulate corresponding measures to strengthen positive impacts and reduce negative impacts. A, C, and D are not the purpose.",
-      "en": null
+      "zh": "社区影响评估的目的是系统性地识别企业运营对社区的正面影响(如提供就业、支持公益)和负面影响(如环境污染、噪音干扰)，并据此制定改进措施，强化正面影响、减少负面影响。A(忽视影响)、C(减少投入)、D(避免沟通)均非目的。",
+      "en": "*The purpose of community impact assessment is to systematically evaluate the positive (such as providing employment, supporting public welfare) and negative (such as environmental pollution, noise interference) impacts of the enterprise's operations on the community, and formulate corresponding measures to strengthen positive impacts and reduce negative impacts. A, C, and D are not the purpose."
     },
     "source": "v7-bank",
     "tags": []
@@ -1643,8 +1643,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Providing employment opportunities for community residents, supporting community public welfare undertakings, and promoting local economic development are all positive impacts of enterprises on the community. A, C, and D are negative impacts.",
-      "en": null
+      "zh": "为社区居民创造充足的就业机会、积极支持社区各项公益事业发展、带动当地经济增长和产业结构升级，均是企业运营对所在社区产生的积极正面影响和贡献。A(污染空气水源)、C(占用公共空间)、D(制造噪音污染)均属负面影响。",
+      "en": "*Providing employment opportunities for community residents, supporting community public welfare undertakings, and promoting local economic development are all positive impacts of enterprises on the community. A, C, and D are negative impacts."
     },
     "source": "v7-bank",
     "tags": []
@@ -1693,8 +1693,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Strengthening environmental protection measures, reducing air, water and noise pollution, and standardizing production operations can effectively reduce the negative impact of enterprises on the community. B, C, and D will increase the negative impact.",
-      "en": null
+      "zh": "加大环保投入力度，采用先进工艺有效减少废气、废水和噪音排放，严格执行环保标准规范生产运营，能显著降低企业对周边社区的环境负面影响。B(忽视环保诉求)、C(盲目扩大产能)、D(减少社区沟通)均会加剧负面影响。",
+      "en": "*Strengthening environmental protection measures, reducing air, water and noise pollution, and standardizing production operations can effectively reduce the negative impact of enterprises on the community. B, C, and D will increase the negative impact."
     },
     "source": "v7-bank",
     "tags": []
@@ -1743,8 +1743,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Establishing a community communication mechanism (such as holding communication meetings, setting up feedback channels) to listen to the opinions and suggestions of community residents is an important measure for enterprises to communicate with the community. A, C, and D are acts that block community communication.",
-      "en": null
+      "zh": "建立常态化的社区沟通联络机制，定期举办社区居民恳谈会、设置便捷的意见反馈渠道、主动公开企业运营信息，是企业与社区保持良性互动的重要举措。A(拒绝召开沟通会)、C(隐瞒运营信息)、D(忽视改进建议)均阻断了沟通。",
+      "en": "*Establishing a community communication mechanism (such as holding communication meetings, setting up feedback channels) to listen to the opinions and suggestions of community residents is an important measure for enterprises to communicate with the community. A, C, and D are acts that block community communication."
     },
     "source": "v7-bank",
     "tags": []
@@ -1793,8 +1793,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Workplace diversity and inclusion refer to enterprises respecting and accepting employees with different backgrounds (gender, age, race, religion, disability, etc.), eliminating discrimination, and providing equal employment, training and promotion opportunities for all employees. A, C, and D are opposite to the concept of diversity and inclusion.",
-      "en": null
+      "zh": "职场多元与包容指企业尊重和接纳不同性别、年龄、种族、宗教、能力背景的员工，消除各种形式的歧视，为全体员工提供平等的就业、培训和晋升发展机会。A(只招同类)、C(歧视不同背景)、D(只晋升同类)均背道而驰。",
+      "en": "*Workplace diversity and inclusion refer to enterprises respecting and accepting employees with different backgrounds (gender, age, race, religion, disability, etc.), eliminating discrimination, and providing equal employment, training and promotion opportunities for all employees. A, C, and D are opposite to the concept of diversity and inclusion."
     },
     "source": "v7-bank",
     "tags": []
@@ -1843,8 +1843,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Providing reasonable accommodation for employees with disabilities (such as barrier-free facilities, adjusted work arrangements) is a typical example of workplace inclusion, which helps employees with disabilities better complete their work. B, C, and D are acts of exclusion and discrimination.",
-      "en": null
+      "zh": "为残障员工提供合理的工作便利(如无障碍设施、弹性工作安排)是职场包容的典型实践，体现了企业对多元化的重视，有助于残障员工充分发挥能力。B(拒绝招聘残障)、C(种族隔离)、D(性别优待)均属歧视排斥行为。",
+      "en": "*Providing reasonable accommodation for employees with disabilities (such as barrier-free facilities, adjusted work arrangements) is a typical example of workplace inclusion, which helps employees with disabilities better complete their work. B, C, and D are acts of exclusion and discrimination."
     },
     "source": "v7-bank",
     "tags": []
@@ -1893,8 +1893,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Promoting workplace diversity and inclusion can make employees feel respected and valued, improve work satisfaction and loyalty, and at the same time bring different perspectives and ideas to the team, enhance innovation ability and competitiveness. A, C, and D are opposite to the actual benefits.",
-      "en": null
+      "zh": "积极推动职场多元与包容能让不同背景的员工都感受到被尊重和重视，显著提升整体工作满意度和团队凝聚力，同时多元视角能激发创新思维，增强企业竞争力。A(降低创新能力)、C(增加职场冲突)、D(削弱竞争力)均与实际效益相反。",
+      "en": "*Promoting workplace diversity and inclusion can make employees feel respected and valued, improve work satisfaction and loyalty, and at the same time bring different perspectives and ideas to the team, enhance innovation ability and competitiveness. A, C, and D are opposite to the actual benefits."
     },
     "source": "v7-bank",
     "tags": []
@@ -1943,8 +1943,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Formulating anti-discrimination policies, conducting diversity and inclusion training for employees, and establishing a fair evaluation and promotion mechanism are effective measures to promote workplace diversity and inclusion. B, C, and D are not conducive to promoting diversity and inclusion.",
-      "en": null
+      "zh": "制定明确的反歧视政策、定期开展多元化与包容性培训、建立基于能力的公平评估晋升机制，是推动职场多元包容的有效制度措施。B(维持单一结构)、C(歧视不同背景)、D(忽视弱势群体需求)均不利于推动多元包容。",
+      "en": "*Formulating anti-discrimination policies, conducting diversity and inclusion training for employees, and establishing a fair evaluation and promotion mechanism are effective measures to promote workplace diversity and inclusion. B, C, and D are not conducive to promoting diversity and inclusion."
     },
     "source": "v7-bank",
     "tags": []
@@ -1993,8 +1993,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core content of labor relations management is to standardize the rights and obligations of both enterprises and employees, resolve labor disputes in a timely manner, and establish a harmonious, stable and mutually beneficial labor relationship. A, C, and D are acts that damage labor relations.",
-      "en": null
+      "zh": "劳动关系管理的核心是规范企业与员工双方的权利义务关系，建立畅通的沟通渠道，及时妥善化解劳动纠纷，构建和谐稳定、互利共赢的劳动关系。A(压低工资降低成本)、C(强迫接受不合理条件)、D(忽视合法诉求)均损害劳动关系。",
+      "en": "*The core content of labor relations management is to standardize the rights and obligations of both enterprises and employees, resolve labor disputes in a timely manner, and establish a harmonious, stable and mutually beneficial labor relationship. A, C, and D are acts that damage labor relations."
     },
     "source": "v7-bank",
     "tags": []
@@ -2043,8 +2043,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The legal ways to resolve labor disputes include negotiation between both parties, mediation by trade unions or labor dispute mediation committees, arbitration by labor dispute arbitration commissions, and litigation by people's courts. A, C, and D are illegal ways to handle labor disputes.",
-      "en": null
+      "zh": "解决劳动争议的法定途径依次为：双方协商、工会或调解委员会调解、劳动争议仲裁委员会仲裁、人民法院诉讼，形成完整的争议解决机制。A(无故单方解约)、C(忽视员工诉求)、D(威胁员工放弃权益)均属违法不当处理方式。",
+      "en": "*The legal ways to resolve labor disputes include negotiation between both parties, mediation by trade unions or labor dispute mediation committees, arbitration by labor dispute arbitration commissions, and litigation by people's courts. A, C, and D are illegal ways to handle labor disputes."
     },
     "source": "v7-bank",
     "tags": []
@@ -2093,8 +2093,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Harmonious labor relations can make employees have a sense of belonging and loyalty, reduce labor disputes and employee turnover, and improve work efficiency and enterprise stability. A, B, and D are opposite to the actual impact.",
-      "en": null
+      "zh": "建立和谐稳定的劳动关系能使员工产生强烈的组织归属感和职业忠诚度，有效减少劳资纠纷和核心人才流失，显著提升整体工作效率和企业运营稳定性。A(提高流失率)、B(降低工作效率)、D(增加运营成本)均与实际正面影响相反。",
+      "en": "*Harmonious labor relations can make employees have a sense of belonging and loyalty, reduce labor disputes and employee turnover, and improve work efficiency and enterprise stability. A, B, and D are opposite to the actual impact."
     },
     "source": "v7-bank",
     "tags": []
@@ -2143,8 +2143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Signing labor contracts in accordance with the law, paying wages and social insurance on time, and respecting employees' legitimate rights and interests are important measures to maintain harmonious labor relations. B, C, and D are acts that damage labor relations.",
-      "en": null
+      "zh": "依法与全体员工签订规范的书面劳动合同、按时足额支付工资报酬并缴纳各项社会保险、充分尊重和保障员工的合法权益，是维护和谐劳动关系的基础性关键措施。B(拖欠工资社保)、C(拒绝劳动协商)、D(违反劳动法规)均严重损害关系。",
+      "en": "*Signing labor contracts in accordance with the law, paying wages and social insurance on time, and respecting employees' legitimate rights and interests are important measures to maintain harmonious labor relations. B, C, and D are acts that damage labor relations."
     },
     "source": "v7-bank",
     "tags": []
@@ -2193,8 +2193,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Product safety in the Social (S) dimension refers to the fact that enterprise products meet national and industry safety standards, do not contain harmful substances, and will not cause harm to consumers' personal health and property safety during use. A, C, and D are not the core of product safety.",
-      "en": null
+      "zh": "社会(S)维度中的产品安全指企业产品必须符合国家和行业安全标准，不含有害物质，在正常使用过程中不会对消费者的人身健康和财产安全造成任何危害。A(价格实惠)、C(外观美观)、D(使用寿命长)均非产品安全的核心内涵。",
+      "en": "*Product safety in the Social (S) dimension refers to the fact that enterprise products meet national and industry safety standards, do not contain harmful substances, and will not cause harm to consumers' personal health and property safety during use. A, C, and D are not the core of product safety."
     },
     "source": "v7-bank",
     "tags": []
@@ -2243,8 +2243,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Selling products that do not meet safety standards (such as food with excessive additives, electrical products with potential safety hazards) will endanger consumers' personal and property safety, which is an act that violates product safety requirements. A, C, and D are acts that ensure product safety.",
-      "en": null
+      "zh": "销售不符合安全标准的产品(如添加剂超标的食品、存在漏电隐患的电器)将直接危害消费者的人身和财产安全，是严重违反产品安全要求的行为。A(严格质检)、C(提供安全说明)、D(及时召回不合格品)均是保障安全的积极行为。",
+      "en": "*Selling products that do not meet safety standards (such as food with excessive additives, electrical products with potential safety hazards) will endanger consumers' personal and property safety, which is an act that violates product safety requirements. A, C, and D are acts that ensure product safety."
     },
     "source": "v7-bank",
     "tags": []
@@ -2293,8 +2293,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Enterprises are the main responsible subjects for product safety, and need to establish a complete product quality and safety management system, conduct strict quality inspection, and take timely measures to recall unqualified products to ensure product safety. A, C, and D are acts that shirk product safety responsibility.",
-      "en": null
+      "zh": "企业是产品安全的第一责任主体，必须建立完善的产品质量安全管理体系，实施严格的质量检测流程，并在发现问题时及时采取召回等补救措施。A(忽视安全只看销量)、C(转嫁责任给消费者)、D(隐瞒安全隐患)均属推卸责任。",
+      "en": "*Enterprises are the main responsible subjects for product safety, and need to establish a complete product quality and safety management system, conduct strict quality inspection, and take timely measures to recall unqualified products to ensure product safety. A, C, and D are acts that shirk product safety responsibility."
     },
     "source": "v7-bank",
     "tags": []
@@ -2343,8 +2343,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Product safety incidents (such as food safety accidents, electrical product safety hazards) will damage consumers' trust in the enterprise, lead to a decline in product sales, and even make the enterprise face legal liabilities such as fines and compensation. A, C, and D are opposite to the actual impact.",
-      "en": null
+      "zh": "产品安全事件(如食品安全事故、电器起火等)将严重损害消费者对企业的信任，导致产品销量骤降，品牌声誉受损，甚至面临巨额罚款和赔偿等法律责任。A(提升声誉)、C(增加销量)、D(增强竞争力)均与实际影响相反。",
+      "en": "*Product safety incidents (such as food safety accidents, electrical product safety hazards) will damage consumers' trust in the enterprise, lead to a decline in product sales, and even make the enterprise face legal liabilities such as fines and compensation. A, C, and D are opposite to the actual impact."
     },
     "source": "v7-bank",
     "tags": []
@@ -2393,8 +2393,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Establishing a strict product quality inspection mechanism, conducting full-process inspection of raw materials, production processes and finished products, can effectively ensure product safety. B, C, and D will reduce product safety and increase safety risks.",
-      "en": null
+      "zh": "建立覆盖全流程的严格产品质量检测机制，对原材料入库、生产加工环节和成品出厂分别实施严格的质量检验把关，能够从源头上有效保障产品质量安全可靠。B(削减检测成本)、C(使用不合格原料)、D(忽视安全标准)均增加安全风险。",
+      "en": "*Establishing a strict product quality inspection mechanism, conducting full-process inspection of raw materials, production processes and finished products, can effectively ensure product safety. B, C, and D will reduce product safety and increase safety risks."
     },
     "source": "v7-bank",
     "tags": []
@@ -2443,8 +2443,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Ethical business conduct refers to enterprises abiding by national laws and regulations, adhering to business ethics, and conducting business activities in a fair, honest and responsible manner, without engaging in fraud, bribery, false advertising and other unethical behaviors. A, C, and D are unethical business conducts.",
-      "en": null
+      "zh": "道德商业行为指企业在一切经营活动中严格遵守国家法律法规，恪守商业道德准则，以公平、诚实、透明和负责任的方式开展业务，坚决杜绝欺诈、贿赂和虚假宣传等行为。A(欺诈贿赂)、C(忽视利益相关者)、D(虚假广告)均属不道德行为。",
+      "en": "*Ethical business conduct refers to enterprises abiding by national laws and regulations, adhering to business ethics, and conducting business activities in a fair, honest and responsible manner, without engaging in fraud, bribery, false advertising and other unethical behaviors. A, C, and D are unethical business conducts."
     },
     "source": "v7-bank",
     "tags": []
@@ -2493,8 +2493,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Bribery of government officials to obtain business opportunities is an unethical and illegal business conduct, which violates market rules and social morality. A, B, and D are ethical business conducts.",
-      "en": null
+      "zh": "向政府官员行贿以获取商业机会，是严重违反法律和社会道德的不正当竞争行为，破坏市场公平秩序。A(与客户供应商诚实交易)、B(向消费者提供真实信息)、D(遵守市场竞争规则)均是符合道德规范的正当商业行为。",
+      "en": "*Bribery of government officials to obtain business opportunities is an unethical and illegal business conduct, which violates market rules and social morality. A, B, and D are ethical business conducts."
     },
     "source": "v7-bank",
     "tags": []
@@ -2543,8 +2543,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Adhering to ethical business conduct can help enterprises gain the trust of consumers, investors and other stakeholders, establish a good brand image, and enhance long-term competitiveness. A, C, and D are not the benefits of ethical business conduct.",
-      "en": null
+      "zh": "坚持道德商业行为能帮助企业赢得消费者、投资者和合作伙伴的广泛信任，树立负责任的企业形象，从而增强长期市场竞争力和可持续发展能力。A(短期获利但失去信任)、C(降低成本)、D(避免竞争)均非道德行为的真正益处。",
+      "en": "*Adhering to ethical business conduct can help enterprises gain the trust of consumers, investors and other stakeholders, establish a good brand image, and enhance long-term competitiveness. A, C, and D are not the benefits of ethical business conduct."
     },
     "source": "v7-bank",
     "tags": []
@@ -2593,8 +2593,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Formulating a code of business ethics, clarifying ethical norms for employees, and conducting regular ethical training can help employees establish ethical awareness and standardize business behaviors. B, C, and D are not conducive to strengthening ethical management.",
-      "en": null
+      "zh": "制定系统的商业道德行为准则，明确员工在业务活动中应遵循的道德底线，并定期开展道德教育培训，能有效帮助员工树立道德意识、规范商业行为。B(纵容不道德行为)、C(鼓励不择手段)、D(隐瞒不道德行为)均不利于道德建设。",
+      "en": "*Formulating a code of business ethics, clarifying ethical norms for employees, and conducting regular ethical training can help employees establish ethical awareness and standardize business behaviors. B, C, and D are not conducive to strengthening ethical management."
     },
     "source": "v7-bank",
     "tags": []
@@ -2643,8 +2643,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Employee training hours per capita is an important indicator of enterprise social performance, reflecting the enterprise's attention to employee development and investment in human resources. A belongs to the E dimension, C is an economic indicator, and D belongs to the G dimension.",
-      "en": null
+      "zh": "人均员工培训时长是衡量企业社会表现的重要指标，直接反映企业对员工能力发展和人力资源培养的重视程度与实际投入。A(碳减排量)属于E维度核心指标，C(投资回报率)是财务指标，D(董事会规模)属于G维度指标。",
+      "en": "*Employee training hours per capita is an important indicator of enterprise social performance, reflecting the enterprise's attention to employee development and investment in human resources. A belongs to the E dimension, C is an economic indicator, and D belongs to the G dimension."
     },
     "source": "v7-bank",
     "tags": []
@@ -2693,8 +2693,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Enterprises need to establish a scientific social performance evaluation system, select key indicators (such as employee turnover rate, customer complaint handling rate, public welfare donation amount), track and analyze data, and comprehensively evaluate social performance. A, C, and D are unscientific evaluation methods.",
-      "en": null
+      "zh": "企业需建立科学的社会表现评价体系，选取员工流失率、客户投诉处理率、公益捐赠金额等关键指标进行系统跟踪和数据分析，全面客观评价社会绩效。A(忽视指标只看效益)、C(伪造数据应付检查)、D(仅凭口碑评价)均不科学。",
+      "en": "*Enterprises need to establish a scientific social performance evaluation system, select key indicators (such as employee turnover rate, customer complaint handling rate, public welfare donation amount), track and analyze data, and comprehensively evaluate social performance. A, C, and D are unscientific evaluation methods."
     },
     "source": "v7-bank",
     "tags": []
@@ -2743,8 +2743,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Evaluating social performance can help enterprises clearly understand their own advantages and disadvantages in fulfilling social responsibility, find existing problems, and formulate improvement measures to continuously improve social performance. A, C, and D are not the role of social performance evaluation.",
-      "en": null
+      "zh": "定期评估社会表现能帮助企业清晰了解自身在履行社会责任方面的优势与不足，及时发现存在的问题和改进空间，从而制定针对性措施持续提升社会绩效。A(应付监管)、C(减少投入)、D(掩盖不足)均非评估的真正作用。",
+      "en": "*Evaluating social performance can help enterprises clearly understand their own advantages and disadvantages in fulfilling social responsibility, find existing problems, and formulate improvement measures to continuously improve social performance. A, C, and D are not the role of social performance evaluation."
     },
     "source": "v7-bank",
     "tags": []
@@ -2793,8 +2793,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Improving the customer complaint handling rate means that the enterprise is more efficient in solving customer problems, which is an improvement in social performance (customer management). A, C, and D are all declines in social performance.",
-      "en": null
+      "zh": "将客户投诉处理率从80%提升至95%，表明企业解决客户问题的效率和能力显著提高，是社会表现中客户管理维度的典型改善案例。A(减少培训投入)、C(减少公益捐赠)、D(忽视安全健康)均属于社会表现的退步。",
+      "en": "*Improving the customer complaint handling rate means that the enterprise is more efficient in solving customer problems, which is an improvement in social performance (customer management). A, C, and D are all declines in social performance."
     },
     "source": "v7-bank",
     "tags": []
@@ -2843,8 +2843,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Stakeholder engagement refers to enterprises taking the initiative to communicate and interact with all stakeholders, understand their needs, opinions and expectations, and take these into account in business decision-making to achieve balanced development of stakeholder interests. A, C, and D are not the correct understanding of stakeholder engagement.",
-      "en": null
+      "zh": "利益相关者参与指企业主动与员工、客户、供应商、社区、投资者等所有利益相关者进行持续沟通互动，了解其需求和期望，并在经营决策中充分加以考量。A(只关注投资者)、C(拒绝沟通)、D(仅出问题才沟通)均不是正确理解。",
+      "en": "*Stakeholder engagement refers to enterprises taking the initiative to communicate and interact with all stakeholders, understand their needs, opinions and expectations, and take these into account in business decision-making to achieve balanced development of stakeholder interests. A, C, and D are not the correct understanding of stakeholder engagement."
     },
     "source": "v7-bank",
     "tags": []
@@ -2893,8 +2893,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Stakeholders of an enterprise refer to all groups or individuals that are affected by the enterprise's operations or can affect the enterprise's operations, including investors, employees, customers, suppliers, communities, government departments, etc. A, B, and D are only part of the stakeholders.",
-      "en": null
+      "zh": "企业的利益相关者包括所有受企业经营活动影响或能影响企业经营的群体和个人，涵盖投资者、员工、客户、供应商、社区居民、政府部门、媒体等广泛主体。A(仅投资者)、B(仅员工)、D(仅客户)都只是利益相关者的一部分。",
+      "en": "*Stakeholders of an enterprise refer to all groups or individuals that are affected by the enterprise's operations or can affect the enterprise's operations, including investors, employees, customers, suppliers, communities, government departments, etc. A, B, and D are only part of the stakeholders."
     },
     "source": "v7-bank",
     "tags": []
@@ -2943,8 +2943,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The purpose of stakeholder engagement is to build trust and good relationships with stakeholders, understand their needs and expectations, resolve potential conflicts, and promote the long-term sustainable development of the enterprise. A, C, and D are not the purpose.",
-      "en": null
+      "zh": "利益相关者参与的核心目的是与各利益相关者群体建立互信和良好关系，深入了解其需求和期望，及时化解潜在冲突和分歧，推动企业长期可持续健康发展。A(忽视需求追求利润)、C(降低沟通成本)、D(避免诉求)均非目的。",
+      "en": "*The purpose of stakeholder engagement is to build trust and good relationships with stakeholders, understand their needs and expectations, resolve potential conflicts, and promote the long-term sustainable development of the enterprise. A, C, and D are not the purpose."
     },
     "source": "v7-bank",
     "tags": []
@@ -2993,8 +2993,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Holding stakeholder forums, setting up feedback channels, and publishing social responsibility reports are all effective ways for enterprises to engage with stakeholders. B, C, and D are acts that block stakeholder engagement.",
-      "en": null
+      "zh": "定期举办利益相关者专题沟通论坛、设立多元化的意见反馈和投诉渠道、发布年度企业社会责任报告等，均是促进企业与各利益相关者深度互动的有效方式和途径。B(拒绝回应咨询)、C(隐瞒企业信息)、D(忽视改进建议)均阻断了参与。",
+      "en": "*Holding stakeholder forums, setting up feedback channels, and publishing social responsibility reports are all effective ways for enterprises to engage with stakeholders. B, C, and D are acts that block stakeholder engagement."
     },
     "source": "v7-bank",
     "tags": []
@@ -3043,8 +3043,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Employee promotion rate is an important indicator of employee development, reflecting the enterprise's promotion mechanism and the space for employee growth. A is an indicator of employee welfare, C belongs to the E dimension, and D is an economic indicator.",
-      "en": null
+      "zh": "员工晋升率是衡量员工发展水平的重要指标，直接反映企业晋升机制的公平性和员工职业成长空间的大小。A(薪酬水平)属于员工福利指标，C(能源消耗)属于E维度，D(产品销量)是经济指标。需注意S维度细分领域的指标差异。",
+      "en": "*Employee promotion rate is an important indicator of employee development, reflecting the enterprise's promotion mechanism and the space for employee growth. A is an indicator of employee welfare, C belongs to the E dimension, and D is an economic indicator."
     },
     "source": "v7-bank",
     "tags": []
@@ -3093,8 +3093,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Providing regular professional training, skill training and management training for employees, and establishing a fair promotion mechanism based on ability and performance can effectively promote employee development. B, C, and D are not conducive to employee development.",
-      "en": null
+      "zh": "为员工提供涵盖专业技能和管理能力的定期系统培训，建立以实际工作能力和业绩贡献为导向的公平透明晋升机制，是推动员工全面发展的核心举措。B(拒绝培训)、C(仅按资历晋升)、D(忽视发展需求)均严重阻碍员工成长进步。",
+      "en": "*Providing regular professional training, skill training and management training for employees, and establishing a fair promotion mechanism based on ability and performance can effectively promote employee development. B, C, and D are not conducive to employee development."
     },
     "source": "v7-bank",
     "tags": []
@@ -3143,8 +3143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Promoting employee development can improve employees' professional skills and comprehensive quality, enhance work efficiency and innovation ability, and at the same time improve employee loyalty and reduce turnover rate. A, C, and D are opposite to the actual impact.",
-      "en": null
+      "zh": "积极推动员工职业发展能显著提升员工的专业技能水平和综合素质能力，增强日常工作质量和创新效率，同时大幅提高员工忠诚度和满意度，有效降低流失率。A(提高流失率)、C(降低运营成本)、D(增加职场冲突)均与实际影响相反。",
+      "en": "*Promoting employee development can improve employees' professional skills and comprehensive quality, enhance work efficiency and innovation ability, and at the same time improve employee loyalty and reduce turnover rate. A, C, and D are opposite to the actual impact."
     },
     "source": "v7-bank",
     "tags": []
@@ -3193,8 +3193,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Formulating personalized career plans for employees, providing targeted training and guidance, and creating a good career development environment are examples of enterprises supporting employee career development. B, C, and D are acts that hinder employee career development.",
-      "en": null
+      "zh": "为每位员工制定个性化的职业发展规划，提供有针对性的培训指导和实践机会，营造鼓励成长的良好职业发展环境，是企业支持员工职业发展的典型举措。B(忽视发展需求)、C(拒绝培训)、D(限制发展空间)均阻碍职业发展。",
+      "en": "*Formulating personalized career plans for employees, providing targeted training and guidance, and creating a good career development environment are examples of enterprises supporting employee career development. B, C, and D are acts that hinder employee career development."
     },
     "source": "v7-bank",
     "tags": []
@@ -3243,8 +3243,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Work-life balance refers to employees being able to balance the relationship between work and personal life, complete work tasks efficiently, and at the same time have sufficient time to rest, accompany family and engage in personal hobbies, so as to maintain physical and mental health. A, C, and D are not the correct understanding of work-life balance.",
-      "en": null
+      "zh": "工作与生活平衡指员工能够在工作任务和个人生活之间找到健康平衡点，高效完成工作的同时拥有充足的休息、陪伴家人和追求个人兴趣的时间，保持身心健康。A(长期加班)、C(忽视工作)、D(不休息追求发展)均非正确理解。",
+      "en": "*Work-life balance refers to employees being able to balance the relationship between work and personal life, complete work tasks efficiently, and at the same time have sufficient time to rest, accompany family and engage in personal hobbies, so as to maintain physical and mental health. A, C, and D are not the correct understanding of work-life balance."
     },
     "source": "v7-bank",
     "tags": []
@@ -3293,8 +3293,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Implementing a flexible working system (such as flexible working hours, remote work), providing sufficient paid leave, and avoiding unnecessary overtime are effective measures to help employees achieve work-life balance. A, C, and D will damage work-life balance.",
-      "en": null
+      "zh": "实行弹性工作制(如弹性工时、远程办公选项)、提供充足的带薪休假、建立合理的工作量标准避免不必要加班，是帮助员工实现工作生活平衡的有效措施。A(鼓励无偿加班)、C(增加工作量)、D(忽视休息需求)均会破坏平衡。",
+      "en": "*Implementing a flexible working system (such as flexible working hours, remote work), providing sufficient paid leave, and avoiding unnecessary overtime are effective measures to help employees achieve work-life balance. A, C, and D will damage work-life balance."
     },
     "source": "v7-bank",
     "tags": []
@@ -3343,8 +3343,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Employees who achieve work-life balance can maintain good physical and mental health, reduce work pressure, improve work satisfaction and loyalty, and thus improve work efficiency. A, C, and D are opposite to the actual benefits.",
-      "en": null
+      "zh": "实现工作与生活平衡的员工能保持良好的身心状态，有效减轻工作压力和职业倦怠，显著提升工作满意度和对企业的忠诚度，从而持续提高工作效率。A(降低效率)、C(增加冲突)、D(降低忠诚度)均与实际正面效益相反。",
+      "en": "*Employees who achieve work-life balance can maintain good physical and mental health, reduce work pressure, improve work satisfaction and loyalty, and thus improve work efficiency. A, C, and D are opposite to the actual benefits."
     },
     "source": "v7-bank",
     "tags": []
@@ -3393,8 +3393,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Customer repurchase rate is an important indicator of customer satisfaction, reflecting the degree of customer recognition of the enterprise's products and services. A high repurchase rate indicates high customer satisfaction. B belongs to the E dimension, C belongs to the S dimension (employee management), and D belongs to the G dimension.",
-      "en": null
+      "zh": "客户复购率是衡量客户满意度的关键指标，直接反映客户对企业产品和服务质量的认可与信赖程度。复购率越高说明客户满意度越高、忠诚度越强。B(碳排放)属于E维度，C(员工流失率)属于S维度员工管理，D(董事会多样性)属于G维度。",
+      "en": "*Customer repurchase rate is an important indicator of customer satisfaction, reflecting the degree of customer recognition of the enterprise's products and services. A high repurchase rate indicates high customer satisfaction. B belongs to the E dimension, C belongs to the S dimension (employee management), and D belongs to the G dimension."
     },
     "source": "v7-bank",
     "tags": []
@@ -3443,8 +3443,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Listening to customer feedback, solving customer problems in a timely manner, improving product quality and service level, and providing personalized services can effectively improve customer satisfaction. A, C, and D will reduce customer satisfaction.",
-      "en": null
+      "zh": "认真倾听客户反馈意见，及时高效解决客户问题，持续改进产品质量和服务水平，提供差异化个性化服务，是有效提升客户满意度的关键路径。A(提供低质产品)、C(忽视客户投诉)、D(随意提高价格)均会严重降低满意度。",
+      "en": "*Listening to customer feedback, solving customer problems in a timely manner, improving product quality and service level, and providing personalized services can effectively improve customer satisfaction. A, C, and D will reduce customer satisfaction."
     },
     "source": "v7-bank",
     "tags": []
@@ -3493,8 +3493,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*High customer satisfaction can improve customer loyalty, promote customer repurchase, and attract new customers through word-of-mouth, thereby increasing market share and enterprise competitiveness. A, C, and D are opposite to the actual impact.",
-      "en": null
+      "zh": "高水平的客户满意度能显著增强客户的品牌忠诚度和重复购买意愿，并通过良好的口碑效应自发吸引更多潜在新客户，从而持续扩大市场份额和企业竞争力。A(降低产品销量)、C(增加客户投诉)、D(削弱企业竞争力)均与实际影响相反。",
+      "en": "*High customer satisfaction can improve customer loyalty, promote customer repurchase, and attract new customers through word-of-mouth, thereby increasing market share and enterprise competitiveness. A, C, and D are opposite to the actual impact."
     },
     "source": "v7-bank",
     "tags": []
@@ -3543,8 +3543,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Setting up customer feedback hotlines, online feedback platforms, and conducting customer surveys are effective ways to collect customer feedback. B, C, and D are acts that ignore customer feedback.",
-      "en": null
+      "zh": "设置专门的客户服务反馈热线电话、搭建便捷的在线意见反馈平台、定期开展客户满意度问卷调查和深度访谈等，是企业系统化收集客户反馈的有效方式。B(拒绝接受反馈)、C(忽视客户建议)、D(隐藏反馈信息)均忽视了客户声音。",
+      "en": "*Setting up customer feedback hotlines, online feedback platforms, and conducting customer surveys are effective ways to collect customer feedback. B, C, and D are acts that ignore customer feedback."
     },
     "source": "v7-bank",
     "tags": []
@@ -3593,8 +3593,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Supply chain social responsibility refers to enterprises not only fulfilling their own social responsibility, but also guiding and supervising suppliers, distributors and other partners in the supply chain to comply with labor standards, environmental regulations and ethical norms, and promote the sustainable development of the whole supply chain. A, C, and D are not the correct understanding.",
-      "en": null
+      "zh": "供应链社会责任指企业不仅要自身积极履行社会责任，还应通过制度引导和持续监督，推动供应链中的供应商、分销商等合作伙伴遵守劳动标准、环保法规和道德规范。A(只管自己)、C(逼迫供应商压成本)、D(忽视供应链表现)均不正确。",
+      "en": "*Supply chain social responsibility refers to enterprises not only fulfilling their own social responsibility, but also guiding and supervising suppliers, distributors and other partners in the supply chain to comply with labor standards, environmental regulations and ethical norms, and promote the sustainable development of the whole supply chain. A, C, and D are not the correct understanding."
     },
     "source": "v7-bank",
     "tags": []
@@ -3643,8 +3643,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Establishing a supply chain social responsibility evaluation system, incorporating social responsibility indicators into supplier selection and evaluation, and conducting regular audits of suppliers are effective measures to promote supply chain social responsibility. B, C, and D are not effective measures.",
-      "en": null
+      "zh": "建立系统化的供应链社会责任评价体系，将社会责任指标纳入供应商准入和绩效评估标准，定期开展供应商社会责任审计，是推动供应链履责的有效措施。B(忽视供应商表现)、C(仅看价格选择)、D(减少监督力度)均非有效措施。",
+      "en": "*Establishing a supply chain social responsibility evaluation system, incorporating social responsibility indicators into supplier selection and evaluation, and conducting regular audits of suppliers are effective measures to promote supply chain social responsibility. B, C, and D are not effective measures."
     },
     "source": "v7-bank",
     "tags": []
@@ -3693,8 +3693,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*If enterprises ignore the social responsibility performance of the supply chain (such as suppliers using child labor, polluting the environment), it will affect the enterprise's brand reputation, and even lead to legal liabilities if it violates relevant regulations. A, B, and D are opposite to the actual risks.",
-      "en": null
+      "zh": "若企业忽视供应链社会责任表现(如供应商使用童工、严重污染环境)，负面事件曝光后将严重损害企业品牌声誉，甚至因违反供应链尽职调查法规而承担法律责任。A(提升形象)、B(降低风险)、D(增强竞争力)均与实际风险相反。",
+      "en": "*If enterprises ignore the social responsibility performance of the supply chain (such as suppliers using child labor, polluting the environment), it will affect the enterprise's brand reputation, and even lead to legal liabilities if it violates relevant regulations. A, B, and D are opposite to the actual risks."
     },
     "source": "v7-bank",
     "tags": []
@@ -3743,8 +3743,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Supplier's compliance with labor standards (such as no child labor, no forced labor, fair wages) is a key indicator of supply chain social responsibility. A, C, and D are operational indicators of suppliers, not social responsibility indicators.",
-      "en": null
+      "zh": "供应商对劳动标准的遵守情况(如是否使用童工、是否存在强迫劳动、是否保障员工公平薪酬)是评估供应链社会责任表现的最关键核心指标。A(产品质量)、C(交货速度)、D(产品价格)均属于供应商运营管理指标而非社会责任指标。",
+      "en": "*Supplier's compliance with labor standards (such as no child labor, no forced labor, fair wages) is a key indicator of supply chain social responsibility. A, C, and D are operational indicators of suppliers, not social responsibility indicators."
     },
     "source": "v7-bank",
     "tags": []
@@ -3793,8 +3793,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Community investment refers to enterprises taking the initiative to invest funds, technology, personnel and other resources in the community, such as supporting community public welfare undertakings, building public facilities, and providing skills training for residents, to promote community development and improve residents' quality of life. A, C, and D are not the correct understanding of community investment.",
-      "en": null
+      "zh": "社区投资指企业主动将资金、技术、人才等资源投入所在社区，如支持教育医疗等公益事业、建设公共文化设施、为居民提供职业技能培训，促进社区全面发展。A(追求短期经济回报)、C(无偿占用资源)、D(仅为合规)均非正确理解。",
+      "en": "*Community investment refers to enterprises taking the initiative to invest funds, technology, personnel and other resources in the community, such as supporting community public welfare undertakings, building public facilities, and providing skills training for residents, to promote community development and improve residents' quality of life. A, C, and D are not the correct understanding of community investment."
     },
     "source": "v7-bank",
     "tags": []
@@ -3843,8 +3843,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Donating funds to build community schools, hospitals, public green spaces and other public facilities is a typical example of community investment, which can promote community development and improve residents' quality of life. B, C, and D are acts that damage community interests.",
-      "en": null
+      "zh": "捐资建设社区学校、医院、公共绿地、文化活动中心等公共设施，是企业社区投资的典型实践，能切实促进社区发展、改善居民生活质量。B(占用公共空间)、C(污染社区环境)、D(忽视发展需求)均是损害社区利益的行为。",
+      "en": "*Donating funds to build community schools, hospitals, public green spaces and other public facilities is a typical example of community investment, which can promote community development and improve residents' quality of life. B, C, and D are acts that damage community interests."
     },
     "source": "v7-bank",
     "tags": []
@@ -3893,8 +3893,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Community investment can help enterprises build a good relationship with the community, gain the recognition and support of community residents, enhance brand influence and social image, and create a good development environment for the enterprise. A, C, and D are one-sided understandings.",
-      "en": null
+      "zh": "持续的社区投资有助于企业与社区建立长期互信的良好关系，赢得社区居民的广泛认可和支持，显著增强品牌社会影响力，为企业发展营造良好外部环境。A(降低利润)、C(增加运营成本)、D(引来负面关注)均是片面的短期视角。",
+      "en": "*Community investment can help enterprises build a good relationship with the community, gain the recognition and support of community residents, enhance brand influence and social image, and create a good development environment for the enterprise. A, C, and D are one-sided understandings."
     },
     "source": "v7-bank",
     "tags": []
@@ -3943,8 +3943,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Enterprise's community investment amount (such as public welfare donation amount, investment in community projects) is an important indicator of community investment, reflecting the enterprise's investment in the community. B belongs to the E dimension, C belongs to the S dimension (employee management), and D is an economic indicator.",
-      "en": null
+      "zh": "企业社区投资金额(包括公益捐赠总额、社区项目建设投入等)是衡量社区投资力度的核心量化指标，直接反映企业对社区发展的资源投入程度。B(碳排放量)属于E维度，C(员工流失率)属于S维度员工管理，D(产品销量)是经济指标。",
+      "en": "*Enterprise's community investment amount (such as public welfare donation amount, investment in community projects) is an important indicator of community investment, reflecting the enterprise's investment in the community. B belongs to the E dimension, C belongs to the S dimension (employee management), and D is an economic indicator."
     },
     "source": "v7-bank",
     "tags": []
@@ -3993,8 +3993,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Anti-corruption in the ESG Social (S) dimension refers to enterprises establishing a sound anti-corruption system, formulating anti-corruption policies, strengthening anti-corruption education for employees, and preventing and combating corruption behaviors such as bribery and embezzlement in business activities. A, C, and D are opposite to the concept of anti-corruption.",
-      "en": null
+      "zh": "ESG社会(S)维度中的反腐败要求企业建立健全的反腐败管理制度，制定明确的反腐政策和行为准则，加强全员反腐教育，系统预防和严厉打击行贿、贪污等腐败行为。A(纵容腐败)、C(鼓励腐败)、D(包庇腐败)均与反腐败理念背道而驰。",
+      "en": "*Anti-corruption in the ESG Social (S) dimension refers to enterprises establishing a sound anti-corruption system, formulating anti-corruption policies, strengthening anti-corruption education for employees, and preventing and combating corruption behaviors such as bribery and embezzlement in business activities. A, C, and D are opposite to the concept of anti-corruption."
     },
     "source": "v7-bank",
     "tags": []
@@ -4043,8 +4043,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Establishing an anti-corruption complaint mechanism, conducting regular anti-corruption training, and investigating and punishing corruption behaviors are effective anti-corruption measures. B, C, and D are acts that encourage or condone corruption.",
-      "en": null
+      "zh": "建立畅通的反腐败举报投诉机制、定期开展全员反腐教育培训、严肃调查和依法惩处各类腐败行为，构成企业有效的反腐败治理体系。B(忽视员工腐败)、C(包庇高管腐败)、D(鼓励员工受贿)均是纵容或助长腐败的行为。",
+      "en": "*Establishing an anti-corruption complaint mechanism, conducting regular anti-corruption training, and investigating and punishing corruption behaviors are effective anti-corruption measures. B, C, and D are acts that encourage or condone corruption."
     },
     "source": "v7-bank",
     "tags": []
@@ -4093,8 +4093,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Corruption behaviors (such as bribery, embezzlement) will damage the enterprise's brand reputation, disrupt the normal business order, and make the enterprise face legal liabilities such as fines and criminal penalties. A, C, and D are opposite to the actual impact.",
-      "en": null
+      "zh": "腐败行为(如商业贿赂、贪污挪用)将严重损害企业品牌声誉和公信力，扰乱正常经营秩序和公平竞争环境，使企业面临高额罚款、刑事处罚等严厉法律责任。A(提高效率)、C(增强竞争力)、D(降低成本)均与腐败的实际严重后果相反。",
+      "en": "*Corruption behaviors (such as bribery, embezzlement) will damage the enterprise's brand reputation, disrupt the normal business order, and make the enterprise face legal liabilities such as fines and criminal penalties. A, C, and D are opposite to the actual impact."
     },
     "source": "v7-bank",
     "tags": []
@@ -4143,8 +4143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The number of anti-corruption training sessions is an important indicator of enterprise anti-corruption performance, reflecting the enterprise's attention to anti-corruption and the effectiveness of anti-corruption education. B belongs to the E dimension, C is an employee welfare indicator, and D is an economic indicator.",
-      "en": null
+      "zh": "反腐败培训次数是衡量企业反腐败治理成效的重要指标，直接反映企业对反腐败工作的重视程度和对全体员工反腐教育的覆盖力度。B(碳排放量)属于E维度核心指标，C(薪酬水平)是员工福利指标，D(产品销量)是经济指标。",
+      "en": "*The number of anti-corruption training sessions is an important indicator of enterprise anti-corruption performance, reflecting the enterprise's attention to anti-corruption and the effectiveness of anti-corruption education. B belongs to the E dimension, C is an employee welfare indicator, and D is an economic indicator."
     },
     "source": "v7-bank",
     "tags": []

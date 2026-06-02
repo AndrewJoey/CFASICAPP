@@ -43,8 +43,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core of sustainable investment is the \"dual goal\", which is to balance financial returns and ESG value. It does not mean abandoning financial returns or being limited to specific industries/ratings. A, C, and D are all one-sided: A limits the industry, C negates financial returns, and D limits the rating, all of which do not conform to the core definition of sustainable investment.",
-      "en": null
+      "zh": "可持续投资的核心在于“双重目标”，即追求财务回报的同时兼顾ESG价值。它既不放弃财务回报，也不局限于特定行业或评级。选项A仅限于环保行业，选项C否定了财务回报，选项D局限于AAA评级，均片面理解了可持续投资的定义，因此正确答案为B。",
+      "en": "*The core of sustainable investment is the \"dual goal\", which is to balance financial returns and ESG value. It does not mean abandoning financial returns or being limited to specific industries/ratings. A, C, and D are all one-sided: A limits the industry, C negates financial returns, and D limits the rating, all of which do not conform to the core definition of sustainable investment."
     },
     "source": "v7-bank",
     "tags": []
@@ -93,8 +93,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*ESG is the core analytical framework for sustainable investment, with the standard definition of Environmental, Social, and Governance. The other options have incorrect letter correspondences.",
-      "en": null
+      "zh": "ESG是可持续投资的核心分析框架，三个字母分别代表环境(Environmental)、社会(Social)和治理(Governance)。选项B将E误作Economic，选项C将S误作Service，选项D将G误作Growth，均不符合ESG的标准定义，因此正确答案为A。",
+      "en": "*ESG is the core analytical framework for sustainable investment, with the standard definition of Environmental, Social, and Governance. The other options have incorrect letter correspondences."
     },
     "source": "v7-bank",
     "tags": []
@@ -143,8 +143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Employee compensation and benefits belong to the \"Social (S)\" dimension, focusing on the relationship between the enterprise and its employees. A, B, and D all belong to the environmental dimension, focusing on climate, water resources, waste, and other environment-related issues.",
-      "en": null
+      "zh": "员工薪酬与福利属于社会(S)维度，关注企业与员工之间的关系。选项A碳排放与气候风险、选项B水资源管理、选项D废物处理均属于环境(E)维度，关注气候、水资源和废物等环境议题。本题考查ESG三维度的区分，正确答案为C。",
+      "en": "*Employee compensation and benefits belong to the \"Social (S)\" dimension, focusing on the relationship between the enterprise and its employees. A, B, and D all belong to the environmental dimension, focusing on climate, water resources, waste, and other environment-related issues."
     },
     "source": "v7-bank",
     "tags": []
@@ -193,8 +193,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Traditional investment mainly focuses on financial indicators, while sustainable investment additionally incorporates ESG factor evaluation on the basis of financial analysis, which is the core difference between the two. A is incorrect (sustainable investment does not necessarily have a higher return rate), B is incorrect (the investment period is usually longer), and D is incorrect (the investment scope is not limited to non-fossil energy).",
-      "en": null
+      "zh": "传统投资主要关注财务指标，而可持续投资在财务分析的基础上额外纳入ESG因素评估，这是两者的核心区别。选项A错误（可持续投资并不必然带来更高回报），选项B错误（投资期限通常更长），选项D错误（投资范围不限于非化石能源），因此正确答案为C。",
+      "en": "*Traditional investment mainly focuses on financial indicators, while sustainable investment additionally incorporates ESG factor evaluation on the basis of financial analysis, which is the core difference between the two. A is incorrect (sustainable investment does not necessarily have a higher return rate), B is incorrect (the investment period is usually longer), and D is incorrect (the investment scope is not limited to non-fossil energy)."
     },
     "source": "v7-bank",
     "tags": []
@@ -243,8 +243,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Supply chain labor standards focus on the relationship between the enterprise and its supply chain partners and employees, belonging to the social dimension. A and D belong to the Governance (G) dimension, and C belongs to the Environmental (E) dimension.",
-      "en": null
+      "zh": "供应链劳动标准关注企业与供应链合作伙伴及员工之间的关系，属于社会(S)维度。选项A董事会独立性和选项D财务报告透明度属于治理(G)维度，选项C碳减排目标属于环境(E)维度。本题考查ESG维度的分类，正确答案为B。",
+      "en": "*Supply chain labor standards focus on the relationship between the enterprise and its supply chain partners and employees, belonging to the social dimension. A and D belong to the Governance (G) dimension, and C belongs to the Environmental (E) dimension."
     },
     "source": "v7-bank",
     "tags": []
@@ -293,8 +293,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The governance dimension focuses on internal corporate management, with the core of ensuring the long-term healthy operation of the enterprise by improving the board structure, enhancing decision-making transparency, and clarifying the accountability mechanism. A belongs to the environmental dimension, C belongs to the social dimension, and D is a possible result of governance optimization, not the core purpose.",
-      "en": null
+      "zh": "治理维度关注企业内部管理，核心是通过完善董事会结构、提高决策透明度和明确问责机制来确保企业长期健康运营。选项A属于环境维度，选项C属于社会维度，选项D是治理优化的可能结果而非核心目的，因此正确答案为B。",
+      "en": "*The governance dimension focuses on internal corporate management, with the core of ensuring the long-term healthy operation of the enterprise by improving the board structure, enhancing decision-making transparency, and clarifying the accountability mechanism. A belongs to the environmental dimension, C belongs to the social dimension, and D is a possible result of governance optimization, not the core purpose."
     },
     "source": "v7-bank",
     "tags": []
@@ -343,8 +343,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Passive investment that only focuses on financial indicators is a traditional investment strategy that does not incorporate ESG factors. A, B, and D are all common strategies for sustainable investment: Negative Screening excludes companies with high ESG risks, Positive Screening selects companies with high ESG performance, and Stewardship promotes corporate ESG improvement through exercising rights.",
-      "en": null
+      "zh": "仅关注财务指标的被动投资是传统投资策略，不纳入ESG因素。选项A负面筛选排除高ESG风险企业，选项B正面筛选选择高ESG表现企业，选项D尽责管理通过行使权利推动企业ESG改善，三者均为可持续投资的常见策略。正确答案为C。",
+      "en": "*Passive investment that only focuses on financial indicators is a traditional investment strategy that does not incorporate ESG factors. A, B, and D are all common strategies for sustainable investment: Negative Screening excludes companies with high ESG risks, Positive Screening selects companies with high ESG performance, and Stewardship promotes corporate ESG improvement through exercising rights."
     },
     "source": "v7-bank",
     "tags": []
@@ -393,8 +393,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Negative Screening is a basic strategy for sustainable investment, with the core of the \"exclusion method\", that is, eliminating enterprises/industries that do not conform to ESG ethics or have high ESG risks. A is Positive Screening, C is industry limitation, and D is the practice of the ESG Integration strategy.",
-      "en": null
+      "zh": "负面筛选是可持续投资的基础策略，核心在于“排除法”，即剔除不符合ESG伦理或ESG风险较高的企业/行业。选项A是正面筛选的做法，选项C仅限于环保行业属于行业限制，选项D是ESG整合策略的实践，因此正确答案为B。",
+      "en": "*Negative Screening is a basic strategy for sustainable investment, with the core of the \"exclusion method\", that is, eliminating enterprises/industries that do not conform to ESG ethics or have high ESG risks. A is Positive Screening, C is industry limitation, and D is the practice of the ESG Integration strategy."
     },
     "source": "v7-bank",
     "tags": []
@@ -443,8 +443,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core difference between the two strategies lies in the investment logic: Positive Screening takes the initiative to select enterprises with excellent ESG performance, while Negative Screening passively excludes enterprises with high ESG risks or violating ESG ethics. A is incorrect (both focus on ESG performance on the basis of financial returns), C is incorrect (the scope is not limited to specific industries), D is incorrect (both are suitable for all types of investors).",
-      "en": null
+      "zh": "两种策略的核心区别在于投资逻辑：正面筛选主动选择ESG表现优秀的企业，负面筛选则被动排除ESG风险高或违反ESG伦理的企业。选项A错误（两者均在财务回报基础上关注ESG），选项C错误（范围不限于特定行业），选项D错误（两者均适用于所有投资者），正确答案为B。",
+      "en": "*The core difference between the two strategies lies in the investment logic: Positive Screening takes the initiative to select enterprises with excellent ESG performance, while Negative Screening passively excludes enterprises with high ESG risks or violating ESG ethics. A is incorrect (both focus on ESG performance on the basis of financial returns), C is incorrect (the scope is not limited to specific industries), D is incorrect (both are suitable for all types of investors)."
     },
     "source": "v7-bank",
     "tags": []
@@ -493,8 +493,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Board composition and independence are core contents of the governance dimension, which directly affect the scientificity and transparency of corporate decision-making. A and D belong to the environmental dimension, and B belongs to the social dimension.",
-      "en": null
+      "zh": "董事会构成与独立性是治理维度的核心内容，直接影响企业决策的科学性和透明度。选项A企业用水管理属于环境维度，选项B员工培训与发展属于社会维度，选项D碳减排措施属于环境维度。本题考查治理维度的具体内容，正确答案为C。",
+      "en": "*Board composition and independence are core contents of the governance dimension, which directly affect the scientificity and transparency of corporate decision-making. A and D belong to the environmental dimension, and B belongs to the social dimension."
     },
     "source": "v7-bank",
     "tags": []
@@ -543,8 +543,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*ESG Integration is a core strategy of sustainable investment, which refers to integrating ESG factors into the entire process of traditional financial analysis and investment decision-making, rather than separating ESG from financial analysis or abandoning financial analysis. A, C, and D are all misunderstandings of ESG Integration.",
-      "en": null
+      "zh": "ESG整合是可持续投资的核心策略，指将ESG因素融入传统财务分析和投资决策的全过程，而非将ESG与财务分析割裂或放弃财务分析。选项A将ESG分开投资、选项C仅投资ESG体系完善的公司、选项D放弃财务分析均为对ESG整合的误解，正确答案为B。",
+      "en": "*ESG Integration is a core strategy of sustainable investment, which refers to integrating ESG factors into the entire process of traditional financial analysis and investment decision-making, rather than separating ESG from financial analysis or abandoning financial analysis. A, C, and D are all misunderstandings of ESG Integration."
     },
     "source": "v7-bank",
     "tags": []
@@ -593,8 +593,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Positive Screening is to take the initiative to select enterprises with excellent ESG performance. Selecting the top 20% of enterprises with ESG ratings in each industry is a typical Positive Screening practice. A is Negative Screening, C is ESG Integration, and D is Stewardship.",
-      "en": null
+      "zh": "正面筛选是主动选择ESG表现优秀的企业进行投资。在每个行业中选择ESG评级前20%的企业是典型的正面筛选实践。选项A是负面筛选（排除烟草和武器企业），选项C是ESG整合策略，选项D是尽责管理，因此正确答案为B。",
+      "en": "*Positive Screening is to take the initiative to select enterprises with excellent ESG performance. Selecting the top 20% of enterprises with ESG ratings in each industry is a typical Positive Screening practice. A is Negative Screening, C is ESG Integration, and D is Stewardship."
     },
     "source": "v7-bank",
     "tags": []
@@ -643,8 +643,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Labor disputes in the supply chain belong to social risks, which are related to the relationship between enterprises and employees/supply chain partners. A, B, and D are all environmental risks, involving environmental pollution, resource scarcity, and policy changes related to the environment.",
-      "en": null
+      "zh": "供应链中的劳资纠纷属于社会风险，与企业和员工/供应链合作伙伴的关系相关。选项A环境污染罚款、选项B水资源短缺导致成本上升、选项D碳减排法规带来的政策风险均属于环境风险。本题考查ESG风险的分类，正确答案为C。",
+      "en": "*Labor disputes in the supply chain belong to social risks, which are related to the relationship between enterprises and employees/supply chain partners. A, B, and D are all environmental risks, involving environmental pollution, resource scarcity, and policy changes related to the environment."
     },
     "source": "v7-bank",
     "tags": []
@@ -693,8 +693,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The significance of sustainable investment for enterprises lies in helping enterprises identify and manage ESG risks, improve brand image, and enhance long-term competitiveness and risk resistance. A is incorrect (it may increase short-term costs), C is incorrect (government subsidies are not unconditional), D is incorrect (it does not necessarily improve short-term stock prices).",
-      "en": null
+      "zh": "可持续投资对企业的意义在于帮助企业识别和管理ESG风险、提升品牌形象、增强长期竞争力和抗风险能力。选项A错误（短期内可能增加成本），选项C错误（政府补贴并非无条件），选项D错误（不一定提高短期股价），因此正确答案为B。",
+      "en": "*The significance of sustainable investment for enterprises lies in helping enterprises identify and manage ESG risks, improve brand image, and enhance long-term competitiveness and risk resistance. A is incorrect (it may increase short-term costs), C is incorrect (government subsidies are not unconditional), D is incorrect (it does not necessarily improve short-term stock prices)."
     },
     "source": "v7-bank",
     "tags": []
@@ -743,8 +743,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Sustainable investment incorporates ESG factors into investment decisions, which can help investors identify and avoid potential ESG-related risks (such as environmental pollution fines, reputation risks). A is incorrect (sustainable investment pursues both financial returns and ESG value), B is incorrect (it is suitable for both institutional and individual investors), D is incorrect (sustainable investment and CSR are closely related, and both focus on the balanced development of enterprises and society).",
-      "en": null
+      "zh": "可持续投资将ESG因素纳入投资决策，能够帮助投资者识别和规避潜在的ESG相关风险（如环境污染罚款、声誉风险）。选项A错误（可持续投资追求财务回报与ESG价值的平衡），选项B错误（适用于机构和个人投资者），选项D错误（可持续投资与CSR密切相关），正确答案为C。",
+      "en": "*Sustainable investment incorporates ESG factors into investment decisions, which can help investors identify and avoid potential ESG-related risks (such as environmental pollution fines, reputation risks). A is incorrect (sustainable investment pursues both financial returns and ESG value), B is incorrect (it is suitable for both institutional and individual investors), D is incorrect (sustainable investment and CSR are closely related, and both focus on the balanced development of enterprises and society)."
     },
     "source": "v7-bank",
     "tags": []
@@ -793,8 +793,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Consumer boycotts due to product quality issues are social risks, which are related to the relationship between enterprises and consumers. A and D are environmental or operational risks, and B is a governance risk.",
-      "en": null
+      "zh": "因产品质量问题引发的消费者抵制属于社会风险，与企业和消费者之间的关系密切相关。选项A极端天气导致设备损坏属于环境风险，选项D油价上涨导致能源成本上升属于运营风险，选项B董事会缺乏独立性属于治理风险。正确答案为C。",
+      "en": "*Consumer boycotts due to product quality issues are social risks, which are related to the relationship between enterprises and consumers. A and D are environmental or operational risks, and B is a governance risk."
     },
     "source": "v7-bank",
     "tags": []
@@ -843,8 +843,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*ESG ratings are an important tool for sustainable investment, which evaluate the ESG performance of enterprises through a set of indicators, providing a reference for investors to judge ESG risks and opportunities. A is incorrect (it cannot determine the investment return rate), C is incorrect (it has no mandatory effect on enterprises), D is incorrect (it cannot replace traditional financial analysis).",
-      "en": null
+      "zh": "ESG评级是可持续投资的重要工具，通过一套指标体系评估企业的ESG表现，为投资者判断ESG风险和机遇提供参考。选项A错误（不能决定投资回报率），选项C错误（对企业无强制效力），选项D错误（不能替代传统财务分析），正确答案为B。",
+      "en": "*ESG ratings are an important tool for sustainable investment, which evaluate the ESG performance of enterprises through a set of indicators, providing a reference for investors to judge ESG risks and opportunities. A is incorrect (it cannot determine the investment return rate), C is incorrect (it has no mandatory effect on enterprises), D is incorrect (it cannot replace traditional financial analysis)."
     },
     "source": "v7-bank",
     "tags": []
@@ -893,8 +893,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*MSCI is a well-known global ESG rating agency, which provides professional ESG rating services for investors. A is the central bank of the United States, C and D are international financial institutions, and none of them are ESG rating agencies.",
-      "en": null
+      "zh": "MSCI是全球知名的ESG评级机构，为投资者提供专业的ESG评级服务。选项A美联储是美国中央银行，选项C世界银行和选项D国际货币基金组织(IMF)均为国际金融机构，三者均非ESG评级机构。考生需区分评级机构与金融机构的职能，正确答案为B。",
+      "en": "*MSCI is a well-known global ESG rating agency, which provides professional ESG rating services for investors. A is the central bank of the United States, C and D are international financial institutions, and none of them are ESG rating agencies."
     },
     "source": "v7-bank",
     "tags": []
@@ -943,8 +943,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*ESG ratings are dynamic. With the changes of enterprise ESG performance and rating standards, the ratings will be updated regularly. A, C, and D are all correct statements about ESG ratings.",
-      "en": null
+      "zh": "ESG评级是动态的，随着企业ESG表现和评级标准的变化，评级会定期更新。选项A不同评级机构可能对同一企业给出不同评级结果是正确的，选项C评级需考虑行业特征也是正确的，选项D评级是可持续投资决策的重要参考同样正确。本题选不正确的说法，正确答案为B。",
+      "en": "*ESG ratings are dynamic. With the changes of enterprise ESG performance and rating standards, the ratings will be updated regularly. A, C, and D are all correct statements about ESG ratings."
     },
     "source": "v7-bank",
     "tags": []
@@ -993,8 +993,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Stewardship (also known as shareholder engagement) in sustainable investment refers to investors actively communicating with enterprise management, exercising shareholder rights (such as proxy voting), and promoting enterprises to improve ESG performance. A and D are Negative Screening or exit strategies, and C is Positive Screening.",
-      "en": null
+      "zh": "尽责管理（也称股东参与）是指投资者积极与企业管理层沟通、行使股东权利（如代理投票），推动企业改善ESG表现。选项A和D属于负面筛选或退出策略，选项C属于正面筛选。尽责管理强调通过参与而非排除来推动变革，正确答案为B。",
+      "en": "*Stewardship (also known as shareholder engagement) in sustainable investment refers to investors actively communicating with enterprise management, exercising shareholder rights (such as proxy voting), and promoting enterprises to improve ESG performance. A and D are Negative Screening or exit strategies, and C is Positive Screening."
     },
     "source": "v7-bank",
     "tags": []
@@ -1043,8 +1043,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Common ways of shareholder engagement include proxy voting (exercising shareholder voting rights on important proposals), one-on-one communication with enterprise management, submitting shareholder proposals, etc. A is an exit strategy, C and D are irrelevant to shareholder engagement.",
-      "en": null
+      "zh": "股东参与的常见方式包括代理投票（就重要议案行使股东投票权）、与企业管理层一对一沟通、提交股东提案等。选项A出售企业全部股份是退出策略，选项C忽视企业ESG表现和选项D投资企业竞争对手均与股东参与无关，正确答案为B。",
+      "en": "*Common ways of shareholder engagement include proxy voting (exercising shareholder voting rights on important proposals), one-on-one communication with enterprise management, submitting shareholder proposals, etc. A is an exit strategy, C and D are irrelevant to shareholder engagement."
     },
     "source": "v7-bank",
     "tags": []
@@ -1093,8 +1093,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The development of new energy technologies is an environmental opportunity for enterprises, which can help enterprises reduce carbon emissions, save energy costs, and open up new markets. B, C, and D are all risks (environmental risk, operational risk, social risk).",
-      "en": null
+      "zh": "新能源技术的开发属于企业面临的环境机遇，可以帮助企业降低碳排放、节约能源成本并开拓新市场。选项B环境违规罚款属于环境风险，选项C原材料成本上升属于运营风险，选项D劳动力短缺属于社会风险。正确答案为A。",
+      "en": "*The development of new energy technologies is an environmental opportunity for enterprises, which can help enterprises reduce carbon emissions, save energy costs, and open up new markets. B, C, and D are all risks (environmental risk, operational risk, social risk)."
     },
     "source": "v7-bank",
     "tags": []
@@ -1143,8 +1143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core difference between the two is their focus: sustainable investment focuses on incorporating ESG factors into investment decisions to balance financial returns and ESG value; impact investment focuses on generating measurable social and environmental impacts while obtaining financial returns. B, C, and D are all incorrect descriptions.",
-      "en": null
+      "zh": "两者的核心区别在于侧重点：可持续投资侧重将ESG因素纳入投资决策，平衡财务回报与ESG价值；影响力投资侧重在获取财务回报的同时产生可衡量的社会和环境影响。选项B、C、D均是对两者的错误描述，正确答案为A。",
+      "en": "*The core difference between the two is their focus: sustainable investment focuses on incorporating ESG factors into investment decisions to balance financial returns and ESG value; impact investment focuses on generating measurable social and environmental impacts while obtaining financial returns. B, C, and D are all incorrect descriptions."
     },
     "source": "v7-bank",
     "tags": []
@@ -1193,8 +1193,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Impact investment focuses on generating measurable environmental or social impacts. Investing in a solar energy company to reduce carbon emissions has a clear and measurable environmental impact, which is a typical example of impact investment. B is Negative Screening, C is ESG Integration, D is Stewardship.",
-      "en": null
+      "zh": "影响力投资注重产生可衡量的环境或社会影响。投资太阳能公司以减少碳排放具有明确且可衡量的环境影响，是影响力投资的典型例子。选项B排除烟草企业属于负面筛选，选项C按ESG评级调整权重属于ESG整合，选项D行使代理投票权属于尽责管理，正确答案为A。",
+      "en": "*Impact investment focuses on generating measurable environmental or social impacts. Investing in a solar energy company to reduce carbon emissions has a clear and measurable environmental impact, which is a typical example of impact investment. B is Negative Screening, C is ESG Integration, D is Stewardship."
     },
     "source": "v7-bank",
     "tags": []
@@ -1243,8 +1243,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*CSR focuses on the social responsibility of enterprises (such as employee care, public welfare), while ESG is a broader analytical framework covering three dimensions: environment, social, and governance. CSR is part of the social dimension in ESG. A is incorrect (the two are not the same), C is incorrect (CSR is an important part of sustainable investment), D is incorrect (CSR is applicable to all enterprises).",
-      "en": null
+      "zh": "CSR关注企业的社会责任（如员工关怀、公益事业），而ESG是涵盖环境、社会和治理三个维度的更广泛分析框架。CSR是ESG社会维度的一部分。选项A错误（两者不等同），选项C错误（CSR是可持续投资的重要组成部分），选项D错误（CSR适用于所有企业），正确答案为B。",
+      "en": "*CSR focuses on the social responsibility of enterprises (such as employee care, public welfare), while ESG is a broader analytical framework covering three dimensions: environment, social, and governance. CSR is part of the social dimension in ESG. A is incorrect (the two are not the same), C is incorrect (CSR is an important part of sustainable investment), D is incorrect (CSR is applicable to all enterprises)."
     },
     "source": "v7-bank",
     "tags": []
@@ -1293,8 +1293,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Carbon emission exceeding the standard is an environmental risk, which belongs to the environmental dimension. A, B, and D are all governance risks, involving the integrity of corporate management, information disclosure, and the interests of shareholders.",
-      "en": null
+      "zh": "碳排放超标属于环境风险，归入环境维度。选项A内幕交易、选项B财务报告透明度不足、选项D董事会与股东之间的利益冲突均为治理风险，涉及企业管理层诚信、信息披露和股东利益。本题要求选不属于治理风险的选项，正确答案为C。",
+      "en": "*Carbon emission exceeding the standard is an environmental risk, which belongs to the environmental dimension. A, B, and D are all governance risks, involving the integrity of corporate management, information disclosure, and the interests of shareholders."
     },
     "source": "v7-bank",
     "tags": []
@@ -1343,8 +1343,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The main driving forces for the development of sustainable investment include government regulations (such as mandatory ESG disclosure policies), policy guidance (such as subsidies for green investment), investor demand for risk management, etc. B is incorrect (sustainable investment focuses on long-term returns), C and D are incorrect (they are not driving forces, but may be the opposite).",
-      "en": null
+      "zh": "可持续投资发展的主要驱动力包括政府法规（如强制ESG披露政策）、政策引导（如绿色投资补贴）、投资者风险管理需求等。选项B错误（可持续投资注重长期回报），选项C和D错误（投资范围缩小和决策简化并非驱动力，反而可能相反），正确答案为A。",
+      "en": "*The main driving forces for the development of sustainable investment include government regulations (such as mandatory ESG disclosure policies), policy guidance (such as subsidies for green investment), investor demand for risk management, etc. B is incorrect (sustainable investment focuses on long-term returns), C and D are incorrect (they are not driving forces, but may be the opposite)."
     },
     "source": "v7-bank",
     "tags": []
@@ -1393,8 +1393,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The U.S. Securities and Exchange Commission (SEC) has issued mandatory ESG disclosure policies, requiring listed companies to disclose climate-related risks and other ESG information. B and C are incorrect (not all countries or only European countries have issued such policies), D is incorrect (many countries have issued relevant policies).",
-      "en": null
+      "zh": "美国证券交易委员会(SEC)已发布强制ESG披露政策，要求上市公司披露气候相关风险及其他ESG信息。选项B错误（并非全球所有国家都已发布此类政策），选项C错误（不仅限于欧洲国家），选项D错误（许多国家已发布相关政策），正确答案为A。",
+      "en": "*The U.S. Securities and Exchange Commission (SEC) has issued mandatory ESG disclosure policies, requiring listed companies to disclose climate-related risks and other ESG information. B and C are incorrect (not all countries or only European countries have issued such policies), D is incorrect (many countries have issued relevant policies)."
     },
     "source": "v7-bank",
     "tags": []
@@ -1443,8 +1443,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*A major challenge in sustainable investment is the lack of unified global ESG standards. Different enterprises and rating agencies have different ESG indicators and calibers, leading to poor data comparability. A is not a challenge, C and D are incorrect (sustainable investment does not necessarily have high short-term returns, and the decision-making process is more complex than traditional investment).",
-      "en": null
+      "zh": "可持续投资面临的一大挑战是缺乏全球统一的ESG标准。不同企业和评级机构使用不同的ESG指标和口径，导致数据可比性差。选项A数据源过多并非挑战，选项C错误（短期投资回报不一定高），选项D错误（决策过程比传统投资更复杂），正确答案为B。",
+      "en": "*A major challenge in sustainable investment is the lack of unified global ESG standards. Different enterprises and rating agencies have different ESG indicators and calibers, leading to poor data comparability. A is not a challenge, C and D are incorrect (sustainable investment does not necessarily have high short-term returns, and the decision-making process is more complex than traditional investment)."
     },
     "source": "v7-bank",
     "tags": []
@@ -1493,8 +1493,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Materiality in ESG analysis refers to the importance of ESG issues to the long-term value and risk of enterprises. That is, whether an ESG issue will have a significant impact on the enterprise's financial performance, reputation, or operational stability. A, C, and D are all indicators of ESG data quality, not materiality.",
-      "en": null
+      "zh": "ESG分析中的“重要性”指ESG议题对企业长期价值和风险的重要性，即某一ESG议题是否会对企业的财务表现、声誉或运营稳定性产生重大影响。选项A数据准确性、选项C数据时效性、选项D数据完整性均为ESG数据质量指标，而非重要性概念，正确答案为B。",
+      "en": "*Materiality in ESG analysis refers to the importance of ESG issues to the long-term value and risk of enterprises. That is, whether an ESG issue will have a significant impact on the enterprise's financial performance, reputation, or operational stability. A, C, and D are all indicators of ESG data quality, not materiality."
     },
     "source": "v7-bank",
     "tags": []
@@ -1543,8 +1543,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*For high-emission enterprises, carbon emission levels and climate risks have a significant impact on their operational costs, policy compliance, and long-term development, so they are material issues. A, C, and D are not core ESG issues for high-emission enterprises.",
-      "en": null
+      "zh": "对于高排放企业而言，碳排放水平和气候风险对其运营成本、政策合规和长期发展具有重大影响，因此属于重要议题。选项A员工培训成本、选项C办公场地租金、选项D员工数量均不是高排放企业的核心ESG议题。正确答案为B。",
+      "en": "*For high-emission enterprises, carbon emission levels and climate risks have a significant impact on their operational costs, policy compliance, and long-term development, so they are material issues. A, C, and D are not core ESG issues for high-emission enterprises."
     },
     "source": "v7-bank",
     "tags": []
@@ -1593,8 +1593,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core indicators of ESG data quality include accuracy (authenticity of data), completeness (no missing key information), timeliness (timely update), and comparability (unified caliber). A is incorrect (ESG data can also be obtained from third-party agencies), B is incorrect (third-party data may also have errors), D is incorrect (ESG data needs to be verified to ensure accuracy).",
-      "en": null
+      "zh": "ESG数据质量的核心指标包括准确性（数据真实性）、完整性（关键信息无缺失）、时效性（及时更新）和可比性（统一口径）。选项A错误（ESG数据也可从第三方机构获取），选项B错误（第三方数据也可能存在误差），选项D错误（ESG数据需要验证以确保准确性），正确答案为C。",
+      "en": "*The core indicators of ESG data quality include accuracy (authenticity of data), completeness (no missing key information), timeliness (timely update), and comparability (unified caliber). A is incorrect (ESG data can also be obtained from third-party agencies), B is incorrect (third-party data may also have errors), D is incorrect (ESG data needs to be verified to ensure accuracy)."
     },
     "source": "v7-bank",
     "tags": []
@@ -1643,8 +1643,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Primary sources of ESG data refer to original information directly released by enterprises, such as corporate ESG reports, annual reports, and social responsibility reports. Secondary sources refer to data processed and sorted out by third parties, such as MSCI ratings, securities company research reports, and platform data summaries. A, C, and D are all secondary sources.",
-      "en": null
+      "zh": "ESG数据的一手来源指企业直接发布的原始信息，如企业ESG报告、年度报告和社会责任报告。二手来源指第三方加工整理的数据，如MSCI评级、券商研究报告和平台数据汇总。选项A、C、D均为二手来源，正确答案为B。",
+      "en": "*Primary sources of ESG data refer to original information directly released by enterprises, such as corporate ESG reports, annual reports, and social responsibility reports. Secondary sources refer to data processed and sorted out by third parties, such as MSCI ratings, securities company research reports, and platform data summaries. A, C, and D are all secondary sources."
     },
     "source": "v7-bank",
     "tags": []
@@ -1693,8 +1693,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Good ESG performance can help enterprises reduce risks (such as environmental fines, reputation risks), reduce investor risk premiums, and thus improve corporate valuation. A, C, and D are incorrect (ESG factors affect the valuation of all types of enterprises, and good ESG performance is conducive to improving valuation).",
-      "en": null
+      "zh": "良好的ESG表现可以帮助企业降低风险（如环境罚款、声誉风险），减少投资者要求的风险溢价，从而提升企业估值。选项A错误（ESG因素对所有类型企业的估值都有影响），选项C错误（良好ESG表现有助于提升估值），选项D错误（不仅限于环保企业），正确答案为B。",
+      "en": "*Good ESG performance can help enterprises reduce risks (such as environmental fines, reputation risks), reduce investor risk premiums, and thus improve corporate valuation. A, C, and D are incorrect (ESG factors affect the valuation of all types of enterprises, and good ESG performance is conducive to improving valuation)."
     },
     "source": "v7-bank",
     "tags": []
@@ -1743,8 +1743,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*A common method for integrating ESG factors into corporate valuation is to adjust the discount rate: enterprises with high ESG risks have higher discount rates (higher risk premiums), and enterprises with good ESG performance have lower discount rates. A is traditional valuation, C is incorrect (cannot abandon financial analysis), D is incorrect (needs to adjust according to ESG performance).",
-      "en": null
+      "zh": "将ESG因素融入企业估值的常见方法是调整折现率：ESG风险高的企业适用更高的折现率（更高的风险溢价），ESG表现良好的企业适用更低的折现率。选项A是传统估值方法，选项C错误（不能放弃财务分析），选项D错误（需要根据ESG表现进行调整），正确答案为B。",
+      "en": "*A common method for integrating ESG factors into corporate valuation is to adjust the discount rate: enterprises with high ESG risks have higher discount rates (higher risk premiums), and enterprises with good ESG performance have lower discount rates. A is traditional valuation, C is incorrect (cannot abandon financial analysis), D is incorrect (needs to adjust according to ESG performance)."
     },
     "source": "v7-bank",
     "tags": []
@@ -1793,8 +1793,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core of sustainable investment portfolios is to balance financial returns and ESG value, and they are not limited to environmental protection enterprises. A is incorrect (the scope is not limited), C is incorrect (it does not necessarily have lower risk), D is incorrect (it does not necessarily have higher short-term returns).",
-      "en": null
+      "zh": "可持续投资组合的核心在于平衡财务回报与ESG价值，且不限于环保企业。选项A错误（投资范围不限于环保企业），选项C错误（风险不一定更低），选项D错误（短期回报不一定更高）。可持续投资组合追求的是双重目标的平衡，正确答案为B。",
+      "en": "*The core of sustainable investment portfolios is to balance financial returns and ESG value, and they are not limited to environmental protection enterprises. A is incorrect (the scope is not limited), C is incorrect (it does not necessarily have lower risk), D is incorrect (it does not necessarily have higher short-term returns)."
     },
     "source": "v7-bank",
     "tags": []
@@ -1843,8 +1843,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Constructing a sustainable investment portfolio needs to comprehensively consider ESG performance and financial performance, selecting enterprises with high ESG ratings and stable financial performance. A is random investment, C is too extreme (not all high-emission enterprises have poor ESG performance), D is incorrect (it can invest in both listed and unlisted enterprises).",
-      "en": null
+      "zh": "构建可持续投资组合需要综合考虑ESG表现和财务表现，选择ESG评级高且财务表现稳定的企业。选项A属于随机投资，选项C过于极端（并非所有高排放企业ESG表现都差），选项D错误（可投资上市和非上市企业），正确答案为B。",
+      "en": "*Constructing a sustainable investment portfolio needs to comprehensively consider ESG performance and financial performance, selecting enterprises with high ESG ratings and stable financial performance. A is random investment, C is too extreme (not all high-emission enterprises have poor ESG performance), D is incorrect (it can invest in both listed and unlisted enterprises)."
     },
     "source": "v7-bank",
     "tags": []
@@ -1893,8 +1893,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Reducing energy consumption through technological innovation is an environmental opportunity, which belongs to the environmental dimension. A, B, and D are all social opportunities, involving supply chain, employees, and consumers.",
-      "en": null
+      "zh": "通过技术创新降低能耗属于环境机遇，归入环境维度。选项A通过负责任的供应链管理扩大市场份额、选项B通过良好的员工关怀吸引优秀人才、选项D通过产品安全和环保赢得消费者信任均属于社会机遇。正确答案为C。",
+      "en": "*Reducing energy consumption through technological innovation is an environmental opportunity, which belongs to the environmental dimension. A, B, and D are all social opportunities, involving supply chain, employees, and consumers."
     },
     "source": "v7-bank",
     "tags": []
@@ -1943,8 +1943,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Proxy voting is an important tool for sustainable investment, allowing investors (especially institutional investors) to entrust proxy institutions or others to exercise their shareholder voting rights on their behalf, participating in corporate decisions (such as ESG-related proposals). B is incorrect (it cannot force enterprises), C is incorrect (it cannot replace ESG ratings), D is incorrect (it has no direct impact on short-term returns).",
-      "en": null
+      "zh": "代理投票是可持续投资的重要工具，允许投资者（尤其是机构投资者）委托代理机构代为行使股东投票权，参与企业决策（如ESG相关议案）。选项B错误（不能强制企业执行），选项C错误（不能替代ESG评级），选项D错误（对短期回报无直接影响），正确答案为A。",
+      "en": "*Proxy voting is an important tool for sustainable investment, allowing investors (especially institutional investors) to entrust proxy institutions or others to exercise their shareholder voting rights on their behalf, participating in corporate decisions (such as ESG-related proposals). B is incorrect (it cannot force enterprises), C is incorrect (it cannot replace ESG ratings), D is incorrect (it has no direct impact on short-term returns)."
     },
     "source": "v7-bank",
     "tags": []
@@ -1954,35 +1954,35 @@
     "moduleId": "module-01",
     "number": 40,
     "text": {
-      "zh": "Which of the following statements about proxy advisory firms is correct? 纠错取消 A Proxy advisory firms manage investors' portfolios directly B Proxy advisory firms provide advice on proxy voting decisions to investors C Proxy advisory firms set ESG rating standards for enterprises D Proxy advisory firms force enterprises to improve ESG performance 【单选题】 正确答案：B 你的答案： 考点：1.可持续投资导论 答案解析： Proxy advisory firms (such as ISS, Glass Lewis) provide professional advice on proxy voting to investors, including analyzing corporate proposals and making voting recommendations. A is the role of fund managers, C is the role of ESG rating agencies, D is incorrect (they cannot force enterprises). 我的笔记： 41Which of the following is a limitation of ESG ratings?",
+      "zh": "Which of the following statements about proxy advisory firms is correct?",
       "en": null
     },
     "options": [
       {
         "label": "A",
         "text": {
-          "zh": "ESG ratings are too comprehensive",
+          "zh": "Proxy advisory firms manage investors' portfolios directly",
           "en": null
         }
       },
       {
         "label": "B",
         "text": {
-          "zh": "Different rating agencies have different rating frameworks, leading to inconsistent results",
+          "zh": "Proxy advisory firms provide advice on proxy voting decisions to investors",
           "en": null
         }
       },
       {
         "label": "C",
         "text": {
-          "zh": "ESG ratings are updated too frequently",
+          "zh": "Proxy advisory firms set ESG rating standards for enterprises",
           "en": null
         }
       },
       {
         "label": "D",
         "text": {
-          "zh": "ESG ratings only focus on large enterprises",
+          "zh": "Proxy advisory firms force enterprises to improve ESG performance",
           "en": null
         }
       }
@@ -1993,8 +1993,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*A major limitation of ESG ratings is that different rating agencies have different rating indicators, weight settings, and data sources, leading to inconsistent rating results for the same enterprise. A, C, and D are not limitations (comprehensiveness is an advantage, updates are necessary, and ratings are applicable to all types of enterprises).",
-      "en": null
+      "zh": "代理咨询公司（如ISS、Glass Lewis）为投资者提供代理投票的专业建议，包括分析公司提案和提供投票建议。A描述的是基金管理人的角色，C描述的是ESG评级机构的角色，D不正确（代理咨询公司无法强制企业改进）。代理咨询公司本身不管理投资组合，也不制定评级标准，其核心价值在于帮助投资者做出知情的投票决策。",
+      "en": "Proxy advisory firms (such as ISS, Glass Lewis) provide professional advice on proxy voting to investors, including analyzing corporate proposals and making voting recommendations. A describes the role of fund managers, C describes the role of ESG rating agencies, and D is incorrect (they cannot force enterprises to improve). Proxy advisory firms do not manage investment portfolios or set rating standards; their core value is helping investors make informed voting decisions."
     },
     "source": "v7-bank",
     "tags": []
@@ -2043,8 +2043,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Green investment mainly focuses on environmental factors (such as renewable energy, environmental protection), while sustainable investment is a broader concept, covering environmental, social, and governance three dimensions. B is incorrect (both pursue financial returns), C is incorrect (both are suitable for all types of investors), D is incorrect (both can adopt active or passive strategies).",
-      "en": null
+      "zh": "绿色投资主要关注环境因素（如可再生能源、环保），而可持续投资是更广泛的概念，涵盖环境、社会和治理三个维度。选项B错误（两者均追求财务回报），选项C错误（两者均适用于所有投资者），选项D错误（两者均可采用主动或被动策略），正确答案为A。",
+      "en": "*Green investment mainly focuses on environmental factors (such as renewable energy, environmental protection), while sustainable investment is a broader concept, covering environmental, social, and governance three dimensions. B is incorrect (both pursue financial returns), C is incorrect (both are suitable for all types of investors), D is incorrect (both can adopt active or passive strategies)."
     },
     "source": "v7-bank",
     "tags": []
@@ -2093,8 +2093,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Green investment focuses on environmental protection and energy conservation. Investing in a wind power company (a renewable energy enterprise) is a typical example of green investment. A and D are social investment, C is governance investment.",
-      "en": null
+      "zh": "绿色投资聚焦于环保和节能领域。投资风力发电公司（可再生能源企业）是绿色投资的典型例子。选项A投资改善劳动标准的公司属于社会投资，选项C投资公司治理完善的企业属于治理投资，选项D投资公益捐赠的公司也属于社会投资，正确答案为B。",
+      "en": "*Green investment focuses on environmental protection and energy conservation. Investing in a wind power company (a renewable energy enterprise) is a typical example of green investment. A and D are social investment, C is governance investment."
     },
     "source": "v7-bank",
     "tags": []
@@ -2104,35 +2104,35 @@
     "moduleId": "module-01",
     "number": 43,
     "text": {
-      "zh": "Which of the following statements about the Principles for Responsible Investment (PRI) is correct? 纠错取消 A PRI is a mandatory regulation for all investors B PRI signatories are required to integrate ESG factors into investment decisions C PRI only accepts corporate signatories, not investor signatories D PRI sets uniform ESG rating standards for all enterprises 【单选题】 正确答案：B 你的答案： 考点：1.可持续投资导论 答案解析： PRI (Principles for Responsible Investment) is a voluntary initiative. Signatories are required to integrate ESG factors into investment decisions and stewardship practices. A is incorrect (it is voluntary), C is incorrect (main signatories are investors), D is incorrect (it does not set ESG rating standards). 我的笔记： 45What is the core principle of PRI?",
+      "zh": "Which of the following statements about the Principles for Responsible Investment (PRI) is correct?",
       "en": null
     },
     "options": [
       {
         "label": "A",
         "text": {
-          "zh": "Pursuing maximum short-term financial returns",
+          "zh": "PRI is a mandatory regulation for all investors",
           "en": null
         }
       },
       {
         "label": "B",
         "text": {
-          "zh": "Integrating ESG factors into investment decision-making and stewardship",
+          "zh": "PRI signatories are required to integrate ESG factors into investment decisions",
           "en": null
         }
       },
       {
         "label": "C",
         "text": {
-          "zh": "Excluding all high-emission enterprises",
+          "zh": "PRI only accepts corporate signatories, not investor signatories",
           "en": null
         }
       },
       {
         "label": "D",
         "text": {
-          "zh": "Investing only in green industries",
+          "zh": "PRI sets uniform ESG rating standards for all enterprises",
           "en": null
         }
       }
@@ -2143,8 +2143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core principle of PRI is to require signatories to incorporate ESG factors into the entire investment process, including investment decision-making, portfolio management, and stewardship (shareholder engagement). A, C, and D are not core principles of PRI.",
-      "en": null
+      "zh": "PRI（负责任投资原则）是一项自愿性倡议，签署方承诺将ESG因素融入投资决策和尽责管理实践中。A错误（PRI是自愿性质，并非强制法规），C错误（主要签署方是投资者而非企业），D错误（PRI不制定统一的ESG评级标准）。PRI的六大原则覆盖了投资分析、所有权实践和信息披露等方面。",
+      "en": "PRI (Principles for Responsible Investment) is a voluntary initiative where signatories commit to integrating ESG factors into investment decisions and stewardship practices. A is incorrect (PRI is voluntary, not mandatory regulation), C is incorrect (the main signatories are investors, not corporates), D is incorrect (PRI does not set uniform ESG rating standards). PRI's six principles cover investment analysis, ownership practices, and disclosure."
     },
     "source": "v7-bank",
     "tags": []
@@ -2193,8 +2193,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Supply chain labor rights protection is a social factor, focusing on the relationship between enterprises and supply chain employees. A and D are environmental factors, B is a governance factor.",
-      "en": null
+      "zh": "供应链劳动者权益保护属于社会因素，关注企业与供应链员工之间的关系。选项A企业能耗属于环境因素，选项B董事会多元化属于治理因素，选项D碳排放强度属于环境因素。本题考查ESG因素的分类，正确答案为C。",
+      "en": "*Supply chain labor rights protection is a social factor, focusing on the relationship between enterprises and supply chain employees. A and D are environmental factors, B is a governance factor."
     },
     "source": "v7-bank",
     "tags": []
@@ -2243,8 +2243,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Poor ESG performance will increase corporate risks (such as environmental fines, reputation risks), leading to higher financing costs (investors require higher risk premiums). A, C, and D are incorrect (poor ESG performance will increase costs, damage brand image, and reduce investor attractiveness).",
-      "en": null
+      "zh": "ESG表现不佳会增加企业风险（如环境罚款、声誉风险），导致融资成本上升（投资者要求更高的风险溢价）。选项A错误（会增加而非降低运营成本），选项C错误（会损害品牌形象），选项D错误（会降低对投资者的吸引力），正确答案为B。",
+      "en": "*Poor ESG performance will increase corporate risks (such as environmental fines, reputation risks), leading to higher financing costs (investors require higher risk premiums). A, C, and D are incorrect (poor ESG performance will increase costs, damage brand image, and reduce investor attractiveness)."
     },
     "source": "v7-bank",
     "tags": []
@@ -2293,8 +2293,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Financial report transparency is a core governance factor, which reflects the integrity and transparency of corporate management. A and D are environmental factors, B is a social factor.",
-      "en": null
+      "zh": "财务报告透明度是核心的治理因素，反映了企业管理层的诚信和透明度。选项A水资源管理和选项D产品环保性属于环境因素，选项B员工健康与安全属于社会因素。本题考查治理因素的识别，正确答案为C。",
+      "en": "*Financial report transparency is a core governance factor, which reflects the integrity and transparency of corporate management. A and D are environmental factors, B is a social factor."
     },
     "source": "v7-bank",
     "tags": []
@@ -2343,8 +2343,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*In the short term, sustainable investment may not outperform traditional investment due to factors such as ESG investment costs; but in the long term, by managing ESG risks and seizing ESG opportunities, sustainable investment tends to outperform traditional investment. A, C, and D are incorrect.",
-      "en": null
+      "zh": "短期内，由于ESG投资成本等因素，可持续投资不一定优于传统投资；但从长期来看，通过管理ESG风险和把握ESG机遇，可持续投资往往优于传统投资。选项A错误（短期不一定总是优于），选项C错误（表现存在差异），选项D错误（并非总是跑输），正确答案为B。",
+      "en": "*In the short term, sustainable investment may not outperform traditional investment due to factors such as ESG investment costs; but in the long term, by managing ESG risks and seizing ESG opportunities, sustainable investment tends to outperform traditional investment. A, C, and D are incorrect."
     },
     "source": "v7-bank",
     "tags": []
@@ -2393,8 +2393,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The performance evaluation of sustainable investment portfolios needs to combine financial indicators (such as return rate, risk) and ESG indicators (such as portfolio ESG rating, impact on society and the environment), which is consistent with the dual goal of sustainable investment. A, B, and D are incorrect (cannot only use one type of indicator or ignore both).",
-      "en": null
+      "zh": "可持续投资组合的业绩评估需要结合财务指标（如收益率、风险）和ESG指标（如组合ESG评级、对社会和环境的影响），这与可持续投资的双重目标一致。选项A仅用财务指标、选项B仅用ESG指标、选项D忽略两者均不正确，正确答案为C。",
+      "en": "*The performance evaluation of sustainable investment portfolios needs to combine financial indicators (such as return rate, risk) and ESG indicators (such as portfolio ESG rating, impact on society and the environment), which is consistent with the dual goal of sustainable investment. A, B, and D are incorrect (cannot only use one type of indicator or ignore both)."
     },
     "source": "v7-bank",
     "tags": []
@@ -2443,8 +2443,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Customer satisfaction is a social factor, focusing on the relationship between enterprises and customers. A, B, and D are all environmental factors, involving waste, biodiversity, and air pollution.",
-      "en": null
+      "zh": "客户满意度属于社会因素，关注企业与客户之间的关系。选项A废物管理、选项B生物多样性保护、选项D空气污染治理均属于环境因素。本题要求选不属于环境因素的选项，正确答案为C。",
+      "en": "*Customer satisfaction is a social factor, focusing on the relationship between enterprises and customers. A, B, and D are all environmental factors, involving waste, biodiversity, and air pollution."
     },
     "source": "v7-bank",
     "tags": []
@@ -2493,8 +2493,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Negative externalities refer to the negative impacts of enterprise operations on society and the environment (such as environmental pollution), which are not borne by the enterprises themselves but by the public or the environment. A is positive externalities, C and D are not externalities.",
-      "en": null
+      "zh": "负外部性指企业运营对社会和环境造成的负面影响（如环境污染），这些影响并非由企业自身承担，而是由公众或环境承担。选项A属于正外部性，选项C和D不属于外部性概念。理解外部性对ESG投资分析至关重要，正确答案为B。",
+      "en": "*Negative externalities refer to the negative impacts of enterprise operations on society and the environment (such as environmental pollution), which are not borne by the enterprises themselves but by the public or the environment. A is positive externalities, C and D are not externalities."
     },
     "source": "v7-bank",
     "tags": []
@@ -2543,8 +2543,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Emitting pollutants into the air without treatment will cause air pollution, which is a negative externality (the enterprise does not bear the full cost of pollution). A, C, and D are positive behaviors of enterprises, without negative externalities.",
-      "en": null
+      "zh": "未经处理向空气中排放污染物会造成空气污染，这是典型的负外部性（企业未承担污染的全部成本）。选项A通过技术创新降低能耗、选项C为员工提供培训、选项D向环保项目捐款均是企业的正面行为，不产生负外部性，正确答案为B。",
+      "en": "*Emitting pollutants into the air without treatment will cause air pollution, which is a negative externality (the enterprise does not bear the full cost of pollution). A, C, and D are positive behaviors of enterprises, without negative externalities."
     },
     "source": "v7-bank",
     "tags": []
@@ -2593,8 +2593,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Sustainable investment can reduce corporate negative externalities through stewardship (such as engaging with enterprises to improve environmental protection measures) and screening strategies (excluding enterprises with serious negative externalities). A is a supplementary method, C and D are incorrect (cannot ignore or increase investment in such enterprises).",
-      "en": null
+      "zh": "可持续投资可通过尽责管理（如与企业沟通改善环保措施）和筛选策略（排除严重负外部性的企业）来减少企业的负外部性。选项A排除法是补充手段，选项C和D错误（不能忽视或增加对这类企业的投资），最佳答案为B——通过参与推动企业改善。",
+      "en": "*Sustainable investment can reduce corporate negative externalities through stewardship (such as engaging with enterprises to improve environmental protection measures) and screening strategies (excluding enterprises with serious negative externalities). A is a supplementary method, C and D are incorrect (cannot ignore or increase investment in such enterprises)."
     },
     "source": "v7-bank",
     "tags": []
@@ -2643,8 +2643,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*ESG disclosure can help enterprises improve information transparency, demonstrate their ESG performance, and attract investors who pay attention to sustainable investment. A is incorrect (some countries/regions require mandatory ESG disclosure), C is incorrect (it can affect enterprise operations and brand image), D is incorrect (it needs to include both positive and negative information).",
-      "en": null
+      "zh": "ESG披露有助于企业提高信息透明度、展示ESG表现，吸引关注可持续投资的投资者。选项A错误（部分国家/地区要求强制ESG披露），选项C错误（会影响企业运营和品牌形象），选项D错误（需要包含正面和负面信息），正确答案为B。",
+      "en": "*ESG disclosure can help enterprises improve information transparency, demonstrate their ESG performance, and attract investors who pay attention to sustainable investment. A is incorrect (some countries/regions require mandatory ESG disclosure), C is incorrect (it can affect enterprise operations and brand image), D is incorrect (it needs to include both positive and negative information)."
     },
     "source": "v7-bank",
     "tags": []
@@ -2693,8 +2693,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*GRI (Global Reporting Initiative) is a common ESG disclosure framework, providing guidelines for enterprises to disclose ESG information. A is an ESG rating system, C is proxy voting guidelines, D is a responsible investment principle.",
-      "en": null
+      "zh": "GRI（全球报告倡议组织）是常见的ESG披露框架，为企业披露ESG信息提供指引。选项A MSCI ESG评级属于评级体系而非披露框架，选项C ISS代理投票指南是投票指引，选项D PRI原则是负责任投资原则，正确答案为B。",
+      "en": "*GRI (Global Reporting Initiative) is a common ESG disclosure framework, providing guidelines for enterprises to disclose ESG information. A is an ESG rating system, C is proxy voting guidelines, D is a responsible investment principle."
     },
     "source": "v7-bank",
     "tags": []
@@ -2743,8 +2743,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core difference is the driving force: mandatory disclosure is required by laws and regulations (such as SEC requirements in the United States), while voluntary disclosure is initiated by enterprises to demonstrate their ESG performance. B, C, and D are incorrect (mandatory disclosure also covers E, S, G three dimensions, is applicable to relevant enterprises regardless of size, and has clear standards).",
-      "en": null
+      "zh": "核心区别在于驱动力：强制披露由法律法规要求（如美国SEC的要求），而自愿披露由企业主动发起以展示ESG表现。选项B错误（强制披露也涵盖E、S、G三维度），选项C错误（适用于相关企业不论规模），选项D错误（强制披露有明确标准），正确答案为A。",
+      "en": "*The core difference is the driving force: mandatory disclosure is required by laws and regulations (such as SEC requirements in the United States), while voluntary disclosure is initiated by enterprises to demonstrate their ESG performance. B, C, and D are incorrect (mandatory disclosure also covers E, S, G three dimensions, is applicable to relevant enterprises regardless of size, and has clear standards)."
     },
     "source": "v7-bank",
     "tags": []
@@ -2793,8 +2793,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Challenges in ESG disclosure include inconsistent disclosure standards (different enterprises use different indicators and calibers), high disclosure costs for small and medium-sized enterprises (lack of professional personnel and funds), and incomplete disclosure content. A is incorrect (there are many disclosure indicators).",
-      "en": null
+      "zh": "ESG披露面临的挑战包括披露标准不一致（不同企业使用不同指标和口径）、中小企业披露成本高（缺乏专业人员和资金）、以及披露内容不完整等。选项A错误（披露指标并非太少，反而可能过多）。B和C均是ESG披露的实际挑战，因此正确答案为D。",
+      "en": "*Challenges in ESG disclosure include inconsistent disclosure standards (different enterprises use different indicators and calibers), high disclosure costs for small and medium-sized enterprises (lack of professional personnel and funds), and incomplete disclosure content. A is incorrect (there are many disclosure indicators)."
     },
     "source": "v7-bank",
     "tags": []
@@ -2843,8 +2843,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Improving operational efficiency through perfect board governance is a governance opportunity, which can help enterprises make more scientific decisions and reduce operational risks. B is an environmental opportunity, C is a social opportunity, D is an operational opportunity.",
-      "en": null
+      "zh": "通过完善的董事会治理提升运营效率属于治理机遇，可以帮助企业做出更科学的决策、降低运营风险。选项B通过可再生能源减少碳排放属于环境机遇，选项C通过加薪提升员工满意度属于社会机遇，选项D通过产品创新扩大市场份额属于运营机遇，正确答案为A。",
+      "en": "*Improving operational efficiency through perfect board governance is a governance opportunity, which can help enterprises make more scientific decisions and reduce operational risks. B is an environmental opportunity, C is a social opportunity, D is an operational opportunity."
     },
     "source": "v7-bank",
     "tags": []
@@ -2893,8 +2893,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Sustainable investment plays an important role in addressing climate change by investing in renewable energy, low-carbon technologies, and other fields, promoting the transition to a low-carbon economy and reducing global carbon emissions. A, C, and D are incorrect (investing in fossil energy, ignoring climate change, and being too extreme are not conducive to addressing climate change).",
-      "en": null
+      "zh": "可持续投资通过投资可再生能源、低碳技术等领域，在应对气候变化中发挥重要作用，推动向低碳经济转型并减少全球碳排放。选项A错误（投资化石能源会加剧气候变化），选项C错误（忽视气候因素不可取），选项D错误（过于极端的做法不利于应对气候变化），正确答案为B。",
+      "en": "*Sustainable investment plays an important role in addressing climate change by investing in renewable energy, low-carbon technologies, and other fields, promoting the transition to a low-carbon economy and reducing global carbon emissions. A, C, and D are incorrect (investing in fossil energy, ignoring climate change, and being too extreme are not conducive to addressing climate change)."
     },
     "source": "v7-bank",
     "tags": []
@@ -2943,8 +2943,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Rising costs due to carbon emission reduction regulations are climate-related risks, which are directly affected by climate change policies. B is a social risk, C is a governance risk, D is an operational risk unrelated to climate.",
-      "en": null
+      "zh": "因碳减排法规导致的成本上升属于气候相关风险，直接受气候变化政策影响。选项B劳资纠纷属于社会风险，选项C董事会决策失误属于治理风险，选项D与气候无关的原材料价格波动属于运营风险。正确答案为A。",
+      "en": "*Rising costs due to carbon emission reduction regulations are climate-related risks, which are directly affected by climate change policies. B is a social risk, C is a governance risk, D is an operational risk unrelated to climate."
     },
     "source": "v7-bank",
     "tags": []
@@ -2993,8 +2993,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*TCFD (Task Force on Climate-related Financial Disclosures) provides a set of guidelines for enterprises (including financial institutions and non-financial institutions) to disclose climate-related risks and opportunities. A is incorrect (it applies to all enterprises), C is incorrect (it is voluntary), D is incorrect (it covers both risks and opportunities).",
-      "en": null
+      "zh": "TCFD（气候相关财务信息披露工作组）为企业（包括金融机构和非金融机构）披露气候相关风险和机遇提供了一套指引。选项A错误（适用于所有企业），选项C错误（属于自愿性框架），选项D错误（同时涵盖风险和机遇），正确答案为B。",
+      "en": "*TCFD (Task Force on Climate-related Financial Disclosures) provides a set of guidelines for enterprises (including financial institutions and non-financial institutions) to disclose climate-related risks and opportunities. A is incorrect (it applies to all enterprises), C is incorrect (it is voluntary), D is incorrect (it covers both risks and opportunities)."
     },
     "source": "v7-bank",
     "tags": []
@@ -3043,8 +3043,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*TCFD disclosure content mainly includes climate-related risks, opportunities, risk management measures, and governance. Climate-related risk management measures are a typical TCFD disclosure content. A is a social indicator, C is financial information, D is operational information.",
-      "en": null
+      "zh": "TCFD披露内容主要包括气候相关风险、机遇、风险管理措施和治理。气候相关风险管理措施是典型的TCFD披露内容。选项A员工离职率属于社会指标，选项C企业财务报表属于财务信息，选项D企业市场份额属于运营信息，正确答案为B。",
+      "en": "*TCFD disclosure content mainly includes climate-related risks, opportunities, risk management measures, and governance. Climate-related risk management measures are a typical TCFD disclosure content. A is a social indicator, C is financial information, D is operational information."
     },
     "source": "v7-bank",
     "tags": []
@@ -3093,8 +3093,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*For financial institutions, credit risk caused by enterprise ESG defaults (such as enterprises failing to repay loans due to environmental fines) is a social risk. B is an environmental risk, C is a governance risk, D is an operational risk.",
-      "en": null
+      "zh": "对金融机构而言，企业ESG违约导致的信用风险（如企业因环境罚款无力偿还贷款）属于社会风险。选项B碳排放超标属于环境风险，选项C董事会缺乏独立性属于治理风险，选项D利率上升属于运营风险。正确答案为A。",
+      "en": "*For financial institutions, credit risk caused by enterprise ESG defaults (such as enterprises failing to repay loans due to environmental fines) is a social risk. B is an environmental risk, C is a governance risk, D is an operational risk."
     },
     "source": "v7-bank",
     "tags": []
@@ -3143,8 +3143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Financial institutions integrate ESG factors into credit decisions by evaluating the ESG risks of borrowers (such as environmental pollution risks, social responsibility risks), and adjust loan interest rates (higher interest rates for high ESG risks) and credit limits accordingly. A is traditional credit decision-making, B and D are too extreme.",
-      "en": null
+      "zh": "金融机构通过评估借款人的ESG风险（如环境污染风险、社会责任风险），据此调整贷款利率（ESG风险高则利率更高）和信贷额度，将ESG因素融入信贷决策。选项A是传统信贷决策，选项B和D过于极端。正确答案为C。",
+      "en": "*Financial institutions integrate ESG factors into credit decisions by evaluating the ESG risks of borrowers (such as environmental pollution risks, social responsibility risks), and adjust loan interest rates (higher interest rates for high ESG risks) and credit limits accordingly. A is traditional credit decision-making, B and D are too extreme."
     },
     "source": "v7-bank",
     "tags": []
@@ -3193,8 +3193,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Private equity funds can promote the ESG improvement of portfolio enterprises through post-investment management (such as providing ESG consulting, formulating improvement plans), which is an important part of sustainable investment in the private equity industry. A, C, and D are incorrect (private equity funds also need to consider ESG factors, and sustainable investment is suitable for them).",
-      "en": null
+      "zh": "私募股权基金可通过投后管理（如提供ESG咨询、制定改善方案）推动被投企业的ESG改善，这是可持续投资在私募行业的重要实践。选项A错误（私募基金也需要考虑ESG因素），选项C错误（可持续投资适用于私募基金），选项D错误（不应仅关注财务回报），正确答案为B。",
+      "en": "*Private equity funds can promote the ESG improvement of portfolio enterprises through post-investment management (such as providing ESG consulting, formulating improvement plans), which is an important part of sustainable investment in the private equity industry. A, C, and D are incorrect (private equity funds also need to consider ESG factors, and sustainable investment is suitable for them)."
     },
     "source": "v7-bank",
     "tags": []
@@ -3243,8 +3243,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Providing ESG training for portfolio enterprise management teams is a way for private equity funds to practice sustainable investment, helping enterprises improve ESG performance and long-term value. A, C, and D are not sustainable investment practices.",
-      "en": null
+      "zh": "为被投企业管理团队提供ESG培训是私募基金践行可持续投资的方式，帮助企业提升ESG表现和长期价值。选项A投资ESG表现差的企业以获取高回报、选项C忽视被投企业ESG表现、选项D投资后立即出售均非可持续投资实践，正确答案为B。",
+      "en": "*Providing ESG training for portfolio enterprise management teams is a way for private equity funds to practice sustainable investment, helping enterprises improve ESG performance and long-term value. A, C, and D are not sustainable investment practices."
     },
     "source": "v7-bank",
     "tags": []
@@ -3293,8 +3293,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Real estate projects have long construction and operation cycles, and ESG improvement (such as energy conservation and emission reduction, green building construction) requires long-term investment and management, which is a limitation of sustainable investment in the real estate industry. A, C, and D are incorrect (real estate projects have ESG risks and opportunities, and investors are paying more and more attention to ESG factors).",
-      "en": null
+      "zh": "房地产项目建设和运营周期长，ESG改善（如节能减排、绿色建筑建设）需要长期投入和管理，这是可持续投资在房地产行业的局限性。选项A错误（房地产项目存在ESG风险和机遇），选项C错误（存在ESG机遇），选项D错误（投资者越来越关注ESG因素），正确答案为B。",
+      "en": "*Real estate projects have long construction and operation cycles, and ESG improvement (such as energy conservation and emission reduction, green building construction) requires long-term investment and management, which is a limitation of sustainable investment in the real estate industry. A, C, and D are incorrect (real estate projects have ESG risks and opportunities, and investors are paying more and more attention to ESG factors)."
     },
     "source": "v7-bank",
     "tags": []
@@ -3343,8 +3343,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Green building certification (such as LEED) is an important ESG consideration for real estate investment, reflecting the environmental performance of the project (such as energy conservation, water conservation, and environmental protection). A, C, and D are traditional real estate investment considerations.",
-      "en": null
+      "zh": "绿色建筑认证（如LEED）是房地产投资的重要ESG考量，反映了项目的环境表现（如节能、节水、环保）。选项A项目位置、选项C建设成本、选项D租金收入均属于传统房地产投资考量，而非ESG特定因素，正确答案为B。",
+      "en": "*Green building certification (such as LEED) is an important ESG consideration for real estate investment, reflecting the environmental performance of the project (such as energy conservation, water conservation, and environmental protection). A, C, and D are traditional real estate investment considerations."
     },
     "source": "v7-bank",
     "tags": []
@@ -3393,8 +3393,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Individual investors can easily practice sustainable investment by investing in ESG funds (funds that integrate ESG factors), without the need for professional ESG knowledge. A, C, and D are incorrect (individual investors can practice sustainable investment, and it is not limited to institutional investors).",
-      "en": null
+      "zh": "个人投资者可通过投资ESG基金（将ESG因素融入投资决策的基金）轻松践行可持续投资，无需具备专业ESG知识。选项A错误（个人投资者可以践行可持续投资），选项C错误（不仅限于机构投资者），选项D错误（不需要专业ESG知识），正确答案为B。",
+      "en": "*Individual investors can easily practice sustainable investment by investing in ESG funds (funds that integrate ESG factors), without the need for professional ESG knowledge. A, C, and D are incorrect (individual investors can practice sustainable investment, and it is not limited to institutional investors)."
     },
     "source": "v7-bank",
     "tags": []
@@ -3443,8 +3443,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*ESG funds refer to funds that integrate ESG factors into the entire investment process (from screening to portfolio management), rather than being limited to specific industries or asset types. A is a stock fund, C is a green fund, D is incorrect (all funds have risks).",
-      "en": null
+      "zh": "ESG基金指将ESG因素融入整个投资过程（从筛选到投资组合管理）的基金，而非局限于特定行业或资产类型。选项A是股票基金，选项C是绿色基金（仅投资绿色产业），选项D错误（所有基金都有风险），正确答案为B。",
+      "en": "*ESG funds refer to funds that integrate ESG factors into the entire investment process (from screening to portfolio management), rather than being limited to specific industries or asset types. A is a stock fund, C is a green fund, D is incorrect (all funds have risks)."
     },
     "source": "v7-bank",
     "tags": []
@@ -3493,8 +3493,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*When evaluating ESG funds, individual investors should comprehensively consider the fund's financial performance (return rate, risk) and ESG performance (portfolio ESG rating, ESG integration level), which is consistent with the dual goal of sustainable investment. A, B, and D are incorrect (cannot only focus on one aspect or ignore ESG performance).",
-      "en": null
+      "zh": "评估ESG基金时，个人投资者应综合考虑基金的财务表现（收益率、风险）和ESG表现（组合ESG评级、ESG整合程度），这与可持续投资的双重目标一致。选项A仅看收益率、选项B仅看ESG评级、选项D忽视ESG表现均不正确，正确答案为C。",
+      "en": "*When evaluating ESG funds, individual investors should comprehensively consider the fund's financial performance (return rate, risk) and ESG performance (portfolio ESG rating, ESG integration level), which is consistent with the dual goal of sustainable investment. A, B, and D are incorrect (cannot only focus on one aspect or ignore ESG performance)."
     },
     "source": "v7-bank",
     "tags": []
@@ -3543,8 +3543,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*A common misunderstanding is that sustainable investment is the same as green investment. In fact, green investment focuses on environmental factors, while sustainable investment covers E, S, G three dimensions, which is a broader concept. A, C, and D are correct understandings of sustainable investment.",
-      "en": null
+      "zh": "一个常见误解是将可持续投资等同于绿色投资。实际上，绿色投资侧重于环境因素，而可持续投资涵盖E、S、G三个维度，是更广泛的概念。选项A、C、D均是对可持续投资的正确认识。考生需区分两者的范围差异，正确答案为B。",
+      "en": "*A common misunderstanding is that sustainable investment is the same as green investment. In fact, green investment focuses on environmental factors, while sustainable investment covers E, S, G three dimensions, which is a broader concept. A, C, and D are correct understandings of sustainable investment."
     },
     "source": "v7-bank",
     "tags": []
@@ -3593,8 +3593,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Sustainable investment does not need to sacrifice financial returns; on the contrary, it pursues the balance of financial returns and ESG value. In the long term, good ESG performance can help improve investment returns. A, B, and D are correct statements.",
-      "en": null
+      "zh": "可持续投资不需要牺牲财务回报，相反，它追求财务回报与ESG价值的平衡。从长期来看，良好的ESG表现有助于提升投资回报。选项A是长期策略、选项B可帮助规避ESG风险、选项D受政策支持均为正确说法。正确答案为C。",
+      "en": "*Sustainable investment does not need to sacrifice financial returns; on the contrary, it pursues the balance of financial returns and ESG value. In the long term, good ESG performance can help improve investment returns. A, B, and D are correct statements."
     },
     "source": "v7-bank",
     "tags": []
@@ -3643,8 +3643,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Investor demand for risk management is an important driver of ESG integration—investors realize that ESG factors can affect investment risks and returns, so they integrate ESG into investment decisions. B, C, and D are not drivers (ESG integration may increase investment options, complicate decision-making, and focus on long-term goals).",
-      "en": null
+      "zh": "投资者对风险管理的需求是ESG整合的重要驱动力——投资者认识到ESG因素会影响投资风险和回报，因此将ESG融入投资决策。选项B投资选项减少、选项C决策简化、选项D短期投资目标均非ESG整合的驱动力，正确答案为A。",
+      "en": "*Investor demand for risk management is an important driver of ESG integration—investors realize that ESG factors can affect investment risks and returns, so they integrate ESG into investment decisions. B, C, and D are not drivers (ESG integration may increase investment options, complicate decision-making, and focus on long-term goals)."
     },
     "source": "v7-bank",
     "tags": []
@@ -3693,8 +3693,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Crop failure due to climate change (such as drought, flood) is an environmental risk for the agricultural industry, which is directly related to environmental factors. B is a social risk, C is a governance risk, D is an operational risk.",
-      "en": null
+      "zh": "因气候变化（如干旱、洪涝）导致的农作物歉收是农业行业的环境风险，与环境因素直接相关。选项B劳动力短缺属于社会风险，选项C农场管理不善属于治理风险，选项D农作物价格低属于运营风险。正确答案为A。",
+      "en": "*Crop failure due to climate change (such as drought, flood) is an environmental risk for the agricultural industry, which is directly related to environmental factors. B is a social risk, C is a governance risk, D is an operational risk."
     },
     "source": "v7-bank",
     "tags": []
@@ -3743,8 +3743,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Adopting organic farming methods (reducing the use of chemical fertilizers and pesticides) can protect the environment and soil, which is a sustainable investment practice in the agricultural industry. A, C, and D are unsustainable practices that will cause environmental damage.",
-      "en": null
+      "zh": "采用有机农业方式（减少化肥和农药使用）可以保护环境和土壤，是农业行业的可持续投资实践。选项A过度使用化肥、选项C忽视水资源管理、选项D砍伐森林扩大耕地均是不可持续的做法，会造成环境破坏，正确答案为B。",
+      "en": "*Adopting organic farming methods (reducing the use of chemical fertilizers and pesticides) can protect the environment and soil, which is a sustainable investment practice in the agricultural industry. A, C, and D are unsustainable practices that will cause environmental damage."
     },
     "source": "v7-bank",
     "tags": []
@@ -3793,8 +3793,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Data privacy protection is a social factor for the technology industry, focusing on the relationship between enterprises and users. B is an environmental factor, C is a governance factor, D is an operational factor.",
-      "en": null
+      "zh": "数据隐私保护是科技行业的社会因素，关注企业与用户之间的关系。选项B服务器能耗属于环境因素，选项C董事会独立性属于治理因素，选项D研发投入属于运营因素。本题考查科技行业ESG因素的分类，正确答案为A。",
+      "en": "*Data privacy protection is a social factor for the technology industry, focusing on the relationship between enterprises and users. B is an environmental factor, C is a governance factor, D is an operational factor."
     },
     "source": "v7-bank",
     "tags": []
@@ -3843,8 +3843,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Data security and privacy protection are core social issues for the technology industry, which directly affect the trust of users and the reputation of enterprises. A is incorrect (the technology industry has environmental risks such as energy consumption), C is incorrect (it needs to consider social factors), D is incorrect (ESG has an important impact on the industry's long-term development).",
-      "en": null
+      "zh": "数据安全和隐私保护是科技行业的核心社会议题，直接影响用户信任和企业声誉。选项A错误（科技行业存在能耗等环境风险），选项C错误（需要考虑社会因素），选项D错误（ESG对行业长期发展有重要影响），正确答案为B。",
+      "en": "*Data security and privacy protection are core social issues for the technology industry, which directly affect the trust of users and the reputation of enterprises. A is incorrect (the technology industry has environmental risks such as energy consumption), C is incorrect (it needs to consider social factors), D is incorrect (ESG has an important impact on the industry's long-term development)."
     },
     "source": "v7-bank",
     "tags": []
@@ -3893,8 +3893,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Lack of internal control mechanisms is a governance risk for the financial industry, which may lead to operational errors, fraud, and other issues. A, B, and D are operational risks of the financial industry.",
-      "en": null
+      "zh": "缺乏内部控制机制是金融行业的治理风险，可能导致操作失误、欺诈等问题。选项A信用风险、选项B市场风险和选项D流动性风险均属于金融行业的运营风险，而非治理风险。本题考查治理风险与运营风险的区分，正确答案为C。",
+      "en": "*Lack of internal control mechanisms is a governance risk for the financial industry, which may lead to operational errors, fraud, and other issues. A, B, and D are operational risks of the financial industry."
     },
     "source": "v7-bank",
     "tags": []
@@ -3943,8 +3943,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Strengthening internal governance and risk management (such as improving internal control mechanisms, establishing ESG risk assessment systems) can help the financial industry improve its ESG performance. A, C, and D are incorrect (they will reduce ESG performance).",
-      "en": null
+      "zh": "加强内部治理和风险管理（如完善内部控制机制、建立ESG风险评估体系）有助于金融行业提升ESG表现。选项A忽视借款人ESG风险、选项C减少绿色产业投资、选项D隐瞒ESG相关信息均会降低ESG表现，正确答案为B。",
+      "en": "*Strengthening internal governance and risk management (such as improving internal control mechanisms, establishing ESG risk assessment systems) can help the financial industry improve its ESG performance. A, C, and D are incorrect (they will reduce ESG performance)."
     },
     "source": "v7-bank",
     "tags": []
@@ -3993,8 +3993,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*A major trend in the development of sustainable investment is that more and more investors integrate ESG factors into investment decision-making, and ESG has become an important part of investment analysis. A, B, and D are opposite to the development trend (government regulation is strengthening, investor demand is increasing, and attention to climate change is increasing).",
-      "en": null
+      "zh": "可持续投资发展的一大趋势是越来越多的投资者将ESG因素融入投资决策，ESG已成为投资分析的重要组成部分。选项A（政府监管加强而非减弱）、选项B（投资者需求增加而非减少）、选项D（对气候变化关注度提高而非降低）均与发展趋势相反，正确答案为C。",
+      "en": "*A major trend in the development of sustainable investment is that more and more investors integrate ESG factors into investment decision-making, and ESG has become an important part of investment analysis. A, B, and D are opposite to the development trend (government regulation is strengthening, investor demand is increasing, and attention to climate change is increasing)."
     },
     "source": "v7-bank",
     "tags": []
@@ -4043,8 +4043,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The future direction of ESG ratings is to move towards more unified global standards, reducing the inconsistency of rating results between different agencies. B, C, and D are incorrect (fragmentation will be reduced, industry characteristics will be emphasized, and the number of indicators will be more comprehensive).",
-      "en": null
+      "zh": "ESG评级的未来方向是走向更统一的全球标准，减少不同机构之间评级结果的不一致性。选项B错误（评级框架将趋于统一而非分散），选项C错误（会更强调行业特征），选项D错误（指标数量将更全面），正确答案为A。",
+      "en": "*The future direction of ESG ratings is to move towards more unified global standards, reducing the inconsistency of rating results between different agencies. B, C, and D are incorrect (fragmentation will be reduced, industry characteristics will be emphasized, and the number of indicators will be more comprehensive)."
     },
     "source": "v7-bank",
     "tags": []
@@ -4093,8 +4093,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Good ESG performance can help enterprises reduce risks, improve brand image, and enhance long-term operational stability, thereby enhancing corporate long-term value. A, C, and D are incorrect (sustainable investment affects the value of all types of enterprises, and good ESG performance is conducive to increasing value).",
-      "en": null
+      "zh": "良好的ESG表现可以帮助企业降低风险、提升品牌形象、增强长期运营稳定性，从而提升企业长期价值。选项A错误（可持续投资对所有类型企业都有影响），选项C错误（良好ESG表现有助于增加价值），选项D错误（不仅影响大型企业），正确答案为B。",
+      "en": "*Good ESG performance can help enterprises reduce risks, improve brand image, and enhance long-term operational stability, thereby enhancing corporate long-term value. A, C, and D are incorrect (sustainable investment affects the value of all types of enterprises, and good ESG performance is conducive to increasing value)."
     },
     "source": "v7-bank",
     "tags": []
@@ -4143,8 +4143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Investing in solar power projects (renewable energy) is a typical sustainable investment in the energy industry, which helps reduce carbon emissions and promote the transition to a low-carbon economy. A, C, and D are unsustainable practices.",
-      "en": null
+      "zh": "投资太阳能发电项目（可再生能源）是能源行业可持续投资的典型案例，有助于减少碳排放并推动向低碳经济转型。选项A投资燃煤电厂、选项C忽视碳减排要求、选项D增加化石燃料使用均是不可持续的做法，正确答案为B。",
+      "en": "*Investing in solar power projects (renewable energy) is a typical sustainable investment in the energy industry, which helps reduce carbon emissions and promote the transition to a low-carbon economy. A, C, and D are unsustainable practices."
     },
     "source": "v7-bank",
     "tags": []

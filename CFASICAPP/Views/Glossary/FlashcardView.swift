@@ -13,6 +13,7 @@ struct FlashcardView: View {
             // Controls
             HStack {
                 Button("关闭") { dismiss() }
+                    .accessibilityLabel("关闭")
                 Spacer()
                 Text("\(viewModel.currentIndex + 1)/\(viewModel.activeTerms.count)")
                     .font(.caption)
@@ -24,6 +25,7 @@ struct FlashcardView: View {
                     Image(systemName: viewModel.showHighFrequencyOnly ? "star.fill" : "star")
                         .foregroundStyle(viewModel.showHighFrequencyOnly ? .yellow : .secondary)
                 }
+                .accessibilityLabel(viewModel.showHighFrequencyOnly ? "显示全部术语" : "仅显示高频术语")
             }
             .padding(.horizontal)
 
@@ -43,7 +45,12 @@ struct FlashcardView: View {
                         .rotation3DEffect(.degrees(viewModel.isFlipped ? 0 : 90), axis: (x: 0, y: 1, z: 0))
                 }
                 .animation(.easeInOut(duration: 0.4), value: viewModel.isFlipped)
-                .onTapGesture { viewModel.flip() }
+                .onTapGesture {
+                    withAnimation(.easeInOut(duration: 0.4)) { viewModel.flip() }
+                }
+                .accessibilityAction {
+                    withAnimation(.easeInOut(duration: 0.4)) { viewModel.flip() }
+                }
 
                 Spacer()
 
@@ -57,6 +64,7 @@ struct FlashcardView: View {
                             .foregroundStyle(viewModel.canGoBack ? .blue : .gray.opacity(0.3))
                     }
                     .disabled(!viewModel.canGoBack)
+                    .accessibilityLabel("上一张")
 
                     Button {
                         viewModel.shuffle()
@@ -65,6 +73,7 @@ struct FlashcardView: View {
                             .font(.system(size: 36))
                             .foregroundStyle(.orange)
                     }
+                    .accessibilityLabel("随机打乱")
 
                     Button {
                         viewModel.next()
@@ -74,6 +83,7 @@ struct FlashcardView: View {
                             .foregroundStyle(viewModel.canGoForward ? .blue : .gray.opacity(0.3))
                     }
                     .disabled(!viewModel.canGoForward)
+                    .accessibilityLabel("下一张")
                 }
                 .padding(.bottom, 40)
             } else {
@@ -114,7 +124,7 @@ struct FlashcardView: View {
         .padding(32)
         .background(Color(.systemBackground))
         .cornerRadius(20)
-        .shadow(color: .black.opacity(0.08), radius: 12, y: 4)
+        .adaptiveShadow(radius: 12, y: 4)
         .padding(.horizontal, 24)
     }
 
@@ -142,7 +152,7 @@ struct FlashcardView: View {
         .padding(32)
         .background(Color(.systemBackground))
         .cornerRadius(20)
-        .shadow(color: .black.opacity(0.08), radius: 12, y: 4)
+        .adaptiveShadow(radius: 12, y: 4)
         .padding(.horizontal, 24)
     }
 }

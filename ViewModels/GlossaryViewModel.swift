@@ -1,11 +1,17 @@
 import Foundation
+import SwiftUI
 
 @Observable
 final class GlossaryViewModel {
     var allTerms: [GlossaryTerm]
     var currentIndex: Int = 0
     var isFlipped: Bool = false
-    var showHighFrequencyOnly: Bool = false
+    var showHighFrequencyOnly: Bool = false {
+        didSet {
+            currentIndex = 0
+            isFlipped = false
+        }
+    }
 
     var activeTerms: [GlossaryTerm] {
         if showHighFrequencyOnly {
@@ -15,7 +21,7 @@ final class GlossaryViewModel {
     }
 
     var currentTerm: GlossaryTerm? {
-        guard currentIndex < activeTerms.count else { return nil }
+        guard currentIndex >= 0 && currentIndex < activeTerms.count else { return nil }
         return activeTerms[currentIndex]
     }
 
@@ -27,9 +33,7 @@ final class GlossaryViewModel {
     }
 
     func flip() {
-        withAnimation(.easeInOut(duration: 0.4)) {
-            isFlipped.toggle()
-        }
+        isFlipped.toggle()
     }
 
     func next() {

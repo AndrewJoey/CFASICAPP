@@ -1,0 +1,2012 @@
+1Which of the following is a governance issue?
+纠错收藏
+A
+Tax transparency
+
+B
+Health and safety
+
+C
+Working conditions
+
+【单选题】
+正确答案：C
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because examples of the definition and scope of ESG issues can be illustrated by the two widely-referenced organisations.Tax Transparency falls under the umbrella of Governance.Incorrect because examples of the definition and scope of ESG issues can be illustrated by the two widely-referenced organisations. Health &amp; Safety falls under the umbrella of Social by FTSE Russell.Incorrect because examples of the definition and scope of ESG issues can be illustrated by the two widely-referenced organisations. Working conditions is an example of Social in the taxonomy by PRI.1. Introduction to ESG Investing1-1-1&nbsp;define ESG investment and different approaches to ESG investing: responsible investment, socially responsible investment, sustainable investment, best-in-class investment, ethical/values-driven investment, thematic investment, green investment, social investment, shareholder engagement
+
+我的笔记：
+2Companies stating that they are taking positive action in one ESG area while negatively contributing to another is a practice called:
+纠错收藏
+A
+greenhushing.
+
+B
+scopewashing.
+
+C
+competence greenwashing.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because uncertainty over what does or doesn’t qualify as green creates a phenomenon of ‘greenhushing,’ where those making good strides towards more sustainable practices are unwilling to reveal as much for fear of retribution or misinterpretation.Correct&nbsp;because many companies hide their harmful practices behind more positive ones—for example, providing an incomplete picture of environmental impact by focusing too much on carbon emissions and ignoring other factors such as recyclability and toxicity. Companies stating that they are taking positive action in one area while negatively contributing to another is a practice called scopewashing.Incorrect because in the face of growing regulatory and market pressure, companies are contending with ensuring their ESG credentials are fit for purpose. Some boards, executives, and employees use hyperbole to highlight their knowledge, skills, and experience in sustainability—a practice coined by sustainable finance academic Kim Schumacher as &quot;competence greenwashing.&quot;9. Investment Mandates, Portfolio Analytics, and Client Reporting9-1-4&nbsp;explain examples of greenwashing by financial market participants and the regulatory and reputational consequences of making misrepresentations
+
+我的笔记：
+3A drawback of ESG index-based investment strategies is that they:
+纠错收藏
+A
+focus only on environmental factors.
+
+B
+cannot accommodate factor-based investing styles.
+
+C
+rely on established datasets for construction that lack comparability and regional breadth.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because FTSE Russell have developed a range of indexes including single ESG themes, such as diversity as measured by female board representation.Incorrect because the wider availability of ESG data and greater investor interest in responsible investment have also led to the development of new, alternative approaches in index-based investing. Single-factor ESG strategies (smart beta and beta plus) provide investors a means to weight an index toward a style factor.Correct&nbsp;because ESG datasets lack history, comparability, and regional breadth. ESG disclosure also remains largely voluntary, and there is still little global convergence around ESG reporting standards.8. Integrated Portfolio Construction and Management8-1-10&nbsp;describe approaches to managing index-based ESG portfolios
+
+我的笔记：
+4The EU taxonomy:
+纠错收藏
+A
+is a set of recommendations for companies to report on climate-related metrics and targets.
+
+B
+provides a proprietary tool that compares environmental disclosures across different industries.
+
+C
+is a classification system to determine whether an economic activity is environmentally sustainable.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the Financial Stability Board Task Force on Climate-related Financial Disclosures (TCFD) (not the EU taxonomy) takes the Paris Agreement’s target and tries to operationalise it for the business world. Its&nbsp;June 2017 Final Report&nbsp;urges companies to disclose against the following: metrics and targets: the metrics and targets used to assess and manage relevant climate-related risks and opportunities.Incorrect because the Sustainability Accounting Standards Board or the SASB (not the EU taxonomy) provides an interactive proprietary tool that identifies and compares disclosure topics across different industries and sectors, described as a ‘materiality map’.Correct&nbsp;because the EU taxonomy aims to significantly reduce the risk of green-washing financial products by providing a classification system to determine whether an economic activity is environmentally sustainable.3. Environmental Factors3-1-4&nbsp;Assess how megatrends influence environmental factors; environmental and climate policies; international climate and environmental agreements and conventions; international, regional, and country-level policy and initiatives; carbon pricing
+
+我的笔记：
+5An analyst determines that a company&#39;s exposure to environmental risks has increased. The&nbsp;most&nbsp;appropriate action is to:
+纠错收藏
+A
+apply a higher cost of capital.
+
+B
+adjust future projected cash flows upwards.
+
+C
+assign a premium to the company's relative P/E ratio.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because when it comes to discounted cash flow input adjustments, for example, a company’s environmental management processes and policies are judged strong or weak. After this judgment, the cost of capital used to discount cash flows in a DCF analysis is adjusted down or up by 1% to account for this. This can also be on a country- or sector-basis, where a country or sector ESG risk factor may contribute to a change in a cost of capital or terminal value growth assumption. For example, the coal sector may be judged to have a negative environmental impact.Incorrect because rather than changing model discount assumptions, explicit sales or margin assumptions may be adjusted. Also, adjustments can be made directly to the balance sheet or capital expense lines. A practitioner may believe that ESG factors will lead a company to decrease or increase its future capital expenditure. A forecast ESG impairment event, e.g. a sub-standard factory, may result in an impairment charge being made to bring the company’s book value down.Incorrect because regarding valuation ratio adjustments with ESG integration, an investor may decide a company is worth a certain PE ratio premium or discount versus its peers due to ESG factors. Alternatively, an investor may only be prepared to invest in a company with, for example, a 50% discount on a PE ratio versus an index benchmark because the company is judged to have a high ESG risk. Conversely, an investor may be willing to invest in a company at a 50% premium on a PE ratio due to strong ESG characteristics. In this case, a discount, not a premium would be warranted.7. ESG Analysis, Valuation, and Integration7-1-6&nbsp;explain how ESG analysis complements traditional financial analysis
+
+我的笔记：
+6Which of the following asset classes is&nbsp;most likely&nbsp;to have fund managers actively involved in governance?
+纠错收藏
+A
+Infrastructure
+
+B
+Index tracking
+
+C
+Active fixed income
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because infrastructure engagement managers can exert influence on underlying companies or asset management through governance arrangements (e.g. board seats).Incorrect because passive/index tracking engagement managers can exert influence on companies through engagement and voting. There is also scope for influence on market- and system-wide issues.Incorrect because active fixed income engagement managers can exert influence on companies through engagement and voting.9. Investment Mandates, Portfolio Analytics, and Client Reporting9-1-3&nbsp;explain the most common features of ESG investing that asset owners and intermediaries, including pension consultants and fund selectors, are seeking to identify through request for proposal (RFP)
+
+我的笔记：
+7Which of the following statements about ESG indices is&nbsp;most&nbsp;accurate? ESG scores used for weightings tilts:
+纠错收藏
+A
+must be data-based only.
+
+B
+must be ratings-based only.
+
+C
+can be either data-based or ratings-based.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because these ETFs follow the underlying index or basket construction in a rules-based fashion. These can be thematic, namely investing only in certain sectors, or tilt weightings based on ESG scores, as described earlier. These scores maybe be data-based (for example, carbon emissions) or ratings-based (for example, on a provider’s ratings), or a mix of the two. There continue to be debates as to how well these ETFs capture potential ESG factors.Incorrect because these ETFs follow the underlying index or basket construction in a rules-based fashion. These can be thematic, namely investing only in certain sectors, or tilt weightings based on ESG scores, as described earlier. These scores maybe be data-based (for example, carbon emissions) or ratings-based (for example, on a provider’s ratings), or a mix of the two. There continue to be debates as to how well these ETFs capture potential ESG factors.Correct&nbsp;because these ETFs follow the underlying index or basket construction in a rules-based fashion. These can be thematic, namely investing only in certain sectors, or tilt weightings based on ESG scores, as described earlier. These scores maybe be data-based (for example, carbon emissions) or ratings-based (for example, on a provider’s ratings), or a mix of the two. There continue to be debates as to how well these ETFs capture potential ESG factors.7. ESG Analysis, Valuation, and Integration7-1-14&nbsp;describe primary and secondary sources of ESG data and information
+
+我的笔记：
+8Which of the following ESG screening methodologies is criticized for&nbsp;not&nbsp;considering stewardship and engagement activities?
+纠错收藏
+A
+Relative basis screening only
+
+B
+Absolute basis screening only
+
+C
+Both relative and absolute basis screening
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the criticism is also leveled at the absolute basis screening approach. Despite the clear organizational benefits of ESG screening, whether on an absolute or relative basis, its approach does carry several challenges. One common criticism is its reductive approach. In other words, its quantitative measure does not consider softer forms of ESG, such as stewardship and engagement activities.Incorrect because the criticism is also leveled at the relative basis screening approach. Despite the clear organizational benefits of ESG screening, whether on an absolute or relative basis, its approach does carry several challenges. One common criticism is its reductive approach. In other words, its quantitative measure does not consider softer forms of ESG, such as stewardship and engagement activities.Correct&nbsp;because despite the clear organizational benefits of ESG screening, whether on an absolute or relative basis, its approach does carry several challenges. One common criticism is its reductive approach. In other words, its quantitative measure does not consider softer forms of ESG, such as stewardship and engagement activities. In fact, an investor whose portfolio focuses on long-term stewardship opportunities in poorly rated ESG companies in order to improve performance will likely suffer from the poor optics of these companies at the portfolio level.8. Integrated Portfolio Construction and Management8-1-7&nbsp;distinguish between ESG screening of individual companies and collective investment funds: on an absolute basis; relative to sector/peer group data
+
+我的笔记：
+9An automotive supplier develops new products that will increase the fuel efficiency of vehicles. These products will&nbsp;most likely&nbsp;contribute to a reduction in the supplier&#39;s:
+纠错收藏
+A
+Scope 1 emissions.
+
+B
+Scope 2 emissions.
+
+C
+Scope 3 emissions.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：A
+
+我的笔记：
+10Offshoring is&nbsp;most likely&nbsp;a result of which the following megatrends?
+纠错收藏
+A
+Automation
+
+B
+Globalization
+
+C
+Urbanization
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because offshoring is an implication of the globalization megatrend.Correct&nbsp;because globalisation is caused by a rapid increase in cross-border movement of goods, services, technology, people and capital. Depending on the viewpoint, it can be viewed as either a positive or a negative phenomenon. Examples of its implications include: Offshoring.Incorrect because offshoring is an implication of the globalization megatrend.4. Social Factors4-1-1&nbsp;explain the systemic relationships and activities between business activities and social issues, including: globalization; automation and artificial intelligence (AI); inequality and wealth creation; digital disruption, social media, and access to electronic devices; changes to work, leisure time, and education; changes to individual rights and responsibilities and family structures; changing demographics; urbanization; and religion
+
+我的笔记：
+11Corporate governance codes usually require which of the following board committees?
+纠错收藏
+A
+Risk committee
+
+B
+Investment committee
+
+C
+Nominations committee
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the three key committees of the board, usually required by corporate governance codes are: 1. The Nominations Committee 2. The Audit Committee 3. The Remuneration Committee. The Risk Committee is not typically required by corporate governance codes.Incorrect because the three key committees of the board, usually required by corporate governance codes are: 1. The Nominations Committee 2. The Audit Committee 3. The Remuneration Committee. The Investment Committee is not typically required by corporate governance codes.Correct&nbsp;because the three key committees of the board, usually required by corporate governance codes are: 1. The Nominations Committee 2. The Audit Committee 3. The Remuneration Committee.5. Governance Factors5-1-1&nbsp;explain the evolution of corporate governance frameworks: development of corporate governance; roles and responsibilities; systems and processes; shareholder engagement; minority shareholder alignment
+
+我的笔记：
+12Which of the following statements is&nbsp;most&nbsp;accurate? Best-in-class ESG strategies:
+纠错收藏
+A
+demonstrate incremental gains via active ownership efforts.
+
+B
+use a similar investment approach to exclusionary screening.
+
+C
+exhibit inconsistent ESG scores across different ratings methodologies.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because a common criticism for best-in-class ESG strategies is that their focus yields diminishing ESG returns with little opportunity to demonstrate incremental gains via active ownership efforts.Incorrect because positive alignment or best-in-class represents, to some degree, the inverse of exclusionary screening.Correct&nbsp;because the diversity of ESG ratings methodologies and lack of ratings convergence are a key challenge these strategies (positive alignment or best-in-class) face. They may score highly based on the portfolio manager’s methodology but score more poorly on another set of ESG metrics used by the fund’s investor or, for instance, a fund distribution platform like Morningstar. Hence, best-in-class portfolios will be tested on transparency as well as consistency.8. Integrated Portfolio Construction and Management8-1-9&nbsp;evaluate the different types of ESG analysis/SRI investment in terms of key objectives, investment considerations, and risks: full ESG integration; exclusionary screening; positive alignment/best-in-class; active ownership; thematic investing; impact investing; other
+
+我的笔记：
+13Standards determining the relationship between board tenure and independence are:
+纠错收藏
+A
+clearly defined in the US.
+
+B
+applied differently between countries.
+
+C
+consistent among European Union members.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the US does not have any standards in this regard and it is not acknowledged even as an issue in some major markets, most notably the US.Correct&nbsp;because different markets have varying expectations as to how long it takes for independence to erode.Incorrect because EU members have different local standards. For example Italy has 8 to 10 years, and France has 12 to 15 years.5. Governance Factors5-1-2&nbsp;assess key characteristics of effective corporate governance, and the main reasons why they may not be implemented or upheld: board structure, diversity, effectiveness, and independence; executive remuneration, performance metrics, and key performance indicators (KPIs); reporting and transparency; financial integrity and capital allocation; business ethics
+
+我的笔记：
+14The Enron, Tyco and WorldCom scandals in the United States led to the:
+纠错收藏
+A
+Dodd-Frank Act.
+
+B
+Greenbury Report.
+
+C
+Sarbanes-Oxley Act.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the financial crisis of 2008 led to various changes around the world. Most notable of the legislative changes was the 2010 Dodd-Frank Act in the USA.Incorrect because in the UK, shocks around pay levels at newly-privatised utilities led to the Greenbury report, which revised the corporate governance code in 1995.Correct&nbsp;because the Enron, Tyco and WorldCom scandals in the USA led to the Sarbanes-Oxley Act in 2002.5. Governance Factors5-1-1&nbsp;explain the evolution of corporate governance frameworks: development of corporate governance; roles and responsibilities; systems and processes; shareholder engagement; minority shareholder alignment
+
+我的笔记：
+15Two-tier board structures are most common in:
+纠错收藏
+A
+France
+
+B
+Germany.
+
+C
+the United Kingdom.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because single-tier (also called unitary) boards that are more typical of the UK, the USA, Japan, France and most of the rest of the world.Correct&nbsp;because two-tier board structures are seen, for example, in Germany, the Netherlands, Scandinavia and China.Incorrect because single-tier (also called unitary) boards that are more typical of the UK, the USA, Japan, France and most of the rest of the world.5. Governance Factors5-1-3&nbsp;assess and contrast the main models of corporate governance in major markets and the main variables influencing best practice: extent of variation of best practice; differences in legislation, culture, and interpretation
+
+我的笔记：
+16A company issues a bond to finance facility upgrades that would improve working conditions, but does not commit to specific improvements or outcomes. This bond is&nbsp;best&nbsp;classified as a:
+纠错收藏
+A
+transition bond.
+
+B
+sustainability bond.
+
+C
+sustainability-linked bond.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because transition bonds provide financing to ‘brown’ industries with high GHG emissions (such as mining, utilities and heavy industry). Transition bonds allow companies in these sectors to raise capital designated to the transition towards greener industries.Correct&nbsp;because sustainability bonds allow issuers to offer more broadly defined bonds that still create a positive social or environmental impact.Incorrect because sustainability-linked bonds (SLBs) provide financing to issuers who commit to specific improvements in sustainability outcomes.8. Integrated Portfolio Construction and Management8-1-6&nbsp;apply ESG screens to the main asset classes and their sub-sectors: fixed income; equities; and alternative investments
+
+我的笔记：
+17Which of the following ESG-specific areas of disclosure is&nbsp;not&nbsp;requested by the International Corporate Governance Network (ICGN) Model Mandate?
+纠错收藏
+A
+Details about stewardship engagement and voting activity
+
+B
+The manager’s assessment of ESG risks that are embedded in the portfolio
+
+C
+A breakdown of the return on investment from ESG-related activities for each stakeholder group
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the ICGN Model Mandate requests two areas of disclosure that are ESG-specific (ICGN 2012): The manager’s assessment of ESG risks that are embedded in the portfolio. A detailed disclosure of stewardship engagement and voting activity.Incorrect because the ICGN Model Mandate requests two areas of disclosure that are ESG-specific (ICGN 2012): The manager’s assessment of ESG risks that are embedded in the portfolio. A detailed disclosure of stewardship engagement and voting activity.Correct&nbsp;because a breakdown of the return on investment from ESG-related activities for each stakeholder group is not requested as an ESG-specific area of disclosure by the ICGN Model Mandate.9. Investment Mandates, Portfolio Analytics, and Client Reporting9-1-7&nbsp;explain the key challenges in measuring and reporting ESG-related investment performance: active, passive, and smart beta approaches; performance attribution; sensitivity analysis; risk measurement; engagement activity/impact; and integrated reporting and investment review
+
+我的笔记：
+18The first step in the effective design of an ESG investment mandate is for clients to:
+纠错收藏
+A
+clarify their needs and state their investment beliefs.
+
+B
+identify material ESG factors in their investment approach.
+
+C
+issue a request for proposals (RFP) to evaluate potential fund managers.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because the first step in the effective design of a mandate is that the client should be clear about their needs and set them out in a clear statement of ESG investment beliefs.Incorrect because identifying material ESG factors is at a later stage. As the PLSA indicates, how the client considers financially material ESG factors within their investment approach, as well as the extent to which they undertake stewardship, including engagement and voting.Incorrect because RFP is issued at a later stage. Ensuring that the mandate is fully operational is typically done through a detailed request for proposals (RFP) process.9. Investment Mandates, Portfolio Analytics, and Client Reporting9-1-1&nbsp;explain why mandate construction is of particular relevance and importance to the effective delivery of ESG investing: linking sustainable investing to the mandate; defining the sustainable investment strategy
+
+我的笔记：
+19Which of the following statements regarding engagement styles is&nbsp;most&nbsp;accurate?
+纠错收藏
+A
+Issues-based, top-down engagement fits more closely with active investment approaches
+
+B
+Company-focused, bottom-up engagement fits more closely with passive investment approaches
+
+C
+Active investors with focused portfolios typically seek a direct discussion with senior management as starting point for engagement
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because most investment houses mix the two, though company-focused, bottom-up engagement fits most naturally with active investment approaches, particularly those with concentrated portfolios, whereas issues-based, top-down engagement tends to align more closely with passive or otherwise broadly diversified investment portfolios.Incorrect because most investment houses mix the two, though company-focused, bottom-up engagement fits most naturally with active investment approaches, particularly those with concentrated portfolios, whereas issues-based, top-down engagement tends to align more closely with passive or otherwise broadly diversified investment portfolios.Correct&nbsp;because active investors, particularly those with focused portfolios, start with the company itself and its business issues and develop a tailored engagement approach cutting across a range of issues, often with the investment teams taking a leading role. Companies selected for this approach are often identified from investment underperformers or ones that trigger other financial or ESG metrics. The starting point is typically to seek a direct discussion with senior management and then the board..6. Engagement and Stewardship6-1-4&nbsp;explain how engagement is achieved in practice, including key differences in objectives, style, and tone
+
+我的笔记：
+20The UK Stewardship Code that came into effect on 1 January 2020 requires signatories to report:
+纠错收藏
+A
+monthly
+
+B
+quarterly
+
+C
+annually
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because in the new UK Stewardship code, which came into effect from 1 January 2020, the former focus on statements of intent no longer exists. Instead, investors are now expected to report annually (not monthly) on activity, and most importantly, on outcomes from that activity.Incorrect because the new UK Stewardship code, which came into effect from 1 January 2020, the former focus on statements of intent no longer exists. Instead, investors are now expected to report annually (not quarterly) on activity, and most importantly, on outcomes from that activity.Correct&nbsp;because the new UK Stewardship code, which came into effect from 1 January 2020, the former focus on statements of intent no longer exists. Instead, investors are now expected to report annually on activity, and most importantly, on outcomes from that activity.6. Engagement and Stewardship6-1-3&nbsp;explain the main principles and requirements of stewardship codes as they apply to institutional asset management firms
+
+我的笔记：
+21In sectors that rely on a large manual workforce, the implementation of a living wage&nbsp;most likely&nbsp;contributes to:
+纠错收藏
+A
+fewer children educated.
+
+B
+increased savings by workers.
+
+C
+increased dependence on social services.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because a living wage contributes to more (instead of fewer) children being educated. The benefits of paying a living wage are clear. Workers work regular working hours instead of excessive overtime to make ‘ends meet’ and are more likely to send their children to school instead of work.Correct&nbsp;because in sectors that employ and rely on masses of manual labour (such as the garment and footwear, food and beverage, consumer electronics or retail sectors), wages are often insufficient to cover workers’ basic living expenses (food, clothing, housing, healthcare and education). The benefits of paying a living wage are clear. Workers who earn a living wage can meet their own basic needs and those of their families and put savings aside, thus being more likely to find their way out of poverty. They work regular working hours instead of excessive overtime to make ‘ends meet’ and are more likely to send their children to school instead of work.Incorrect because a living wage contributes to less (instead of increased) dependence on social services. The benefits of paying a living wage are clear. Workers who earn a living wage can meet their own basic needs and those of their families and put savings aside, thus being more likely to find their way out of poverty.4. Social Factors4-1-3&nbsp;explain key social concepts, including: human capital: development, employment standards, and health and safety; product liability/consumer protection: safety, quality, health and demographic risks, and data privacy and security; stakeholder opposition/controversial sourcing; social opportunities: access to communications, finance, and health and nutrition; social and news media; animal welfare and microbial resistance
+
+我的笔记：
+22Which of the following is&nbsp;most&nbsp;accurate regarding ESG issues in fixed income?
+纠错收藏
+A
+The ESG interests of long-term fixed income and equity investors do not often align
+
+B
+For sovereign issuers, ESG engagement is a more common approach than applying an ESG tilt
+
+C
+The probability of successful engagement is higher for private debt investors than for public debt investors
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because in almost all cases relating to ESG matters at companies that are going concerns, the interests of long-term investors (whether they are exposed to equity or debt) very much align.Incorrect because the ESG approach usually applied in this asset class (sovereign debt) is screening or an ESG tilt in the investment process rather than engagement.Correct&nbsp;because the greatest opportunity to push for conditions and disclosures around ESG is likely to be pre-issuance. This can be difficult to implement in fast-moving public markets, but is easier to effect in private debt issuance.6. Engagement and Stewardship6-1-7&nbsp;describe approaches of engagement across a range of asset classes
+
+我的笔记：
+23Which of the following is one of the three principles of the circular economy?
+纠错收藏
+A
+Keep products and materials in use
+
+B
+Produce a minimal amount of non-recyclable waste
+
+C
+Divide waste between recyclable and non-recyclable
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because the circular economy is based on three principles: 1. design out waste and pollution; 2. keep products and materials in use; and 3. regenerate natural systems.Incorrect because the circular economy is based on three principles: 1. design out waste and pollution; 2. keep products and materials in use; and 3. regenerate natural systems.Incorrect because the circular economy is based on three principles: 1. design out waste and pollution; 2. keep products and materials in use; and 3. regenerate natural systems while dividing waste between recyclable and non-recyclable is a feature of the reuse economy.3. Environmental Factors3-1-2&nbsp;explain key concepts related to other environmental issues, including pressures on natural resources, including depletion of natural resources; water; biodiversity loss; land use and marine resources; pollution; waste; and a circular economy
+
+我的笔记：
+24ESG optimization strategies for mutual funds:
+纠错收藏
+A
+may target either end of the distribution of a given ESG dataset.
+
+B
+must include the top quartile of companies based on ESG performance.
+
+C
+must exclude the bottom quartile of companies based on ESG performance.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because greater or lesser degrees of skewness in a particular ESG dataset may provide multiple paths to realizing the investor’s targeted exposure. To this end, optimization strategies can design a fund to target either end of the distribution of a given ESG dataset. That might produce a strategy that solely invests in the top quartile of funds, or it may mean excluding the bottom quartile of companies based on ESG performance while understanding the impact of the constraint relative to portfolio optimality.Incorrect because greater or lesser degrees of skewness in a particular ESG dataset may provide multiple paths to realizing the investor’s targeted exposure. To this end, optimization strategies can design a fund to target either end of the distribution of a given ESG dataset. That might produce a strategy that solely invests in the top quartile of funds, or it may mean excluding the bottom quartile of companies based on ESG performance while understanding the impact of the constraint relative to portfolio optimality.Incorrect because greater or lesser degrees of skewness in a particular ESG dataset may provide multiple paths to realizing the investor’s targeted exposure. To this end, optimization strategies can design a fund to target either end of the distribution of a given ESG dataset. That might produce a strategy that solely invests in the top quartile of funds, or it may mean excluding the bottom quartile of companies based on ESG performance while understanding the impact of the constraint relative to portfolio optimality.8. Integrated Portfolio Construction and Management8-1-8&nbsp;explain how ESG integration impacts the risk–return dynamic of portfolio optimization
+
+我的笔记：
+25Which of the following bonds would be issued to finance affordable housing projects?
+纠错收藏
+A
+Social bonds
+
+B
+Green bonds
+
+C
+Transition bonds
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because social bonds fund projects that provide access to essential services, infrastructure and social programmes to underserved people and communities. Examples include projects providing: affordable housing.Incorrect because green bonds are any type of bond instrument that funds projects that provide a clear benefit to the environment, such as renewable energy projects as opposed to projects that fund affordable housing.Incorrect because transition bonds provide financing to ‘brown’ industries with high GHG emissions (such as mining, utilities and heavy industry). Transition bonds allow companies in these sectors to raise capital designated to the transition towards greener industries.8. Integrated Portfolio Construction and Management8-1-6&nbsp;apply ESG screens to the main asset classes and their sub-sectors: fixed income; equities; and alternative investments
+
+我的笔记：
+26Exclusions supported by global norms are&nbsp;best&nbsp;described as:
+纠错收藏
+A
+universal exclusions.
+
+B
+idiosyncratic exclusions.
+
+C
+conduct-related exclusions.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because universal exclusions represent exclusions supported by global norms and conventions like those from the United Nations (UN) and the World Health Organization (WHO).Incorrect because idiosyncratic exclusions are exclusions that are not supported by global consensus. For example, New Zealand’s pension funds are singularly bound by statutory law to exclude companies involved in the processing of whale meat products.Incorrect because conduct-related exclusions are generally company or country-specific, and often not a statement against the nature of the business itself.8. Integrated Portfolio Construction and Management8-1-4&nbsp;explain the different approaches to screening and the benefits and limitations of the main approaches
+
+我的笔记：
+27With respect to an infrastructure asset, which of the following&nbsp;best&nbsp;describes the impact of an externality? A reduction in profitability resulting from:
+纠错收藏
+A
+rising temperatures
+
+B
+higher fossil fuel prices
+
+C
+local community protests
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because externalities are caused by the operation of the asset, as opposed to issues originating outside the asset. Some environmental issues may originate outside the asset but could impact its technical ability to operate or impact its profitability (for instance, temperature rise and increased water scarcity). Other issues may be caused by the asset itself and impact its surrounding environment and communities (such as water effluence and the quality of life of the communities around it). In this latter case, these are called ‘externalities’.Incorrect because externalities are caused by the operation of the asset, as opposed to issues originating outside the asset, such as higher fossil fuel prices. Some environmental issues may originate outside the asset but could impact its technical ability to operate or impact its profitability (for instance, temperature rise and increased water scarcity). Other issues may be caused by the asset itself and impact its surrounding environment and communities (such as water effluence and the quality of life of the communities around it). In this latter case, these are called ‘externalities&#39;.Correct&nbsp;because externalities are caused by the operation of the asset. Issues may be caused by the asset itself and impact its surrounding environment and communities (such as water effluence and the quality of life of the communities around it). These are called ‘externalities’ which can (and will) increasingly impact the asset’s financial performance via various feedback loops (including protests of the surrounding community).3. Environmental Factors3-1-8&nbsp;Apply material environmental factors to financial modeling, ratio analysis, and risk assessment
+
+我的笔记：
+28Which of the following statements about ESG integration is&nbsp;most&nbsp;accurate?
+纠错收藏
+A
+Good ESG standards lower a company's cost of capital
+
+B
+ESG performance and fund performance are positively correlated
+
+C
+ESG performance and a company's stock price are negatively correlated
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because the University of Oxford and asset manager Arabesque in 2014 reviewed the academic literature on sustainability and corporate performance, and found that out of the 200 studies analyzed 90% conclude that good ESG standards lower the cost of capitalIncorrect because in most research papers, there was a positive correlation between ESG performance and corporate financial performance, including stock prices. This provides academic evidence for the financial materiality of ESG factors. This correlation, however, does not hold for fund performance, suggesting that the asset management industry in general has not been consistently able to translate ESG analysis into alpha.Incorrect because in summary, these meta studies suggest that in most research papers, there was a positive correlation between ESG performance and corporate financial performance, including stock prices.1. Introduction to ESG Investing1-1-5&nbsp;explain different ESG megatrends, their systemic nature, and their potential impact on companies and company practices
+
+我的笔记：
+29Companies that have signed the Bangladesh Accord pledge:
+纠错收藏
+A
+not to employ child labor.
+
+B
+to pay a minimum living wage.
+
+C
+to commit to higher health and safety standards.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because Bangladesh Accord is not related to child labor. Certain sectors have deeper inherent social risks, for example due to child labour in the supply chain (clothing/cotton) or the nature of the business (mining).Incorrect because Bangladesh Accord is not related to living wages. In sectors that employ and rely on masses of manual labour (such as the garment and footwear, food and beverage, consumer electronics or retail sectors), wages are often insufficient to cover workers’ basic living expenses (food, clothing, housing, healthcare and education).Correct&nbsp;because companies that have signed the Bangladesh Accord, where they pledge to commit to higher fire and health and safety standards in Bangladesh.4. Social Factors4-1-3&nbsp;explain key social concepts, including: human capital: development, employment standards, and health and safety; product liability/consumer protection: safety, quality, health and demographic risks, and data privacy and security; stakeholder opposition/controversial sourcing; social opportunities: access to communications, finance, and health and nutrition; social and news media; animal welfare and microbial resistance
+
+我的笔记：
+30Triple bottom line accounting takes into account a company’s financial performance and its:
+纠错收藏
+A
+social and governance factors.
+
+B
+environmental and social factors.
+
+C
+environmental and governance factors.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the TBL (Triple bottom line) accounting theory expands the traditional accounting framework focused only on profit to include two other performance areas: the social and environmental impacts of a company.Correct&nbsp;because the TBL (Triple bottom line) accounting theory expands the traditional accounting framework focused only on profit to include two other performance areas: the social and environmental impacts of a company.Incorrect because the TBL (Triple Bottom Line) accounting theory expands the traditional accounting framework focused only on profit to include two other performance areas: the social and environmental impacts of a company.1. Introduction to ESG Investing1-1-2&nbsp;define the following sustainability-based concepts in terms of their strengths and limitations: corporate social responsibility and triple bottom line (TBL) accounting
+
+我的笔记：
+31According to McKinsey &amp; Company, which of the following is a dimension of an asset owner&#39;s investment approach?
+纠错收藏
+A
+Public reporting
+
+B
+Regulatory framework
+
+C
+ESG risk management
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because public reporting is one of the six dimensions identified by McKinsey. In particular, the McKinsey article provides a helpful framework as leading institutions apply sustainable investing practices across six dimensions of their investment process and operations. Under the column heading of dimension of investing, the six dimensions are presented as follows: Investment mandate, Investment beliefs and strategy; and under the sub-heading of Investment operations enablers: Tools and processes, Resources and organisation, Performance management, and Public reporting.Incorrect because regulatory framework is not one of the six dimensions identified by McKinsey. In particular, the McKinsey article provides a helpful framework as leading institutions apply sustainable investing practices across six dimensions of their investment process and operations. Under the column heading of dimension of investing, the six dimensions are presented as follows: Investment mandate, Investment beliefs and strategy; and under the sub-heading of Investment operations enablers: Tools and processes, Resources and organisation, Performance management, and Public reporting.Incorrect because ESG risk management is one of the six dimensions identified by McKinsesy. In particular, the McKinsey article provides a helpful framework as leading institutions apply sustainable investing practices across six dimensions of their investment process and operations”. Under the column heading of “dimension of investing, the six dimensions are presented as follows: Investment mandate, Investment beliefs and strategy; and under the sub-heading of Investment operations enablers: Tools and processes, Resources and organisation, Performance management, and Public reporting.9. Investment Mandates, Portfolio Analytics, and Client Reporting9-1-2&nbsp;explain how ESG screens can be embedded within investment mandates/portfolio guidelines to generate investment returns and manage portfolio risk
+
+我的笔记：
+32Which of the following social factors&nbsp;most likely&nbsp;impacts external stakeholder groups?
+纠错收藏
+A
+Product liability
+
+B
+Health and safety
+
+C
+Freedom of association
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because product liability and consumer protection are social factors that impact external stakeholders.Incorrect because working conditions, health and safety are social factors that impact internal stakeholders. Internal stakeholders include those such as the company&#39;s employees.Incorrect because employment standards and labor rights are social factors that impact internal stakeholders. Labour rights - Assessing how companies uphold labour rights is important for investors to gain insights into the corporate culture and the level of employee satisfaction. The most important labour rights have been summarized in International Labour Standards. These include: freedom of association and protection of the right to organize ;Internal stakeholders include those such as the company&#39;s employees.4. Social Factors4-1-3&nbsp;explain key social concepts, including: human capital: development, employment standards, and health and safety; product liability/consumer protection: safety, quality, health and demographic risks, and data privacy and security; stakeholder opposition/controversial sourcing; social opportunities: access to communications, finance, and health and nutrition; social and news media; animal welfare and microbial resistance
+
+我的笔记：
+33When applying an exclusionary ESG investing strategy, investors are&nbsp;most likely&nbsp;to:
+纠错收藏
+A
+exclude ideological criteria when selecting ESG factors.
+
+B
+consider ESG factors that are not necessarily financially material.
+
+C
+focus exclusively on ESG factors that are material in terms of likelihood and impact.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the criteria used for selecting ESG factors are subjective and can reflect ideological or political viewpoints. Furthermore, some exclusionary investing strategies must also consider factors that are not necessarily financially material (e.g., exclusion of companies that sell pork-based products by certain religious investors even if those products account for a small percentage of revenues).Correct&nbsp;because some exclusionary investing strategies must also consider factors that are not necessarily financially material (e.g., exclusion of companies that sell pork-based products by certain religious investors even if those products account for a small percentage of revenues).Incorrect because materiality is typically measured in terms of both the likelihood and magnitude of impact. Note that while many practitioners focus exclusively on material ESG factors, some exclusionary investing strategies must also consider factors that are not necessarily financially material (e.g., exclusion of companies that sell pork-based products by certain religious investors even if those products account for a small percentage of revenues).7. ESG Analysis, Valuation, and Integration7-1-3&nbsp;describe the challenges of identifying and assessing material ESG issues
+
+我的笔记：
+34Compared to fixed-income investors, equity investors&nbsp;most likely&nbsp;place greater emphasis on ESG factors that affect:
+纠错收藏
+A
+the risk of default.
+
+B
+growth opportunities.
+
+C
+balance sheet strength.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because fixed-income investors, not equity investors, have more focus on the risk of default. With a greater focus on return of capital and downside protection, fixed-income investors typically place greater emphasis on ESG factors that affect balance sheet strength (and therefore focus more on the risk of default) than equity investors, who are more concerned about growth opportunities because they own a residual claim on issuers’ net profit and assets.Correct&nbsp;because equity investors are more concerned about growth opportunities because they own a residual claim on issuers’ net profit and assets.Incorrect because fixed-income investors, not equity investors, have more focus on ESG factors that affect balance sheet strength. With a greater focus on return of capital and downside protection, fixed-income investors typically place greater emphasis on ESG factors that affect balance sheet strength (and therefore focus more on the risk of default) than equity investors, who are more concerned about growth opportunities because they own a residual claim on issuers’ net profit and assets.7. ESG Analysis, Valuation, and Integration7-1-9&nbsp;apply the approaches to ESG analysis and integration across a range of asset classes
+
+我的笔记：
+35In ESG analysis, a scorecard is&nbsp;best&nbsp;characterized as a:
+纠错收藏
+A
+qualitative approach.
+
+B
+quantitative approach.
+
+C
+hybrid of a qualitative and a quantitative approach.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because there are some techniques that could be considered a hybrid of both techniques, for example, scorecards, where a qualitative judgment is turned into a quantitative score.Incorrect because there are some techniques that could be considered a hybrid of both techniques, for example, scorecards, where a qualitative judgment is turned into a quantitative score.Correct&nbsp;because there are some techniques that could be considered a hybrid of both techniques, for example, scorecards, where a qualitative judgment is turned into a quantitative score.7. ESG Analysis, Valuation, and Integration7-1-1&nbsp;describe qualitative and quantitative approaches to integrating ESG analysis into the investment process
+
+我的笔记：
+36Which of the following statements about ESG integration is&nbsp;most&nbsp;accurate? The investment mandate of sovereign wealth funds:
+纠错收藏
+A
+must align with ESG principles.
+
+B
+is usually aligned to the short-term objectives of their state.
+
+C
+may include secondary objectives such as economic stabilization.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because for sovereign wealth funds these objectives can, but don’t necessarily have to, align with ESG concerns. There is some evidence that SWFs take ESG into account in asset selection and investor engagement in listed equities, but this evidence is mainly driven by observation of the practices of some of the more transparent SWFs.Incorrect because sovereign wealth funds are often mandated in line with mid- to long-term objectives of their state.Correct&nbsp;because sovereign wealth funds might go beyond optimising financial return and include broader policy objectives, such as: economic stabilisation.2. The ESG Market2-1-3&nbsp;explain the key drivers and challenges for ESG integration among key stakeholders: asset owners, asset managers, fund promoters, financial services, policymakers and regulators, investees, government, civil society, and academia
+
+我的笔记：
+37Which of the following adjustments to the financial model of a company&nbsp;most likely&nbsp;represents the effects of poorly managed human capital?
+纠错收藏
+A
+Higher revenues
+
+B
+Lower discount rate
+
+C
+Higher operating costs
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because for example, an analysis of a company’s strong management of its employees (as assessed by employee engagement or satisfaction metrics) leads to an assessment of strong future customer satisfaction, which in turn leads to sales forecasts five years out being raised to above the industry average to account for this strong social factor score. Accordingly, poorly managed human capital doesn&#39;t lead to higher revenues.Incorrect because besides specific impacts on estimates regarding future revenues, costs and potential liabilities in a company’s financial analysis, analysts might decide to raise (not lower) the discount rate to reflect a higher risk profile if a company does not manage social factors appropriately.Correct&nbsp;because scenarios that can be included in ratio analysis include human capital management issues, which can lead to greater operating costs if new employees need to be trained due to high employee turnover.4. Social Factors4-1-6&nbsp;apply material social factors to: risk assessment; quality of management; ratio analysis; and financial modeling
+
+我的笔记：
+38Which of the following companies would&nbsp;most likely&nbsp;be valued with the lowest discount rate?
+纠错收藏
+A
+A mature company with strong ESG practices
+
+B
+A high-growth technology company operating in emerging markets
+
+C
+A coal producer that is judged to have a negative environmental impact
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because companies with strong ESG practices could be seen as less risky, allowing for a lower discount rate. A higher (lower) discount rate leads to, all else equal, a lower (higher) estimate of intrinsic value.Incorrect because a higher-growth technology company operating in emerging markets would likely be valued with a higher discount rate and higher terminal growth rate. A higher (lower) discount rate leads to, all else equal, a lower (higher) estimate of intrinsic value.Incorrect because all coal producers and coal-powered utilities might be judged to have higher climate-related risk and thus higher discount rates. A higher (lower) discount rate leads to, all else equal, a lower (higher) estimate of intrinsic value.7. ESG Analysis, Valuation, and Integration7-1-7&nbsp;analyze how ESG factors may affect industry and company performance
+
+我的笔记：
+39Which of the following would be considered the&nbsp;most&nbsp;effective form of investor engagement?
+纠错收藏
+A
+Initiating a dialogue with the investee company following a share price fall
+
+B
+Highlighting concerns about long-term key issues to non-executive directors of the investee company
+
+C
+Requesting information on specific governance, social or environmental issues from the investee company
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because very often, a desire to engage arises from a share price fall. Active fund managers may then become concerned about issues that may have been apparent for a time but which may have been ignored as the performance was positive. Experience tends to show that such knee-jerk engagement is less likely to be effective than long-standing consistent messaging (where intensity may increase at moments of difficulty, but do not just begin at those moments).Correct&nbsp;because engagement dialogues are conversations between investors and any level of the investee entity (including non-executive directors) featuring a two-way sharing of perspectives, such that the investors express their position on key issues, and in particular, highlight any concerns that they may have. In addition, engagement is set in a context of long-term ownership and focus on long-term value preservation and creation, so that engagement is aligned with investment thesis.Incorrect because investors seeking insights is part of a monitoring dialogue and not an engagement dialogue. Monitoring is typified by detailed and specific questioning; investors seeking insights. In addition, two-way dialogue and expression of clear positions is necessary for engagement to deliver on its intended outcomes, of changed company behaviors and so on.6. Engagement and Stewardship6-1-2&nbsp;explain why engagement is considered beneficial and some of the key criticisms of engagement
+
+我的笔记：
+40Which of the following statements about corporate governance in public companies is&nbsp;most&nbsp;accurate?
+纠错收藏
+A
+Executive pay is negotiated directly between management and shareholders
+
+B
+Executive pay may cause a conflict of interest between management and shareholders
+
+C
+Generous executive pay packages are usually opposed by shareholders, regardless of share price performance
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because it is not possible for investors to negotiate pay directly with management, shareholders need to rely on remuneration committees to do so effectively on their behalf.Correct&nbsp;because pay is where the clearest conflict of interest between management and the shareholders occurs.Incorrect because shareholders are unlikely to oppose even the most generous packages when share price performance is strong.5. Governance Factors5-1-2&nbsp;assess key characteristics of effective corporate governance, and the main reasons why they may not be implemented or upheld: board structure, diversity, effectiveness, and independence; executive remuneration, performance metrics, and key performance indicators (KPIs); reporting and transparency; financial integrity and capital allocation; business ethics
+
+我的笔记：
+41Corporate governance differs from country to country based on local corporate law and:
+纠错收藏
+A
+culture only.
+
+B
+historical developments only.
+
+C
+both culture and historical developments.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because governance differs from country to country based on cultures and historical developments, as well as local corporate law.Incorrect because governance differs from country to country based on cultures and historical developments, as well as local corporate law.Correct&nbsp;because governance differs from country to country based on cultures and historical developments, as well as local corporate law.5. Governance Factors5-1-1&nbsp;explain the evolution of corporate governance frameworks: development of corporate governance; roles and responsibilities; systems and processes; shareholder engagement; minority shareholder alignment
+
+我的笔记：
+42A coal-fired utility has no climate change adaptation strategy. Which of the following parties would be&nbsp;most&nbsp;severely impacted by a transition to a low-carbon economy?
+纠错收藏
+A
+Creditors
+
+B
+Bondholders
+
+C
+Equity shareholders
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because carbon-intensive companies like coal-powered utilities without an adaptation strategy will be at risk in the transition to a low-carbon economy. In such a scenario, equity shareholders (who are subordinate to creditors and bondholders in the capital structure) will be disproportionately impacted.Incorrect because carbon-intensive companies like coal-powered utilities without an adaptation strategy will be at risk in the transition to a low-carbon economy. In such a scenario, equity shareholders (who are subordinate to creditors and bondholders in the capital structure) will be disproportionately impacted.Correct&nbsp;because carbon-intensive companies like coal-powered utilities without an adaptation strategy will be at risk in the transition to a low-carbon economy. In such a scenario, equity shareholders (who are subordinate to creditors and bondholders in the capital structure) will be disproportionately impacted.8. Integrated Portfolio Construction and Management8-1-1&nbsp;explain the impact of ESG factors on strategic asset allocation
+
+我的笔记：
+43Quantitative ESG analysis is&nbsp;best&nbsp;characterized by:
+纠错收藏
+A
+observations and conclusions in the form of words rather than numbers.
+
+B
+impartiality and non-judgment, as it involves numbers rather than words.
+
+C
+the use of mathematical modeling and data analysis to examine large datasets.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because qualitative ESG analysis generally involves observations and conclusions in the form of words rather than numbers.Incorrect because quantitative ESG (QESG) analysis involves numbers rather than words but still involves discretion and judgment, including the choice of which data to examine, materiality, weights against other data, and points of reference, such as peer groups.Correct&nbsp;because quantitative ESG approaches can use complex mathematical modeling and data analysis, including artificial intelligence and algorithms.7. ESG Analysis, Valuation, and Integration7-1-1&nbsp;describe qualitative and quantitative approaches to integrating ESG analysis into the investment process
+
+我的笔记：
+44The Global Real Estate Sustainability Benchmark (GRESB) full benchmark report provides a GRESB score. The GRESB score includes and weights which of the following considerations?Environmental impact reduction targetsMonitoring and environmental management systems
+纠错收藏
+A
+I, but not II
+
+B
+II, but not I
+
+C
+Both I and II
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the GRESB score weights management, policy, and disclosure; risks and opportunities; and monitoring and environmental management systems (EMSs). Environmental impact reduction targets are not considered in the GRESB score.Correct&nbsp;because the GRESB score weights management, policy, and disclosure; risks and opportunities; and monitoring and environmental management systems (EMSs). Environmental impact reduction targets are not considered in the GRESB score.Incorrect because the GRESB score weights management, policy, and disclosure; risks and opportunities; and monitoring and environmental management systems (EMSs). Environmental impact reduction targets are not considered in the GRESB score.7. ESG Analysis, Valuation, and Integration7-1-9&nbsp;apply the approaches to ESG analysis and integration across a range of asset classes
+
+我的笔记：
+45Which of the following statements is&nbsp;most&nbsp;accurate?
+纠错收藏
+A
+Socio-political matters are eliminated from ESG factors
+
+B
+The information used for selecting ESG factors often comes from the companies themselves
+
+C
+ESG mutual funds are prohibited from holding investments in companies that are acknowledged as ‘bad actors’
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because one of the most common criticisms of ESG investing is the difficulty for investors to correctly identify, and appropriately weigh, ESG factors in investment selection. Critics express concerns about the precision, validity and reliability of ESG investment strategies, and tend to express four concerns, including dubious assessment criteria. The criteria used for selecting ESG factors are too subjective and can reflect narrow or conflicting ideological or political viewpoints. Non-material or socio-political factors may be over-emphasized. Materiality assessments might be considered flawed.Correct&nbsp;because one of the most common criticisms of ESG investing is the difficulty for investors to correctly identify, and appropriately weigh, ESG factors in investment selection. Critics express concerns about the precision, validity and reliability of ESG investment strategies, and tend to express four concerns, including quality of data. The information used for selecting ESG factors often comes (unaudited or assured) from the companies themselves. This complicates the ability to verify, compare and standardize this information.Incorrect because one of the most common criticisms of ESG investing is the difficulty for investors to correctly identify, and appropriately weigh, ESG factors in investment selection. Critics express concerns about the precision, validity and reliability of ESG investment strategies, and tend to express four concerns, including too inclusive of poor companies. ESG mutual funds and exchange-traded funds (ETFs) often hold investments in companies that may be acknowledged as ‘bad actors’ in one or more of the ESG spaces.7. ESG Analysis, Valuation, and Integration7-1-2&nbsp;describe the challenges of integrating ESG analysis into a firm’s investment process
+
+我的笔记：
+46The Task Force on Climate-related Financial Disclosures (TCFD) recommends that portfolio managers treat carbon exposure on a(n):
+纠错收藏
+A
+asset basis.
+
+B
+company basis.
+
+C
+portfolio-weighted basis.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because recommendations by the TCFD provide an important example, for both a move towards ESG standards convergence and in elevating risk exposure metrics to the portfolio level from the underlying asset level. Where carbon intensity was previously determined in the form of carbon footprint on a per company or per asset basis, portfolio managers may now treat carbon exposure on a portfolio-weighted basis. Weighted-average carbon intensity measures a portfolio’s exposure to carbon-intensive companies on a position-weighted carbon exposure.Incorrect because recommendations by the TCFD provide an important example, for both a move towards ESG standards convergence and in elevating risk exposure metrics to the portfolio level from the underlying asset level. Where carbon intensity was previously determined in the form of carbon footprint on a per company or per asset basis, portfolio managers may now treat carbon exposure on a portfolio-weighted basis. Weighted-average carbon intensity measures a portfolio’s exposure to carbon-intensive companies on a position-weighted carbon exposure.Correct&nbsp;because recommendations by the TCFD provide an important example, for both a move towards ESG standards convergence and in elevating risk exposure metrics to the portfolio level from the underlying asset level. Where carbon intensity was previously determined in the form of carbon footprint on a per company or per asset basis, portfolio managers may now treat carbon exposure on a portfolio-weighted basis. Weighted-average carbon intensity measures a portfolio’s exposure to carbon-intensive companies on a position-weighted carbon exposure.8. Integrated Portfolio Construction and Management8-1-3&nbsp;explain approaches for how internal and external ESG research and analysis is used by portfolio managers to make investment decisions
+
+我的笔记：
+47Which of the following statements about green bonds and sustainability-linked bonds (SLBs) is&nbsp;most&nbsp;accurate?
+纠错收藏
+A
+A global consensus exists on the types of capital projects that fit in the scope of green bonds
+
+B
+SLBs allow issuers more flexibility in achieving sustainability targets compared to green bonds
+
+C
+Issuers of SLBs agree to pay a lower coupon to investors if they fail to achieve a sustainability-linked target
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because debate continues as to what makes a bond “green” because no global consensus exists on the types of capital projects that fit in the scope of green bonds.Correct&nbsp;because relative to green bonds, SLBs allow issuers more flexibility in achieving sustainability targets.Incorrect because the issuer of sustainability-linked bonds agrees to pay a higher coupon to investors if it fails to achieve a sustainability-linked target.7. ESG Analysis, Valuation, and Integration7-1-10&nbsp;explain how Credit Rating Agencies (CRAs) approach ESG Credit Scoring
+
+我的笔记：
+48The ESG rating correlation among different data providers is&nbsp;most likely:
+纠错收藏
+A
+negatively correlated.
+
+B
+uncorrelated.
+
+C
+positively correlated.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the academic study results demonstrate that the correlation is positively correlated.Incorrect because the academic study results demonstrate that the correlation is positively correlated.Correct&nbsp;because one challenge is that the agreement or correlation between the various ratings agencies is low. A study by Chatterji at al. finds an approximate 0.3 correlation. (Or more technically, this analysis found pairwise tetrachoric correlations for three years among the six raters, with a mean correlation of 0.30 (about 2 standard deviations). However, this also included some negative ones’ correlations, meaning what one rater found responsible another found ‘irresponsible’.) A 2019 study by Gibson et al. shows a range of correlations. Yet another study by Berg et al. shows a range of correlations as well: Berg looks at a dataset of ESG ratings from six different raters – namely, KLD (MSCI Stats), Sustainalytics, Vigeo Eiris (Moody’s), RobecoSAM (S&amp;P Global), Asset4 (Refinitiv) and MSCI – the correlations between the ratings are on average 0.54 and range from 0.38 to 0.71. Table 7.4 presents 4 categories of correlations ranging from 0.2 to 0.46.7. ESG Analysis, Valuation, and Integration7-1-13&nbsp;describe the limitations and constraints of information provided by ESG integration databases
+
+我的笔记：
+49Which of the following statements about minority shareholder alignment is&nbsp;most&nbsp;accurate?
+纠错收藏
+A
+Dual-class shares protect minority rights
+
+B
+Pre-emption rights protect minority shareholders
+
+C
+Individual institutional shareholders are seldom minority shareholders
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because an area in which minority shareholders can feel exploited is through the mechanism of dual-class shares.Correct&nbsp;because a key area for minority shareholder protection is pre-emption rights.Incorrect because for minority shareholders – which institutional investors will almost always be – a crucial issue is that they are not exploited by the dominant or controlling shareholders.5. Governance Factors5-1-1&nbsp;explain the evolution of corporate governance frameworks: development of corporate governance; roles and responsibilities; systems and processes; shareholder engagement; minority shareholder alignment
+
+我的笔记：
+50Which of the following&nbsp;most likely&nbsp;carries out the stewardship function for a pension fund? The fund&#39;s:
+纠错收藏
+A
+asset manager.
+
+B
+external auditor.
+
+C
+underlying beneficiaries.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because as stewardship is a reflection of fiduciary duty, it needs to be actively considered by any party charged with fiduciary duties. This will include most parties in the modern investment chain from underlying beneficiary through to asset owner (pension fund, insurer or other fund) to fund manager and those directing the investment asset. Any of these parties could carry out stewardship functions but in practice the role typically rests with those with the greatest aggregated scale, usually the fund manager.Incorrect because as stewardship is a reflection of fiduciary duty, it needs to be actively considered by any party charged with fiduciary duties and the auditor does not act as a fiduciary to the asset owner. The auditor is there to provide an independent pair of eyes assessing the financial reports prepared by management, and to provide some assurance that those reports fairly represent the performance and position of the business.Incorrect because as stewardship is a reflection of fiduciary duty, it needs to be actively considered by any party charged with fiduciary duties. This will include most parties in the modern investment chain from underlying beneficiary through to asset owner (pension fund, insurer or other fund) to fund manager and those directing the investment asset. Any of these parties could carry out stewardship functions but in practice the role typically rests with those with the greatest aggregated scale, usually the fund manager.6. Engagement and Stewardship6-1-1&nbsp;explain the purpose of investor engagement and stewardship
+
+我的笔记：
+51Which of the following is&nbsp;most likely&nbsp;classified as an environmental megatrend that has a severe social impact?
+纠错收藏
+A
+Offshoring
+
+B
+Urbanization
+
+C
+Water scarcity
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because offshoring is related to globalization, which is a social megatrend, and it is not classified as an environmental megatrend. Offshoring. Due to the lower wages of workers in the garment industry in developing countries, clothes are now mainly produced in countries such as Vietnam, Bangladesh and China. This has led to the disappearance of the textile industry in Western countries. Offshoring also takes place in other sectors.Incorrect because urbanisation is a social megatrend, and it is not classified as an environmental megatrend. Globally, the population has been, increasingly shifting from rural to urban areas.Correct&nbsp;because some environmental megatrends have a severe social impact as well and includes water scarcity.4. Social Factors4-1-2&nbsp;assess key megatrends influencing social change in terms of potential impact on companies and their social practices: climate change; transition risk; water scarcity; pollution; mass migration; and loss and/or degradation of natural resources and ecosystem services
+
+我的笔记：
+52According to the Global Sustainable Investment Alliance (GSIA), the predominant ESG strategy in Europe at the start of 2020 was:
+纠错收藏
+A
+ESG integration.
+
+B
+negative screening.
+
+C
+corporate engagement.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because norms based and negative/ exclusionary screening is the largest strategy in Europe.Correct&nbsp;because norms based and negative/ exclusionary screening is the largest strategy in Europe.Incorrect because norms based and negative/ exclusionary screening is the largest strategy in Europe.2. The ESG Market2-1-1&nbsp;explain the size and scope of ESG investing in relation to geography, strategy, investor type, and asset class
+
+我的笔记：
+53Which of the following ESG factors is most often considered by traditional investment analysts?
+纠错收藏
+A
+Social
+
+B
+Governance
+
+C
+Environmental
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because of the three ESG factors, governance is the element most often taken into consideration by traditional investment analysts.Correct&nbsp;because of the three ESG factors, governance is the element most often taken into consideration by traditional investment analysts.Incorrect because of the three ESG factors, governance is the element most often taken into consideration by traditional investment analysts.5. Governance Factors5-1-5&nbsp;assess material impacts of governance issues on potential investment opportunities, including the dangers of overlooking them: public finance initiatives; companies; infrastructure/private finance vehicles; societal impact
+
+我的笔记：
+54Compared to developed markets, ESG investing in emerging markets is&nbsp;most likely&nbsp;characterized by:
+纠错收藏
+A
+more data and less variability between countries and companies.
+
+B
+easier transferability of approaches and principles methods from developed markets.
+
+C
+greater opportunities for investors to engage with companies and improve ESG performance.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because less disclosure and fewer available ESG ratings means benchmarking ESG performance is more challenging in emerging markets due to less data and great variability between countries and companies.Incorrect because ESG integration in emerging markets may require more nuanced approaches, and principles methods from developed markets may not easily apply.Correct&nbsp;because emerging markets present greater opportunities for investors to engage with companies and improve ESG performance. While change takes time, investors can play a role in advancing ESG factors through capital allocation and active ownership.7. ESG Analysis, Valuation, and Integration7-1-5&nbsp;interpret a company’s disclosure on selected ESG topics
+
+我的笔记：
+55The&nbsp;most&nbsp;appropriate first step in developing a scorecard is to:
+纠错收藏
+A
+identify sector or company specific ESG items.
+
+B
+determine a scoring system based on best practices.
+
+C
+benchmark the company’s performance against industry averages.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because the first step to develop a scorecard: 1. Identify sector or company specific ESG items.Incorrect because determining a scoring system based on what good/best practice looks like comes after identifying sector or company specific ESG items. To develop a scorecard: 1. Identify sector or company specific ESG items. 2. Breakdown issues into a number of indicators (e.g. policy, measures, disclosure). 3. Determine a scoring system based on what good/best practice looks like for each indicator/issue.Incorrect because benchmarking the company’s performance comes after determining a scoring system. To develop a scorecard: 1. Identify sector or company specific ESG items. 2. Breakdown issues into a number of indicators (e.g. policy, measures, disclosure). 3. Determine a scoring system based on what good/best practice looks like for each indicator/issue. 4. Assess a company and give it a score. 5. Calculate aggregated scores at issue level, dimension level (environmental, social or governance level) or total score level (depending on the relative weight of each issue). 6. Benchmark the company’s performance against industry averages or peer group (optional).7. ESG Analysis, Valuation, and Integration7-1-4&nbsp;describe how scorecards and other tools may be developed and constructed to assess ESG factors
+
+我的笔记：
+56Which of the following statements regarding social megatrends in the developed world is&nbsp;most&nbsp;accurate?
+纠错收藏
+A
+Average working hours have increased
+
+B
+The workforce has become more diverse
+
+C
+The average level of education has decreased
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because most countries in the developed world have seen average hours worked decrease significantly. Whilst the number of average working hours has decreased, the average level of education has increased. The percentage of employees with a higher education degree has grown over the last few decades. Yet, some sectors suffer from a lack of qualified employees and are facing an intense ‘war on talent’ to attract the most skilled workers.Correct&nbsp;because the workforce has become more diverse: more women are now entering the labour market, which has provided women with more financial independence. However, in comparison to men, women are still more likely to become and remain unemployed, have fewer chances to participate in the labour force and – when they do secure employment – often have to accept lower quality jobs.Incorrect because whilst the number of average working hours has decreased, the average level of education has increased. The percentage of employees with a higher education degree has grown over the last few decades.4. Social Factors4-1-2&nbsp;assess key megatrends influencing social change in terms of potential impact on companies and their social practices: climate change; transition risk; water scarcity; pollution; mass migration; and loss and/or degradation of natural resources and ecosystem services
+
+我的笔记：
+57While updating a company&#39;s cost of capital analysis, an analyst increases her environmental risk assessment. As a result, the analyst&#39;s valuation of the company should:
+纠错收藏
+A
+decrease.
+
+B
+not change.
+
+C
+increase.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because an increase in environmental risk will increase the company&#39;s estimated cost of capital. For example, a company’s environmental management processes and policies are judged strong or weak. After this judgment, the cost of capital used to discount cash flows in a DCF analysis is adjusted down or up by 1% to account for this. A higher cost of capital would lead – all other factors being equal – to a lower intrinsic value estimate from the model.Incorrect because an increase in environmental risk will increase the company&#39;s estimated cost of capital. A higher cost of capital would lead – all other factors being equal – to a lower intrinsic value estimate from the model.Incorrect because an increase in environmental risk will increase the company&#39;s estimated cost of capital. A higher cost of capital would lead – all other factors being equal – to a lower intrinsic value estimate from the model.7. ESG Analysis, Valuation, and Integration7-1-8&nbsp;analyze how ESG factors may affect security valuation across a range of asset classes
+
+我的笔记：
+58Which of the following strategic asset allocation model(s) is highly sensitive to baseline assumptions?
+纠错收藏
+A
+Mean-variance optimization (MVO) only
+
+B
+Liability driven asset allocation (LDI) only
+
+C
+Both mean-variance optimization (MVO) and liability driven asset allocation (LDI)
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because both mean-variance optimisation (MVO) and Liability driven asset allocation (LDI) are highly sensitive to baseline assumptions. In particular, MVO is highly sensitive to baseline assumption and LDI encounters the same limitations as MVO, with high sensitivity to baseline assumptions.Incorrect because both mean-variance optimisation (MVO) and Liability driven asset allocation (LDI) are highly sensitive to baseline assumptions. In particular, MVO is highly sensitive to baseline assumptions and LDI encounters the same limitations as MVO, with high sensitivity to baseline assumptions.Correct&nbsp;because both mean-variance optimisation (MVO) and Liability driven asset allocation (LDI) are highly sensitive to baseline assumptions. In particular, MVO is highly sensitive to baseline assumptions and LDI encounters the same limitations as MVO, with high sensitivity to baseline assumptions.8. Integrated Portfolio Construction and Management8-1-1&nbsp;explain the impact of ESG factors on strategic asset allocation
+
+我的笔记：
+59Which of the following is&nbsp;most likely&nbsp;the primary driver of ESG investment for sovereign wealth funds?
+纠错收藏
+A
+Fiduciary duty
+
+B
+Reputational risk
+
+C
+Awareness of the financial impacts of climate change
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because fiduciary duty is the primary driver for ESG investment for defined benefit pension and defined contribution pension, but not for sovereign wealth funds.Correct&nbsp;because per the cited table in the reading, reputational risk is the primary driver for ESG investment for sovereign wealth fund.Incorrect because awareness of financial impacts of climate change is the primary driver for ESG investment for general insurer but not for sovereign wealth funds.9. Investment Mandates, Portfolio Analytics, and Client Reporting9-1-5&nbsp;explain the different client types and their objectives which influence the type of ESG investing strategy selected
+
+我的笔记：
+60When compared to a broad market benchmark, a portfolio that imposes a set of sector exclusions&nbsp;most likely&nbsp;produces:
+纠错收藏
+A
+high active share and low tracking error.
+
+B
+low active share and high tracking error.
+
+C
+high active share and high tracking error.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because a portfolio that imposes a broad set of exclusions (particularly sector exclusions, which represent a significant weight of their benchmark), will likely produce high active share and tracking error. This magnitude of difference may lead the portfolio manager to adopt a more appropriate ESG benchmark rather than a broad market benchmark.Incorrect because a portfolio that imposes a broad set of exclusions (particularly sector exclusions, which represent a significant weight of their benchmark), will likely produce high active share and tracking error. This magnitude of difference may lead the portfolio manager to adopt a more appropriate ESG benchmark rather than a broad market benchmark.Correct&nbsp;because the degree of exclusions may carry significant implications from a portfolio management perspective, not just in terms of higher tracking error and active share, but also unintended factor exposure. Tracking error and active share are measures that represent the degree to which a portfolio deviates from its benchmark. A portfolio that imposes a broad set of exclusions (particularly sector exclusions, which represent a significant weight of their benchmark), will likely produce high active share and tracking error. This magnitude of difference may lead the portfolio manager to adopt a more appropriate ESG benchmark rather than a broad market benchmark.8. Integrated Portfolio Construction and Management8-1-5&nbsp;explain the main indexes and benchmarking approaches applicable to sustainable and ESG investing, noting potential limitations
+
+我的笔记：
+61Which of the following statements about income inequality is&nbsp;most&nbsp;accurate?
+纠错收藏
+A
+Globalization is one of the drivers of growing wealth inequality
+
+B
+Increased income inequality greatly affects society but has little impact on economic growth
+
+C
+Across the OECD, the average income of the richest 10% of the population is about twice that of the poorest 10%
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because the OECD examines the drivers of growing inequalities, such as globalisation, skill-biased technological change and changes in countries’ policy approaches.Incorrect because there is increasing evidence that growing inequality affects economies and societies. Educational opportunities and social mobility may be reduced resulting in a less skilled and less healthy society with lower purchasing power among the lower and middle classes. This limits total economic growth.Incorrect because according to the OECD Centre for Opportunity and Equality (COPE) 2015 report, the average income of the richest 10% of the population is about nine times that of the poorest 10% across the OECD. This is also called economic or income inequality.4. Social Factors4-1-1&nbsp;explain the systemic relationships and activities between business activities and social issues, including: globalization; automation and artificial intelligence (AI); inequality and wealth creation; digital disruption, social media, and access to electronic devices; changes to work, leisure time, and education; changes to individual rights and responsibilities and family structures; changing demographics; urbanization; and religion
+
+我的笔记：
+62Which of the following statements about thematic investing is&nbsp;most&nbsp;accurate?Which of the following statements about thematic investing is&nbsp;most&nbsp;accurate?
+纠错收藏
+A
+Water funds underperform during economic cycle expansions
+
+B
+Clean energy funds outperform during economic cycle contractions
+
+C
+Thematic investing is not feasible through passive vehicles like ETFs
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because as an opposite example, water funds have a much more stable, regulatory outlook generally underpinned by strong cash flow and cash conversion. Often used as hedges against inflation, they will underperform during expansions in economic cycles when investors rotate towards growth.Incorrect because clean energy tends to be a pro-cyclical growth sector that underperforms when capital spending and the economic cycle contract.Incorrect because thematic investing targets sustainability-aligned themes as a means to construct a portfolio. While often designed around long-term, resource scarcity-oriented themes, such as water or clean energy, thematic funds may also focus on sustainable sectors like healthcare. This approach may be expressed both fundamentally and quantitatively through active quant strategies or more passive vehicles, such as exchange-traded funds (ETFs).8. Integrated Portfolio Construction and Management8-1-9&nbsp;evaluate the different types of ESG analysis/SRI investment in terms of key objectives, investment considerations, and risks: full ESG integration; exclusionary screening; positive alignment/best-in-class; active ownership; thematic investing; impact investing; other
+
+我的笔记：
+63Which of the following statements is&nbsp;most&nbsp;accurate? An emission trading system:
+纠错收藏
+A
+sets an explicit price on greenhouse gas emissions
+
+B
+mandates similar levels of emissions reductions for all actors.
+
+C
+creates an economic incentive for emissions reductions to occur at the point of least cost.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because carbon taxation takes a different approach compared to ETS by directly setting an explicit price on GHG emissions (e.g. per tonne of CO2).Incorrect because an ETS creates an economic incentive for emissions reductions to occur at the point of least cost; rather than mandating similar levels of reductions for all actors, price discovery helps reward those that can afford to reduce more.Correct&nbsp;because an emission trading system (ETS) is a system based on the exchange of permits for emission units, where actors who exceed their emissions limits are required to buy permits from those that have emitted less. The overall quantity of emissions is fixed, and market mechanisms are used to set their price. In theory, this creates an economic incentive for emissions reductions to occur at the point of least cost; rather than mandating similar levels of reductions for all actors, price discovery helps reward those that can afford to reduce more.3. Environmental Factors3-1-4&nbsp;Assess how megatrends influence environmental factors; environmental and climate policies; international climate and environmental agreements and conventions; international, regional, and country-level policy and initiatives; carbon pricing
+
+我的笔记：
+64Which of the following statements is&nbsp;most&nbsp;accurate? The Principles for Responsible Investment (PRI):
+纠错收藏
+A
+comprises six mandatory principles.
+
+B
+requires members to report quarterly on their responsible investment practices
+
+C
+provides guidance on actions signatories can take to incorporate ESG issues into investment practice.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the PRI developed six principles, which are voluntary.Incorrect because the PRI does require members to report annually on their responsible investment practices.Correct&nbsp;because the PRI developed six principles, which are voluntary, but provide overarching guidance on actions members can take to incorporating ESG issues into investment practice.1. Introduction to ESG Investing1-1-7&nbsp;explain the aims of key supranational ESG initiatives and organizations and the progress achieved to date
+
+我的笔记：
+65Which of the following statements is&nbsp;most&nbsp;accurate? The &#39;materiality map&#39; developed by the Sustainability and Accounting Standards Board (SASB):
+纠错收藏
+A
+quantifies financially material ESG factors across different industries and sectors.
+
+B
+identifies and compares ESG disclosure topics across different industries and sectors.
+
+C
+assesses the impact of financially material ESG factors on the investment performance of a company.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the &#39;materiality map&#39; does not quantify financially material ESG factors across different industries and sectors. SASB provides an interactive proprietary tool that identifies and compares disclosure topics across different industries and sectors, described as a ‘materiality map’.Correct&nbsp;because SASB provides an interactive proprietary tool that identifies and compares disclosure topics across different industries and sectors, described as a ‘materiality map’. The sustainability accounting standards identify financially material issues that are reasonably likely to impact the financial condition or operating performance of a company and therefore are most important to investors.Incorrect because the research stage (not materiality map) typically contains a materiality assessment to identify the ESG issues that are likely to have an impact on the company’s financial performance. After the research stage and any relevant risk and materiality mapping, practitioners assess the impact of material financial and ESG factors on the corporate and investment performance of a company.3. Environmental Factors3-1-5&nbsp;assess material impacts of environmental issues on potential investment opportunities, corporate and project finance, public finance initiatives, and asset management
+
+我的笔记：
+66Which of the following success factors is achieved with the highest likelihood through active private engagement?Factor 1:&nbsp;The objectives of the engagement are specific and targeted to enable clarity around delivery.Factor 2:&nbsp;The engagement approach is bespoke to the target company.
+纠错收藏
+A
+Factor 1 only
+
+B
+Factor 2 only
+
+C
+Both Factor 1 and Factor 2
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because both Factor 1 and Factor 2 are achieved with the highest likelihood level through active private engagement. Active private engagement refers to targeted and specific engagement and this form of engagement has highest likelihood of fulfilling SF1 and SF3. SF1. Objective(s) should be specific and targeted to enable clarity around delivery and SF3. The engagement approach should be bespoke (tailored) to the target company.Incorrect because both Factor 1 and Factor 2 are achieved with the highest likelihood level through active private engagement. Active private engagement refers to targeted and specific engagement and this form of engagement has highest likelihood of fulfilling SF1 and SF3. SF1. Objective(s) should be specific and targeted to enable clarity around delivery and SF3. The engagement approach should be bespoke (tailored) to the target company.Correct&nbsp;because both Factor 1 and Factor 2 are achieved with the highest likelihood level through active private engagement. Active private engagement refers to targeted and specific engagement and this form of engagement has the highest likelihood of fulfilling SF1 and SF3. SF1. Objective(s) should be specific and targeted to enable clarity around delivery and SF3. The engagement approach should be bespoke (tailored) to the target company.6. Engagement and Stewardship6-1-5&nbsp;Apply strategies and tactics in a goal-based engagement approach using various forms
+
+我的笔记：
+67Negative externalities:
+纠错收藏
+A
+result from internalization of costs.
+
+B
+result in private costs that are higher than societal costs.
+
+C
+result in societal costs that are not reflected in the prices of goods.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because governments should tax polluters an amount equivalent to the cost of the harm incurred by others. Such a tax would yield the market outcome that would have prevailed with adequate internalisation of all costs by polluters. Internalisation refers to all measures (public or private) to ensure that externalities become reflected in the prices of commercial goods and services. Hence, internalization of costs would eliminate negative externalities.Incorrect because when externalities are negative, private costs are lower than societal costs, resulting in market outcomes which may not be efficient or, in other words, leading to ‘market failures’.Correct&nbsp;because the term externalities refers to situations where the production or consumption of goods and services creates costs or benefits to others that are not reflected in the prices charged for them when externalities are negative, private costs are lower than societal costs leading to &#39;market failures&#39; internalisation refers to all measures (public or private) to ensure that externalities become reflected in the prices of commercial goods and services.1. Introduction to ESG Investing1-1-3&nbsp;describe the benefits and challenges of incorporating ESG in decision making, and the linkages between responsible investment and financial system stability
+
+我的笔记：
+68Which of the following statements about ESG performance attribution is&nbsp;most&nbsp;accurate?
+纠错收藏
+A
+ESG engagement value is easy to measure
+
+B
+The performance impact that comes from excluding a specific sector is easy to measure
+
+C
+Continued ESG integration improves the ability to disaggregate a particular ESG driver from the broader investment decision
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because it is hard to demonstrate the value added by a programme of engagement, particularly given the timescales usually required for engagement programmes to reach positive outcomes.Correct&nbsp;because it is relatively easy to assess the performance drag or enhancement that comes from excluding an industrial sector (such as tobacco).Incorrect because the more fully integrated ESG becomes into the investment process, the harder it becomes to disaggregate a particular ESG driver from the broader investment decision.9. Investment Mandates, Portfolio Analytics, and Client Reporting9-1-7&nbsp;explain the key challenges in measuring and reporting ESG-related investment performance: active, passive, and smart beta approaches; performance attribution; sensitivity analysis; risk measurement; engagement activity/impact; and integrated reporting and investment review
+
+我的笔记：
+69Population aging is&nbsp;most likely&nbsp;to:
+纠错收藏
+A
+result in lower healthcare expenditures.
+
+B
+be a minor issue in the developed world.
+
+C
+result in lower consumer goods expenditures.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because it would result in higher healthcare expenditures. An ageing population has substantial effects on society. Older people have higher accumulated savings per person than younger people, but spend less on consumer goods, which is a business risk for some industries. In some categories, such as healthcare, expenditure rises sharply when populations age.Incorrect because population ageing is an important problem in the developed world.Correct&nbsp;because an ageing population has substantial effects on society. Older people have higher accumulated savings per person than younger people, but spend less on consumer goods, which is a business risk for some industries. In some categories, such as healthcare, expenditure rises sharply when populations age.4. Social Factors4-1-1&nbsp;explain the systemic relationships and activities between business activities and social issues, including: globalization; automation and artificial intelligence (AI); inequality and wealth creation; digital disruption, social media, and access to electronic devices; changes to work, leisure time, and education; changes to individual rights and responsibilities and family structures; changing demographics; urbanization; and religion
+
+我的笔记：
+70A company fails to manage its social factors effectively. Which of the following financial analysis adjustments would be&nbsp;most&nbsp;appropriate?
+纠错收藏
+A
+Increase the discount rate assumption
+
+B
+Increase the carbon tax rate assumption
+
+C
+Decrease the potential liabilities assumption
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because besides specific impacts on estimates regarding future revenues, costs and potential liabilities in a company’s financial analysis, analysts might decide to raise the discount rate to reflect a higher risk profile if a company does not manage social factors appropriately.Incorrect because carbon tax rate is related to environmental factors. Carbon taxation takes a different approach by directly setting an explicit price on GHG emissions.Incorrect because the analysts would increase the potential liabilities assumption. Besides specific impacts on estimates regarding future revenues, costs and potential liabilities in a company’s financial analysis, analysts might decide to raise the discount rate to reflect a higher risk profile if a company does not manage social factors appropriately.4. Social Factors4-1-6&nbsp;apply material social factors to: risk assessment; quality of management; ratio analysis; and financial modeling
+
+我的笔记：
+71Which of the following statements is&nbsp;most&nbsp;accurate? The Paris Agreement:
+纠错收藏
+A
+is legally binding under international law.
+
+B
+requires signatories to update their commitments to reduce emissions every five years.
+
+C
+defines nationally determined contributions capturing mandatory efforts to reduce emissions.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the Paris Agreement is not legally binding under international law.Correct&nbsp;because nationally determined contributions (NDCs) are at the heart of the agreement and require every signatory (both developed and developing nations) to determine, plan and report on its NDCs, with updates to commitments every five years.Incorrect because nationally determined contributions (NDCs) are at the heart of the agreement. Instead of top-down imposed contributions, they capture voluntary efforts by each country to reduce national emissions and adapt to the impacts of climate change, and require every signatory (both developed and developing nations) to determine, plan and report on its NDCs, with updates to commitments every five years.3. Environmental Factors3-1-4&nbsp;Assess how megatrends influence environmental factors; environmental and climate policies; international climate and environmental agreements and conventions; international, regional, and country-level policy and initiatives; carbon pricing
+
+我的笔记：
+72Which of the following statements is&nbsp;most&nbsp;accurate?
+纠错收藏
+A
+ESG ratings have a weak correlation to those of other rating agencies; credit ratings have a weak correlation to those of other rating agencies
+
+B
+ESG ratings have a weak correlation to those of other rating agencies; credit ratings have a strong correlation to those of other rating&nbsp;agencies
+
+C
+ESG ratings have a strong correlation to those of other rating agencies; credit ratings have a strong correlation to those of other rating agencies
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because credit ratings have strong correlation with each other.Correct&nbsp;because ESG ratings do not correlate like bond credit ratings, nor do agencies use the same methods of scoring. Further, currently there is limited consensus amongst investors on ESG ratings. However, this is somewhat different to CRAs, which typically have highly correlated credit ratings.Incorrect because ESG ratings do not have a strong correlation to each other.7. ESG Analysis, Valuation, and Integration7-1-13&nbsp;describe the limitations and constraints of information provided by ESG integration databases
+
+我的笔记：
+73Engagement is:
+纠错收藏
+A
+not meant to address issues relating to a company’s strategy and capital structure.
+
+B
+a form of activism where an institution initiates an investment to change a company’s governance policies.
+
+C
+the way investors implement their stewardship responsibilities in line with the Principles for Responsible Investment
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because given its focus on preserving and enhancing long-term value on behalf of the asset owner, engagement can encompass the full range of issues that affect the long-term value of a business, including: strategy and capital structure.Incorrect because engagement is one aspect of good stewardship. Importantly, activism is typically a specialist form of engagement and stewardship, where an investment institution initiates an investment with the intent of generating investment outperformance through driving change with respect to a company’s governance, capital allocation, or business practices. Therefore, engagement is not a form of activism. Rather, activism is a special form of engagement.Correct&nbsp;because engagement is the way in which investors put into effect their stewardship responsibilities in line with the Principles for Responsible Investment (PRI) Principle 2 (We will be active owners and incorporate environmental, social and governance (ESG) issues into our ownership policies and practices).6. Engagement and Stewardship6-1-1&nbsp;explain the purpose of investor engagement and stewardship
+
+我的笔记：
+74Which of the following is&nbsp;most likely&nbsp;classified as secondary ESG data?
+纠错收藏
+A
+Surveys
+
+B
+News articles
+
+C
+ESG scores by rating agencies
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because primary data can be sourced from companies directly. Indirect assessment can be via a third-party source (such as Glassdoor for employee satisfaction data and scores, which are directly sourced from employee surveys).Incorrect because primary data can be sourced from companies directly. Alternatively, the source may be indirect, via: news articles.Correct&nbsp;because many ESG databases provide secondary ESG data or ratings. These are assessments transformed by a process of scoring or a formula from a primary data source. Secondary data sources typically involve transforming the primary ESG data in some way and creating new scores, assessments or ratings based on these transformations. These are available from commercial organizations, both financial and non-financial, as well as regulators, NGOs and other non-profit or charitable bodies.7. ESG Analysis, Valuation, and Integration7-1-14&nbsp;describe primary and secondary sources of ESG data and information
+
+我的笔记：
+75Which of the following was the first to integrate ESG?
+纠错收藏
+A
+Equity indices
+
+B
+Passive equity funds
+
+C
+Active-listed equity investments
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because ESG offerings by asset managers generally began with active-listed equities, but recently evolved to other asset classes. The offering of indices and passive funds with ESG integration by asset managers started 20 years after that of active investments.Incorrect because ESG offerings by asset managers generally began with active-listed equities, but recently evolved to other asset classes. The offering of indices and passive funds with ESG integration by asset managers started 20 years after that of active investments.Correct&nbsp;because ESG offerings by asset managers generally began with active-listed equities, but recently evolved to other asset classes. The offering of indices and passive funds with ESG integration by asset managers started 20 years after that of active investments.2. The ESG Market2-1-2&nbsp;explain key market drivers of ESG integration: investor demand/intergenerational wealth transfer, regulation and policy, public awareness, and data sourcing and processing improvements
+
+我的笔记：
+76Green bonds are&nbsp;most likely&nbsp;defined by:
+纠错收藏
+A
+the issuers' use of proceeds.
+
+B
+the issuers' carbon emissions targets.
+
+C
+criteria set by the European Investment Bank.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because green bonds were created to fund projects that have positive environmental and/or climate benefits. The majority are green ‘use of proceeds’ or asset-linked bonds. Proceeds from these bonds are earmarked for green projects but are backed by the issuer’s entire balance sheet.Incorrect because green bonds were created to fund projects that have positive environmental and/or climate benefits. The majority are green ‘use of proceeds’ or asset-linked bonds.Incorrect because the European Investment Bank issued the first green bond. The first green bond issuance was announced in 2007 by the European Investment Bank to raise funding for climate-related projects.3. Environmental Factors3-1-9&nbsp;Explain how companies and the investment industry can benefit from opportunities relating to climate change and environmental issues: the circular economy, clean and technological innovation, green and ESG-related products, and the blue economy
+
+我的笔记：
+77As policies on ESG and financial regulation mature, regulatory requirements will&nbsp;most likely&nbsp;move from:
+纠错收藏
+A
+mandatory to voluntary
+
+B
+implementation and reporting to policy.
+
+C
+'comply or explain’ to ‘comply and explain’.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because it is anticipated that as policies on ESG and financial regulation reach maturity, an increasing number of governments will recognize the importance of moving to stronger requirements, moving away from voluntary to mandatory.Incorrect because it is anticipated that as policies on ESG and financial regulation reach maturity, an increasing number of governments will recognize the importance of moving to stronger requirements, moving away from: policy to implementation and reporting.Correct&nbsp;because it is anticipated that as policies on ESG and financial regulation reach maturity, an increasing number of governments will recognize the importance of moving to stronger requirements, moving away from: &#39;comply or explain’ to ‘comply and explain&#39;; voluntary to mandatory; and policy to implementation and reporting.2. The ESG Market2-1-2&nbsp;explain key market drivers of ESG integration: investor demand/intergenerational wealth transfer, regulation and policy, public awareness, and data sourcing and processing improvements
+
+我的笔记：
+78An environmental objective of the EU Taxonomy Regulation is the transition to:
+纠错收藏
+A
+net zero.
+
+B
+renewable energy.
+
+C
+a circular economy.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because transition to a net zero is not one of the environmental objectives of the EU Taxonomy. The term transition to net zero is referenced in the curriculum, as follows: UNEP Finance Initiative and the Institutional Investor Group on Climate Change are developing frameworks to help benchmark investors’ transition to net zero.Incorrect because transition to a renewable energy is not one of the environmental objectives of the EU Taxonomy. The term transition to renewable energy is an ESG opportunity referenced in the curriculum, as follows: Mapping can also be done for material opportunities (e.g. opportunity from recycling or the transition to renewable energy) as well as risks.Correct&nbsp;because transition to a circular economy is one of the six environmental objectives of the EU Taxonomy. Specifically, the Taxonomy Regulation&nbsp;establishes six environmental objectives: 1. Climate change mitigation. 2. Climate change adaptation. 3. The sustainable use and protection of water and marine resources. 4. The transition to a circular economy. 5. Pollution prevention and control. 6. The protection and restoration of biodiversity and ecosystem.2. The ESG Market2-1-3&nbsp;explain the key drivers and challenges for ESG integration among key stakeholders: asset owners, asset managers, fund promoters, financial services, policymakers and regulators, investees, government, civil society, and academia
+
+我的笔记：
+79The relatively low correlation of ESG ratings by the various providers&nbsp;most likely:
+纠错收藏
+A
+facilitates empirical research and decision making.
+
+B
+motivates companies to improve their ESG performance.
+
+C
+results in ESG performance not being fully reflected in corporate security prices.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the divergence of ratings poses a challenge for empirical research, as using one rater versus another may alter a study’s results and conclusions. Taken together, the ambiguity around ESG ratings represents a challenge for decision-makers.Incorrect because the divergence hampers the ambition of companies to improve their ESG performance, because they receive mixed signals from rating agencies about which actions are expected and will be valued by the market.Correct&nbsp;because ESG performance is less likely to be reflected in corporate stock and bond prices, as investors face a challenge when trying to identify outperformers and laggards. Investor tastes can influence asset prices, but only when a large enough fraction of the market holds and implements a uniform nonfinancial preference. Therefore, even if a large fraction of investors have a preference for ESG performance, the divergence of the ratings disperses the effect of these preferences on asset prices.7. ESG Analysis, Valuation, and Integration7-1-12&nbsp;identify the main providers of screening services or tools, similarities and differences in their methodologies, and the aims, benefits and limitations of using them
+
+我的笔记：
+80Which of the following is&nbsp;most likely&nbsp;considered an escalation of engagement?
+纠错收藏
+A
+Expressing concerns through the investee company’s advisers
+
+B
+Meeting with the chair of the investee company to discuss the issue of concern
+
+C
+Submitting a resolution and speaking at the investee company's annual general meeting
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because normal dialogue with companies include: 1. holding additional meetings with management specifically to discuss concerns; 2. expressing concerns through the company’s advisers; 3. meeting with the chair or other board members.Incorrect because normal dialogue with companies include: 1. holding additional meetings with management specifically to discuss concerns; 2. expressing concerns through the company’s advisers; 3. meeting with the chair or other board members.Correct&nbsp;because while the first three engagements might be seen by many engagement professionals as part of a standard set of tools in normal dialogue with companies, the subsequent four will certainly be recognised as forms of escalation: 1. holding additional meetings with management specifically to discuss concerns; 2. expressing concerns through the company’s advisers; 3. meeting with the chair or other board members; 4. intervening jointly with other institutions on particular issues; 5. making a public statement in advance of general meetings; 6. submitting resolutions and speaking at general meetings; and 7. requesting a general meeting, in some cases proposing to change board membership.6. Engagement and Stewardship6-1-6&nbsp;Explain particular forms of engagement and major escalation techniques, including: proxy voting; collective engagement; ESG investment forums
+
+我的笔记：
+81Which of the following social factors&nbsp;most likely&nbsp;impacts internal stakeholder groups?
+纠错收藏
+A
+Social opportunities
+
+B
+Consumer protection
+
+C
+Freedom of association
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because social opportunities are social factors that impact external stakeholders.Incorrect because product liability and consumer protection are social factors that impact external stakeholders.Correct&nbsp;because employment standards and labor rights are social factors that impact internal stakeholders. Labour rights - Assessing how companies uphold labour rights is important for investors to gain insights into the corporate culture and the level of employee satisfaction. The most important labour rights have been summarized in International Labour Standards. These include: freedom of association and protection of the right to organize. Internal stakeholders includes those &quot;such as the company&#39;s employees.4. Social Factors4-1-4&nbsp;assess material impacts of social issues on potential investment opportunities and the dangers of overlooking them, including: changing demographics; digitization; individual rights and responsibilities; family structures and roles; education and work; faith-based ESG investing and exercise of religion; inequality; and globalization
+
+我的笔记：
+82Over the past several years, the market share of ESG investing has grown in all countries or regions except:
+纠错收藏
+A
+Japan.
+
+B
+Europe.
+
+C
+the United States
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because in all the regions except Europe, the market share of ESG investing has grown.Correct&nbsp;because in all the regions except Europe, the market share of ESG investing has grown.Incorrect because in all the regions except Europe, the market share of ESG investing has grown.2. The ESG Market2-1-1&nbsp;explain the size and scope of ESG investing in relation to geography, strategy, investor type, and asset class
+
+我的笔记：
+83Which of the following&nbsp;best&nbsp;characterizes a climate adaptation strategy rather than a climate mitigation strategy?
+纠错收藏
+A
+Deploying solar energy
+
+B
+Building flood defenses
+
+C
+Expanding the use of electric vehicles
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because deploying renewable energy sources is a mitigation, not adaptation strategy: examples of mitigation strategies include deploying renewable energy sources.Correct&nbsp;because examples of adaptation strategies include a variety of development plans on how to deal with: building flood defences.Incorrect because deploying energy sources is a mitigation, not an adaptation strategy: examples of mitigation strategies include adopting more sustainable transportation and infrastructure, particularly in cities (such as electric vehicles).3. Environmental Factors3-1-1&nbsp;explain key concepts relating to climate change, including climate change mitigation, climate change adaptation, and resilience measures
+
+我的笔记：
+84Which of the following&nbsp;most likely&nbsp;has the highest ESG score? A sovereign debt portfolio that:
+纠错收藏
+A
+has a neutral weighting to emerging market debt and US treasuries.
+
+B
+is overweight emerging market debt and underweight US treasuries.
+
+C
+is underweight emerging market debt and overweight US treasuries.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because an emerging markets debt portfolio will benefit from a higher ESG score if it is underweight (not neutrally weighted) with emerging markets and overweight (not neutrally weighted) with defensive positions, like US treasuries or German bunds.Incorrect because an emerging markets debt portfolio will benefit from a higher ESG score if it is underweight (not overweight) with emerging markets and overweight (not underweight) with defensive positions, like US treasuries or German bunds.Correct&nbsp;because sovereign debt is just as susceptible to distortion effects based on ESG ratings. These will be most notable in strategies that trade in both developed and emerging economies; ESG ratings and indicators like those of the World Bank tend to be structurally lower for emerging countries relative to developed economies, which enjoy higher standards of transparency, rule of law, regulatory authority and anti-corruption. For instance, an emerging markets debt portfolio will benefit from a higher ESG score if it is underweight with emerging markets and overweight with defensive positions, like US treasuries or German bunds.8. Integrated Portfolio Construction and Management8-1-6&nbsp;apply ESG screens to the main asset classes and their sub-sectors: fixed income; equities; and alternative investments
+
+我的笔记：
+85With respect to the current state of ESG disclosures:
+纠错收藏
+A
+materiality thresholds are often inconsistent across companies in the same industry.
+
+B
+reporting standards and requirements for ESG risks and opportunities are not available.
+
+C
+financial statements and sustainability disclosures are usually published at the same time.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because many investors view companies’ ESG disclosures as inadequate because some of the disclosures might be missing or they are incomplete, not comparable across companies, or unaudited. Investors and company management teams disagree about materiality thresholds and about what should be disclosed.Incorrect because many investors today struggle with an “alphabet soup” of fragmented, voluntary, sustainability-related standards and requirements. However, what is not available is a truly global baseline of sustainability disclosures.Incorrect because financial statements and sustainability disclosures are usually not published at the same time, as such, the new IFRS S1 standard emphasizes the need for consistency and connections between financial statements and sustainability disclosures, requiring financial statements and sustainability disclosures to be published at the same time.7. ESG Analysis, Valuation, and Integration7-1-2&nbsp;describe the challenges of integrating ESG analysis into a firm’s investment process
+
+我的笔记：
+86Idiosyncratic exclusions are:
+纠错收藏
+A
+specific to religious investors.
+
+B
+based upon universal conventions.
+
+C
+not supported by global consensus.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because faith-based exclusions are specific to religious institutional or individual investors” whereas idiosyncratic exclusions are exclusions that are not supported by global consensus.Incorrect because universal exclusions represent exclusions supported by global norms and conventions whereas idiosyncratic exclusions are exclusions that are not supported by global consensus.Correct&nbsp;because idiosyncratic exclusions are exclusions that are not supported by global consensus.8. Integrated Portfolio Construction and Management8-1-4&nbsp;explain the different approaches to screening and the benefits and limitations of the main approaches
+
+我的笔记：
+87According to the Taskforce on Nature-related Financial Disclosures (TNFD), the five main drivers of nature change include:
+纠错收藏
+A
+society.
+
+B
+pollution.
+
+C
+atmosphere.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because society is not one of the five main drivers. TNFD considers five main drivers of nature change: climate change; resource exploitation; land and sea use change; pollution; and invasive alien species.Correct&nbsp;because TNFD considers five main drivers of nature change: climate change; resource exploitation; land and sea use change; pollution; and invasive alien species.Incorrect because atmosphere is not one of the five main drivers. TNFD considers five main drivers of nature change: climate change; resource exploitation; land and sea use change; pollution; and invasive alien species.3. Environmental Factors3-1-7&nbsp;describe biodiversity and explain key methodologies that apply to its valuation, risk management, and interconnectedness with environmental factors and nature-related risks
+
+我的笔记：
+88Which of the following is a minimum requirement for signatories of the Principles for Responsible Investment (PRI)?
+纠错收藏
+A
+Implementation of a responsible investment policy must be monitored by external parties
+
+B
+Senior-level commitment and accountability mechanisms for responsible investment implementation must be in place
+
+C
+The investment policy that covers the firm’s responsible investment approach must apply to all assets under management
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because internal or external staff may be responsible for implementing responsible investment policy is the correct description of this minimum requirement.Correct&nbsp;because the three requirements include that senior-level commitment and accountability mechanisms must be in place for responsible investment implementation.Incorrect because it is required that the investment policy that covers the firm’s responsible investment approach must cover &gt; 50% of assets under management (AUM).1. Introduction to ESG Investing1-1-7&nbsp;explain the aims of key supranational ESG initiatives and organizations and the progress achieved to date
+
+我的笔记：
+89With respect to ESG data and research providers, the level of automation is low or medium in the approaches used by:
+纠错收藏
+A
+traditional providers only.
+
+B
+nontraditional providers only.
+
+C
+both traditional providers and nontraditional providers.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the level of automation is low or medium in the approach of nontraditional ESG data and research providers as well. In the case of nontraditional providers, the level of automation is low or medium because human judgment is still used.Incorrect because the level of automation is low or medium in the approach of traditional ESG data and research providers as well. In the case of traditional providers, the level of automation is low or medium because human judgment is still used.Correct&nbsp;because traditional ESG data and research providers were founded from the socially responsible investing industry to provide investors with sustainability data and ratings on primarily large, publicly traded companies. These companies feature a level of automation that is low or medium because human judgment is still used. Similarly, in the case of nontraditional ESG data and research providers, the level of automation is low or medium because human judgment is still used.7. ESG Analysis, Valuation, and Integration7-1-11&nbsp;explain the approaches taken across a range of ESG integration databases and software available, and the nature of the information provided
+
+我的笔记：
+90At the portfolio management level, ESG integration is appropriate for which of the following investment strategies?
+纠错收藏
+A
+Systematic only
+
+B
+Discretionary only
+
+C
+Both systematic and discretionary
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because ESG integration should be considered in light of two different investment strategies: Discretionary and quantitative.Incorrect because ESG integration should be considered in light of two different investment strategies: Discretionary and quantitative.Correct&nbsp;because ESG integration should be considered in light of two different investment strategies:Discretionary ESG investment strategies most commonly take the form of a fundamental portfolio approach. A portfolio manager would work to complement bottom-up financial analysis alongside the consideration of ESG factors to reinforce the investment thesis of a particular holding. The portfolio manager would then work to understand the aggregate risk at the portfolio level across all factors to understand correlation and event risks, and potential shocks to the portfolio.Quantitative investment strategies are, broadly speaking, rules-based approaches employing the statistical application of financial and/or non-financial factors to drive securities selection. Quantitative strategies generally seek to minimise the higher costs associated with discretionary active management. Where discretionary strategies often focus on depth within a portfolio, manifested through a portfolio of few, more concentrated holdings, quantitative strategies focus on breadth, using a much larger portfolio of holdings to target risk and volatility-adjusted returns.8. Integrated Portfolio Construction and Management8-1-2&nbsp;describe approaches for integrating ESG into the portfolio management process
+
+我的笔记：
+91Diversity at board level&nbsp;most likely&nbsp;increases the:
+纠错收藏
+A
+level of financial risk taken.
+
+B
+budget for research and development.
+
+C
+number of policy adoptions and changes.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because diverse boards take less financial risk.Correct&nbsp;because studies have shown that diverse boards are investing more in research and development (R&amp;D).Incorrect because firms with diverse boards tend to adopt policies that are more stable and persistent.5. Governance Factors5-1-5&nbsp;assess material impacts of governance issues on potential investment opportunities, including the dangers of overlooking them: public finance initiatives; companies; infrastructure/private finance vehicles; societal impact
+
+我的笔记：
+92Which of the following is&nbsp;most likely&nbsp;the primary driver of ESG investment for a general insurer?
+纠错收藏
+A
+Fiduciary duty
+
+B
+Awareness of the financial impacts of climate change
+
+C
+Mitigating the implications of lengthy investment time horizons
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the primary driver for ESG investment by a general insurer is awareness of financial impacts of climate change. General insurers do not have a fiduciary duty.Correct&nbsp;because the primary driver for ESG investment by a general insurer is awareness of financial impacts of climate change.Incorrect because the primary driver for ESG investment by a general insurer is awareness of financial impacts of climate change. General insurers deal with short term insurance and thus do not have the lengthy investment time horizons of life insurers.9. Investment Mandates, Portfolio Analytics, and Client Reporting9-1-5&nbsp;explain the different client types and their objectives which influence the type of ESG investing strategy selected
+
+我的笔记：
+93According to the Brunel Asset Management Accord, which of the following is of limited significance in evaluating asset managers?
+纠错收藏
+A
+Short-term underperformance by an asset manager
+
+B
+Loss of key personnel in an asset management firm
+
+C
+Change in the investment style of an asset manager
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Correct&nbsp;because the document emphasises that short-term underperformance is not in itself likely to give rise to undue concern for the client. Investment performance, particularly in the short term, will be of limited significance in evaluating the Manager.Incorrect because issues that it identifies as likely to give rise to concerns include the loss of key personnel.Incorrect because issues that it identifies as likely to give rise to concerns include a change in investment style.9. Investment Mandates, Portfolio Analytics, and Client Reporting9-1-6&nbsp;explain the key mechanisms for reporting on and monitoring performance and mandate alignment with client objectives
+
+我的笔记：
+94The management gap refers to material ESG risks that a company:
+纠错收藏
+A
+does not understand.
+
+B
+is not able to manage.
+
+C
+is able to manage but may not have yet done so.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because for material ESG risk that has not been managed by a company, there are two types of risk: 1. unmanageable risk, which cannot be addressed by company initiatives; and 2. the management gap, which represents risks that could be managed by a company through suitable initiatives but which may not yet be managed.Incorrect because for material ESG risk that has not been managed by a company, there are two types of risk: 1. unmanageable risk, which cannot be addressed by company initiatives; and 2. the management gap, which represents risks that could be managed by a company through suitable initiatives but which may not yet be managed.Correct&nbsp;because for material ESG risk that has not been managed by a company, there are two types of risk: 1. unmanageable risk, which cannot be addressed by company initiatives; and 2. the management gap, which represents risks that could be managed by a company through suitable initiatives but which may not yet be managed.7. ESG Analysis, Valuation, and Integration7-1-3&nbsp;describe the challenges of identifying and assessing material ESG issues
+
+我的笔记：
+95For an energy company, Scope 1 emissions&nbsp;most likely&nbsp;result from:
+纠错收藏
+A
+purchasing freight services.
+
+B
+using the company's vehicles.
+
+C
+disposing of waste at the company's gas stations.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because emissions arising from purchasing freight services are Scope 3 emissions for an energy company. An energy company relies on various services produced by third parties. These third parties generate GHG in their production and operating processes and these are Scope 1 GHG for the third parties. At the same time, they represent Scope 3 emissions for the energy company.Correct&nbsp;because, for an energy company, the emissions generated from driving and using the company&#39;s vehicles are Scope 1 emissions as they are under the direct control of the company.According to GHG Protocol Standards, emissions related to company vehicles are Scope 1 emissions.While Scopes 1 and 2 cover direct emissions sources (such as the fuel used in company vehicles and purchased electricity), Scope 3 emissions cover all indirect emissions arising from the activities of an organisation.Incorrect because emissions arising from waste disposal processes are Scope 3 emissions for an energy company. Managing waste disposal is not an energy company&#39;s﻿ main business, nor is waste used in its operations. Thus emissions from waste disposal represent Scope 3 emissions and are not under the company&#39;s direct control.3. Environmental Factors3-1-6&nbsp;identify approaches to environmental analysis, including company-, project-, sector-, country-, and market-level analysis; environmental risks, including carbon footprinting and other carbon metrics; the natural capital approach; and climate scenario analysis
+
+我的笔记：
+96Which of the following countries does&nbsp;not&nbsp;have a corporate governance code?
+纠错收藏
+A
+Japan
+
+B
+The Netherlands
+
+C
+The United States
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because Japan adopted the code in 2015. Since Japan adopted one&nbsp;in 2015, the USA is now the only major world market that does not have such a corporate governance code, which is largely a consequence of corporate law being set at the individual state, rather than the federal, level.Incorrect because the Netherlands has a corporate governance code and it favors an ‘apply or explain’ language. Most markets adopt the language of ‘comply or explain’, although the Netherlands favours ‘apply or explain’.Correct&nbsp;because since Japan adopted one in 2015, the USA is now the only major world market that does not have such a governance code, which is largely a consequence of corporate law being set at the individual state, rather than the federal, level.5. Governance Factors5-1-1&nbsp;explain the evolution of corporate governance frameworks: development of corporate governance; roles and responsibilities; systems and processes; shareholder engagement; minority shareholder alignment
+
+我的笔记：
+97A non-profit organization published a report listing companies with a large plastic footprint. A portfolio manager believes the report will impact the valuation of a portfolio company. According to the Investor Forum, which of the following forms of engagement would be the&nbsp;most&nbsp;effective?
+纠错收藏
+A
+Discussing the report with the company during their annual review dialogue
+
+B
+Writing a tailored letter to the company requesting additional details about their plastic footprint
+
+C
+Participating in a collective engagement in collaboration with other investors to address the report
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because the manager&#39;s engagement is an example of a housekeeping engagement which is an annual dialogue to help maintain and enhance a relationship with a company, but with only limited objectives. Housekeeping engagement is somewhat likely to fulfill the Investor Forum success factor of SF6: Depth of relationship but not likely to meet the other success factors for effective engagement.Incorrect because tailored letter-writing is somewhat likely to fulfill the Investor Forum success factors of SF1: Clear Objective and SF2: Material and strategic but not likely to meet the other success factors for effective engagement.Correct&nbsp;because a collective engagement is most likely to fulfill all six success factors of effective engagement published by the Investor Forum i.e. SF1 – Objective(s) should be specific and targeted to enable clarity around delivery, SF2 – Objectives should be strategic or governance-led, or linked to material strategic and/or governance issues, SF3 – The engagement approach should be bespoke (tailored) to the target company, SF4 – The participants should have clear leadership with appropriate relationships, skills and knowledge, SF5 – The scale of coalition gathered (both scale of shareholding and overall AUM of group) should be meaningful, SF6 – The coalition should have a prior relationship and/or cultural awareness of the target company.6. Engagement and Stewardship6-1-5&nbsp;Apply strategies and tactics in a goal-based engagement approach using various forms
+
+我的笔记：
+98Which of the following investment styles often uses negative screening?
+纠错收藏
+A
+Impact investing
+
+B
+Thematic investing
+
+C
+Faith-based investing
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because impact investing refers to investments made with the specific intent of generating positive, measurable social and/or environmental impact alongside a financial return. Therefore, impact investing uses the positive screening approach.Incorrect because thematic investment refers to selecting companies that fall under a sustainability-related theme, such as clean-tech, sustainable agriculture, healthcare or climate change mitigation. Therefore, thematic investing uses the positive screening approach.Correct&nbsp;because faith-based investment refers to investing in line with certain principles, often using negative screening to avoid investing in companies whose products and services are deemed morally objectionable by the investor or certain religions, international declarations, conventions and voluntary agreements.1. Introduction to ESG Investing1-1-2&nbsp;define the following sustainability-based concepts in terms of their strengths and limitations: corporate social responsibility and triple bottom line (TBL) accounting
+
+我的笔记：
+99Which of the following statements about corporate governance codes is&nbsp;most&nbsp;accurate? External auditors:
+纠错收藏
+A
+ensure financial reports are free of fraud
+
+B
+provide an independent review of financial reports.
+
+C
+provide absolute assurance that financial reports fairly represent the performance and position of the business.
+
+【单选题】
+正确答案：A
+你的答案：
+
+考点：模拟卷A
+
+答案解析：Incorrect because there is no absolute assurance that the numbers are correct, nor is there certainty that there is no fraud within the business.Correct&nbsp;because the auditor is there to provide an independent pair of eyes assessing the financial reports prepared by management.Incorrect because the auditor is there to provide an independent pair of eyes assessing the financial reports prepared by management, and to provide some assurance that those reports fairly represent the performance and position of the business. There is no absolute assurance that the numbers are correct, nor is there certainty that there is no fraud within the business.5. Governance Factors5-1-4&nbsp;explain the role of auditors in relation to corporate governance and the challenges in effective delivery of the audit: independence of audit firms and conflicts of interest; auditor rotation; sampling of audit work and technological disruption; auditor reports; auditor liability; internal audit
+
+我的笔记：
+100Themanagement gap refers to materialESG risks that a company:
+纠错收藏
+A
+does notunderstand.
+
+B
+isnot able tomanage.
+
+C
+is able tomanagebut may not have yet done so
+
+【单选题】
+正确答案：C
+你的答案：
+
+考点：模拟卷A
+
+答案解析：
+Solution
+
+A.Incorrectbecause for material ESG risk that has not been managed by a company,there are two types of risk:1.unmanageable risk,which cannot be addressed by company initiatives;and 2.the
+
+management gap,which represents risks that could be managed by a company through suitable initiatives but which may not yet be managed.
+
+B.Incorrect because for material ESG risk that has not been managed by a company,there are two types of risk:1.unmanageable risk,which cannot be addressed by company initiatives;and 2.the
+
+management gap,which represents risks that could be managed by a company through suitable initiatives but which may not yet be managed.
+
+C. Correct because for material ESG risk that has not been managed by a company,there are two types of risk:1.unmanageable risk,which cannot be addressed by company initiatives;and 2.the management  gap,which represents risks that could be managed by a company through suitable initiatives but which    may not yet be managed.
+
+
+我的笔记：

@@ -14,6 +14,10 @@ struct QuizResultView: View {
         }.map { (index: $0.offset, question: $0.element) }
     }
 
+    private var totalSessionTime: TimeInterval {
+        viewModel.sessionResults.reduce(0) { $0 + $1.elapsedSeconds }
+    }
+
     private var emoji: String {
         let acc = viewModel.accuracy
         if acc >= 0.9 { return "🎉" }
@@ -37,6 +41,11 @@ struct QuizResultView: View {
                     StatItem(value: "\(viewModel.correctCount)", label: "正确")
                     StatItem(value: "\(viewModel.sessionResults.count - viewModel.correctCount)", label: "错误")
                     StatItem(value: "\(Int(viewModel.accuracy * 100))%", label: "正确率")
+                    StatItem(value: formatTime(viewModel.averageTimePerQuestion), label: "平均用时")
+                }
+                HStack(spacing: 12) {
+                    StatItem(value: formatTime(totalSessionTime), label: "总用时")
+                    Spacer()
                 }
             }
             .padding(20)
@@ -118,6 +127,15 @@ struct QuizResultView: View {
                 initialIndex: reviewInitialIndex
             )
         }
+    }
+
+    private func formatTime(_ seconds: TimeInterval) -> String {
+        if seconds < 60 {
+            return String(format: "%.0fs", seconds)
+        }
+        let minutes = Int(seconds) / 60
+        let secs = Int(seconds) % 60
+        return String(format: "%d:%02d", minutes, secs)
     }
 }
 

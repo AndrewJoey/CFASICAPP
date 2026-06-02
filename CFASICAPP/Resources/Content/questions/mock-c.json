@@ -1,0 +1,4097 @@
+[
+  {
+    "id": "mock-c-q001",
+    "moduleId": "mock",
+    "number": 1,
+    "text": {
+      "zh": "A bond issued to finance a sustainable fishing project is most likely a:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "green bond.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "social bond.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "social bond.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。蓝色债券专门资助具有明确海洋和海洋相关效益的项目，如可持续渔业项目，考生需注意与绿色债券的区别。B选项错误，绿色债券（又称气候债券）资助对环境有明确益处的项目，如可再生能源。C选项错误，社会债券资助为弱势群体提供基本服务和基础设施的项目。",
+      "en": "Solution A. Correct because blue bonds fund projects with clear marine and ocean-based benefits, such as sustainable fishing projects. B. lncorrect because green bonds, sometimes referred to as climate bonds, are any type of bond instrument that funds projects that provide a clear benefit to the environment， such as renewable energy projects. C. Incorrect because social bonds fund projects that provide access to essential services, infrastructure and social programs to underserved people and communities"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q002",
+    "moduleId": "mock",
+    "number": 2,
+    "text": {
+      "zh": "Which of the following social factors most likely impacts external stakeholders of a company?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Human rights",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Working conditions, health and safety",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Product liability and consumer protection",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。产品责任和消费者保护是影响外部利益相关者（如消费者、客户）的社会因素，考生应区分内部和外部利益相关者。A选项错误，人权是影响内部利益相关者（如员工）的因素。B选项错误，工作条件、健康与安全也是影响内部利益相关者的社会因素。",
+      "en": "Solution A. Incorrect because human rights is one of the social factors that impact internal (not external) stakeholders. B. Incorrect because working conditions, health and safety is one of the social factors that impact internal (not external) stakeholders. C. Correct because product liability and consumer protection is one of the social factors that impact external stakeholders"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q003",
+    "moduleId": "mock",
+    "number": 3,
+    "text": {
+      "zh": "Which of the following represents the steps of developing a scorecard for ESG analysis of a given",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Identify sector- or company-specific ESG issues and indicators, determine a scoring system, score",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Determine a scoring system, benchmark against peers, identify sector- or company-specific ESG",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Benchmark against peers, identify sector- or company-specific ESG issues and indicators, determine",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。开发ESG评分卡的正确步骤为：首先识别行业或公司特有ESG议题，其次分解为指标，然后确定评分体系，接着评估公司打分，再计算汇总得分，最后与行业或同行对标。B和C选项的步骤顺序均不正确，考生应牢记评分卡开发的标准流程。",
+      "en": "Solution A.Correctbecause developing ascorecard may involve the following steps: 1.Identify sector-or company-specific ESG items. 2.Break down issues into a number of indicators (e.g.,policy,measures,disclosure). 3.Determine a scoring system based on what good/best practice looks like for each indicator/issue. 4.Assess a company,and give it a score. 5.Calculate aggregated scores at the issuer level,dimension level (ESG level),or total score level (depending on the relative weight of each issue). 6.Benchmark the company's performance against industry averages or its peer group. B.Incorrect because the order of the steps is wrong.Developing a scorecard may involve the following steps: 1.Identify sector-or company-specific ESG items. 2.Break down issues into a number of indicators (e.g.,policy,measures,disclosure). 3.Determine a scoring system based on what good/best practice looks like for each indicator/issue. 4.Assess a company,and give it a score. 5.Calculate aggregated scores at the issuer level,dimension level (ESG level),or total score level (depending on the relative weight of each issue). 6.Benchmark the company's performance against industry averages or its peer group. C.Incorrect because the order of the steps is wrong.Developing a scorecard may involve the following steps: 1.Identify sector-or company-specific ESG items. 2.Break down issues into a number of indicators (e.g.,policy,measures,disclosure). 3.Determine a scoring system based on what good/best practice looks like for each indicator/issue. 4.Assess a company,and give it a score. 5.Calculate aggregated scores at the issuer level,dimension level (ESG level),or total score level 6.Benchmark the company's performance against industry averages or its peer group."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q004",
+    "moduleId": "mock",
+    "number": 4,
+    "text": {
+      "zh": "DescribingESGperformance attribution at a portfolio level is difficult because:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "there is a lack of third-party data providers.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "thereis a sizebias in ESG ratings in favor of large companies.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "many third-party data providers describeESG attributes as an uncorrelated,statistically independent factor.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。在投资组合层面描述ESG绩效归因之所以困难，是因为ESG评级存在显著的规模偏差，倾向于大公司。大公司拥有更多资源用于信息披露和制定ESG管理政策，导致其ESG评分偏高。A选项错误，第三方数据提供商正开发越来越精密的评级方法。C选项错误，评级与现有因子存在显著相关性。",
+      "en": "Solution A.Incorrect because third-party data providers are developingincreasingly sophisticated ESG ratings and scoring methodologies. B. Correct because the ratings from many providers reveal a significant,underlying correlation with existing factors,such as value,quality,size,and momentum.In addition,there is a size bias in ESG ratings in favor of large companies because large companies have the resources to disclose information and create ESG management policies. C.Incorrect because third-party data providers are developing increasingly sophisticated ESG ratings and scoring methodologies,but many fall short in describing ESG attributes as an uncorrelated, statistically independent factor.In fact,the ratings from many providers reveal a significant, underlying correlation with existing factors."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q005",
+    "moduleId": "mock",
+    "number": 5,
+    "text": {
+      "zh": "With regards to ESG analysis, which of the following statements is most accurate?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The ESG market has grown because of improvements in ESG analysis",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The analysis business is dominated by consultants who advise investors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Mergers and acquisitions among investors have hindered investors' ability to implement ESG",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。ESG数据采集和分析方法的改进直接促进了ESG市场的增长，这是推动ESG投资发展的关键因素。B选项错误，ESG分析和评级主要由传统信用评级公司和少数专业公司主导，而非咨询公司。C选项错误，行业增长和通过并购的整合增强了投资者实施ESG投资的能力。",
+      "en": "Solution A.Correctbecause improvements in ESG data sourcing and analysis have contributed to the growth of the ESG market. B.Incorrect because analysis and ratings of investees from an ESG perspective have been dominated by traditional credit rating companies,as well as a handful of specialist firms.Consultants,such as those specialised in helping investors understand and quantify the risk posed by climate change to their portfolios,are also well established,though many new ones continue to enter the market. C.Incorrect because the growth of the industry and its consolidation (through partnerships,mergers and acquisitions)has increased investors'ability to further implement ESG investing."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q006",
+    "moduleId": "mock",
+    "number": 6,
+    "text": {
+      "zh": "Which of the following best describes natural capital?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It is the world’s stocks of real assets",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It includes water but excludessoil and air",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It enables humans to derive ecosystem services",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。自然资本使人类能够获得广泛的生态系统服务，这些服务使人类生活成为可能，这是自然资本的核心定义。A选项错误，自然资本指的是自然资产（地质、土壤、空气、水和所有生物），而非实物资产（如土地、基础设施等）。B选项错误，自然资本的定义明确包括土壤和空气。",
+      "en": "Solution A.Incorrectbecause natural capital is defined as the world's stocks of natural assets,not real assets.Real assets (including vacant land,farmland,timber,infrastructure,intellectual property,commodities,and private real estate)is different from natural capital. B.Incorrect because natural capital is defined as the world's stocks of natural assets,which include geology,soil,air,water,and all living things.Soil and air are included. C.Correct because it is from natural capital that humans derive a wide range of services,often called ecosystem services,which make human life possible."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q007",
+    "moduleId": "mock",
+    "number": 7,
+    "text": {
+      "zh": "The Climate Action 100+ (CA 100+) collaborative engagement·",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "targets the most polluting companies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "has yet to attract many majorinstitutionalinvestors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "forbids any engagement to be led by a single investor.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。Climate Action 100+的目标是针对全球最大的污染排放企业进行气候参与。B选项错误，CA 100+已成功吸引了全球大多数主要机构投资者加入。C选项错误，CA 100+指定一个机构作为牵头参与方，每个公司的对话实际上由单一投资者主导，并不禁止这种做法。",
+      "en": "Solution A.Correctbecause CA 100+targets the most polluting companies. B.Incorrect because the Climate Action 100+(CA 100+)collaborative engagement is an organization to which most major institutional investors now adhere C.Incorrect because CA 100+targets the most polluting companies,appointing one institution as lead engager and a number of small groups of institutions to work alongside it.Further,under CA 100+,each company engagement is seemingly led by a single investor."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q008",
+    "moduleId": "mock",
+    "number": 8,
+    "text": {
+      "zh": "Reshoring as a result of the COVID-19 experience is most likely to counteract.",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "urbanization",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "globalization",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "digital disruption.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。回流（reshoring）是将具有战略重要性的生产迁回高工资国家以降低供应链风险的过程，这是离岸外包（offshoring）的反向操作。考生需理解离岸外包是全球化的重要表现，因此回流直接对抗全球化趋势。A选项错误，回流与城市化无关。C选项错误，回流与数字颠覆无关。",
+      "en": "Solution A.Incorrect because reshoringis the opposite of offshoring,which is associated with globalization,not urbanization. B. Correctbecause reshoring is the process of reducing supply chain risk by relocating production of strategic importance back to high-wage countries.This is the opposite of offshoring which is one of the implications of globalization. C.Incorrect because reshoring is the opposite of offshoring,which is associated with globalization,not digital disruption."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q009",
+    "moduleId": "mock",
+    "number": 9,
+    "text": {
+      "zh": "To reflect an upgrade of a company’s ESG rating, an analyst valuing the company should most likely:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "decrease the company's cost of capital.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "not change the company's cost of capital.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "increase the company's cost of capital.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。ESG评级上调可能导致公司资本成本降低，在其他条件不变的情况下，这将转化为更高的公司估值。在DCF分析中，分析师会根据公司环境管理流程和政策的强弱，将资本成本上下调整约1%。B选项错误，ESG改善应降低而非保持不变资本成本。C选项错误，方向相反。",
+      "en": "Solution A.Correct becausean ESG upgrade is likely result in a decrease in the cost of capital,which (all else being equal)translates into a higher valuation. A discounted cash flow model is adjusted when a company's environmental management processes and policies are judged strong or weak.After this judgment,the cost of capital used to discount cash flows in a DCF analysis is adjusted down or up by 1%to account for this. B.Incorrect because improvements in ESG factors at the industry level lead to decreases in the cost of capital:a company's environmental management processes and policies are judged strong or weak. After this judgment,the cost of capital used to discount cash flows in a DCF analysis is adjusted down or up by 1%to account for this. C.Incorrect because improvements in ESG factors at the industry level lead to decreases in the cost of capital a company's environmental management processes and policies are judged strong or weak. After this judgment,the cost of capital used to discount cash flows in a DCF analysis is adjusted down or up by 1%to account for this"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q010",
+    "moduleId": "mock",
+    "number": 10,
+    "text": {
+      "zh": "John Elkington's original concept of triple bottom line:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "refers to people, planet, and productivity.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "encourages companies to implement corporatesocial responsibility by contributing to society through philanthropy",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "recognizesthat the generation of long-term sustainable returns is dependent upon social,environmental and economic systems.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。ESG投资认识到长期可持续回报依赖于稳定、运行良好和治理良好的社会、环境和经济系统，这就是John Elkington提出的三重底线（TBL）概念。A选项错误，三重底线的三个P是People（人）、Planet（地球）和Profit（利润），而非Productivity（生产力）。B选项错误，这是企业社会责任的实施方式。",
+      "en": "Solution A.Incorrect because the TBL accounting theory expands the traditional accounting frameworkfocused only on profit to include two other performance areas:the social and environmental impacts of a company. These three bottom lines are often referred to as the three Ps:1.people;2.planet;and 3.profit --not productivity. B.Incorrect because this is not a strength of TBL,but rather it defineshow corporate social responsibility was initially implemented.Corporate social responsibility (CSR)[not triple bottom line]is a broad business concept that describes a company's commitment to conducting its business in an ethical way. Throughout the 20th century and until recently,many companies implemented CSR by contributing to society through philanthropy. C. Correct because ESG investing recognizes that the generation of long-term sustainable returns is dependent on stable,well-functioning and well-governed social,environmental and economic systems. This is the so-called triple bottom line (TBL)."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q011",
+    "moduleId": "mock",
+    "number": 11,
+    "text": {
+      "zh": "A challenge for asset managers integrating ESG issues is most likely:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "a lack of suitable benchmarks.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "no clear interest from asset owners",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "a lack of options outside of equities",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。资产管理人整合ESG议题面临的挑战之一是资产所有者缺乏明确的ESG投资兴趣信号，这使得管理人难以确定ESG整合的方向和力度。A选项错误，被动投资趋势和ESG数据的可获得性已促进ESG指数快速发展，截至2021年已有超过1000个ESG指数。C选项错误，ESG产品已扩展到股票以外的资产类别。",
+      "en": "Solution A.Incorrect because the trend toward passive investmentand,particularly,investors'preferences for ETFs,together with the increased availability of ESG data and research,have spurred the market's development of ESG indexes.As of 2021,there were over 1,000 ESG indexes. B. Correct because some of the challenges faced by asset managers in integrating ESG issues include a lack of clear signals from asset owners that they are interested in ESG investing. C.Incorrect because ESG offerings by asset managers generally began with active-listed equities but recently evolved to other asset classes."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q012",
+    "moduleId": "mock",
+    "number": 12,
+    "text": {
+      "zh": "If a companyincreases its ESG risk compared to its peers,the most appropriate adjustment to valuation models would be to reduce its:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "cost of capital.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "targetP/E ratio.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "estimated capital expenditures.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。在其他条件不变的情况下，更高的ESG风险应以折价交易。投资者可能愿意为具有强ESG特征的公司支付50%的市盈率溢价，而高ESG风险公司则应给予折价。A选项错误，ESG风险增加应提高而非降低资本成本。C选项错误，更高的ESG风险通常意味着需要更多资本支出来解决问题。",
+      "en": "Solution A.Incorrect because the company would have ahigher costof capital.A company's environmental management processes and policies are judged strong or weak.After this judgment,the cost of capital used to discount cash flows in a DCF analysis is adjusted down or up by 1%to account for this (with it adjusted up if policies are judged weak).This can also be on a country-or sector-basis,where a country or sector ESG risk factor may contribute to a change in a cost of capital or terminal value growth assumption, B.Correct because ceteris paribus,higher ESG risk should trade with a discount,such that an investor may be willing to invest in a company at a 50%premium on a PE ratio due to strong ESG characteristics. C.Incorrect because higher ESG risk will most likely mean higher capex to solve the issues.ESG factors can lead a company to decrease or increase its future capital expenditure.A forecast ESG impairment event,e.g.a sub-standard factory,may result in an impairment charge being made to bring the company's book value down"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q013",
+    "moduleId": "mock",
+    "number": 13,
+    "text": {
+      "zh": "Which of the following best describes the circular economy?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Materials are disposed of and products are repurchased",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Productsandmaterials are repaired,reused,and recycled",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Waste from one industial process ceases to be an input into another",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。在循环经济中，产品和材料被修复、重复使用和回收利用，而非丢弃，确保一个工业过程的废物成为另一个过程的有价值投入。考生需掌握循环经济与线性经济的根本区别。A选项错误，不是简单丢弃后重新购买。C选项错误，废物应成为而非不再成为另一过程的投入。",
+      "en": "Solution A. Incorrect because in a circular economy, products and materials are repaired, reused, and recycled rather than thrown away, ensuring that waste from one industrial process becomes a valued input into another. B. Correct because in a circular economy, products and materials are repaired, reused, and recycled rather than thrown away, ensuring that waste from one industrial process becomes a valued input into another. C. Incorrect because in a circular economy, products and materials are repaired, reused, and recycled rather than thrown away, ensuring that waste from one industrial process becomes (not ceases to be) a valued input into another."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q014",
+    "moduleId": "mock",
+    "number": 14,
+    "text": {
+      "zh": "Which of the following actions is most likelyan example of shareholder engagement?Institutional investors:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "making recommendations to policymakers",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "expressing views throughvoting on resolutions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "usingESG criteria to identify investmentopportunities",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。股东参与的典型形式是投资者通过公司年度股东大会（AGM）以投票决议的方式正式表达意见。考生需区分三种ESG反映方式：投资决策、股东参与和政策参与。A选项错误，向政策制定者建议属于政策参与。C选项错误，使用ESG标准识别投资机会属于投资决策。",
+      "en": "Solution A.Incorrect because regarding the three way in whichinvestors typically reflect ESG considerations in their investment process,this answer choice reflects \"Policy engagement,\"not \"Shareholder engagement.\"In particular,policy engagement by institutional investors is therefore a natural extension of an investor's responsibilities and fiduciary duties to the interests of beneficiaries.Investors can make recommendation to policymakers. B.Correct because investors can encourage investees to improve their ESG practices.This can happen via a company's annual general meeting(AGM)through formally expressing their views through voting on resolutions. C.Incorrect because regarding the three way in which investors typically reflect ESG considerations in their investment process,this answer choice reflects \"Investment decisions,\"not \"Shareholder engagement.\" In particular,asset managers and asset owners who invest directly can incorporate ESG issues within their security selection process.This can be done by using ESG criteria to identify investment opportunities through a thematic approach (e.g.water fund,impact investing,etc.)"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q015",
+    "moduleId": "mock",
+    "number": 15,
+    "text": {
+      "zh": "Which of the following statements aboutESG factors is mostaccurate?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "GoodESG standards tend to increase the company's costof capital",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Stock price performanceispositively correlated with good sustainability practices",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "GoodESG practices are negatively correlated withcorporate operational performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。牛津大学和Arabesque在2014年的研究发现，在分析的200项研究中，80%显示股价表现与良好可持续发展实践正相关。考生应记住这些关键比例：90%研究表明良好ESG降低资本成本，88%表明带来更好运营表现。A和C选项与研究结论相反。",
+      "en": "Solution A.Incorrect because theUniversity of Oxford and asset manager Arabesque in 2014 found that out of the 200 studies analyzed:90%conclude that good ESG standards lower the cost of capital. B. Correct because the University of Oxford and asset manager Arabesque in 2014 found that out of the 200 studies analyzed:80%show that stock price performance is positively correlated with good sustainability practices. C.Incorrect because the University of Oxford and asset manager Arabesque in 2014 found that out of the 200 studies analyzed:88%show that good ESG practices result in better operational performance;and should lead to better financial performance."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q016",
+    "moduleId": "mock",
+    "number": 16,
+    "text": {
+      "zh": "Which of the following is an environmentalmegatrend?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Globalization",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Urbanization",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Mass migration",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。大规模移民（mass migration）是具有严重社会影响的环境超级趋势之一。考生需区分环境超级趋势和社会超级趋势：环境超级趋势包括气候变化、资源枯竭和大规模移民等。A选项错误，全球化是社会超级趋势。B选项错误，城市化是社会超级趋势。",
+      "en": "Solution A.Incorrect because globalization is asocial megatrend,not an environmental megatrend.Social megatrends are long-term social changes that affect governments,societies and economies permanently over a long period of time. B.Incorrect because urbanization is a social megatrend,not an environmental megatrend. C. Correct because some environmental megatrends have a severe social impact as well.These include mass migration."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q017",
+    "moduleId": "mock",
+    "number": 17,
+    "text": {
+      "zh": "Which of the followingis part of the EU Taxonomy for an economic activity to be considered environmentally sustainable?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Complying with  minimum,EU-specified social and governance safeguards",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Aprinciples-basedFoundation Framework,which is applicable to all EU member states",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ThePlus Standard,with metrics and thresholds to further qualify and benchmark eligible green activities and investments",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。EU分类法规定经济活动被视为环境可持续的条件之一是遵守欧盟规定的最低社会和治理保障。考生需区分EU分类法和ASEAN分类法的不同要素。B选项错误，基于原则的基础框架适用于东盟（ASEAN）分类法。C选项错误，附加标准（Plus Standard）也属于东盟分类法。",
+      "en": "Solution A.Correct because the EU Taxonomy Regulation states conditions for an economic activity to be considered environmentally sustainable,including complying with minimum,EU-specified social and governance safeguards. B.Incorrect because the ASEAN Taxonomy consists of two main elements (ASEAN 2021),including a principles-based Foundation Framework,which is applicable to all ASEAN member states.So,this response is part of the ASEAN,not EU,taxonomy. C.Incorrect because the ASEAN Taxonomy consists of two main elements (ASEAN 2021),including the Plus Standard,with metrics and thresholds to further qualify and benchmark eligible green activities and investments.So,this response is part of the ASEAN,not EU,taxonomy."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q018",
+    "moduleId": "mock",
+    "number": 18,
+    "text": {
+      "zh": "Theplan tomake the EU economy climate neutral by 2050 is best described as the:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "European GreenDeal.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "EUParis-Aligned Benchmarks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "EU Taxonomy for Sustainable Activities.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。欧洲绿色协议（European Green Deal）是一项计划，旨在通过提高资源利用效率、恢复生物多样性和减少污染，使欧盟经济到2050年实现气候中和。B选项错误，EU巴黎对标基准是气候基准工具。C选项错误，EU可持续活动分类法是旨在减少金融产品漂绿风险的分类系统。",
+      "en": "Solution A.Correctbecause the European Green Deal is a plan to make the EU economy climate-neutral by 2050 by boosting the efficient use of resources,restoring biodiversity and cutting pollution. B.Incorrect because the European Green Deal is a plan to make the EU economy climate-neutral by 2050 by boosting the efficient use of resources,restoring biodiversity and cutting pollution,while the EU have developed two types of climate benchmarks for equities and corporate bonds that aim to start with lower associated carbon emissions intensity relative to their investable universe:the EU Paris-Aligned Benchmarks (EU PABs)and the EU Climate Transition Benchmarks (EU CTBs). C.Incorrect because the European Green Deal is a plan to make the EU economy climate-neutral by 2050 by boosting the efficient use of resources,restoring biodiversity and cutting pollution,while the EU Taxonomy Regulation aims to significantly reduce the risk of green-washing financial products by providing a classification system to determine whether an economic activity is environmentally sustainable"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q019",
+    "moduleId": "mock",
+    "number": 19,
+    "text": {
+      "zh": "High-quality engagement dialogues are mostlikely to result in:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "changed investor decision-making",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "efficient capital allocation byinvestors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "delivery of corporate purpose and culture through effectiveoversight.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。高质量参与对话的结果包括实现公司宗旨和文化的有效传递。考生需区分参与对话和监控对话的不同结果。A选项错误，'改变投资者决策'是监控对话的结果而非参与对话的结果。B选项错误，'投资者有效配置资本'也是监控对话的结果。",
+      "en": "Solution A.Incorrect because \"changed investor decision-making\"is the outcomeof a monitoring dialogue,not an engagement dialogue. B.Incorrect because \"efficient capital allocation by investors\"is the outcome of a monitoring dialogue,not an engagement dialogue. C. Correct because outcomes of an engagement dialogue include delivery of corporate purpose and culture."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q020",
+    "moduleId": "mock",
+    "number": 20,
+    "text": {
+      "zh": "Which of the following statements is most accurate withrespect to infrastructure investments?Investors should:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "screeninvestments for anESG tilt as engagement is not possible.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "allow general partners to directly engage with theinfrastructure company.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "makeESGinformation and expertise available to the project company to help it develop capacity.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。PRI建议投资者考虑八种机制在基础设施投资中充当积极所有者，其中包括向项目公司提供ESG信息和专业知识以帮助其发展能力。A选项错误，ESG倾斜策略适用于主权债务而非基础设施。B选项错误，直接ESG参与由普通合伙人（GP）执行，适用于私募股权投资。",
+      "en": "Solution A.IncorrectESG tilts are preferred for sovereign debt,not for infrastructure investments,as engagement is possible in the latter case. B.Incorrect because with private equity investments,direct ESG engagement will be undertaken by the general partner (GP,the private equity house)rather than the limited partner (LP,the asset owner), although individual LPs may wish to engage with their GPs on the ways in which they are monitoring and acting on ESG issues across their portfolios.Therefore,this argument applies to private equity investments,not for infrastructure investments. C. Correct because PRI recommends that investors consider eight potential mechanisms to act as engaged owners in infrastructure,including (where possible)to make ESG information and expertise available to the asset or project company to help it develop capacity."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q021",
+    "moduleId": "mock",
+    "number": 21,
+    "text": {
+      "zh": "Which of the followingismost likely the primary driver of ESG investment for a general insurer?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Reputational risk",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Recognition of lengthy investment timehorizons",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Awareness of financialimpacts ofclimate change",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。'对气候变化财务影响的认知'是一般保险公司ESG投资的主要驱动力，因为保险公司直接面临气候相关理赔风险。考生应记住不同类型机构的主要ESG驱动力：一般保险公司是气候变化影响认知，人寿保险公司是投资期限认知，主权财富基金是声誉风险。",
+      "en": "Solution A.Incorrect because \"reputational risk\"is the primarydriver forsovereign wealth fund and foundation. B.Incorrect because \"recognition of implications of lengthy investment time horizons\"is the primary driver for ESG investment for a life insurer. C. Correct because \"awareness of financial impacts of climate change\"is the primary driver for ESG investment for general insurer"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q022",
+    "moduleId": "mock",
+    "number": 22,
+    "text": {
+      "zh": "According to the Brunel Asset Management Accord,which of the following concerns aremost likely of limited significance in evaluating an asset manager against an ESG investment mandate?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Lossof key personnel",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Changein investment style",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Short-term underperformance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。Brunel资产管理协议强调短期表现不佳本身不太可能引起客户过度担忧，投资表现（尤其是短期）在评估管理人方面重要性有限。该协议更关注投资文化和流程遵守。A选项错误，关键人员流失可能引起担忧。B选项错误，投资风格变化可能引起担忧。",
+      "en": "Solution A.Incorrect because the list of issues that theBrunel Asset Management Accord identifies as likely to give rise to concerns are much more about culture and a failure to adhere to the expected investment process or style than about performance.These issues include organization instability or the loss of key personnel. B.Incorrect because the list of issues that the Brunel Asset Management Accord identifies as likely to give rise to concerns are much more about culture and a failure to adhere to the expected investment process or style than about performance.These issues include a change in investment style,or investments that do not fit into the expected style. C. Correct because the document [Brunel Asset Management Accord]emphasizes that short-term underperformance is not in itself likely to give rise to undue concern for the client:\"Investment performance,particularly in the short term,will be of limited significance in evaluating the Manager. ”"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q023",
+    "moduleId": "mock",
+    "number": 23,
+    "text": {
+      "zh": "ESG rating providers oversimplifying industry weighting and company alignment best describes:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "geographical bias.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "companysize bias",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "industryand sector bias.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。评级提供商过度简化行业权重和公司对齐是行业和部门偏差（industry and sector bias）的典型表现。考生需掌握ESG评级中三种主要偏差：行业偏差、地理偏差和公司规模偏差。A选项错误，地理偏差指对信息披露要求较高地区公司的偏向。B选项错误，公司规模偏差指大公司因资源多获更高评级。",
+      "en": "Solution A.Incorrectbecause it describes industry and sector bias,not geographical bias,where a geographical bias exists toward companies in regions with high reporting requirements or some other cultural factor(e.g.,higher unionization levels in Europe). B.Incorrect because it describes industry and sector bias,not company size bias,where larger companies might obtain higher ratings because of the ability to dedicate more resources to nonfinancial disclosures. C. Correct because one key type of bias typically encountered is industry and sector bias,where rating providers oversimplify industry weighting and company alignment."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q024",
+    "moduleId": "mock",
+    "number": 24,
+    "text": {
+      "zh": "Which of the followingbest describes competence greenwashing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Companies using hyperbole to highlight that theirESGcredentials are fit for purpose",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Companies keeping quiet about their environmental goals for fear ofretribution or misinterpretation",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Companies stating that they are taking positive actionin one ESG area while negatively contributing",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。面对日益增长的监管和市场压力，一些董事会、高管和员工使用夸张手法来突出其可持续发展方面的知识和经验，学者Kim Schumacher将此称为'能力漂绿'（competence greenwashing）。B选项错误，'绿色沉默'（greenhushing）指企业因担心报复而不愿披露。C选项错误，'范围漂绿'（scopewashing）指在某领域积极行动却在另一领域产生负面影响。",
+      "en": "Solution A.Correctbecause in the face of growing regulatory and market pressure,companies are contending with ensuring their ESG credentials are fit for purpose.Some boards,executives,and employees use hyperbole to highlight their knowledge,skills,and experience in sustainability—a practice coined by sustainable finance academic Kim Schumacher as 'competence greenwashing'. B.Incorrect because uncertainty over what does or doesn't qualify as green creates a phenomenon of 'greenhushing',where those making good strides towards more sustainable practices are unwilling to reveal as much for fear of retribution or misinterpretation. C.Incorrect because many companies hide their harmful practices behind more positive ones—for example,providing an incomplete picture of environmental impact by focusing too much on carbon emissions and ignoring other factors such as recyclability and toxicity.Companies stating that they are taking positive action in one area while negatively contributing to another is a practice called scopewashing'."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q026",
+    "moduleId": "mock",
+    "number": 25,
+    "text": {
+      "zh": "Thelargest sustainable investment strategy globally is:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESGintegration",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "negative/exclusionaryscreening.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "corporateengagement and shareholder action.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。全球最大的可持续投资策略是ESG整合，即将ESG因素系统性地纳入投资分析和决策过程。考生应掌握全球ESG策略的规模排序。B选项错误，负面/排除性筛选虽然历史悠久但不是全球最大策略。C选项错误，企业参与和股东行动也不是全球最大策略。",
+      "en": "Solution A.Correctbecause the largest sustainable investment strategy globally was ESG integration B.Incorrect because the largest sustainable investment strategy globally was ESG integration. C.Incorrect because the largest sustainable investment strategy globally was ESG integration"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q027",
+    "moduleId": "mock",
+    "number": 26,
+    "text": {
+      "zh": "Which of the followingsets a target for global temperatureincrease?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "TheKyoto Protocol",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "TheParis Agreement",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "TheEU taxonomy for sustainable activities",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。《巴黎协定》的长期目标是将全球平均气温升幅控制在工业化前水平以上2°C以内，并努力限制在1.5°C以内。考生需区分不同国际协议的目标：《京都议定书》设定排放目标，《巴黎协定》设定温度目标。C选项错误，EU分类法是分类系统而非温度目标框架。",
+      "en": "Solution A.Incorrect because theKyoto Protocol sets targets for emissions of the main GHGs while the Paris agreement's long-term goal is to keep the increase in global average temperature to well below 2°℃ (3.6°F)above pre-industrial levels. B. Correct because the Paris agreement's long-term goal is to keep the increase in global average temperature to well below 2°C(3.6°F)above pre-industrial levels. C.Incorrect because the EU taxonomy is a classification system.The Taxonomy Regulation aims to significantly reduce the risk of green-washing financial products by providing a classification system to determine whether an economic activity is environmentally sustainable;on the other hand,the Paris agreement's long-term goal is to keep the increase in global average temperature to well below 2°℃(3.6°F)above pre-industrial levels."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q028",
+    "moduleId": "mock",
+    "number": 27,
+    "text": {
+      "zh": "Which of the followingESG megatrends relates to the changes in economic activity and dynamism in markets that are going through industrial and urban revolutions simultaneously?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Technological innovation",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Emerging markets andurbanization",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Demographic changes and wealth inequality",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。'新兴市场和城市化'超级趋势涉及经济活动和市场活力的重心正在向新兴市场及其城市转移，这些市场正同时经历工业和城市革命。考生需掌握ESG投资中的主要超级趋势及其特征。A选项错误，技术创新不涉及工业和城市革命。C选项错误，人口变化不符此描述。",
+      "en": "Solution A.Incorrect because the megatrend \"EmergingMarkets andUrbanization,\"not \"Technological Innovation,\"relates to the locus of economic activity and dynamism is shifting to emerging markets and to cities within those markets,which are going through industrial and urban revolutions simultaneously. B. Correct because the megatrend \"Emerging Markets and Urbanization\"relates to the locus of economic activity and dynamism is shifting to emerging markets and to cities within those markets, which are going through industrial and urban revolutions simultaneously. C.Incorrect because the megatrend \"Emerging Markets and Urbanization,\"not \"Demographic Changes and Wealth Inequality,\"relates to the locus of economic activity and dynamism is shifting to emerging markets and to cities within those markets,which are going through industrial and urban revolutions simultaneously."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q029",
+    "moduleId": "mock",
+    "number": 28,
+    "text": {
+      "zh": "One of the threeprincipal board committees that virtually allmajor companies have is a:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "riskcommittee.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "sustainability committee.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "remuneration committee.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。薪酬委员会（remuneration committee）是几乎所有大公司都设立的三个主要董事会委员会之一，另外两个是审计委员会和提名委员会。考生应牢记这三个核心委员会。A选项错误，单独的风险委员会主要存在于金融服务企业。B选项错误，可持续发展委员会是可选的，仅在公司认为需要时才设立。",
+      "en": "Solution A.Incorrect because it ismainly financial services businesses that have a separate risk committee.The Audit Committee also oversees internal audits (where they exist)and is responsible for risk oversight unless there is a separate risk committee. B.Incorrect because sustainability committees are optional and only established if companies feel they are needed to consider key operational risks. C. Correct because the remuneration committee (or compensation committee)is one of the three principal board committees that almost all major companies have in place(which are the audit committee,the nominations committee,and the remuneration committee)."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q030",
+    "moduleId": "mock",
+    "number": 29,
+    "text": {
+      "zh": "Aninvestmentinto an energy efficiency project is most likely a(n):",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "greeninvestment.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "social investment.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ethical investment.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。绿色投资是指将资本分配到缓解气候变化、生物多样性丧失、资源效率低下和其他环境挑战的资产，其中能源效率项目是典型的绿色投资。考生需区分绿色投资、社会投资和伦理投资的不同定义。B选项错误，社会投资解决社会挑战。C选项错误，伦理投资按道德原则进行投资。",
+      "en": "Solution A.Correctbecause green investment refers to allocating capital to assets that mitigate climate change, biodiversity loss,resource ineficiency;and other environmental challenges.This includes energy efficiency B.Incorrect because social investment refers to allocating capital to assets that address social challenges.These can be products that address the bottom of the pyramid (BOP). C.Incorrect because ethical (also known as value-driven)and faith-based investment refers to investing in line with certain principles,often using negative screening to avoid investing in companies whose products and services are deemed morally objectionable by the investor or certain religions, international declarations,conventions and voluntary agreements."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q031",
+    "moduleId": "mock",
+    "number": 30,
+    "text": {
+      "zh": "Which of the following drivers of increasingESG integration has contributed most to the growth of the ESG market?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Improved data availability",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The ability for even small asset owners tointegrateESG",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A willingness of consultants and advisors to provide options",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。ESG数据采集和分析方法的改进是促进ESG市场增长的最主要驱动因素，更好的数据使投资者能够更有效地整合ESG因素。B选项错误，小型资产所有者在自行评估管理人ESG方面面临资源挑战。C选项错误，咨询顾问的犹豫态度导致资产所有者可选择的ESG选项减少。",
+      "en": "Solution A.Correctbecause improvements in ESG data sourcing and analysis have contributed to the growth of the ESG market. B.Incorrect because there can be challenges for smaller asset owners who have limited resources to conduct their own ESG assessment of managers and their funds. C.Incorrect because one of the challenges asset owners occasionallyface in integrating ESG considerations is a hesitancy on the part of consultants and retail financial advisers to integrate ESG investing into their offerings or to assess the ESG characteristics of funds,leading to fewer options for the asset owners to choose from in the market."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q032",
+    "moduleId": "mock",
+    "number": 31,
+    "text": {
+      "zh": "Which of the following are social megatrends?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Urbanization and massmigration",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Changing demographics and urbanization",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Changing demographics and massmigration",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。社会超级趋势是长期影响政府、社会和经济的社会变化，主要包括人口结构变化（含健康和长寿）以及城市化。考生需区分社会超级趋势和环境超级趋势。A选项错误，大规模移民是环境超级趋势。C选项错误，大规模移民是环境超级趋势而非社会超级趋势。",
+      "en": "Solution A.Incorrectbecause some environmental megatrends have a severe social impact as well.These include mass migration. B. Correct because social megatrends are long-term social changes that affect governments,societies and economies permanently over a long period of time.These include changing demographics, including health and longevity,andurbanization. C.Incorrect because some environmental megatrends have a severe social impact as well.These include mass migration."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q033",
+    "moduleId": "mock",
+    "number": 32,
+    "text": {
+      "zh": "To be aligned with the EU Taxonomy for Sustainable Activities,an activity shouldsubstantiallycontribute to:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "allsix of its objectives.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "one of its six objectives",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "three of its six objectives.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。经济活动应实质性贡献于六大环境目标之一才能被视为EU分类法对齐的活动，同时不得对其他五个目标造成重大损害，并遵守最低保障措施。考生需牢记EU分类法的三大要素。A选项错误，不需要对所有六个目标做出贡献。C选项错误，只需贡献于一个目标。",
+      "en": "Solution A.Incorrect because the activity should substantially contributeto one of the objectives to become taxonomy-aligned (while doing no significant harm to the other five,where relevant)and should comply with minimum safeguards (e.g.,OECD Guidelines on MNEs and the UN Guiding Principles on Business and Human Rights) B.Correct because the activity should substantially contribute to one of the objectives to become taxonomy-aligned (while doing no significant harm to the other five,where relevant)and should comply with minimum safeguards (e.g.,OECD Guidelines on MNEs and the UN Guiding Principles on Business and Human Rights). C.Incorrect because the activity should substantially contribute to one of the objectives to become taxonomy-aligned (while doing no significant harm to the other five,where relevant)and should comply with minimum safeguards (e.g.,OECD Guidelines on MNEs and the UN Guiding Principles on Business and Human Rights)."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q034",
+    "moduleId": "mock",
+    "number": 33,
+    "text": {
+      "zh": "Whichofthe following statements about engagement style is most accurate?Passive investors",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "donot have an engagement style.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "startwith an issue and seek to engage with all the companies affected by that issue.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "startwith the company and its business issues and develop a tailored engagement approach.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。被动投资者通常从一个议题出发——由团队从新闻或研究中识别——并寻求与受该议题影响的所有公司进行对话，这可能涉及整个行业甚至更广范围。A选项错误，被动投资者有明确的参与方式。C选项错误，这是主动投资者的参与风格，他们从公司本身出发制定定制化参与策略。",
+      "en": "Solution A.Incorrectbecause passive investors typically start with an issue—identified by the team from news or broader analysis or through a screening or other research provider—and seek to engage with all the companies affected by that issue (which may be a whole sector or even broader). B. Correct because passive investors typically start with an issue—identified by the team from news or broader analysis or through a screening or other research provider-and seek to engage with all the companies affected by that issue(which may be a whole sector or even broader). C.Incorrect because active investors,not passive investors,follow this engagement style.Active investors, particularly those with focused portfolios,start with the company itself and its business issues and develop a tailored engagement approach cutting across a range of issues,often with the investment teams taking a leading role.Companies selected for this approach are often identified from among investment underperformers or are firms that trigger other financial or ESG metrics."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q035",
+    "moduleId": "mock",
+    "number": 34,
+    "text": {
+      "zh": "Materialsocial risks.",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "havesimilar impacts across different sectors.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "arenot considered in a financial materiality assessment.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "mayprovide investment opportunities if recognized eary.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。非财务风险（如社会风险）可能对投资表现产生重大影响，应纳入财务重要性评估。此外，某些公司或行业因早期识别社会趋势并调整战略而提供投资机会。A选项错误，不同行业对社会风险的敏感度不同，如采矿和油气行业更易受人权问题影响。B选项错误，社会风险应纳入财务重要性评估。",
+      "en": "Solution A.Incorrect because different sectors have different susceptibilities to various social risks.For example, some sectors,such as the mining and oil and gas industry,are more susceptible to human rights violations or health and safety issues. B.Incorrect because financial materiality assessment should be part of a company's traditional risk assessment.Non-financial risks,such as social risks,could have a material impact on the performance of the investments and should therefore betaken into account. C. Correct because non-financial risks,such as social risks,could have a material impact on the performance of the investments and should therefore be taken into account.Besides risks,certain companies or sectors could also provide investment opportunities because they identify social trends early on and adapt their company strategy to benefit from these trends instead of being caught at a disadvantage"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q037",
+    "moduleId": "mock",
+    "number": 35,
+    "text": {
+      "zh": "TheUK Modern Slavery Act requires medium-and large-sized companies to provide a slavery and human trafficking statement every:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "year.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "twoyears",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "fiveyears.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。英国《现代奴隶制法案》（Modern Slavery Act）要求中型和大型公司每年提供奴隶制和人口贩运声明，说明为确保其业务或供应链中不存在现代奴隶制所采取的措施。考生应记住报告频率是每年一次。B选项错误，不是每两年。C选项错误，不是每五年。",
+      "en": "Solution A.Correctbecause the Modern Slavery Act requires both medium-and large-sized companies to provide a slavery and human trafficking statement each year,which sets out the steps taken to ensure modern slavery is not taking place in their business or supply chains. B.Incorrect because the Modern Slavery Act requires both medium-and large-sized companies to provide a slavery and human trafficking statement each year,not every two years. C.Incorrect because the Modern Slavery Act requires both medium-and large-sized companies to provide a slavery and human trafficking statement each year,not every five years."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q038",
+    "moduleId": "mock",
+    "number": 36,
+    "text": {
+      "zh": "Withregardsto the climate,double materiality:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "onlyconsidersimpacts of a company on the climate.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "onlyconsidersclimate-related impacts on a company.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "considersbothimpacts of a company on the climate and climate-related impacts on a company.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。双重重要性（double materiality）考虑两个方面：ESG因素对公司财务的影响（财务重要性）以及公司对ESG因素的影响（影响重要性）。考生需理解双重重要性是财务重要性概念的延伸。A选项错误，仅考虑公司对气候的影响属于影响重要性而非双重重要性。B选项错误，仅考虑气候对公司的影响属于财务重要性。",
+      "en": "Solution A.Incorrect because this answer describes financial materiality,not double materiality.Financial materiality only considers ESG factor risks that can impact a business's financials.By contrast,as described in the response rationale for the correct answer,double materiality considers both,the impact of ESG factors on the company and the impact of the company on ESG factors,e.g.,on the climate. B.Incorrect,because double materiality considers both,the impact of ESG factors on the company (e.g., climate-related impacts on a company)and the impact of the company on ESG factors (e.g.,impacts of a company on the climate),as described in the response rationale for the correct answer. C. Correct because double materiality is an extension of the accounting concept of financial materiality. ESG factors,especially climate,can be material for a company.The concept of double materiality takes this notion one step further:It is not just climate-related impacts on the company that can be material but also impacts of a company on the climate—or any other ESG factor.Hence,double materiality considers both,the impact of ESG factors on the company and the impact of the company on ESG factors,e.g.,on the climate."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q039",
+    "moduleId": "mock",
+    "number": 37,
+    "text": {
+      "zh": "Assetmanagersare most likely to use exclusionary screening to:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "identifybest-in-classinvestments.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "loweraportfolio's tracking error compared to a non-ESG benchmark.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "impose a set of values aligned withan ethical or normative framework.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。排除筛选（exclusionary screening）作为社会责任投资的一种类型，旨在通过伦理或规范框架施加一套价值观或偏好来筛选投资组合对特定行业的敞口。A选项错误，最佳同类（best-in-class）代表的是排除筛选的某种反向做法。B选项错误，施加行业排除会增加而非降低跟踪误差。",
+      "en": "Solution A.Incorrectbecause best-in-class represents,to some degree,the inverse of exclusionary screening.It employs a given ESG rating methodology to identify companies with better ESG performance relative to its industry peers. B.Incorrect because exclusions would bring upon higher tracking error.The degree of exclusions may carry significant implications from a portfolio management perspective —not just in terms of higher tracking error and active share,but also in unintended factor exposure.Also excluding meaningful sectors or industries within an index,such as fossil fuels,will generate a higher tracking error. C. Correct because exclusions as a type of socially responsible investment look to impose a set of values or preferences to screen through an ethical or normative framework a portfolio's exposure to specific sectors."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q040",
+    "moduleId": "mock",
+    "number": 38,
+    "text": {
+      "zh": "\"Access to remedy for victims of business-related abuses\"is apillarin which of the following frameworks?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "HumanRights 100+",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "UnitedNations GuidingPrinciples on Business and Human Rights",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Organization for Economic Co-operation andDevelopment (OECD)Guidelines for Multinational Enterprises",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。联合国工商业与人权指导原则（UNGPs）包含三大支柱：1.国家保护人权的义务；2.企业尊重人权的责任；3.商业相关侵权受害者获得补救的途径。考生需牢记UNGPs的三大支柱。A选项错误，人权100+不包含此框架。C选项错误，OECD跨国企业准则不包含此三大支柱结构。",
+      "en": "Solution A.Incorrectbecause theUNGPs [United Nations Guiding Principles on Business and Human Rights],not the Human Rights 100+,encompass three pillars outlining how states and businesses should implement the framework: 1.the state duty to protect human rights; 2.the corporate responsibility to respect human rights; 3.access to remedy for victims of business-related abuses. B.Correct because the UNGPs [United Nations Guiding Principles on Business and Human Rights] encompass three pillars outlining how states and businesses should implement the framework: 1.the state duty to protect human rights; 2.the corporate responsibility to respect human rights; 3.access to remedy for victims of business-related abuses. C.Incorrect because the UNGPs [United Nations Guiding Principles on Business and Human Rights],not the OECD Guidelines for Multinational Enterprises,encompass three pillars outlining how states and businesses should implement the framework: 1.the state duty to protect human rights; 2.the corporate responsibility to respect human rights; 3.access to remedy for victims of business-related abuses."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q041",
+    "moduleId": "mock",
+    "number": 39,
+    "text": {
+      "zh": "Corporate governance differs from country to countrybased on local corporate lawand:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "cultureonly.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "historicaldevelopmentsonly",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "bothcultureand historical developments.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。公司治理因国家而异，基于当地公司法律、文化和历史发展三个因素的共同作用。考生应理解治理框架的国家差异性。A选项错误，仅基于文化是不完整的。B选项错误，仅基于历史发展也是不完整的。治理框架是法律、文化和历史三者综合作用的结果。",
+      "en": "Solution A.Incorrect because governance differs fromcountry to country based on cultures and historical developments,as well as local corporate law. B.Incorrect because governance differs from country to country based on cultures and historical developments,as well as local corporate law. C. Correct because governance differs from country to country based on cultures and historical developments,as well as local corporate law."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q042",
+    "moduleId": "mock",
+    "number": 40,
+    "text": {
+      "zh": "A coal-fired utility has noclimate change adaptation strategy.Which of the following parties would be most severely impacted by a transition to a low-carbon economy?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Creditors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Bondholders",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Equity shareholders",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。碳密集型企业（如燃煤电厂）如无气候变化适应战略，在向低碳经济转型过程中将面临重大风险。在资本结构中，股权股东从属于债权人和债券持有人，因此将受到不成比例的影响。考生需理解ESG风险如何通过资本结构传导。A和B选项错误，债权人和债券持有人优先受偿。",
+      "en": "Solution A.Incorrect because carbon-intensive companies like coal-poweredutilities without an adaptation strategy will be at risk in the transition to a low-carbon economy.In such a scenario,equity shareholders(who are subordinate to creditors and bondholders in the capital structure)will be disproportionately impacted. B.Incorrect because carbon-intensive companies like coal-powered utilities without an adaptation strategy will be at risk in the transition to a low-carbon economy.In such a scenario,equity shareholders (who are subordinate to creditors and bondholders in the capital structure)will be disproportionately impacted. C. Correct because carbon-intensive companies like coal-powered utilities without an adaptation strategy will be at risk in the transition to a low-carbon economy.In such a scenario,equity shareholders (who are subordinate to creditors and bondholders in the capital structure)will be disproportionately impacted."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q043",
+    "moduleId": "mock",
+    "number": 41,
+    "text": {
+      "zh": "QuantitativeESG analysis is best characterized by:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "observations and conclusions  in  the form  of words  rather  than  numbers.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "impartiality and non-judgment,as  it  involves  numbers  rather  than  words.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "the use of  mathematical  modeling  and  data  analysis  to  examine  large  datasets.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。定量ESG分析（Quantitative ESG analysis）的特征是使用复杂的数学建模和数据分析方法，包括人工智能和算法来处理大规模数据集。考生需区分定量和定性ESG分析。A选项错误，以文字形式的观察和结论属于定性ESG分析。B选项错误，定量分析虽使用数字但仍涉及判断和裁量权。",
+      "en": "Solution A.Incorrect because qualitative ESG analysis generally involves observations and conclusions in the form of words rather than numbers. B.Incorrect because quantitative ESG(QESG)analysis involves numbers rather than words but still involves discretion and judgment,including the choice of which data to examine,materiality,weights against other data,and points of reference,such as peer groups. C. Correct because quantitative ESG approaches can use complex mathematical modeling and data analysis,including artificial intelligence and algorithms."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q045",
+    "moduleId": "mock",
+    "number": 42,
+    "text": {
+      "zh": "Which of the following statementsis most accurate?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Socio-politicalmattersare eliminated from ESG factors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The information used for selecting ESG factorsoften comes from the companies themselves",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESGmutual funds are prohibited from holding investments in companies that are acknowledged as 'bad actors'",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。用于选择ESG因素的信息通常来自公司本身（未经审计或鉴证），这使得验证、比较和标准化这些信息变得困难，是ESG投资面临的主要批评之一。A选项错误，社会政治因素并未被排除在ESG因素之外，反而可能被过度强调。C选项错误，ESG基金通常持有被认定为'不良行为者'的公司投资。",
+      "en": "Solution A.Incorrect because oneof the most common criticisms of ESG investing is the difficulty for investors to correctly identify,and appropriately weigh,ESG factors in investment selection.Critics express concerns about the precision,validity and reliability of ESG investment strategies,and tend to express four concerns,includingdubious assessment criteria.The criteria used for selecting ESG factors are too subjective and can reflect narrow or conflicting ideological or political viewpoints.Non-material or socio- political factors may be over-emphasized.Materiality assessments might be considered flawed. B. Correct because one of the most common criticisms of ESG investing is the difficulty for investors to correctly identify,and appropriately weigh,ESG factors in investment selection.Critics express concerns about the precision,validity and reliability of ESG investment strategies,and tend to express four concerns,including quality of data.The information used for selecting ESG factors often comes (unaudited or assured)from the companies themselves.This complicates the ability to verify,compare and standardize this information. C.Incorrect because one of the most common criticisms of ESG investing is the difficulty for investors to correctly identify,and appropriately weigh,ESG factors in investment selection.Critics express concerns about the precision,validity and reliability of ESG investment strategies,and tend to express four concerns,including too inclusive of poor companies.ESG mutual funds and exchange-traded funds (ETFs)often hold investments in companies that may be acknowledged as 'bad actors'in one or more of the ESG spaces"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q046",
+    "moduleId": "mock",
+    "number": 43,
+    "text": {
+      "zh": "TheTask Force on Climate-related Financial Disclosures (TCFD)recommends that portfolio managers treat carbon exposure on a(n):",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "assetbasis",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "companybasis",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "portfolio-weightedbasis.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。TCFD建议将碳暴露指标从基础资产层面提升到投资组合层面，投资组合经理现在可以在投资组合加权基础上处理碳暴露。加权平均碳强度按持仓权重衡量投资组合对碳密集型公司的敞口。A和B选项错误，之前的碳强度按公司或资产基础确定。",
+      "en": "Solution A.Incorrectbecauserecommendations by the TCFD provide an important example,for both a move towards ESG standards convergence and in elevating risk exposure metrics to the portfolio level from the underlying asset level.Where carbon intensity was previously determined in the form of carbon footprint on a per company or per asset basis,portfolio managers may now treat carbon exposure on a portfolio-weighted basis.Weighted-average carbon intensity measures a portfolio's exposure to carbon- intensive companies on a position-weighted carbon exposure. B.Incorrect because recommendations by the TCFD provide an important example,for both a move towards ESG standards convergence and in elevating risk exposure metrics to the portfolio level from the underlying asset level.Where carbon intensity was previously determined in the form of carbon footprint on a per company or per asset basis,portfolio managers may now treat carbon exposure on a portfolio-weighted basis.Weighted-average carbon intensity measures a portfolio's exposure to carbon- intensive companies on a position-weighted carbon exposure. C. Correct because recommendations by the TCFD provide an important example,for both a move towards ESG standards convergence and in elevating risk exposure metrics to the portfolio level from the underlying asset level.Where carbon intensity was previously determined in the form of carbon footprint on a per company or per asset basis,portfolio managers may now treat carbon exposure on a portfolio-weighted basis.Weighted-average carbon intensity measures a portfolio's exposure to carbon- intensive companies on a position-weiahted carbon exposure."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q047",
+    "moduleId": "mock",
+    "number": 44,
+    "text": {
+      "zh": "Which of the following statements about green bonds andsustainability-linked bonds (SLBs)is most accurate?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A global consensus exists on the types of capitalprojects that fit in the scope of green bonds",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "SLBs allow issuers more flexibility inachieving sustainability targets compared to green bonds",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Issuers of SLBs agree to pay alower coupon to investors if they fail to achieve a sustainabilty-linked target",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。与绿色债券相比，可持续发展挂钩债券（SLBs）允许发行人在实现可持续发展目标方面拥有更大灵活性，因为SLBs不限制资金的具体用途。A选项错误，关于什么构成'绿色'债券仍存在争议，全球无共识。C选项错误，SLB发行人未能实现目标时需支付更高而非更低的票息。",
+      "en": "Solution A.Incorrect because debate continues as to whatmakes a bond \"green\"because no global consensus exists on the types of capital projects that fit in the scope of green bonds. B. Correct because relative to green bonds,SLBs allow issuers more flexibility in achieving sustainability targets. C.Incorrect because the issuer of sustainability-linked bonds agrees to pay a higher coupon to investors if it fails to achieve a sustainability-linked target."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q048",
+    "moduleId": "mock",
+    "number": 45,
+    "text": {
+      "zh": "TheESGrating correlation among different data providers is most likely:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "negatively correlated.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "uncorrelated.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "positively correlated.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。学术研究表明不同ESG评级机构之间的相关性是正相关的，但相关程度较低（约0.3至0.54）。这反映了ESG评级方法论的差异。A选项错误，相关性不是负的。B选项错误，相关性不是完全不相关的。考生应理解ESG评级相关性远低于信用评级相关性。",
+      "en": "Solution A.Incorrect because the academic study results demonstratethat the correlation is positively correlated. B.Incorrect because the academic study results demonstrate that the correlation is positively correlated. C. Correct because one challenge is that the agreementor correlation between the various ratings agencies is low.A study by Chatterji at al.finds an approximate 0.3 correlation.(Or more technically,this analysis found pairwise tetrachoric correlations for three years among the six raters,with a mean correlation of 0.30 (about 2 standard deviations).However,this also included some negative ones' correlations,meaning what one rater found responsible another found irresponsible'.)A 2019 study by Gibson et al.shows a range of correlations.Yet another study by Berg et al.shows a range of correlations as well:Berg looks at a dataset of ESG ratings from six different raters-namely,KLD (MSCl Stats),Sustainalytics,Vigeo Eiris (Moody's),RobecoSAM(S&P Global),Asset4 (Refinitiv)and MSCl-the correlations between the ratings are on average 0.54 and range from 0.38 to 0.71.Table 7.4 presents 4 categories of correlations ranging from 0.2 to 0.46."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q049",
+    "moduleId": "mock",
+    "number": 46,
+    "text": {
+      "zh": "Which of the following statements about minority shareholder alignmentismost accurate?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Dual-class shares protect minorityrights",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Pre-emption rights protectminorityshareholders",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Individual institutional shareholders are seldom minority shareholders",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。优先认购权（pre-emption rights）是保护少数股东的关键领域，它确保现有股东有权按比例认购新股，防止股权被稀释。A选项错误，双层股权结构是少数股东可能感到被剥削的机制之一。C选项错误，机构投资者几乎总是少数股东，其关键问题是不被控股股东剥削。",
+      "en": "Solution A.Incorrect becausean area in which minority shareholders can feel exploited is through the mechanism of dual-class shares. B. Correct because akey area for minority shareholder protection is pre-emption rights. C.Incorrect because for minority shareholders -which institutional investors will almost always be -a crucial issue is that they are not exploited by the dominant or controlling shareholders."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q050",
+    "moduleId": "mock",
+    "number": 47,
+    "text": {
+      "zh": "Which of the following most likely carries out thestewardship functionfor a pension fund?The fund's:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "asset manager",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "external auditor.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "underlying beneficiaries.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。管理职能（stewardship function）是受托责任的体现，通常由投资链中具有最大总规模的一方承担，通常是基金管理人（资产管理人）。B选项错误，审计师不作为资产所有者的受托人，其职责是提供独立的财务报告审查。C选项错误，虽底层受益人可执行管理职能，但实践中通常由基金管理人承担。",
+      "en": "Solution A.Correctbecause as stewardship is a reflection of fiduciary duty,it needs to be actively considered by any party charged with fiduciary duties.This will include most parties in the modern investment chain from underlying beneficiary through to asset owner(pension fund,insurer or other fund)to fund manager and those directing the investment asset.Any of these parties could carry out stewardship functions but in practice the role typically rests with those with the greatest aggregated scale,usually the fund manager. B.Incorrect because as stewardship is a reflection of fiduciary duty,it needs to be actively considered by any party charged with fiduciary duties and the auditor does not act as a fiduciary to the asset owner. The auditor is there to provide an independent pair of eyes assessing the financial reports prepared by management,and to provide some assurance that those reports fairly represent the performance and position of the business. C.Incorrect because as stewardship is a reflection of fiduciary duty,it needs to be actively considered by any party charged with fiduciary duties.This will include most parties in the modern investment chain from underlying beneficiary through to asset owner(pension fund,insurer or other fund)to fund manager and those directing the investment asset.Any of these parties could carry out stewardship functions but in practice the role typically rests with those with the greatest aggregated scale,usually the fund manager."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q052",
+    "moduleId": "mock",
+    "number": 48,
+    "text": {
+      "zh": "Which of the followingis most likely classified as an environmental megatrend that has a severe social impact?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Offshoring",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Urbanization",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Water scarcity",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。水资源短缺（water scarcity）是具有严重社会影响的环境超级趋势之一，因为它直接影响人类的基本生存需求。考生需掌握哪些是环境超级趋势、哪些是社会超级趋势。A选项错误，离岸外包与全球化相关，属于社会超级趋势。B选项错误，城市化属于社会超级趋势。",
+      "en": "Solution A.Incorrectbecause offshoringis related to globalization,which is a social megatrend,and it is not classified as an environmental megatrend.Offshoring.Due to the lower wages of workers in the garment industry in developing countries,clothes are now mainly produced in countries such as Vietnam,Bangladesh and China.This has led to the disappearance of the textile industry in Western countries.Offshoring also takes place in other sectors. B.Incorrect because urbanisation is a social megatrend,and it is not classified as an environmental megatrend.Globally,the population has been,increasingly shifting from rural to urban areas. C. Correct because some environmental megatrends have a severe social impact as well and includes water scarcity"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q053",
+    "moduleId": "mock",
+    "number": 49,
+    "text": {
+      "zh": "According to the Global Sustainable Investment Alliance(GSIA),the predominant ESG strategy in Europe at the start of 2020 was:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESGintegration",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "negativescreening.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "corporateengagement",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。根据全球可持续投资联盟（GSIA）的数据，基于规范和负面/排除性筛选是欧洲2020年初最大的ESG策略。考生应了解不同地区ESG策略的差异。A选项错误，ESG整合虽然是全球最大的策略但不是欧洲最大的。C选项错误，企业参与不是欧洲最大的策略。",
+      "en": "Solution A.Incorrect because norms basedand negative/exclusionary screening is the largest strategy in Europe B.Correct because norms based and negative/exclusionary screening is the largest strategy in Europe C.Incorrect because norms based and negative/exclusionary screening is the largest strategy in Europe"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q054",
+    "moduleId": "mock",
+    "number": 50,
+    "text": {
+      "zh": "Which of the followingESG factors is most often consideredby traditional investment analysts?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Social",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Governance",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Environmental",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。在ESG三个因素中，治理（Governance）是传统投资分析师最常考虑的要素，因为治理因素（如董事会结构、管理层薪酬）长期以来就是基本面分析的一部分。A选项错误，社会因素不是最常被考虑的。C选项错误，环境因素也不是最常被考虑的。",
+      "en": "Solution A.Incorrect because of the threeESG factors,governance is the element most often taken into consideration by traditional investment analysts. B.Correct because of the three ESG factors,governance is the element most often taken into consideration by traditional investment analysts. C.Incorrect because of the three ESG factors,governance is the element most often taken into consideration by traditional investment analysts."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q055",
+    "moduleId": "mock",
+    "number": 51,
+    "text": {
+      "zh": "Compared to developed markets,ESG investing inemergingmarkets is most likely characterized by:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "more data and less variability between countriesandcompanies.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "easier transferability of approaches and principles methods from developedmarkets.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "greater opportunities for investors to engage with companies andimproveESG performance",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。与发达市场相比，新兴市场为投资者提供了更多与公司对话和改善ESG表现的机会，因为新兴市场ESG实践起步较晚，改善空间更大。A选项错误，新兴市场ESG数据较少且各国差异大。B选项错误，发达市场的ESG方法和原则不能轻易适用于新兴市场。",
+      "en": "Solution A.Incorrect because less disclosure and fewer availableESGratings means benchmarking ESG performance is more challenging in emerging markets due to less data and great variability between countries and companies. B.Incorrect because ESG integration in emerging markets may require more nuanced approaches,and principles methods from developed markets may not easily apply. C. Correct because emerging markets present greater opportunities for investors to engage with companies and improve ESG performance.While change takes time,investors can play a role in advancing ESG factors through capital allocation and active ownership."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q056",
+    "moduleId": "mock",
+    "number": 52,
+    "text": {
+      "zh": "The most appropriate first stepin developing a scorecard is to:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "identify sector orcompany specificESG items.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "determine a scoring system based onbestpractices",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "benchmark the company's performance against industry averages.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。开发ESG评分卡的第一步是识别行业或公司特有的ESG议题，这是整个评分卡开发流程的起点。考生应牢记评分卡开发的标准步骤顺序。B选项错误，确定评分体系是在识别ESG议题之后的第二步。C选项错误，将公司表现与行业平均值进行对标是最后一步。",
+      "en": "Solution A.Correctbecause the first step to develop a scorecard:1.Identify sector or company specific ESG items. B.Incorrect because determining a scoring system based on what good/best practice looks like comes after identifying sector or company specific ESG items.To develop a scorecard:1.Identify sector or company specific ESG items.2.Breakdown issues into a number of indicators (e.g.policy, measures,disclosure).3.Determine a scoring system based on what good/best practice looks like for each indicator/issue. C.Incorrect because benchmarking the company's performancecomes after determining a scoring system.To develop a scorecard:1.Identify sector or company specific ESG items.2.Breakdown issues into a number of indicators (e.g.policy,measures,disclosure).3.Determine a scoring system based on what good/best practice looks like for each indicator/issue.4.Assess a company and give it a score.5.Calculate aggregated scores at issue level,dimension level (environmental,social or governance level)or total score level (depending on the relative weight of each issue).6.Benchmark the company's performance against industry averages or peer group (optional)."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q057",
+    "moduleId": "mock",
+    "number": 53,
+    "text": {
+      "zh": "Which of the following statements regarding social megatrendsin the developed world is most accurate?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Average working hours haveincreased",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Theworkforcehas become more diverse",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The average level of educationhas decreased",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。在发达国家，劳动力变得更加多样化，更多女性进入劳动力市场，这为女性提供了更多经济独立性。A选项错误，发达国家的平均工作时间显著减少而非增加。C选项错误，平均教育水平上升而非下降，拥有高等教育学位的员工比例在过去几十年持续增长。",
+      "en": "Solution A.Incorrect because most countries in thedeveloped world have seen average hours worked decrease significantly.Whilst the number of average working hours has decreased,the average level of education has increased.The percentage of employees with a higher education degree has grown over the last few decades.Yet,some sectors suffer from a lack of qualified employees and are facing an intense war on talent'to attract the most skilled workers. B. Correct because the workforce has become more diverse:more women are now entering the labour market,which has provided women with more financial independence.However,in comparison to men,women are still more likely to become and remain unemployed,have fewer chances to participate in the labour force and -when they do secure employment-often have to accept lower quality jobs. C.Incorrect because whilst the number of average working hours has decreased,the average level of education has increased.The percentage of employees with a higher education degree has grown over the last few decades."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q058",
+    "moduleId": "mock",
+    "number": 54,
+    "text": {
+      "zh": "While updating a company's cost of capitalanalysis,an analyst increases her environmental risk assessment.As a result,the analyst's valuation of the company should:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "decrease.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "not change.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "increase.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。当分析师提高环境风险评估时，公司估计资本成本会上升。在DCF分析中，更高的资本成本在其他因素不变的情况下会导致模型得出更低的内在价值估计。考生需理解ESG风险如何通过资本成本影响估值。B选项错误，估值应变化。C选项错误，估值应下降而非上升。",
+      "en": "Solution A.Correctbecause an increase in environmentalrisk will increase the company's estimated cost of capital.For example,a company's environmental management processes and policies are judged strong or weak.After this judgment,the cost of capital used to discount cash flows in a DCF analysis is adjusted down or up by 1%to account for this.A higher cost of capital would lead -all other factors being equal-to a lower intrinsic value estimate from the model. B.Incorrect because an increase in environmental risk will increase the company's estimated cost of capital.A higher cost of capital would lead -all other factors being equal -to a lower intrinsic value estimate from the model. C.Incorrect because an increase in environmental risk will increase the company's estimated cost of capital.A higher cost of capital would lead-all other factors being equal-to a lower intrinsic value estimate from the model."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q059",
+    "moduleId": "mock",
+    "number": 55,
+    "text": {
+      "zh": "Which of the following strategic asset allocation model(s)is highlysensitiveto baseline assumptions?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Mean-variance optimization (MVO)only",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Liability driven asset allocation(LDl)only",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Both mean-variance optimization (MVO)and liability drivenassetallocation (LDI)",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。均值方差优化（MVO）和负债驱动资产配置（LDI）这两种战略资产配置模型都对基准假设高度敏感。MVO对输入参数（预期收益、波动率等）高度敏感，LDI遇到与MVO相同的限制。考生应了解这两种模型的共同局限性。A和B选项错误，两者都敏感。",
+      "en": "Solution A.Incorrect because both mean-variance optimisation(MVO)and Liability driven asset allocation (LDl)are highly sensitive to baseline assumptions.In particular,MVO is highly sensitive to baseline assumption and LDl encounters the same limitations as MVO,with high sensitivity to baseline assumptions. B.Incorrect because both mean-variance optimisation (MVO)and Liability driven asset allocation (LDI)are highly sensitive to baseline assumptions.In particular,MVO is highly sensitive to baseline assumptions and LDl encounters the same limitations as MVO,with high sensitivity to baseline assumptions. C. Correct because both mean-variance optimisation (MVO)and Liability driven asset allocation (LDl)are highly sensitive to baseline assumptions.In particular,MVO is highly sensitive to baseline assumptions and LDl encounters the same limitations as MVO,with high sensitivity to baseline assumptions."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q060",
+    "moduleId": "mock",
+    "number": 56,
+    "text": {
+      "zh": "Which of the following is most likely theprimarydriver of ESG investment for sovereign wealth funds?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Fiduciary duty",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Reputational risk",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Awareness of the financial impacts of climate change",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。根据教材中的参考表格，声誉风险（reputational risk）是主权财富基金ESG投资的主要驱动力。考生应记住不同类型机构的主要ESG驱动力。A选项错误，受托责任（fiduciary duty）是养老金（固定收益和固定缴款）的主要驱动力。C选项错误，对气候变化财务影响的认知是一般保险公司的主要驱动力。",
+      "en": "Solution A.Incorrect because fiduciary duty is theprimary driver for ESG investment for defined benefit pension and defined contribution pension,but not for sovereign wealth funds. B.Correct because per the cited table in the reading,reputational risk is the primary driver for ESG investment for sovereign wealth fund. C.Incorrect because awareness of financial impacts of climate change is the primary driver for ESG investment for general insurer but not for sovereign wealth funds."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q061",
+    "moduleId": "mock",
+    "number": 57,
+    "text": {
+      "zh": "When compared to a broad market benchmark,aportfolio that imposes a set of sector exclusions most likely produces:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "high active share andlow tracking error",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "low active share andhigh trackingerror.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "high active share andhigh trackingerror",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。施加广泛行业排除（特别是占基准重要权重的行业排除）的投资组合会产生高主动份额（active share）和高跟踪误差（tracking error）。这种差异可能导致投资组合经理采用更合适的ESG基准而非广泛市场基准。A选项错误，跟踪误差应高而非低。B选项错误，主动份额应高而非低。",
+      "en": "Solution A.Incorrect becausea portfolio that imposesa broad set of exclusions (particularly sector exclusions, which represent a significant weight of their benchmark),will likely produce high active share and tracking error.This magnitude of difference may lead the portfolio manager to adopt a more appropriate ESG benchmark rather than a broad market benchmark. B.Incorrect because a portfolio that imposes a broad set of exclusions (particularly sector exclusions, which represent a significant weight of their benchmark),will likely produce high active share and tracking error.This magnitude of difference may lead the portfolio manager to adopt a more appropriate ESG benchmark rather than a broad market benchmark. C. Correct because the degree of exclusions may carry significant implications from a portfolio management perspective,not just in terms of higher tracking error and active share,but also unintended factor exposure.Tracking error and active share are measures that represent the degree to which a portfolio deviates from its benchmark.A portfolio that imposes a broad set of exclusions (particularly sector exclusions,which represent a significant weight of their benchmark),will likely produce high active share and tracking error.This magnitude of difference may lead the portfolio manager to adopt a more appropriate ESG benchmark rather than a broad market benchmark."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q062",
+    "moduleId": "mock",
+    "number": 58,
+    "text": {
+      "zh": "Which of the following statements aboutincomeinequality is most accurate?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Globalization is oneof the drivers of growing wealth inequality",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Increasedincomeinequality greatly affects society but has little impact on economic growth",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Across the OECD,the average income of the richest10%of the population is about twice that of the poorest 10%",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。OECD研究了日益加剧的不平等的驱动因素，包括全球化、技能偏向型技术变革和国家政策方法的变化。考生应理解全球化如何影响财富分配。B选项错误，日益加剧的不平等不仅影响社会，也通过降低中低阶层购买力限制了总经济增长。C选项错误，OECD最富有10%人口收入约为最贫穷10%的九倍。",
+      "en": "Solution A.Correctbecause the OECD examines the drivers of growing inequalities,such as globalisation,skill- biased technological change and changes in countries'policy approaches. B.Incorrect because there is increasing evidence that growing inequality affects economies and societies. Educational opportunities and social mobility may be reduced resulting in a less skilled and less healthy society with lower purchasing power among the lower and middle classes.This limits total economic growth. C.Incorrect because according to the OECD Centre for Opportunity and Equality (COPE)2015 report,the average income of the richest 10%of the population is about nine times that of the poorest 10%across the OECD.This is also called economic or income inequality."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q063",
+    "moduleId": "mock",
+    "number": 59,
+    "text": {
+      "zh": "Which of the following statements about thematic investing ismostaccurate?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Water funds underperformduring economic cycle expansions",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Clean energy funds outperform during economic cycle contractions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Thematicinvestingis not feasible through passive vehicles like ETFs",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。水资源基金通常具有更稳定的监管前景和强劲的现金流，常被用作通胀对冲工具，但在经济周期扩张期间表现不佳，因为投资者会转向增长型资产。B选项错误，清洁能源是顺周期增长板块，在经济收缩时表现不佳。C选项错误，主题投资可通过ETF等被动工具实现。",
+      "en": "Solution A.Correctbecause as an opposite example,water funds have amuch more stable,regulatory outlook generally underpinned by strong cash flow and cash conversion.Often used as hedges against inflation, they will underperform during expansions in economic cycles when investors rotate towards growth. B.Incorrect because clean energy tends to be a pro-cyclical growth sector that underperforms when capital spending and the economic cycle contract. C.Incorrect because thematic investing targets sustainability-aligned themes as a means to construct a portfolio.While often designed around long-term,resource scarcity-oriented themes,such as water or clean energy,thematic funds may also focus on sustainable sectors like healthcare.This approach may be expressed both fundamentally and quantitatively through active quant strategies or more passive vehicles,such as exchange-traded funds (ETFs)."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q064",
+    "moduleId": "mock",
+    "number": 60,
+    "text": {
+      "zh": "Which of the following statements is most accurate?Anemissiontrading system:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "sets an explicit price on greenhousegasemissions.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "mandates similar levels of emissions reductions for allactors.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "creates an economic incentive for emissions reductionstooccur at the point of least cost.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。排放交易系统（ETS）基于排放单位许可证的交换机制，排放超过限额的参与者需从排放较少的参与者处购买许可证。这创造了在最低成本点实现减排的经济激励，通过价格发现奖励能够以更低成本减排的企业。A选项错误，碳税直接设定明确的排放价格。B选项错误，ETS不要求所有参与者达到相似的减排水平。",
+      "en": "Solution A.Incorrect because carbon taxation takes a different approachcomparedto ETS by directly setting an explicit price on GHG emissions (e.g.per tonne of CO2). B.Incorrect because an ETS creates an economic incentive for emissions reductions to occur at the point of least cost;rather than mandating similar levels of reductions for all actors,price discovery helps reward those that can afford to reduce more. C. Correct because an emission trading system (ETS)is a system based on the exchange of permits for emission units,where actors who exceed their emissions limits are required to buy permits from those that have emitted less.The overall quantity of emissions is fixed,and market mechanisms are used to set their price.In theory,this creates an economic incentive for emissions reductions to occur at the point of least cost;rather than mandating similar levels of reductions for all actors,price discovery helps reward those that can afford to reduce more."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q065",
+    "moduleId": "mock",
+    "number": 61,
+    "text": {
+      "zh": "Which of the following statements ismost accurate?The Principles for Responsible Investment (PRI)",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "comprises six mandatory principles",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "requires members to report quarterly on their responsibleinvestment practices.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "provides guidance on actions signatories can taketo incorporate ESG issues into investment practice",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。PRI（负责任投资原则）制定了六项自愿原则，为成员将ESG议题纳入投资实践提供总体指导框架。考生应理解PRI原则的自愿性质。A选项错误，PRI原则是自愿的而非强制的六项原则。B选项错误，PRI要求成员每年（而非每季度）报告其负责任投资实践。",
+      "en": "Solution A.Incorrect because the PRI developed six principles,whichare voluntary B.Incorrect because the PRI does require members to report annually on their responsible investment practices C.Correct because the PRI developed six principles,which are voluntary,but provide overarching guidance on actions members can take to incorporating ESG issues into investment practice"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q066",
+    "moduleId": "mock",
+    "number": 62,
+    "text": {
+      "zh": "Whichof the following statements is most accurate?The'materiality map'developed by the Sustainability and Accounting Standards Board (SASB):",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "quantifies financially materialESG factors across different industries and sectors.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "identifiesandcompares ESG disclosure topics across different industries and sectors.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "assesses the impact of financiallymaterial ESG factors on the investment performance of a company.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。SASB（可持续发展会计准则委员会）提供了一个互动专有工具，用于识别和比较不同行业和部门的ESG披露主题，被称为'重要性地图'（materiality map）。A选项错误，重要性地图不量化ESG因素，而是识别和比较披露主题。C选项错误，评估ESG因素对公司投资表现的影响是在研究阶段进行的。",
+      "en": "Solution A.Incorrectbecausethe'materiality map'does not quantify financially material ESG factors across different industries and sectors.SASB provides an interactive proprietary tool that identifies and compares disclosure topics across different industries and sectors,described as a'materiality map'. B .Correct because SASB provides an interactive proprietary tool that identifies and compares disclosure topics across different industries and sectors,described as a'materiality map'.The sustainability accounting standards identify financially material issues that are reasonably likely to impact the financial condition or operating performance of a company and therefore are most important to investors. C.Incorrect because the research stage (not materiality map)typically contains a materiality assessment to identify the ESG issues that are likely to have an impact on the company's financial performance.After the research stage and any relevant risk and materiality mapping,practitioners assess the impact of material financial and ESG factors on the corporate and investment performance of a company."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q067",
+    "moduleId": "mock",
+    "number": 63,
+    "text": {
+      "zh": "Which of the following success factors is achieved withthe highest likelihood through active private engagement?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Factor1only",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Factor2only",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "BothFactor1 and Factor 2",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。积极私人参与（active private engagement）最有可能满足投资者论坛发布的有效参与的全部六项成功因素，因为这种参与方式有针对性且具体，最能满足SF1（目标具体明确）和SF3（参与方式量身定制）的要求。A和B选项错误，两个因素都需要通过积极私人参与来实现。",
+      "en": "Solution A.Incorrectbecauseboth Factor 1 and Factor 2 are achieved with the highest likelihood level through active private engagement.Active private engagement refers to targeted and specific engagement and this form of engagement has highest likelihood offuliling SF1 and SF3.SF1.Objective(s)should be specific and targeted to enable clarity around delivery and SF3.The engagement approach should be bespoke (tailored)to the target company. B.Incorrect because both Factor 1 and Factor 2 are achieved with the highest likelihood level through active private engagement.Active private engagement refers to targeted and specific engagement and this form of engagement has highest likelihood of fulfiling SF1 and SF3.SF1.Objective(s)should be specific and targeted to enable clarity around delivery and SF3.The engagement approach should be bespoke (tailored)to the target company. C. Correct because both Factor 1 and Factor 2 are achieved with the highest likelihood level through active private engagement.Active private engagement refers to targeted and specific engagement and this form of engagement has the highest likelihood of fulfilling SF1 and SF3.SF1.Objective(s)should be specific and targeted to enable clarity around delivery and SF3.The engagement approach should be bespoke (tailored)to the target company."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q068",
+    "moduleId": "mock",
+    "number": 64,
+    "text": {
+      "zh": "Negative externalities:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "result from internalization of costs.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "resultinprivate costs that are higher than societal costs.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "resultin societal coststhat are not reflected in the prices of goods.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。负外部性（negative externalities）导致社会成本未反映在商品和服务的价格中。当外部性为负时，私人成本低于社会成本，导致市场失灵（market failures）。考生需理解外部性与市场效率的关系。A选项错误，成本内部化会消除而非产生负外部性。B选项错误，私人成本低于而非高于社会成本。",
+      "en": "Solution A.Incorrect because governments should tax polluters anamountequivalent to the cost of the harm incurred by others.Such a tax would yield the market outcome that would have prevailed with adequate internalisation of all costs by polluters.Internalisation refers to all measures (public or private)to ensure that externalities become reflected in the prices of commercial goods and services.Hence, internalization of costs would eliminate negative externalities. B.Incorrect because when externalities are negative,private costs are lower than societal costs,resulting in market outcomes which may not be efficient or,in other words,leading to 'market failures'. C. Correct because the term externalities refers to situations where the production or consumption of goods and services creates costs or benefits to others that are not reflected in the prices charged for them when externalities are negative,private costs are lower than societal costs leading to 'market failures'internalisation refers to all measures (public or private)to ensure that externalities become reflected in the prices of commercial goods and services."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q069",
+    "moduleId": "mock",
+    "number": 65,
+    "text": {
+      "zh": "Which of the following statements aboutESG performance attributionis most accurate?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG engagement value is easy tomeasure",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Theperformanceimpact that comes from excluding a specific sector is easy to measure",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ContinuedESG integration improves the ability to disaggregate a particular ESG driver from the broader investment decision",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。评估排除某一特定行业（如烟草）带来的业绩拖累或增强相对容易，因为可以直接比较含该行业和不含该行业的投资组合表现。A选项错误，很难证明参与计划所增加的价值，特别是考虑到参与通常需要较长时间才能见效。C选项错误，ESG越充分整合到投资过程中，越难分离特定ESG驱动因素。",
+      "en": "Solution A.Incorrect because it ishard to demonstrate the value added by a programme of engagement, particularly given the timescales usually required for engagement programmes to reach positive outcomes. B. Correct because it is relatively easy to assess the performance drag or enhancement that comes from excluding an industrial sector (such as tobacco). C.Incorrect because the more fully integrated ESG becomes into the investment process,the harder it becomes to disaggregate a particular ESG driver from the broader investment decision."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q070",
+    "moduleId": "mock",
+    "number": 66,
+    "text": {
+      "zh": "Population aging ismostlikely to:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "result in lowerhealthcareexpenditures",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "be aminor issuein the developed world",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "result in lower consumer goodsexpenditures.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。人口老龄化对社会有重大影响：老年人人均积累储蓄高于年轻人，但在消费品上支出更少，这对某些行业构成商业风险。A选项错误，人口老龄化会导致医疗支出大幅增加而非减少。B选项错误，人口老龄化是发达国家面临的重要问题而非次要问题。",
+      "en": "Solution A.Incorrect because it would resultinhigher healthcare expenditures.An ageing population has substantial effects on society.Older people have higher accumulated savings per person than younger people,but spend less on consumer goods,which is a business risk for some industries.In some categories,such as healthcare,expenditure rises sharply when populations age. B.Incorrect because population ageing is an important problem in the developed world. C. Correct because an ageing population has substantial effects on society.Older people have higher accumulated savings per person than younger people,but spend less on consumer goods,which is a business risk for some industries.In some categories,such as healthcare,expenditure rises sharply when populations age."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q071",
+    "moduleId": "mock",
+    "number": 67,
+    "text": {
+      "zh": "A company fails to manage its social factorseffectively.Which of the following financial analysis adjustments would be most appropriate?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Increase the discount rate assumption",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Increase the carbon tax rateassumption",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Decrease the potential liabilitiesassumption",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。如果公司未能妥善管理社会因素，分析师可能会提高贴现率以反映更高的风险状况。此外，分析师还可能调整收入、成本和潜在负债的估计。B选项错误，碳税率与环境因素相关而非社会因素。C选项错误，分析师应增加而非减少潜在负债假设。",
+      "en": "Solution A.Correctbecause besides specific impacts on estimates regarding future revenues,costs and potential liabilities in a company's financial analysis,analysts might decide to raise the discount rate to reflect a higher risk profile if a company does not manage social factors appropriately. B.Incorrect because carbon tax rate is related to environmental factors.Carbon taxation takes a different approach by directly setting an explicit price on GHG emissions. C.Incorrect because the analysts would increase the potential liabilities assumption.Besides specific impacts on estimates regarding future revenues,costs and potential liabilities in a company's financial analysis,analysts might decide to raise the discount rate to reflect a higher risk profile if a company does not manage social factors appropriately."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q072",
+    "moduleId": "mock",
+    "number": 68,
+    "text": {
+      "zh": "Which of the following statements is most accurate?TheParisAgreement:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "is legally bindingunderinternational law.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "requires signatories to update their commitments to reduceemissions every five years",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "defines nationally determined contributions capturing mandatoryeffortsto reduce emissions.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。国家自主贡献（NDCs）是《巴黎协定》的核心，要求每个签署国（包括发达国家和发展中国家）确定、规划和报告其NDCs，并每五年更新承诺。A选项错误，《巴黎协定》在国际法下不具有法律约束力。C选项错误，NDCs是各国有志愿努力而非强制性义务。",
+      "en": "Solution A.Incorrectbecause theParis Agreement is not legally binding under international law. B. Correct because nationally determined contributions (NDCs)are at the heart of the agreement and require every signatory(both developed and developing nations)to determine,plan and report on its NDCs,with updates to commitments every five years. C.Incorrect because nationally determined contributions (NDCs)are at the heart of the agreement. Instead of top-down imposed contributions,they capture voluntary efforts by each country to reduce national emissions and adapt to the impacts of climate change,and require every signatory (both developed and developing nations)to determine,plan and report on its NDCs,with updates to commitments every five years."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q073",
+    "moduleId": "mock",
+    "number": 69,
+    "text": {
+      "zh": "Which of the following statements is mostaccurate?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "ESG ratings have a weak correlationto those of other rating agencies;credit ratings have a weak correlation to those of other rating agencies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "ESG ratingshave a weak correlation to those of other rating agencies;credit ratings have a strong correlation to those of other rating agencies",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG ratingshave a strong correlation to those of other rating agencies;credit ratings have a strong correlation to those of other rating agencies",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。ESG评级不像债券信用评级那样高度相关，各评级机构使用的方法论差异很大。然而，信用评级机构（CRAs）的信用评级通常高度相关，因为它们评估的是相同的信用风险。考生应理解ESG评级和信用评级在一致性上的根本差异。A选项错误，信用评级是强相关。C选项错误，ESG评级不是强相关。",
+      "en": "Solution A.Incorrect because credit ratings havestrongcorrelation with each other. B. Correct because ESG ratings do not correlate like bond credit ratings,nor do agencies use the same methods of scoring.Further,currently there is limited consensus amongst investors on ESG ratings. However,this is somewhat different to CRAs,which typically have highly correlated credit ratings. C.Incorrect because ESG ratings do not have a strong correlation to each other."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q075",
+    "moduleId": "mock",
+    "number": 70,
+    "text": {
+      "zh": "Which of the followingismost likely classified as secondary ESG data?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Surveys",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "News articles",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "ESG scores byratingagencies",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。ESG评级机构的评分属于二级ESG数据（secondary ESG data），这些是通过评分或公式从一级数据源转换而来的评估结果。考生需区分一级数据（直接来源）和二级数据（经过转换的数据）。A选项错误，调查属于一级数据来源。B选项错误，新闻文章属于一级数据来源。",
+      "en": "Solution A.Incorrect becauseprimary data can be sourced from companies directly.Indirect assessment can be via a third-party source(such as Glassdoor for employee satisfaction data and scores,which are directly sourced from employee surveys). B.Incorrect because primary data can be sourced from companies directly.Alternatively,the source may be indirect,via:news articles. C. Correct becausemany ESG databases provide secondary ESG data or ratings.These are assessments transformed by a process of scoring or a formula from a primary data source. Secondary data sources typically involve transforming the primary ESG data in some way and creating new scores,assessments or ratings based on these transformations.These are available from commercial organizations,both financial and non-financial,as well as regulators,NGOs and other non-profit or charitable bodies"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q076",
+    "moduleId": "mock",
+    "number": 71,
+    "text": {
+      "zh": "Which of the following was the first to integrateESG?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Equityindices",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Passiveequityfunds",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Active-listed equityinvestments",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。资产管理人的ESG产品通常始于主动上市股票（active-listed equities），但最近已扩展到其他资产类别。指数和被动基金的ESG整合产品比主动投资晚了约20年才出现。考生应了解ESG投资在不同资产类别中的发展顺序。A和B选项错误，指数和被动基金不是最先整合ESG的。",
+      "en": "Solution A.Incorrect becauseESG offerings by asset managers generally began with active-listed equities,but recently evolved to other asset classes.The offering of indices and passive funds with ESG integration by asset managers started 20 yearsafter that of active investments. B.Incorrect because ESG offerings by asset managers generally began with active-listed equities,but recently evolved to other asset classes.The offering of indices and passive funds with ESG integration by asset managers started 20 years after that of active investments. C. Correct because ESG offerings by asset managers generally began with active-listed equities,but recently evolved to other asset classes.The offering of indices and passive funds with ESG integration by asset managers started 20 years after that of active investments"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q077",
+    "moduleId": "mock",
+    "number": 72,
+    "text": {
+      "zh": "Greenbonds are most likely defined by:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "theissuers'useof proceeds.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "theissuers'carbonemissions targets.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "criteria setby theEuropean Investment Bank.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。绿色债券是为具有积极环境和/或气候效益的项目筹集资金而创建的，大多数是'募集资金用途'（use of proceeds）型绿色债券，募集资金专用于绿色项目但由发行人整个资产负债表担保。B选项错误，绿色债券不由碳排放目标定义。C选项错误，虽然EIB发行了首只绿色债券，但绿色债券不由EIB标准定义。",
+      "en": "Solution A.Correctbecause green bonds were created to fund projects that have positive environmental and/or climate benefits.The majority are green 'use of proceeds'or asset-linked bonds.Proceeds from thesebonds are earmarked for green projects but are backed by the issuer's entire balance sheet. B.Incorrect because green bonds were created to fund projects that have positive environmental and/or climate benefits.The majority are green 'use of proceeds'or asset-linked bonds. C.Incorrect because the European Investment Bank issued the first green bond.The first green bond issuance was announced in 2007 by the European Investment Bank to raise funding for climate- related projects."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q078",
+    "moduleId": "mock",
+    "number": 73,
+    "text": {
+      "zh": "As policies onESG and financial regulationmature,regulatory requirements will most likely move from:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "mandatory to voluntary.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "implementation and reporting topolicy",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "comply or explain'to'comply and explain'.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。预计随着ESG和金融监管政策趋于成熟，越来越多的政府将从'遵守或解释'（comply or explain）转向'遵守并解释'（comply and explain），从自愿转向强制，从政策转向实施和报告。考生应掌握监管趋严的三个方向。A选项错误，趋势是从自愿转向强制。B选项错误，方向相反。",
+      "en": "Solution A.Incorrectbecause it is anticipated that as policies on ESG and financial regulation reach maturity,an increasing number of governments will recognize the importance of moving to stronger requirements, moving away from voluntary to mandatory. B.Incorrect because it is anticipated that as policies on ESG and financial regulation reach maturity,an increasing number of governments will recognize the importance of moving to stronger requirements, moving away from:policy to implementation and reporting. C. Correct because it is anticipated that as policies on ESG and financial regulation reach maturity,an increasing number of governments will recognize the importance of moving to stronger requirements, moving away from:'comply or explain'to'comply and explain';voluntary to mandatory;and policy to implementation and reporting."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q079",
+    "moduleId": "mock",
+    "number": 74,
+    "text": {
+      "zh": "Anenvironmentalobjective of the EU Taxonomy Regulation is the transition to:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "netzero.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "renewableenergy",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "acirculareconomy.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。向循环经济转型（transition to a circular economy）是EU分类法的六大环境目标之一。考生应牢记EU分类法的六大目标：气候减缓、气候适应、水资源保护、循环经济转型、污染防治、生物多样性保护。A选项错误，向净零转型不是EU分类法的环境目标。B选项错误，向可再生能源转型不是EU分类法目标。",
+      "en": "Solution A.Incorrectbecausetransition to a net zero is not one of the environmental objectives of the EU Taxonomy.The term transition to net zero is referenced in the curriculum,as follows:UNEP Finance Initiative and the Institutional Investor Group on Climate Change are developing frameworks to help benchmark investors'transition to net zero. B.Incorrect because transition to a renewable energy is not one of the environmental objectives of the EU Taxonomy.The term transition to renewable energy is an ESG opportunity referenced in the curriculum, as follows:Mapping can also be done for material opportunities (e.g.opportunity from recycling or the transition to renewable energy)as well as risks. C. Correct because transition to a circular economy is one of the six environmental objectives of the EU Taxonomy.Specifically,the Taxonomy Regulation establishes six environmental objectives:1.Climate change mitigation.2.Climate change adaptation.3.The sustainable use and protection of water and marine resources.4.The transition to a circular economy.5.Pollution prevention and control.6.The protection and restoration of biodiversity and ecosystem"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q080",
+    "moduleId": "mock",
+    "number": 75,
+    "text": {
+      "zh": "Therelativelylow correlation of ESG ratings by the various providers most likely:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "facilitatesempiricalresearch and decision making.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "motivatescompaniesto improve their ESG performance.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "resultsinESG performance not being fully reflected in corporate security prices.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。ESG评级的低相关性导致ESG表现不太可能完全反映在公司股票和债券价格中。投资者在试图识别ESG表现优异者和落后者时面临挑战，即使大量投资者偏好ESG表现，评级分歧也会分散这些偏好对资产价格的影响。A选项错误，评级分歧给实证研究带来挑战。B选项错误，分歧阻碍了公司改善ESG表现。",
+      "en": "Solution A.Incorrectbecause the divergence of ratings poses a challenge for empirical research,as using one rater versus another may alter a study's results and conclusions.Taken together,the ambiguity around ESG ratings represents a challenge for decision-makers. B.Incorrect because the divergence hampers the ambition of companies to improve their ESG performance,because they receive mixed signals from rating agencies about which actions are expected and will be valued by the market. C. Correct because ESG performance is less likely to be reflected in corporate stock and bond prices,as investors face a challenge when trying to identify outperformers and laggards.Investor tastes can influence asset prices,but only when a large enough fraction of the market holds and implements a uniform nonfinancial preference.Therefore,even if a large fraction of investors have a preference for ESG performance,the divergence of the ratings disperses the effect of these preferences on asset prices."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q081",
+    "moduleId": "mock",
+    "number": 76,
+    "text": {
+      "zh": "Whichof thefollowing is most likely considered an escalation of engagement?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Expressingconcernsthrough the investee company's advisers",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Meetingwiththe chair of the investee company to discuss the issue of concern",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Submittingaresolution and speaking at the investee company's annual general meeting",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。在股东大会上提交决议并发言属于参与升级（escalation of engagement）的形式。考生需区分正常对话和升级形式：正常对话包括额外管理会议、通过顾问表达关切、与董事长会面；升级形式包括联合干预、公开声明、提交决议等。A和B选项错误，都属于正常对话。",
+      "en": "A.Incorrect because normaldialogue with companies include:1.holding additional meetings with management specifically to discuss concerns;2.expressing concerns through the company's advisers; 3.meeting with the chair or other board members. B.Incorrectbecause normal dialogue with companies include:1.holding additional meetings with management specifically to discuss concerns;2.expressing concerns through the company's advisers; 3.meeting with the chair or other board members. C. Correct because while the first three engagements might be seen by many engagement professionals as part of a standard set of tools in normal dialogue with companies,the subsequent four will certainly be recognised as forms of escalation:1.holding additional meetings with management specifically to discuss concerns;2.expressing concerns through the company's advisers;3.meeting with the chair or other board members;4.intervening jointly with other institutions on particular issues;5.making a public statement in advance of general meetings;6.submiting resolutions and speaking at general meetings; and 7.requesting a general meeting,in some cases proposing to change board membership."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q082",
+    "moduleId": "mock",
+    "number": 77,
+    "text": {
+      "zh": "Which of the following social factorsmost likely impacts internal stakeholder groups?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Socialopportunities",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Consumerprotection",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Freedom of association",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。就业标准和劳动权利（如结社自由和保护组织权）是影响内部利益相关者（如员工）的社会因素。考生需区分影响内部和外部利益相关者的社会因素。A选项错误，社会机会（social opportunities）是影响外部利益相关者的因素。B选项错误，消费者保护也是影响外部利益相关者的因素。",
+      "en": "Solution A.Incorrect because socialopportunities are social factors that impact external stakeholders. B.Incorrect because product liability and consumer protection are social factors that impact external stakeholders. C.Correct because employment standards and labor rights are social factors that impact internal stakeholders.Labour rights -Assessing how companies uphold labour rights is important for investors to gain insights into the corporate culture and the level of employee satisfaction.The most important labour rights have been summarized in International Labour Standards.These include:freedom of association and protection of the right to organize.Internal stakeholders includes those \"such as the company's"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q085",
+    "moduleId": "mock",
+    "number": 78,
+    "text": {
+      "zh": "Which of the following mostlikely hasthe highest ESG score?A sovereign debt portfolio that:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "has a neutral weighting to emerging marketdebtand US treasuries.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "is overweight emerging market debt andunderweightUS treasuries.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "is underweight emerging market debt andoverweightUS treasuries.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。主权债务同样容易受到ESG评级扭曲效应的影响。新兴市场债务投资组合如果低配新兴市场、超配防御性持仓（如美国国债或德国国债），将获得更高的ESG评分，因为发达经济体在透明度、法治和反腐败方面标准更高。A选项错误，中性权重不够。B选项错误，超配新兴市场会降低ESG评分。",
+      "en": "Solution A.Incorrectbecause an emergingmarkets debt portfolio will benefit from a higher ESG score if it is underweight (not neutrally weighted)with emerging markets and overweight (not neutrally weighted) with defensive positions,like US treasuries or German bunds. B.Incorrect because an emerging markets debt portfolio will benefit from a higher ESG score if it is underweight (not overweight)with emerging markets and overweight (not underweight)with defensive positions,like US treasuries or German bunds. C. Correct because sovereign debt is just as susceptible to distortion effects based on ESG ratings.These will be most notable in strategies that trade in both developed and emerging economies;ESG ratings and indicators like those of the World Bank tend to be structurally lower for emerging countries relative to developed economies,which enjoy higher standards of transparency,rule of law,regulatory authority and anti-corruption.For instance,an emerging markets debt portfolio will benefit from a higher ESG score if it is underweight with emerging markets and overweight with defensive positions,like US treasuries or German bunds."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q086",
+    "moduleId": "mock",
+    "number": 79,
+    "text": {
+      "zh": "With respect to thecurrent state of ESG disclosures",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "materiality thresholds areoften inconsistent across companies in the same industry",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "reportingstandards and requirements for ESG risks and opportunities are not available.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "financial statements and sustainabilitydisclosures are usually published at the same time.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。许多投资者认为公司的ESG披露不充分，因为部分披露可能缺失、不完整、不可跨公司比较或未经审计。投资者和公司管理层在重要性阈值和应披露内容方面存在分歧。B选项错误，报告标准和要求是可用的，但缺乏真正的全球基线。C选项错误，财务报表和可持续性披露通常不同时发布。",
+      "en": "Solution A.Correctbecause many investors view companies'ESG disclosures as inadequate because some of the disclosures might be missing or they are incomplete,not comparable across companies,or unaudited. Investors and company management teams disagree about materiality thresholds and about what should be disclosed. B.Incorrect because many investors today struggle with an \"alphabet soup\"of fragmented,voluntary, sustainability-related standards and requirements.However,what is not available is a truly global baseline of sustainability disclosures. C.Incorrect because financial statements and sustainability disclosures are usually not published at the same time,as such,the new IFRS S1 standard emphasizes the need for consistency and connections between financial statements and sustainability disclosures,requiring financial statements and sustainability disclosures to be published at the same time"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q087",
+    "moduleId": "mock",
+    "number": 80,
+    "text": {
+      "zh": "Idiosyncraticexclusionsare",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "specifictoreligious investors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "baseduponuniversal conventions.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "notsupportedby global consensus.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。特殊排除（idiosyncratic exclusions）是指不受全球共识支持的排除，是投资者基于自身特定偏好设定的排除标准。考生需区分三类排除：基于信仰的排除、普遍排除（受全球规范支持）和特殊排除。A选项错误，基于信仰的排除特定于宗教投资者。B选项错误，普遍排除受全球规范和公约支持。",
+      "en": "Solution A.Incorrect because faith-based exclusionsare specific to religious institutional or individual investors\" whereas idiosyncratic exclusions are exclusions that are not supported by global consensus. B.Incorrect because universal exclusions represent exclusions supported by global norms and conventions whereas idiosyncratic exclusions are exclusions that are not supported by global consensus. C. Correct because idiosyncratic exclusions are exclusions that are not supported by global consensus"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q088",
+    "moduleId": "mock",
+    "number": 81,
+    "text": {
+      "zh": "According to the Taskforce onNature-related Financial Disclosures (TNFD),the five main drivers of nature change include:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "society",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "pollution",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "atmosphere.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。根据自然相关财务披露工作组（TNFD）的框架，自然变化的五个主要驱动因素是：气候变化、资源开发、土地和海洋利用变化、污染和外来入侵物种。考生应牢记这五大驱动因素。A选项错误，'社会'不是五大驱动因素之一。C选项错误，'大气'也不是五大驱动因素之一。",
+      "en": "Solution A.Incorrect because society is notone of the five main drivers.TNFD considers five main drivers of nature change:climate change;resource exploitation;land and sea use change;pollution;and invasive alien species. B.Correct because TNFD considers five main drivers of nature change:climate change;resource exploitation;land and sea use change;pollution;and invasive alien species. C.Incorrect because atmosphere is not one of the five main drivers.TNFD considers five main drivers of nature change:climate change;resource exploitation;land and sea use change;pollution;and invasive alien species."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q089",
+    "moduleId": "mock",
+    "number": 82,
+    "text": {
+      "zh": "Which of the following is a minimum requirementfor signatories of the Principles for Responsible Investment (PRI)?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Implementation of a responsible investment policymustbe monitored by external parties",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Senior-level commitment and accountability mechanisms for responsibleinvestment implementation must be in place",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Theinvestment policy that covers the firm's responsible investment approach must apply to all assets under management",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。PRI签署方的最低要求之一是必须建立高级别承诺和问责机制来实施负责任投资。考生应掌握PRI的三项最低要求。A选项错误，内部或外部人员均可负责实施负责任投资政策，不要求外部监督。C选项错误，投资政策需覆盖超过50%的管理资产（AUM）而非全部资产。",
+      "en": "Solution A.Incorrect because internalor external staff may be responsible for implementing responsible investment policy is the correct description of this minimum requirement. B. Correct because the three requirements include that senior-level commitment and accountability mechanisms must be in place for responsible investment implementation. C.Incorrect because it is required that the investment policy that covers the firm's responsible investment approach must cover>50%of assets under management (AUM)."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q090",
+    "moduleId": "mock",
+    "number": 83,
+    "text": {
+      "zh": "Withrespect to ESG data and research providers,the level of automation is low or medium in the approaches used by:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "traditional providers only",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "nontraditionalprovidersonly",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "bothtraditionalproviders and nontraditional providers",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。传统和非传统ESG数据及研究提供商的自动化水平都较低或中等，因为两者都仍需依赖人工判断。传统提供商起源于社会责任投资行业，主要服务大型上市公司；非传统提供商虽然技术更先进但同样依赖人工判断。A和B选项错误，两类提供商都如此。",
+      "en": "Solution A.Incorrectbecause the level of automation is low or medium in the approach of nontraditional ESG data and research providers as well.In the case of nontraditional providers,the level of automation is low or medium because human judgment is still used. B.Incorrect because the level of automation is low or medium in the approach of traditional ESG data and research providers as well.In the case of traditional providers,the level of automation is low or medium because human judgment is still used. C. Correct because traditional ESG data and research providers were founded from the socially responsible investing industry to provide investors with sustainability data and ratings on primarily large, publicly traded companies.These companies feature a level of automation that is low or medium because human judgment is still used.Similarly,in the case of nontraditional ESG data and research providers,the level of automation is low or medium because human judgment is still used."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q091",
+    "moduleId": "mock",
+    "number": 84,
+    "text": {
+      "zh": "Atthe portfolio management level,ESG integration is appropriate for which of the following investment strategies?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Systematiconly",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Discretionary only",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Bothsystematicand discretionary",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。ESG整合应结合两种不同投资策略来考虑：自由裁量策略（discretionary）和量化策略（quantitative/systematic）。自由裁量策略通常采用基本面投资组合方式，量化策略是基于规则的方法，两者都可以有效整合ESG因素。A和B选项错误，ESG整合不限于任何一种策略。",
+      "en": "Solution A.Incorrectbecause ESG integration should be considered in light of two different investment strategies: Discretionary and quantitative. B.Incorrect because ESG integration should be considered in light of two different investment strategies: Discretionary and quantitative. C. Correctbecause ESG integration should be considered in light of two different investment strategies: Discretionary ESG investment strategies most commonly take the form of a fundamental portfolio approach.A portfolio manager would work to complement bottom-up financial analysis alongside the consideration of ESG factors to reinforce the investment thesis of a particular holding.The portfolio manager would then work to understand the aggregate risk at the portfolio level across all factors to understand correlation and event risks,and potential shocks to the portfolio. Quantitative investment strategies are,broadly speaking,rules-based approaches employing the statistical application of financial and/or non-financial factors to drive securities selection.Quantitative strategies generally seek to minimise the higher costs associated with discretionary active management. Where discretionary strategies often focus on depth within a portfolio,manifested through a portfolio of few,more concentrated holdings,quantitative strategies focus on breadth,using a much larger portfolio of holdings to target risk and volatility-adjusted returns."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q092",
+    "moduleId": "mock",
+    "number": 85,
+    "text": {
+      "zh": "Diversity atboard levelmost likely increases the:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "level of financial risk taken.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "budget for research and development.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "number of policy adoptions and changes.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。研究表明董事会多元化会增加研发投入（R&D），多元化董事会倾向于投资更多资源于创新。A选项错误，多元化董事会承担更少而非更多的财务风险。C选项错误，拥有多元化董事会的公司倾向于采纳更稳定和持续的政策，而非频繁变化。",
+      "en": "Solution A.Incorrect because diverse boards takeless financialrisk. B. Correct because studies have shown that diverse boards are investing more in research and development (R&D) C.Incorrect because firms with diverse boards tend to adopt policies that are more stable and persistent."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q093",
+    "moduleId": "mock",
+    "number": 86,
+    "text": {
+      "zh": "According to theBrunel Asset Management Accord,which of the following is of limited significance in evaluating asset managers?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Short-term underperformanceby an assetmanager",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Loss of key personnelin anasset management firm",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Changein the investment style of an assetmanager",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "A选项正确。Brunel资产管理协议强调短期表现不佳本身不太可能引起客户过度担忧，投资表现（尤其是短期）在评估管理人方面重要性有限。该协议更关注投资文化和流程遵守。B选项错误，关键人员流失是可能引起担忧的问题。C选项错误，投资风格变化也是可能引起担忧的问题。",
+      "en": "Solution A.Correctbecause the document emphasises that short-term underperformance is not in itself likely to give rise to undue concern for the client.Investment performance,particularly in the short term,will be of limited significance in evaluating the Manager. B.Incorrect because issues that it identifies as likely to give rise to concerns include the loss of key personnel. C.Incorrect because issues that it identifies as likely to give rise to concerns include a change in investment style."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q094",
+    "moduleId": "mock",
+    "number": 87,
+    "text": {
+      "zh": "Themanagement gap refers to materialESG risks that a company:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "does notunderstand.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "isnot able tomanage.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "is able tomanagebut may not have yet done so",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。管理差距（management gap）是指公司可以通过适当举措管理但可能尚未管理的ESG风险。考生需区分两种未管理的实质性ESG风险：不可管理风险（无法通过公司举措解决）和管理差距（可管理但尚未管理）。A选项错误，公司可能理解这些风险。B选项错误，公司有能力管理这些风险。",
+      "en": "Solution A.Incorrectbecause for material ESG risk that has not been managed by a company,there are two types of risk:1.unmanageable risk,which cannot be addressed by company initiatives;and 2.the management gap,which represents risks that could be managed by a company through suitable initiatives but which may not yet be managed. B.Incorrect because for material ESG risk that has not been managed by a company,there are two types of risk:1.unmanageable risk,which cannot be addressed by company initiatives;and 2.the management gap,which represents risks that could be managed by a company through suitable initiatives but which may not yet be managed. C. Correct because for material ESG risk that has not been managed by a company,there are two types of risk:1.unmanageable risk,which cannot be addressed by company initiatives;and 2.the management gap,which represents risks that could be managed by a company through suitable initiatives but which may not yet be managed."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q095",
+    "moduleId": "mock",
+    "number": 88,
+    "text": {
+      "zh": "Foranenergy company,Scope 1 emissions most likely result from:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "purchasing freightservices",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "usingthecompany's vehicles.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "disposingof wasteat the company's gas stations.",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "B选项正确。对于能源公司，使用公司车辆产生的排放属于范围1（Scope 1）排放，因为这些排放在公司的直接控制之下。考生需掌握三个范围的定义：范围1是直接排放，范围2是购买能源间接排放，范围3是其他间接排放。A选项错误，购买货运服务属范围3排放。C选项错误，废物处置属范围3排放。",
+      "en": "Solution A.Incorrect because emissions arising from purchasing freightservices are Scope 3 emissions for an energy company.An energy company relies on various services produced by third parties.These third parties generate GHG in their production and operating processes and these are Scope 1 GHG for the third parties.At the same time,they represent Scope 3 emissions for the energy company. B.Correct because,for an energy company,the emissions generated from driving and using the company's vehicles are Scope 1 emissions as they are under the direct control of the company. According to GHG Protocol Standards,emissions related to company vehicles are Scope 1 emissions. While Scopes 1 and 2 cover direct emissions sources (such as the fuel used in company vehicles and purchased electricity),Scope 3 emissions cover all indirect emissions arising from the activities of an organisation, C.Incorrect because emissions arising from waste disposal processes are Scope 3 emissions for an energy company.Managing waste disposal is not an energy company's main business,nor is waste used in its operations.Thus emissions from waste disposal represent Scope 3 emissions and are not under the company's direct control."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q096",
+    "moduleId": "mock",
+    "number": 89,
+    "text": {
+      "zh": "Whichofthe following countries does not have a corporate governance code?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Japan",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The  Netherlands",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "TheUnited  States",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。自日本2015年采用公司治理准则以来，美国是唯一没有此类治理准则的主要世界市场，这主要是因为美国公司法由各州而非联邦层面制定。A选项错误，日本已在2015年采用准则。B选项错误，荷兰有公司治理准则，且倾向于'应用或解释'（apply or explain）的语言。",
+      "en": "Solution A.IncorrectbecauseJapan adopted the code in 2015.Since Japan adopted one in 2015,the USA is now the only major world market that does not have such a corporate governance code,which is largely a consequence of corporate law being set at the individual state,rather than the federal,level. B.Incorrect because the Netherlands has a corporate governance code and it favors an 'apply or explain'language.Most markets adopt the language of comply or explain',although the Netherlands favours 'apply or explain'. C. Correct because since Japan adopted one in 2015,the USA is now the only major world market that does not have such a governance code,which is largely a consequence of corporate law being set at the individual state,rather than the federal,level"
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q098",
+    "moduleId": "mock",
+    "number": 90,
+    "text": {
+      "zh": "Which of the following investment styles often usesnegative screening?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Impact investing",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Thematic investing",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Faith-based investing",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。信仰投资（faith-based investing）是指按照某些宗教或道德原则进行投资，通常使用负面筛选来避免投资于其产品和服务被视为道德上不可接受的公司。考生需区分不同投资风格使用的筛选方法。A选项错误，影响力投资（impact investing）使用正面筛选。B选项错误，主题投资（thematic investing）也使用正面筛选。",
+      "en": "Solution A.Incorrect because impact investing refers toinvestments made with the specific intent of generating positive,measurable social and/or environmental impact alongside a financial return.Therefore, impact investing uses the positive screening approach. B.Incorrect because thematic investment refers to selecting companies that fall under a sustainability- related theme,such as clean-tech,sustainable agriculture,healthcare or climate change mitigation. Therefore,thematic investing uses the positive screening approach. C. Correct because faith-based investment refers to investing in line with certain principles,often using negative screening to avoid investing in companies whose products and services are deemed morally objectionable by the investor or certain religions,international declarations,conventions and voluntary agreements."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  },
+  {
+    "id": "mock-c-q100",
+    "moduleId": "mock",
+    "number": 91,
+    "text": {
+      "zh": "Themanagement gap refers to materialESG risks that a company:",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "does notunderstand.",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "isnot able tomanage.",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "is able tomanagebut may not have yet done so",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "协会模考题",
+      "en": null
+    },
+    "explanation": {
+      "zh": "C选项正确。管理差距（management gap）是指公司可以通过适当举措管理但可能尚未管理的ESG风险。考生需区分两种未管理的实质性ESG风险：不可管理风险（无法通过公司举措解决）和管理差距（可管理但尚未管理）。A选项错误，公司可能理解这些风险。B选项错误，公司有能力管理这些风险。",
+      "en": "Solution A.Incorrectbecause for material ESG risk that has not been managed by a company,there are two types of risk:1.unmanageable risk,which cannot be addressed by company initiatives;and 2.the management gap,which represents risks that could be managed by a company through suitable initiatives but which may not yet be managed. B.Incorrect because for material ESG risk that has not been managed by a company,there are two types of risk:1.unmanageable risk,which cannot be addressed by company initiatives;and 2.the management gap,which represents risks that could be managed by a company through suitable initiatives but which may not yet be managed. C. Correct because for material ESG risk that has not been managed by a company,there are two types of risk:1.unmanageable risk,which cannot be addressed by company initiatives;and 2.the management gap,which represents risks that could be managed by a company through suitable initiatives but which may not yet be managed."
+    },
+    "source": "mock-exam",
+    "tags": [
+      "mock-c"
+    ]
+  }
+]

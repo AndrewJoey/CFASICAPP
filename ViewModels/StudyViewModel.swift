@@ -1,10 +1,19 @@
 import Foundation
 import SwiftData
+import os
 
 enum QuizMode: String, CaseIterable {
-    case sequential = "顺序"
-    case random = "随机"
-    case wrongAnswers = "仅错题"
+    case sequential
+    case random
+    case wrongAnswers
+
+    var displayName: String {
+        switch self {
+        case .sequential: "顺序"
+        case .random: "随机"
+        case .wrongAnswers: "仅错题"
+        }
+    }
 }
 
 @Observable
@@ -13,11 +22,21 @@ final class StudyViewModel {
     var currentIndex: Int = 0
     var selectedAnswer: String? = nil
     var isAnswered: Bool = false
-    var sessionResults: [(questionId: String, correct: Bool)] = []
+    var sessionResults: [(questionId: String, correct: Bool, selectedAnswer: String)] = []
     var isFinished: Bool = false
 
+    var sessionModuleId: String?
+    var sessionMode: QuizMode?
+    var sessionQuestionCount: Int?
+
+    private static let dateFormatter: DateFormatter = {
+        let f = DateFormatter()
+        f.dateFormat = "yyyy-MM-dd"
+        return f
+    }()
+
     var currentQuestion: Question? {
-        guard currentIndex < questions.count else { return nil }
+        guard currentIndex >= 0 && currentIndex < questions.count else { return nil }
         return questions[currentIndex]
     }
 
@@ -33,6 +52,13 @@ final class StudyViewModel {
     var accuracy: Double {
         guard !sessionResults.isEmpty else { return 0 }
         return Double(correctCount) / Double(sessionResults.count)
+    }
+
+    var wrongQuestionDetails: [(question: Question, selectedAnswer: String)] {
+        questions.enumerated().compactMap { index, question in
+            guard index < sessionResults.count, !sessionResults[index].correct else { return nil }
+            return (question: question, selectedAnswer: sessionResults[index].selectedAnswer)
+        }
     }
 
     func startSession(moduleId: String?, mode: QuizMode, questionCount: Int? = nil, modelContext: ModelContext) {
@@ -51,6 +77,10 @@ final class StudyViewModel {
             pool = Array(pool.prefix(count))
         }
 
+        self.sessionModuleId = moduleId
+        self.sessionMode = mode
+        self.sessionQuestionCount = questionCount
+
         questions = pool
         currentIndex = 0
         selectedAnswer = nil
@@ -59,13 +89,25 @@ final class StudyViewModel {
         isFinished = false
     }
 
+    func retrySameSession(modelContext: ModelContext) {
+        guard let mode = sessionMode else { return }
+        startSession(
+            moduleId: sessionModuleId,
+            mode: mode,
+            questionCount: sessionQuestionCount,
+            modelContext: modelContext
+        )
+    }
+
     func submitAnswer(_ answer: String, modelContext: ModelContext) {
         guard let question = currentQuestion else { return }
+        guard !isAnswered else { return } // Prevent double submission
+
         isAnswered = true
         selectedAnswer = answer
 
         let correct = answer == question.correctAnswer
-        sessionResults.append((questionId: question.id, correct: correct))
+        sessionResults.append((questionId: question.id, correct: correct, selectedAnswer: answer))
 
         if !correct {
             saveWrongAnswer(question: question, selectedAnswer: answer, modelContext: modelContext)
@@ -75,6 +117,7 @@ final class StudyViewModel {
     }
 
     func nextQuestion() {
+        guard currentIndex < questions.count else { return }
         currentIndex += 1
         selectedAnswer = nil
         isAnswered = false
@@ -115,7 +158,8 @@ final class StudyViewModel {
 
     private func saveWrongAnswer(question: Question, selectedAnswer: String, modelContext: ModelContext) {
         let id = question.id
-        let existing = fetchExistingRecord(questionId: id, modelContext: modelContext)
+        let moduleId = question.moduleId
+        let existing = fetchExistingRecord(questionId: id, moduleId: moduleId, modelContext: modelContext)
         if let existing {
             existing.selectedAnswer = selectedAnswer
             existing.timestamp = .now
@@ -130,42 +174,40 @@ final class StudyViewModel {
         }
     }
 
-    private func fetchExistingRecord(questionId: String, modelContext: ModelContext) -> WrongAnswerRecord? {
+    private func fetchExistingRecord(questionId: String, moduleId: String, modelContext: ModelContext) -> WrongAnswerRecord? {
         let descriptor = FetchDescriptor<WrongAnswerRecord>(
-            predicate: #Predicate { $0.questionId == questionId }
+            predicate: #Predicate { $0.questionId == questionId && $0.moduleId == moduleId }
         )
         return try? modelContext.fetch(descriptor).first
     }
 
     private func updateDailyRecord(correct: Bool, moduleId: String, modelContext: ModelContext) {
         let today = Calendar.current.startOfDay(for: Date())
-        let id = formattedDate(today)
+        let id = Self.dateFormatter.string(from: today)
 
         let descriptor = FetchDescriptor<StudyDayRecord>(
-            predicate: #Predicate { $0.id == id }
+            predicate: #Predicate<StudyDayRecord> { $0.id == id }
         )
 
-        if let record = try? modelContext.fetch(descriptor).first {
-            record.questionsAnswered += 1
-            if correct { record.correctCount += 1 }
-            if !record.modulesStudied.contains(moduleId) {
-                record.modulesStudied.append(moduleId)
+        do {
+            if let record = try modelContext.fetch(descriptor).first {
+                record.questionsAnswered += 1
+                if correct { record.correctCount += 1 }
+                if !record.modulesStudied.contains(moduleId) {
+                    record.modulesStudied.append(moduleId)
+                }
+            } else {
+                let record = StudyDayRecord(
+                    id: id,
+                    date: today,
+                    questionsAnswered: 1,
+                    correctCount: correct ? 1 : 0,
+                    modulesStudied: [moduleId]
+                )
+                modelContext.insert(record)
             }
-        } else {
-            let record = StudyDayRecord(
-                id: id,
-                date: today,
-                questionsAnswered: 1,
-                correctCount: correct ? 1 : 0,
-                modulesStudied: [moduleId]
-            )
-            modelContext.insert(record)
+        } catch {
+            os_log(.error, "Failed to update daily record: %{public}@", error.localizedDescription)
         }
-    }
-
-    private func formattedDate(_ date: Date) -> String {
-        let formatter = DateFormatter()
-        formatter.dateFormat = "yyyy-MM-dd"
-        return formatter.string(from: date)
     }
 }

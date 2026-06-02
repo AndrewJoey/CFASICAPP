@@ -60,6 +60,45 @@ final class DataLoader {
         modules.flatMap { questions(for: $0.id) }
     }
 
+    /// Load questions from a standalone JSON file (e.g., mock exams).
+    func questions(forFile filename: String) -> [Question] {
+        if let cached = questionsCache[filename] {
+            return cached
+        }
+        let pathURL = URL(fileURLWithPath: filename)
+        let resourceName = pathURL.deletingPathExtension().lastPathComponent
+        let ext = pathURL.pathExtension
+
+        guard let url = Bundle.main.url(forResource: resourceName, withExtension: ext),
+              let data = try? Data(contentsOf: url) else {
+            return []
+        }
+
+        let questions = (try? JSONDecoder().decode([Question].self, from: data)) ?? []
+        questionsCache[filename] = questions
+        return questions
+    }
+
+    /// Load questions filtered by tags.
+    func questions(matchingTags tags: [String]) -> [Question] {
+        allQuestions().filter { question in
+            guard let questionTags = question.tags else { return false }
+            return tags.contains(where: questionTags.contains)
+        }
+    }
+
+    /// Load questions from specific files filtered by tags.
+    func questions(fromFiles files: [String], matchingTags tags: [String]? = nil) -> [Question] {
+        let all = files.flatMap { questions(forFile: $0) }
+        if let tags {
+            return all.filter { question in
+                guard let questionTags = question.tags else { return false }
+                return tags.contains(where: questionTags.contains)
+            }
+        }
+        return all
+    }
+
     // MARK: - Notes / Content
 
     func loadMarkdown(relativePath: String) -> String? {

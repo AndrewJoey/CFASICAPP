@@ -12,6 +12,11 @@ final class WrongAnswerRecord {
     var lastReviewed: Date?
     var isMastered: Bool
 
+    // SM-2 spaced repetition fields
+    var nextReviewDate: Date
+    var easeFactor: Double
+    var intervalDays: Int
+
     init(
         id: String = UUID().uuidString,
         questionId: String,
@@ -20,7 +25,10 @@ final class WrongAnswerRecord {
         timestamp: Date = .now,
         reviewCount: Int = 0,
         lastReviewed: Date? = nil,
-        isMastered: Bool = false
+        isMastered: Bool = false,
+        nextReviewDate: Date = .now,
+        easeFactor: Double = 2.5,
+        intervalDays: Int = 1
     ) {
         self.id = id
         self.questionId = questionId
@@ -30,5 +38,8 @@ final class WrongAnswerRecord {
         self.reviewCount = reviewCount
         self.lastReviewed = lastReviewed
         self.isMastered = isMastered
+        self.nextReviewDate = nextReviewDate
+        self.easeFactor = easeFactor
+        self.intervalDays = intervalDays
     }
 }

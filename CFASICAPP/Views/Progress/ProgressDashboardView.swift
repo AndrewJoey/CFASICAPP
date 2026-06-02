@@ -5,6 +5,8 @@ import Charts
 struct ProgressDashboardView: View {
     @State private var viewModel = ProgressViewModel()
     @Environment(\.modelContext) private var modelContext
+    @State private var notificationManager = NotificationManager.shared
+    @State private var shareImage: UIImage?
 
     var body: some View {
         ScrollView {
@@ -26,10 +28,31 @@ struct ProgressDashboardView: View {
 
                 // Module progress
                 moduleProgress
+
+                // Notification toggle
+                notificationSection
             }
             .padding()
         }
         .navigationTitle("学习进度")
+        .toolbar {
+            ToolbarItem(placement: .topBarTrailing) {
+                Button {
+                    shareImage = ProgressExporter.generateShareImage(
+                        streak: viewModel.streak,
+                        totalQuestions: viewModel.totalQuestionsAnswered,
+                        accuracy: viewModel.accuracy,
+                        wrongAnswersPending: viewModel.wrongAnswerCount,
+                        masteredCount: viewModel.masteredCount
+                    )
+                } label: {
+                    Image(systemName: "square.and.arrow.up")
+                }
+            }
+        }
+        .sheet(item: $shareImage) { image in
+            ShareSheet(items: [image])
+        }
         .task {
             viewModel.load(modelContext: modelContext)
         }
@@ -53,7 +76,7 @@ struct ProgressDashboardView: View {
         .padding(.vertical, 20)
         .background(Color(.systemBackground))
         .cornerRadius(16)
-        .shadow(color: .black.opacity(0.04), radius: 8, y: 2)
+        .adaptiveShadow()
     }
 
     // MARK: - Accuracy chart
@@ -93,7 +116,7 @@ struct ProgressDashboardView: View {
         .padding()
         .background(Color(.systemBackground))
         .cornerRadius(16)
-        .shadow(color: .black.opacity(0.04), radius: 8, y: 2)
+        .adaptiveShadow()
     }
 
     // MARK: - Module progress
@@ -111,8 +134,58 @@ struct ProgressDashboardView: View {
         .padding()
         .background(Color(.systemBackground))
         .cornerRadius(16)
-        .shadow(color: .black.opacity(0.04), radius: 8, y: 2)
+        .adaptiveShadow()
     }
+
+    // MARK: - Notification
+
+    private var notificationSection: some View {
+        HStack {
+            Image(systemName: notificationManager.isAuthorized ? "bell.fill" : "bell.slash.fill")
+                .foregroundStyle(notificationManager.isAuthorized ? .orange : .secondary)
+            VStack(alignment: .leading, spacing: 2) {
+                Text("每日学习提醒")
+                    .font(.subheadline)
+                Text(notificationManager.isAuthorized ? "每天 20:00 提醒学习" : "未开启通知权限")
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
+            }
+            Spacer()
+            Toggle("", isOn: Binding(
+                get: { notificationManager.isAuthorized },
+                set: { newValue in
+                    if newValue {
+                        Task { await notificationManager.requestAuthorization() }
+                    } else {
+                        notificationManager.cancelDailyReminder()
+                    }
+                }
+            ))
+            .labelsHidden()
+        }
+        .padding()
+        .background(Color(.systemBackground))
+        .cornerRadius(16)
+        .adaptiveShadow()
+    }
+}
+
+// MARK: - Share Sheet (UIActivityViewController wrapper)
+
+private struct ShareSheet: UIViewControllerRepresentable {
+    let items: [Any]
+
+    func makeUIViewController(context: Context) -> UIActivityViewController {
+        UIActivityViewController(activityItems: items, applicationActivities: nil)
+    }
+
+    func updateUIViewController(_ vc: UIActivityViewController, context: Context) {}
+}
+
+// MARK: - UIImage Identifiable conformance for .sheet(item:)
+
+extension UIImage: @retroactive Identifiable {
+    public var id: Int { hash }
 }
 
 private struct StatCard: View {
@@ -137,7 +210,7 @@ private struct StatCard: View {
         .padding(.vertical, 16)
         .background(Color(.systemBackground))
         .cornerRadius(12)
-        .shadow(color: .black.opacity(0.04), radius: 6, y: 2)
+        .adaptiveShadow(radius: 6)
     }
 }
 

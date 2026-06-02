@@ -42,7 +42,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG筛选仅用于选择或排除特定公司，而ESG整合是将ESG因素全面纳入投资决策过程，包括筛选、估值和风险管理等环节。选项B错误，筛选和整合都可以是主动或被动策略。选项C错误，两者都涵盖E、S、G三个维度。选项D错误，两者都适用于多种资产类别。",
+      "en": "ESG screening is used only to select or exclude companies, while ESG integration incorporates ESG factors into all investment decisions including screening, valuation, and risk management. B is incorrect because both can be active or passive. C is incorrect because both cover E, S, and G. D is incorrect because both apply to multiple asset classes."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -89,7 +92,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "过度依赖ESG评级的关键风险在于评级可能未反映特定行业的重要ESG因素，导致组合风险错配。选项A错误，ESG评级的波动性不是主要风险。选项C过于绝对，评级并非总是不准确。选项D错误，ESG评级覆盖各种规模的公司。",
+      "en": "The key risk of over-reliance on ESG ratings is that they may not reflect material ESG factors for specific industries, leading to misaligned portfolio risk. A is incorrect because volatility is not the primary risk. C is too extreme. D is incorrect because ESG ratings cover companies of all sizes."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -136,7 +142,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "价值投资者整合ESG因素时，最可能超额配置ESG表现强劲但被市场低估的公司，这符合价值投资的核心理念。选项B是排他性筛选，不符合价值投资策略。选项C忽视估值，不是价值投资方法。选项D是被动指数跟踪策略。",
+      "en": "A value investor integrating ESG would most likely overweight companies with strong ESG performance that are undervalued by the market, consistent with value investing principles. B is negative screening, not value investing. C ignores valuation. D is a passive index-tracking strategy."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -183,7 +192,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "当组合为提升ESG表现而偏离指数权重时，可能会增加跟踪误差。选项A错误，ESG整合不可能完全消除跟踪误差，因为主动管理总会产生偏离。选项C错误，ESG指数与传统指数在成分和权重上存在差异。选项D错误，ESG指数不一定比传统指数更稳定，其波动性取决于具体成分股。",
+      "en": "When a portfolio deviates from the index to enhance ESG performance, it may increase tracking error. A is incorrect because ESG integration cannot eliminate tracking error entirely. C is incorrect because ESG indices differ from traditional ones in composition and weights. D is incorrect because ESG indices are not necessarily more stable."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -230,7 +242,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "调整组合权重以降低高气候转型风险公司的敞口，是ESG整合在风险管理中的典型应用。选项A仅计算平均ESG评级是监控活动而非风险管理。选项C排除公司是筛选策略而非整合。选项D与管理层互动是股东参与活动，不属于风险管理范畴。",
+      "en": "Adjusting portfolio weights to reduce exposure to companies with high climate transition risk is a typical example of ESG integration in risk management. A (calculating average ESG rating) is monitoring, not risk management. C (excluding companies) is a screening strategy. D (engaging with management) is shareholder engagement, not risk management."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -277,7 +292,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "情景分析用于评估组合在不同ESG相关情景（如严厉气候监管或ESG丑闻）下的潜在表现。选项A错误，情景分析的目的不是精确预测未来，而是评估风险敞口。选项C错误，它是对传统风险工具的补充而非替代。选项D错误，情景分析不用于计算ESG评级。",
+      "en": "Scenario analysis assesses how the portfolio would perform under different ESG-related scenarios such as severe climate regulation or ESG scandals. A is incorrect as it does not aim to predict exact outcomes. C is incorrect as it complements, not replaces, traditional risk tools. D is incorrect as it does not calculate ESG ratings."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -324,7 +342,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "员工离职率（组合加权平均）是衡量社会风险敞口的最相关指标，反映公司的人力资源管理和社会责任状况。选项A碳强度衡量的是环境风险敞口。选项B独立董事比例衡量的是治理风险敞口。选项D ESG alpha衡量的是ESG因素对超额收益的贡献，不直接反映社会风险。",
+      "en": "Portfolio-weighted average employee turnover rate is the most relevant metric for assessing social risk exposure, reflecting human resource management and social responsibility. A (carbon intensity) measures environmental risk. B (board independence) measures governance risk. D (ESG alpha) measures ESG contribution to excess returns, not social risk directly."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -371,7 +392,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG绩效评估的关键挑战在于缺乏标准化的衡量方法论，不同机构使用不同方法导致结果难以比较。选项A错误，ESG绩效难以量化和比较。选项C错误，ESG与财务绩效存在相关性。选项D错误，不同资产类别需要不同的ESG指标。",
+      "en": "The key challenge is the lack of standard methodology for measuring ESG portfolio performance, making comparisons difficult. A is incorrect because ESG performance is hard to quantify. C is incorrect because ESG and financial performance are correlated. D is incorrect because different asset classes require different metrics."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -418,7 +442,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG整合在组合再平衡中的关键是维护组合的目标ESG敞口水平，如平均ESG评级或碳强度目标。选项A仅关注财务偏离基准，未考虑ESG目标。选项C设定固定的年度再平衡周期过于僵化，无法应对ESG变化。选项D忽视财务影响而仅根据ESG阈值排除公司过于极端。",
+      "en": "ESG integration in rebalancing focuses on maintaining the portfolio's target ESG exposure, such as average ESG rating or carbon intensity targets. A only considers financial deviation from benchmark. C (fixed annual rebalancing) is too rigid. D (excluding based solely on ESG thresholds) ignores financial impact and is too extreme."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -465,7 +492,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG因子投资以最小偏离指数的方式实施，仅在因子权重上做轻微调整，因此相对于传统市值加权指数的跟踪误差最低。选项A最佳类别筛选会在行业内替换公司，产生一定偏离。选项B排除整个行业会产生较大偏离。选项D影响投资集中在小众主题，偏离更大。",
+      "en": "ESG factor investing with minimal deviations from the index has the lowest tracking error, as it only makes slight adjustments to factor weights. A (best-in-class) has some deviation from replacing companies within industries. B (sector exclusion) creates larger deviation. D (impact investing) focuses on niche themes with greater deviation."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -512,7 +542,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "提交股东提案要求改善气候披露是超越简单对话互动的投资者管理权行使方式，代表了更积极的治理参与。选项A投票反对ESG改善的股东决议与管理权行使目标相悖。选项C排除公司是筛选策略，不是管理权行使。选项D计算碳强度是分析活动，与管理权行使无关。",
+      "en": "Filing a shareholder proposal to require improved climate disclosures is stewardship beyond simple dialogue engagement, representing more active governance participation. A (voting against ESG resolutions) contradicts stewardship goals. C (excluding companies) is a screening strategy. D (calculating carbon intensity) is an analytical activity unrelated to stewardhip."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -559,7 +592,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG整合可能增加管理成本，因为需要购买ESG数据服务、聘请ESG专业人才，以及因ESG驱动的再平衡而产生潜在的更高交易成本。选项A错误，ESG整合不是总能降低成本。选项C错误，ESG整合需要额外的工具和数据支持。选项D表述过于绝对。",
+      "en": "ESG integration can increase costs due to ESG data fees, specialized expertise, and potential higher transaction costs from ESG-driven rebalancing. A is incorrect as it does not always reduce costs. C is incorrect as additional tools and data are needed. D is too absolute."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -606,7 +642,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG整合将ESG因素纳入核心投资决策，而ESG叠加是在不改变核心决策的情况下调整现有组合以满足ESG目标。选项B错误，两者都可用于多种资产类别。选项C错误，两者都可以是主动或被动的。选项D错误，两者都可包含排除和纳入。",
+      "en": "ESG integration incorporates ESG factors into core investment decisions, while ESG overlay adjusts an existing portfolio to meet ESG goals without changing core decisions. B is incorrect as both apply to multiple asset classes. C is incorrect as both can be active or passive. D is incorrect as both can include exclusion and inclusion."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -653,7 +692,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "调整现有标普500组合以排除ESG评级低于阈值的公司，是ESG叠加策略的典型例子，在不改变核心投资策略的情况下施加ESG约束。选项A从头构建组合属于ESG整合策略。选项C将ESG因素纳入估值模型属于ESG整合。选项D与管理层互动是股东参与活动。",
+      "en": "Adjusting an existing S&P 500 portfolio by excluding companies with ESG ratings below a threshold is a typical ESG overlay strategy, imposing ESG constraints without changing the core investment strategy. A (building from scratch) is ESG integration. C (incorporating ESG into valuation) is ESG integration. D (engaging with management) is shareholder engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -700,7 +742,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "组合加权平均独立董事比例是衡量治理风险敞口的最相关指标，反映公司治理结构的质量和独立监督能力。选项A碳强度衡量的是环境风险敞口。选项C员工离职率衡量的是社会风险敞口。选项D ESG alpha衡量的是ESG因素对超额收益的贡献，不直接反映治理风险。",
+      "en": "Portfolio-weighted average board independence ratio is the most relevant metric for governance risk exposure, reflecting the quality of corporate governance and independent oversight. A (carbon intensity) measures environmental risk. C (employee turnover) measures social risk. D (ESG alpha) measures ESG contribution to returns, not governance risk directly."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -747,7 +792,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "选择ESG基准的关键考虑是基准应与组合的ESG投资策略（如最佳类别筛选、负面筛选）和资产配置保持一致，以确保有效的绩效比较。选项A仅追求最高ESG评级忽视了策略匹配。选项C使用无ESG整合的传统指数无法反映ESG目标。选项D仅包含大盘股无法反映组合的实际持仓。",
+      "en": "The key consideration is that the benchmark should align with the portfolio's ESG strategy (e.g., best-in-class, negative screening) and asset allocation for effective performance comparison. A (highest ESG rating only) ignores strategy alignment. C (traditional index) does not reflect ESG goals. D (large-cap only) does not reflect actual holdings."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -794,7 +842,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG整合可以通过降低对高ESG风险公司的敞口来在市场下行期间跑赢传统组合，因为这些公司更容易受到ESG相关事件的冲击。选项A表述过于绝对，ESG组合并非总能跑赢。选项C同样过于绝对。选项D错误，ESG因素在市场危机中往往变得更加重要。",
+      "en": "ESG integration can outperform during downturns by reducing exposure to companies with high ESG risks that are more vulnerable to ESG-related shocks. A is too absolute as ESG portfolios do not always outperform. C is also too absolute. D is incorrect because ESG factors often become more important during market crises."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -841,7 +892,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG叠加策略的主要优势是允许投资者在不改变核心投资策略和决策流程的情况下满足ESG目标，提供了灵活性。选项A错误，叠加策略不能替代核心ESG整合。选项C错误，叠加不一定比核心整合更经济。选项D错误，叠加策略不一定带来更高的财务回报。",
+      "en": "The key benefit of ESG overlay strategies is allowing investors to meet ESG goals without changing their core investment strategy, providing flexibility. A is incorrect as overlay cannot replace core ESG integration. C is incorrect as overlay is not necessarily more cost-effective. D is incorrect as overlay does not guarantee higher financial returns."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -888,7 +942,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "最佳类别筛选配合广泛的行业敞口适合低风险承受能力的投资者，因为它在保持行业多样性的同时选择ESG表现最好的公司。选项A小盘可再生能源公司波动性大、风险高。选项C排除多个行业会降低分散化程度。选项D小众私募资产流动性差、风险高且估值不透明。",
+      "en": "Best-in-class screening with broad sector exposure suits a low-risk-tolerance investor by maintaining sector diversity while selecting top ESG performers. A (small-cap renewable energy) is highly volatile. C (excluding multiple sectors) reduces diversification. D (niche private equity) has low liquidity, high risk, and opaque valuation."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -935,7 +992,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG数据提供商的角色是为投资者提供标准化的ESG数据和评级，支持投资决策过程，而非代替投资者做出投资决策。选项A错误，数据提供商不直接做投资决策。选项C错误，他们不替代组合经理的角色。选项D错误，他们不能保证ESG组合一定跑赢传统组合。",
+      "en": "ESG data providers provide standardized ESG data and ratings to support investor decision-making, not to make decisions on behalf of investors. A is incorrect as they do not make investment decisions. C is incorrect as they do not replace portfolio managers. D is incorrect as they cannot guarantee outperformance."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -982,7 +1042,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG叠加策略的关键局限在于它仅对现有组合进行边际调整而非从头构建，因此可能无法完全实现投资者的ESG目标和价值观。选项A错误，叠加策略的实施并不特别复杂。选项C错误，叠加策略不仅适用于大型机构投资者。选项D错误，叠加策略仍需要定期再平衡。",
+      "en": "The key limitation is that ESG overlay only makes marginal adjustments to the existing portfolio rather than building from scratch, which may not fully achieve ESG goals. A is incorrect as overlay is not overly complex. C is not limited to large institutions. D is incorrect as rebalancing is still needed."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1029,7 +1092,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG alpha是衡量ESG因素对超额收益贡献的最相关指标，直接反映了ESG整合对投资回报的影响。选项A组合平均ESG评级仅衡量ESG表现水平。选项C碳强度衡量环境风险敞口。选项D夏普比率衡量整体风险调整后收益，但不专门针对ESG因素的贡献。",
+      "en": "ESG alpha is the most relevant metric for measuring ESG factors' contribution to excess returns, directly reflecting the impact of ESG integration on investment returns. A (average ESG rating) measures ESG level. C (carbon intensity) measures environmental risk. D (Sharpe ratio) is not ESG-specific."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1076,7 +1142,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者通过使用前瞻性ESG指标和情景分析来补充滞后的ESG历史数据，以更好地捕捉ESG风险和机会的变化趋势。选项A错误，不应忽视ESG数据。选项C仅使用一个月内的数据过于武断且不现实。选项D错误，ESG数据不能被财务数据简单替代。",
+      "en": "Investors address ESG data lag by using forward-looking ESG metrics and scenario analysis to complement historical data, better capturing ESG risk and opportunity trends. A is incorrect as ESG data should not be ignored. C is too arbitrary. D is incorrect as ESG data cannot be simply replaced by financial data."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1123,7 +1192,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "评估被投公司的ESG实践并与管理层合作改善这些实践，是私募股权ESG整合的典型做法，体现了积极所有权的理念。选项A排除所有有ESG风险的私募基金过于极端，会大幅限制投资机会。选项C仅投资最高ESG评级的基金忽视了回报目标。选项D完全忽视ESG因素不符合现代投资标准。",
+      "en": "Assessing ESG practices of portfolio companies and working with management to improve them is typical ESG integration in private equity, reflecting active ownership. A (excluding all PE funds with ESG risks) is too extreme. C (investing only in highest-rated funds) ignores return objectives. D (ignoring ESG) does not meet modern investment standards."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1170,7 +1242,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG整合是负责任投资的一个子集，后者是更广泛的概念框架，包括负面筛选、正面筛选、股东参与和影响投资等多种策略。选项B颠倒了两者的关系。选项C错误，两者都涵盖环境、社会和治理三个维度。选项D错误，两者都可以是主动或被动的投资策略。",
+      "en": "ESG integration is a subset of responsible investing, which is a broader framework including negative screening, positive screening, engagement, and impact investing. B reverses the relationship. C is incorrect as both cover E, S, and G dimensions. D is incorrect as both can be active or passive strategies."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1217,7 +1292,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "过度强调ESG因素可能导致牺牲财务回报，这是ESG整合的关键风险，投资者需要在ESG目标和财务目标之间取得平衡。选项A错误，ESG因素对长期组合绩效确实具有重要影响。选项C过于绝对，ESG整合不能消除所有风险。选项D错误，ESG整合涉及复杂的分析和决策过程。",
+      "en": "Overemphasis on ESG factors may lead to sacrificing financial returns, which is a key risk requiring balance between ESG and financial goals. A is incorrect as ESG factors are material to long-term performance. C is too absolute as ESG integration cannot eliminate all risks. D is incorrect as ESG integration involves complex analysis."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1264,7 +1342,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "碳强度（组合加权平均）是衡量环境风险敞口的最相关指标，直接反映组合对气候变化和碳排放相关风险的暴露程度。选项A组合平均ESG评级是涵盖E、S、G的综合指标。选项C独立董事比例衡量的是治理风险。选项D员工离职率衡量的是社会风险。",
+      "en": "Portfolio-weighted average carbon intensity is the most relevant metric for environmental risk exposure, directly reflecting exposure to climate change and carbon emission risks. A (average ESG rating) is a composite metric covering E, S, and G. C (board independence) measures governance risk. D (employee turnover) measures social risk."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1311,7 +1392,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "组合分散化可以降低特异性ESG风险（与个别公司相关的风险），但无法降低系统性ESG风险（影响整个市场的风险，如气候变化政策）。选项A过于绝对，分散化不能消除所有风险。选项C错误，分散化对特异性风险确实有效。选项D错误，分散化降低而非增加风险。",
+      "en": "Diversification reduces idiosyncratic ESG risks (company-specific) but not systemic ESG risks (market-wide, such as climate policy). A is too absolute. C is incorrect as diversification is effective for idiosyncratic risk. D is incorrect as diversification reduces, not increases, risk."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1358,7 +1442,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "评估物业的能源效率和气候韧性以评估长期租金收入和资产价值，是房地产ESG整合的典型做法。选项A仅投资LEED认证绿色建筑忽视了位置和租金收入等关键因素。选项C排除所有商业地产过于极端。选项D错误，ESG因素对房地产回报有重要影响。",
+      "en": "Assessing energy efficiency and climate resilience to evaluate long-term rental income and asset value is typical ESG integration in real estate. A (LEED-only) ignores location and income. C (excluding all commercial) is too extreme. D is incorrect as ESG factors significantly impact real estate returns."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1405,7 +1492,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG整合可以通过降低对高ESG风险公司的敞口来降低组合波动性，因为这些公司通常面临更多不确定性，股价波动更大。选项A表述过于绝对，ESG整合并非总能降低波动性。选项C同样过于绝对。选项D错误，ESG因素确实会影响资产价格和波动性。",
+      "en": "ESG integration can reduce volatility by reducing exposure to high ESG risk companies that typically face more uncertainty and larger price swings. A is too absolute as ESG integration does not always reduce volatility. C is also too absolute. D is incorrect as ESG factors do affect asset prices and volatility."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1452,7 +1542,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG绩效报告的关键组成部分是同时报告财务绩效和ESG绩效指标，并解释ESG因素如何影响收益，提供全面的绩效画面。选项A仅报告财务绩效忽视了ESG维度。选项C仅报告ESG绩效忽视了财务维度。选项D报告ESG绩效但缺乏背景解释无法帮助利益相关者理解。",
+      "en": "A key component is reporting both financial and ESG performance metrics with an explanation of how ESG factors impacted returns, providing a comprehensive performance picture. A (financial only) ignores ESG dimension. C (ESG only) ignores financial dimension. D (ESG without context) fails to help stakeholders understand."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1499,7 +1592,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "跟踪使用ESG筛选或整合规则的ESG指数是被动投资者整合ESG因素的最合适策略，因为它以规则化、低成本的方式实现ESG暴露。选项A主动参与需要大量资源，不适合被动投资者。选项C频繁再平衡的因子投资是主动策略。选项D影响投资通常需要深度参与，是主动策略。",
+      "en": "Tracking an ESG index with screening or integration rules is the most suitable strategy for passive investors, achieving ESG exposure in a rules-based, low-cost manner. A (active engagement) requires significant resources. C (frequent rebalancing) is an active strategy. D (impact investing) typically requires deep involvement and is active."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1546,7 +1642,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "私募公司的ESG数据通常有限或不一致，因为它们不像上市公司那样有强制披露要求，这是ESG整合在私募股权中的关键挑战。选项A错误，私募公司确实面临ESG风险。选项C错误，私募投资者通常对被投公司有较大影响力。选项D错误，ESG因素确实影响私募基金的回报。",
+      "en": "ESG data for private companies is often limited or inconsistent due to lack of mandatory disclosure requirements, which is a key challenge in PE. A is incorrect as PE companies have ESG risks. C is incorrect as PE investors typically have significant influence. D is incorrect as ESG factors do impact PE returns."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1593,7 +1692,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG因素在组合优化模型中作为约束条件（如最低平均ESG评级）或目标函数（如最小化碳强度）被纳入。选项A错误，ESG因素不应被忽略。选项C错误，ESG因素不替代财务因素。选项D错误，ESG因素不仅用于筛选。",
+      "en": "ESG factors are incorporated as constraints (e.g., minimum average ESG rating) or objectives (e.g., minimizing carbon intensity) in optimization models. A is incorrect as ESG should not be ignored. C is incorrect as ESG does not replace financial factors. D is incorrect as ESG is not only for screening."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1640,7 +1742,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "要求所有建筑达到新能效标准的监管变化是影响房地产组合的系统性ESG风险，因为它影响整个市场而非单一资产。选项A霉菌问题是单个建筑的特有风险。选项C租户违约是公司特定风险。选项D单一物业评级下降是个别风险。",
+      "en": "A regulatory change requiring all buildings to meet new energy efficiency standards is a systemic ESG risk for real estate because it affects the entire market, not just individual assets. A (mold infestation) is idiosyncratic to one building. C (tenant default) is company-specific. D (single property rating decline) is individual risk."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1687,7 +1792,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG风险调整后收益是比较不同ESG策略组合的最有用指标，因为它同时考虑了ESG表现和财务回报，提供了综合的绩效评估。选项A仅衡量ESG水平，不考虑回报。选项C仅衡量环境风险敞口。选项D仅统计强ESG评级公司数量，缺乏深度分析。",
+      "en": "ESG risk-adjusted return is the most useful metric for comparing portfolios with different ESG strategies, as it considers both ESG performance and financial returns. A only measures ESG level without considering returns. C only measures environmental risk exposure. D only counts companies without depth."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1734,7 +1842,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者参与通过鼓励被投公司改善ESG实践和降低ESG相关风险来降低组合风险，是积极所有权的核心体现。选项A错误，参与通常不会增加风险，反而能降低ESG相关风险。选项C错误，大量证据表明参与可以改变公司行为。选项D错误，ESG因素与财务因素是互补而非对立的关系。",
+      "en": "Investor engagement reduces risk by encouraging companies to improve ESG practices and reduce ESG-related risks, reflecting active ownership. A is incorrect as engagement typically reduces rather than increases risk. C is incorrect as evidence shows engagement can change behavior. D is incorrect as ESG and financial factors are complementary."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1781,7 +1892,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG组合治理的关键原则是确保ESG整合过程和绩效报告的透明度，使利益相关者能够理解和评估ESG策略的实施情况。选项A错误，不应将ESG绩效置于财务绩效之上。选项C排除所有有ESG风险的公司过于极端。选项D不应完全依赖第三方数据提供商做投资决策。",
+      "en": "A key principle is ensuring transparency in ESG integration processes and performance reporting, enabling stakeholders to understand and evaluate ESG strategy implementation. A is incorrect as ESG should not be prioritized over financials. C (excluding all ESG-risk companies) is too extreme. D should not rely solely on data providers."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1828,7 +1942,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "对高ESG监管风险行业（如化石燃料、烟草）的公司进行负面筛选是降低监管风险的最有效策略，直接减少对监管敏感行业的敞口。选项A主题投资（可再生能源）可能增加特定监管风险敞口。选项C最佳类别筛选仍保留高监管风险行业的部分敞口。选项D影响力投资通常涉及小众私人资产，监管风险影响有限。",
+      "en": "Negative screening of companies in highly regulated ESG sectors (e.g., fossil fuels, tobacco) most effectively minimizes regulatory risk by directly reducing exposure to regulation-sensitive industries. A (renewable energy theme) may increase regulatory exposure. C (best-in-class) still retains partial exposure. D (impact investing) involves niche assets with limited regulatory risk."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1875,7 +1992,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG因子投资关注特定ESG因子（如碳效率、性别多样性）的表现，而最佳类别筛选在每个行业中选择ESG评级最高的公司，两者的选择逻辑不同。选项B错误，两者都可以是主动或被动策略。选项C错误，因子投资是基于特定因子的权重调整而非排除。选项D错误，两者都可用于多种资产类别。",
+      "en": "ESG factor investing focuses on specific ESG factors (e.g., carbon efficiency, gender diversity), while best-in-class selects top ESG-rated companies in each industry. B is incorrect as both can be active or passive. C is incorrect as factor investing adjusts weights, not excludes. D is incorrect as both apply to multiple asset classes."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1922,7 +2042,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "组合平均ESG评级的局限在于它不考虑持仓的相对规模差异，大持仓的低ESG评级对组合整体评级的影响远大于小持仓的高评级。选项A错误，计算方法并不复杂。选项C错误，该指标可以在不同组合间进行比较。选项D错误，它涵盖环境、社会和治理三个维度。",
+      "en": "The limitation is that portfolio average ESG rating does not account for holding size—a large holding with a low rating has a bigger impact than a small holding with a high rating. A is incorrect as calculation is not complex. C is incorrect as it is comparable. D is incorrect as it covers E, S, and G."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1969,7 +2092,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "分析ESG数据以评估组合风险和绩效是组合经理最可能执行的核心活动，将ESG洞察转化为投资决策。选项A收集第三方ESG数据是数据提供商的工作。选项C创建ESG评级是评级机构的专业工作。选项D代表投资者提交股东提案通常是专门团队或代理顾问的工作。",
+      "en": "Analyzing ESG data to assess portfolio risk and performance is the core activity most likely performed by a portfolio manager, translating ESG insights into investment decisions. A (collecting data) is the role of data providers. C (creating ratings) is the work of rating agencies. D (filing proposals) is typically handled by specialized teams."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2016,7 +2142,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG整合越来越被认为是履行受托责任所必需的，因为ESG因素对长期回报具有重要影响，忽视ESG风险可能损害客户利益。选项A错误，ESG整合对受托责任有直接影响。选项C错误，适当的ESG整合不违反受托责任。选项D错误，ESG整合不仅限于公共部门机构投资者。",
+      "en": "ESG integration is increasingly required to meet fiduciary duty, as ESG factors are material to long-term returns and ignoring ESG risks may harm client interests. A is incorrect as ESG integration directly impacts fiduciary duty. C is incorrect as proper ESG integration does not breach fiduciary duty. D is not limited to public sector."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2063,7 +2192,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "将ESG因素纳入组合构建的主要目标是通过纳入非财务风险和机会因素来增强组合的长期韧性和风险调整后收益。选项A过于绝对，ESG整合不能消除所有财务风险。选项C仅关注最高ESG评级公司而忽视财务绩效不符合投资目标。选项D错误，ESG整合补充而非替代传统分散化策略。",
+      "en": "The primary goal is to enhance long-term portfolio resilience and risk-adjusted returns by incorporating non-financial risks and opportunities. A is too absolute as ESG cannot eliminate all financial risks. C (focusing only on highest-rated companies) ignores financial performance. D is incorrect as ESG integration complements, not replaces, diversification."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2110,7 +2242,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "负面筛选排除ESG表现差的公司，而正面筛选选择ESG表现强的公司，这是两种筛选方法的核心区别。选项B错误，两种方法都可涵盖环境、社会和治理三个维度。选项C错误，两种方法都可用于股票、固定收益等多种资产类别。选项D错误，两种方法都可采用主动或被动策略。",
+      "en": "Negative screening excludes companies with poor ESG performance, while positive screening selects those with strong ESG performance. B is incorrect as both cover E, S, and G. C is incorrect as both apply to multiple asset classes. D is incorrect as both can be active or passive."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2157,7 +2292,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "选择每个行业中ESG评级最强的前20%公司是最典型的最佳类别筛选方法，在保持行业多样性的同时提升组合的整体ESG水平。选项A排除整个化石燃料行业是负面筛选策略。选项C将ESG因素纳入折现率是估值层面的ESG整合。选项D与管理层互动是股东参与活动。",
+      "en": "Selecting the top 20% of companies with the strongest ESG ratings in each industry is the most typical best-in-class approach, enhancing ESG while maintaining sector diversity. A (excluding fossil fuels) is negative screening. C (ESG in discount rate) is valuation integration. D (engaging with management) is shareholder engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2204,7 +2342,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG整合通过纳入与传统财务因素相关性较低的非财务因素来增强组合的分散化效果，提供额外的风险分散维度。选项A描述的是负面筛选对分散化的影响而非ESG整合。选项C错误，ESG因素与财务绩效的相关性并非很高。选项D错误，ESG整合补充而非替代传统分散化策略。",
+      "en": "ESG integration enhances diversification by incorporating non-financial factors with low correlation to traditional financial factors. A describes negative screening's impact. C is incorrect as ESG factors are not highly correlated with financials. D is incorrect as ESG integration complements diversification."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2251,7 +2392,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "根据发行人的ESG相关信用风险调整债券估值，是固定收益组合ESG整合的典型做法，将ESG因素纳入信用分析框架。选项A排除ESG评级低于阈值的债券是负面筛选策略。选项C仅投资绿色债券忽视收益率不是整合方法。选项D错误，ESG因素对固定收益回报有重要影响。",
+      "en": "Adjusting bond valuations based on the issuer's ESG-related credit risk is typical ESG integration in fixed-income, incorporating ESG into credit analysis. A is negative screening. C (green bonds only) ignores yield. D is incorrect as ESG factors significantly impact fixed-income returns."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2298,7 +2442,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "将ESG分数作为约束条件或目标函数纳入均值-方差优化模型，是最直接整合ESG因素的组合优化技术。选项B朴素分散化不涉及数学优化过程。选项C市值加权方法不做任何ESG调整。选项D仅关注价值和成长因子的投资方法不涉及ESG因素。",
+      "en": "Mean-variance optimization with ESG scores as constraints or objectives most directly incorporates ESG factors. B (naive diversification) does not involve optimization. C (market-cap weighting) has no ESG adjustment. D (value and growth factors only) does not involve ESG."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2345,7 +2492,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG数据通常不一致、噪声大或不完整，导致优化结果不可靠，这是使用ESG因子进行组合优化的主要挑战。选项A错误，ESG数据并不太标准化。选项B错误，ESG因素对组合绩效很重要。选项D错误，模型的可及性不是主要挑战。",
+      "en": "ESG data is often inconsistent, noisy, or incomplete, leading to unreliable optimization results. A is incorrect as ESG data is not too standardized. B is incorrect as ESG factors are material. D is incorrect as model accessibility is not the primary challenge."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2392,7 +2542,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG因子投资涉及投资于在特定ESG因子上得分高的公司，如碳效率或性别多样性。选项B错误，ESG因子不替代传统因子。选项C错误，因子投资是基于选择而非排除。选项D错误，ESG因子投资适用于多种资产类别。",
+      "en": "ESG factor investing involves investing in companies that score high on specific ESG factors (e.g., carbon efficiency, gender diversity). B is incorrect as ESG factors do not replace traditional factors. C is incorrect as factor investing is selection-based, not exclusion. D is incorrect as it applies to multiple asset classes."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2439,7 +2592,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "跟踪使用ESG筛选或整合规则的ESG指数是被动投资者最可能使用的策略，以规则化、低成本的方式实现ESG暴露。选项A主动ESG整合需要持续的研究和决策。选项B主题投资通常集中在特定领域，不是典型的被动策略。选项D股东参与是典型的主动策略。",
+      "en": "ESG index tracking with ESG screening or integration rules is the strategy most likely used by passive investors, achieving ESG exposure in a rules-based, low-cost manner. A (active integration) requires ongoing research. B (themed investing) is concentrated, not typically passive. D (engagement) is a clearly active strategy."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2486,7 +2642,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG整合会增加再平衡频率，因为ESG评级和因素会随时间变化，如监管变化和公司ESG实践改善。选项A错误，ESG因素变化不一定比财务因素慢。选项C错误，ESG因素不是静态的。选项D错误，ESG组合不能自动调整。",
+      "en": "ESG integration increases rebalancing frequency because ESG ratings and factors can change over time due to regulatory changes and evolving company ESG practices. A is incorrect as ESG factors do not necessarily change slower. C is incorrect as ESG factors are not static. D is incorrect as ESG portfolios are not self-adjusting."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2533,7 +2692,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG主题组合的关键风险是集中风险，因为组合聚焦于少数特定公司或行业（如可再生能源），可能导致分散化不足。选项A低相关性实际上可能有助于整体组合分散化。选项C数据缺乏虽然存在但不是主题投资的主要风险。选项D高流动性通常被视为优势而非风险。",
+      "en": "The key risk of ESG-themed portfolios is concentration risk, as the portfolio focuses on a narrow set of companies or sectors (e.g., renewable energy), potentially leading to insufficient diversification. A (low correlation) could help diversification. C (data gaps) is not the primary risk. D (high liquidity) is typically an advantage."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2580,7 +2742,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "另类资产的ESG整合涉及评估影响资产长期价值的ESG因素，如房地产的气候风险和私募的劳动实践。选项A错误，另类资产有ESG风险。选项C错误，应涵盖E、S、G。选项D错误，另类资产的ESG整合与公开市场不同。",
+      "en": "ESG integration in alternative assets involves assessing ESG factors that impact long-term value, such as climate risk for real estate and labor practices for private equity. A is incorrect as alternative assets have ESG risks. C is incorrect as it should cover E, S, and G. D is incorrect as integration differs from public markets."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2627,7 +2792,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "组合平均ESG评级是评估组合整体ESG绩效的关键指标，提供了组合ESG表现的综合概览。选项A夏普比率衡量的是风险调整后财务收益，不是ESG指标。选项C贝塔衡量的是相对于市场的系统性风险。选项D投资回报率衡量的是财务回报，不涉及ESG维度。",
+      "en": "Portfolio average ESG rating is a key metric for evaluating overall ESG performance, providing a comprehensive overview of the portfolio's ESG profile. A (Sharpe ratio) measures risk-adjusted financial returns, not ESG. C (beta) measures systematic risk relative to market. D (ROI) measures financial returns without ESG dimensions."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2674,7 +2842,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "通过将ESG整合组合的绩效与未整合ESG因素的传统基准进行比较，投资者可以量化ESG整合对组合绩效的影响。选项A仅比较ESG评级与财务回报不能反映因果关系。选项C仅关注ESG评级而忽视财务绩效不完整。选项D仅衡量ESG敞口不衡量实际影响。",
+      "en": "By comparing the ESG-integrated portfolio's performance to a traditional benchmark without ESG integration, investors can quantify the impact of ESG integration. A (comparing ESG rating to returns) does not reflect causation. C (ESG rating only) is incomplete. D (exposure only) does not measure actual impact."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2721,7 +2892,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "组合平均ESG评级的主要局限是未考虑ESG因素对不同行业的重要性差异，例如碳排放对能源行业比对科技行业更为重要。选项A错误，计算并不复杂。选项C错误，该指标可在组合间进行比较。选项D错误，它涵盖环境、社会和治理三个维度。",
+      "en": "The key limitation of portfolio average ESG rating is that it does not account for materiality differences across industries — carbon emissions are more material to energy than to tech. A is incorrect as calculation is not complex. C is incorrect as it is comparable across portfolios. D is incorrect as it covers E, S, and G."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2768,7 +2942,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG alpha是唯一同时结合财务和ESG表现的指标，衡量ESG因素对投资组合超额收益的贡献程度。选项B组合平均ESG评级仅衡量ESG表现水平，不涉及财务回报。选项C夏普比率衡量整体风险调整后收益，但不专门针对ESG因素。选项D ESG风险分数仅衡量ESG风险敞口。",
+      "en": "ESG alpha is the only metric that combines both financial and ESG performance, measuring the contribution of ESG factors to portfolio excess returns. B (average ESG rating) measures ESG level only, not financial returns. C (Sharpe ratio) is not ESG-specific. D (ESG risk score) only measures ESG risk exposure."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2815,7 +2992,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者参与的主要目标是通过影响公司管理层改善ESG实践来提升组合价值，这是积极所有权理念的核心体现。选项A卖出持仓是退出策略而非参与目标。选项C参与不能替代ESG筛选，两者互补。选项D排除表现差的公司是负面筛选策略。",
+      "en": "The primary goal of engagement is to influence company management to improve ESG practices, thereby enhancing portfolio value — the core of active ownership. A (selling holdings) is an exit strategy, not engagement. C (replacing screening) is incorrect as they are complementary. D (excluding underperformers) is negative screening."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2862,7 +3042,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投票支持股东决议以改善公司气候披露是主动投资者参与的典型例子，行使股东权利推动公司改善ESG实践。选项B排除公司是筛选策略而非参与。选项C跟踪ESG指数是被动投资策略。选项D计算组合ESG评级是分析活动，不涉及与公司的互动。",
+      "en": "Voting in favor of a shareholder resolution to improve climate disclosures is typical active investor engagement, exercising shareholder rights to improve ESG practices. B (excluding companies) is screening. C (tracking ESG index) is passive investing. D (calculating ESG rating) is analysis, not engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2909,7 +3092,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者参与的关键挑战在于其成本高昂且耗时，需要大量研究、对话和跟踪工作，对大多数投资者而言资源有限难以充分投入。选项B过于绝对，许多公司愿意参与ESG对话。选项C错误，证据表明参与可以改变公司行为。选项D错误，个人投资者也可通过代理投票等方式参与。",
+      "en": "A key challenge of engagement is that it is costly and time-consuming, requiring extensive research, dialogue, and follow-up that most investors lack resources for. B is too absolute as many companies are willing to engage. C is incorrect as evidence shows engagement can change behavior. D is incorrect as individual investors can engage through proxy voting."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2956,7 +3142,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "管理权行使是指持续监控和参与被投公司以确保它们维持或改善ESG实践的受托活动，是积极所有权的核心。选项A描述的是ESG筛选过程。选项C描述的是组合再平衡过程。选项D描述的是ESG绩效评估和基准比较过程。",
+      "en": "Stewardship is the ongoing monitoring and engagement with portfolio companies to ensure they maintain or improve ESG practices, reflecting active ownership. A describes the screening process. C describes the rebalancing process. D describes the performance evaluation and benchmarking process."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3003,7 +3192,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "碳强度（每单位收入的CO2排放吨数）是衡量组合气候相关风险敞口的最相关指标，直接反映组合对碳排放风险的暴露程度。选项A组合平均ESG评级是涵盖E、S、G的综合指标，不专门反映气候风险。选项C ESG alpha衡量ESG因素对超额收益的贡献。选项D夏普比率衡量整体风险调整后收益。",
+      "en": "Carbon intensity (tons of CO2 per revenue unit) is the most relevant metric for climate-related risk exposure. A (average ESG rating) is a composite ESG metric, not specific to climate risk. C (ESG alpha) measures ESG contribution to returns. D (Sharpe ratio) measures overall risk-adjusted returns."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3050,7 +3242,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG整合通过系统性降低对高ESG风险公司（如面临监管、声誉或气候风险的公司）的敞口来管理组合风险。选项A过于绝对，ESG整合不能消除所有非财务风险。选项C错误，不应忽视财务风险而仅关注ESG表现。选项D错误，ESG指标补充而非替代传统风险管理工具。",
+      "en": "ESG integration manages portfolio risk by systematically reducing exposure to companies with high ESG risks (regulatory, reputational, climate). A is too absolute as ESG integration cannot eliminate all non-financial risks. C is incorrect as financial risk should not be ignored. D is incorrect as ESG metrics complement, not replace, traditional tools."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3097,7 +3292,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "对所有能源公司征收碳税的监管变化是系统性ESG风险的典型例子，因为它影响整个行业并波及多个组合持仓。选项A罢工是单个公司的特有风险。选项C环境违规指控是公司特定风险。选项D单一持仓ESG评级下降是个别风险。",
+      "en": "A regulatory change imposing carbon taxes on all energy companies is a systemic ESG risk because it affects an entire industry and multiple portfolio holdings. A (labor strike) is idiosyncratic to one company. C (environmental violation accusation) is company-specific. D (single holding rating decline) is individual risk."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3144,7 +3342,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG风险聚合是指将个别公司的ESG风险汇总以评估组合整体的ESG风险敞口，帮助投资者了解组合层面的风险集中度。选项A仅计算平均ESG评级不涉及风险聚合。选项C排除高风险公司是筛选策略。选项D将组合ESG风险与基准比较是比较分析。",
+      "en": "ESG risk aggregation combines individual company ESG risks to assess overall portfolio ESG risk exposure, helping investors understand risk concentration at the portfolio level. A (average ESG rating) is not risk aggregation. C (excluding high-risk companies) is screening. D (comparing to benchmark) is comparative analysis."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3191,7 +3392,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG风险通常相互关联且难以隔离，例如气候变化风险可能同时影响环境、社会和治理维度，这是ESG风险管理的关键挑战。选项A错误，ESG风险对组合绩效具有重要影响。选项B错误，ESG风险难以精确量化和管理。选项D错误，ESG风险管理需要深厚的专业知识。",
+      "en": "ESG risks are often interconnected and difficult to isolate, e.g., climate risk affects E, S, and G simultaneously, which is a key challenge. A is incorrect as ESG risks are material. B is incorrect as they are hard to quantify. D is incorrect as specialized expertise is needed."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3238,7 +3442,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "排除违反国际人权标准的公司是基于规范的负面筛选的典型例子，依据国际准则和标准来设定排除门槛。选项B选择各行业ESG评级最高的公司是最佳类别筛选。选项C根据ESG因子分数调整组合权重是因子投资。选项D与公司互动改善ESG实践是股东参与。",
+      "en": "Excluding companies that violate international human rights standards is typical norms-based negative screening, using international norms and standards as exclusion criteria. B (selecting top-rated companies) is best-in-class. C (adjusting weights by ESG scores) is factor investing. D (engaging to improve practices) is engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3285,7 +3492,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG整合将ESG因素纳入以提升财务回报，而影响投资同时追求财务回报和可衡量的ESG影响。选项A错误，影响投资并非只关注ESG影响。选项C错误，两者都可以是主动或被动的。选项D错误，两者都可用于公开和私募市场。",
+      "en": "ESG integration incorporates ESG factors to enhance financial returns, while impact investing seeks both financial returns and measurable ESG impact. A is incorrect as impact investing is not solely focused on ESG impact. C is incorrect as both can be active or passive. D is incorrect as both apply to public and private markets."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3332,7 +3542,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资于为可再生能源项目融资的绿色债券基金是影响投资的典型例子，追求可衡量的环境影响和财务回报。选项B排除烟草公司是负面筛选策略。选项C跟踪使用最佳类别筛选的ESG指数是被动ESG投资。选项D计算组合碳强度是分析活动，不是投资策略。",
+      "en": "Investing in a green bond fund financing renewable energy projects is typical impact investing, seeking measurable environmental impact alongside financial returns. B (excluding tobacco) is negative screening. C (tracking best-in-class ESG index) is passive ESG investing. D (calculating carbon intensity) is analysis, not an investment strategy."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3379,7 +3592,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "构建ESG整合组合时，关键考虑是在满足客户特定ESG偏好（如避免化石燃料）的同时维持风险调整后收益目标，实现ESG与财务的平衡。选项A忽视客户偏好违背了客户至上原则。选项C仅根据ESG偏好排除公司可能严重损害分散化。选项D限制策略选择过于片面。",
+      "en": "The key consideration is aligning the portfolio's ESG strategy with client preferences while maintaining risk-adjusted return targets, balancing ESG and financial goals. A (ignoring preferences) violates client-first principle. C (excluding based solely on preferences) may harm diversification. D (passive only) is too limiting."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3426,7 +3642,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG数据在组合构建和管理中的作用是提供财务数据可能无法捕捉的非财务风险和机会的洞察，帮助投资者做出更全面的投资决策。选项A错误，ESG数据补充而非替代财务数据。选项C错误，ESG数据可用于估值和风险管理等多个环节。选项D错误，ESG因素对组合绩效有重要影响。",
+      "en": "ESG data provides insights into non-financial risks and opportunities that financial data may not capture, enabling more comprehensive investment decisions. A is incorrect as ESG data complements, not replaces, financial data. C is incorrect as ESG data is used for valuation and risk management too. D is incorrect as ESG factors significantly impact portfolio performance."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3473,7 +3692,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "负面筛选（行业排除）通过排除整个ESG表现差的行业（如化石燃料、烟草），可以实现最高的ESG表现，但同时会降低组合分散化程度。选项A最佳类别筛选ESG表现相对温和，分散化较好。选项C ESG因子投资ESG表现不如负面筛选极端。选项D影响力投资通常针对小众领域，ESG表现高但规模有限。",
+      "en": "Negative screening (sector exclusion) achieves the highest ESG performance by excluding entire industries with poor ESG practices, but reduces diversification. A (best-in-class) has moderate ESG performance with better diversification. C (ESG factor investing) is less extreme. D (impact investing) targets niche areas with limited scale."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3520,7 +3742,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "使用多家提供商的ESG评级可以通过交叉验证评级并理解方法论差异来提高ESG分析的稳健性，帮助投资者获得更全面的ESG评估。选项A错误，多来源评级反而增强可靠性而非降低。选项B错误，不同提供商的评级可能存在差异，不能完全确认相同结果。选项D错误，合理整合多来源评级有助于降低而非增加组合风险。",
+      "en": "Using ESG ratings from multiple providers improves robustness by cross-verifying ratings and understanding methodological differences, enabling a more comprehensive ESG assessment. A is incorrect as multiple sources enhance, not reduce, reliability. B is incorrect as providers may disagree. D is incorrect as integrating multiple sources reduces, not increases, portfolio risk."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3567,7 +3792,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "组合经理的关键职责是将ESG因素纳入组合构建、风险管理和绩效评估的各个方面，确保ESG整合贯穿整个投资过程。选项A追求最高ESG评级而忽视财务绩效不符合投资目标。选项C排除所有有ESG风险的公司过于极端。选项D不应完全依赖数据提供商做投资决策。",
+      "en": "A key responsibility is integrating ESG factors into all aspects of portfolio construction, risk management, and performance evaluation. A (highest ESG rating) ignores financial performance. C (excluding all ESG risks) is too extreme. D should not rely solely on data providers for investment decisions."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3614,7 +3842,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "如果组合聚焦于小众ESG主题或小盘公司，ESG整合可能降低流动性，因为这些资产的交易量和市场深度有限。选项A过于绝对，ESG整合并非总能降低流动性。选项C过于绝对。选项D错误，ESG因素可以影响资产的流动性特征。",
+      "en": "ESG integration can reduce liquidity if the portfolio focuses on niche ESG themes or small-cap companies with limited trading volume and market depth. A is too absolute. C is too absolute. D is incorrect as ESG factors can affect asset liquidity characteristics."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3661,7 +3892,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "根据不同资产类别的ESG风险特征调整配置（如减少高碳行业配置、增加绿色债券配置）是多资产组合ESG整合的典型做法。选项A忽视固定收益和另类资产类别不完整。选项C过于极端。选项D忽视了不同资产类别的独特特征和ESG数据差异。",
+      "en": "Adjusting allocation based on ESG risk profiles of different asset classes (e.g., reducing high-carbon, adding green bonds) is typical multi-asset ESG integration. A ignores other asset classes. C is too extreme. D ignores unique characteristics and ESG data differences across asset classes."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3708,7 +3942,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "不同资产类别有不同的ESG风险特征和数据可用性，使整合不一致，这是多资产组合ESG整合的关键挑战。选项A错误，ESG数据不限于股票。选项C错误，多资产组合也需要ESG整合。选项D错误，ESG整合对多资产组合并非过于简单。",
+      "en": "Different asset classes have different ESG risk profiles and data availability, making integration inconsistent. A is incorrect as ESG data is not limited to equities. C is incorrect as multi-asset portfolios also need ESG integration. D is incorrect as ESG integration is not too simple for multi-asset."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3755,7 +3992,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG风险调整后收益（如ESG调整后的夏普比率）是比较不同资产配置ESG组合的最有用指标，因为它同时考虑了ESG表现和风险调整后回报。选项A仅衡量ESG水平不考虑回报。选项C仅衡量环境风险敞口。选项D仅统计强ESG评级公司数量缺乏分析深度。",
+      "en": "ESG risk-adjusted return (e.g., ESG-adjusted Sharpe ratio) is the most useful metric for comparing ESG portfolios with different allocations, considering both ESG and risk-adjusted returns. A measures ESG level only. C measures environmental risk only. D counts companies without analytical depth."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3802,7 +4042,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者参与可以通过降低ESG风险和为被投公司发掘ESG机会来改善长期组合绩效，是积极所有权的核心价值。选项A过于绝对，参与并不总能改善绩效。选项C错误，证据表明参与可以有效改变公司行为。选项D错误，参与的长期收益通常超过相关成本。",
+      "en": "Engagement can improve long-term performance by reducing ESG risks and unlocking ESG opportunities for portfolio companies. A is too absolute. C is incorrect as evidence shows engagement can change behavior. D is incorrect as long-term benefits typically outweigh costs."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3849,7 +4092,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "建立明确的ESG政策和指南是ESG组合治理的关键组成部分，为投资团队提供一致的ESG整合框架和决策依据。选项A选择最高ESG评级公司是组合构建活动。选项C计算碳强度是ESG分析活动。选项D就ESG问题与管理层互动是股东参与活动。",
+      "en": "Establishing clear ESG policies and guidelines is a key component of ESG portfolio governance, providing a consistent framework for ESG integration. A (selecting highest-rated companies) is portfolio construction. C (calculating carbon intensity) is ESG analysis. D (engaging on ESG issues) is shareholder engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3896,7 +4142,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG政策在组合管理中的作用是为一致的ESG整合提供框架，并确保与投资者目标保持一致，指导投资团队的ESG决策过程。选项A错误，ESG政策对组合绩效有重要影响。选项C错误，ESG政策补充而非替代传统组合管理政策。选项D错误，ESG政策涵盖筛选、整合、参与等多种活动。",
+      "en": "The role of ESG policies is to provide a framework for consistent ESG integration and ensure alignment with investor goals, guiding the investment team's ESG decision-making. A is incorrect as ESG policies significantly impact performance. C is incorrect as ESG policies complement, not replace, traditional policies. D is incorrect as ESG policies cover screening, integration, engagement, and more."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3943,7 +4192,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "最佳类别筛选适合希望平衡ESG绩效与广泛市场敞口的投资者，因为它在每个行业中选择ESG表现最好的公司，保持行业多样性。选项A排除整个行业会减少市场敞口。选项C主题投资过于集中在特定领域。选项D影响投资通常是小众和集中的策略。",
+      "en": "Best-in-class screening suits investors balancing ESG performance with broad market exposure by selecting top ESG performers within each industry, maintaining sector diversity. A (sector exclusion) reduces market exposure. C (themed investing) is concentrated. D (impact investing) is typically niche and concentrated."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3990,7 +4242,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "根据公司的ESG分数和财务表现调整其在组合中的权重，是股票组合ESG整合的典型做法，将ESG因素与传统分析相结合。选项A仅投资完美ESG评级的公司过于极端。选项C排除整个能源行业是负面筛选策略。选项D完全忽视ESG因素仅关注财务比率不符合ESG整合理念。",
+      "en": "Adjusting company weights based on ESG scores and financial performance is typical ESG integration in equity portfolios, combining ESG factors with traditional analysis. A (only perfect ESG) is too extreme. C (excluding entire energy sector) is negative screening. D (ignoring ESG entirely) contradicts ESG integration."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4037,7 +4292,10 @@
       "zh": "*7.ESG整合的组合构建与管理",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG筛选仅用于选择或排除公司，而ESG整合将ESG因素全面纳入所有投资决策，包括筛选、估值和风险管理。选项B错误，两者都可以是主动或被动的。选项C错误，两者都涵盖E、S、G。选项D错误，两者适用于多种资产类别。",
+      "en": "ESG screening selects or excludes companies, while ESG integration incorporates ESG factors into all investment decisions including screening, valuation, and risk management. B is incorrect as both can be active or passive. C is incorrect as both cover E, S, and G. D is incorrect as both apply to multiple asset classes."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4084,7 +4342,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "TCFD的关键要求是披露气候相关风险和机会如何被识别、评估和管理，涵盖治理、战略、风险管理及指标和目标四个支柱。选项A仅报告碳强度过于局限。选项C错误，应向所有利益相关者披露而非仅监管机构。选项D错误，TCFD要求定量指标和定性描述相结合。",
+      "en": "A key TCFD requirement is disclosing how climate-related risks and opportunities are identified, assessed, and managed across four pillars: governance, strategy, risk management, and metrics/targets. A (carbon intensity only) is too narrow. C is incorrect as disclosure should be to all stakeholders. D is incorrect as TCFD requires both quantitative and qualitative."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4131,7 +4392,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "情景分析用于评估组合在不同ESG相关情景下的潜在表现，帮助投资者理解极端事件对组合的影响。选项A错误，情景分析不能精确预测未来绩效。选项C错误，它是对传统财务分析的补充而非替代。选项D错误，情景分析不用于计算组合的平均ESG评级。",
+      "en": "Scenario analysis assesses how the portfolio would perform under different ESG-related scenarios, helping investors understand the impact of extreme events. A is incorrect as it cannot predict exact future performance. C is incorrect as it complements, not replaces, traditional analysis. D is incorrect as it does not calculate average ESG ratings."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4178,7 +4442,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "客户常见担忧是ESG整合会降低组合分散化，因为ESG筛选可能排除某些行业或公司，这需要在沟通中充分解释ESG整合的实际影响。选项A过于绝对，ESG组合并非总能跑赢传统组合。选项C错误，ESG数据并非总是准确一致的。选项D错误，ESG投资适合所有类型的投资者。",
+      "en": "A common client concern is that ESG integration will reduce diversification due to screening, which needs to be addressed by explaining the actual impact. A is too absolute. C is incorrect as ESG data is not always accurate or consistent. D is incorrect as ESG investing is suitable for all investor types."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4225,7 +4492,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "与被投公司管理层合作实施ESG最佳实践和改善ESG信息披露，是私募股权ESG管理权行使的典型例子。选项A排除所有有ESG风险的私募基金过于极端。选项C仅关注财务回报忽视ESG因素不符合现代投资标准。选项D跟踪公开市场ESG指数不适用于私募股权组合。",
+      "en": "Engaging with portfolio company management to implement ESG best practices and improve disclosure is typical ESG stewardship for private equity. A (excluding all PE funds with ESG risks) is too extreme. C (financial returns only) does not meet modern standards. D (tracking public ESG index) is not applicable to PE."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4272,7 +4542,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "基准比较的目的是将组合的ESG绩效与相关ESG基准或同行群体进行比较，以评估ESG策略的相对有效性。选项A错误，基准比较不能确定未来的ESG绩效。选项C错误，基准比较是ESG分析的组成部分，不替代归因分析。选项D仅计算碳强度过于局限。",
+      "en": "Benchmarking compares the portfolio's ESG performance to a relevant ESG benchmark or peer group to assess the relative effectiveness of the ESG strategy. A is incorrect as benchmarking cannot determine future performance. C is incorrect as it does not replace attribution analysis. D (carbon intensity only) is too narrow."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4319,7 +4592,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG客户报告的关键挑战是将ESG报告内容与客户特定的ESG目标和偏好保持一致，因为不同客户可能关注不同的ESG维度。选项A错误，客户通常对ESG信息了解不足而非过多。选项C错误，ESG指标通常复杂且需要专业解释。选项D错误，目前缺乏统一的ESG报告标准。",
+      "en": "A key challenge is aligning ESG reporting with client-specific ESG goals and preferences, as different clients may focus on different ESG dimensions. A is incorrect as clients typically lack, not have excess, ESG information. C is incorrect as ESG metrics are complex. D is incorrect as there is no unified ESG reporting standard."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4366,7 +4642,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG管理权行使是主动和协作性的，通常通过建设性对话进行，而股东行动主义往往是对抗性的，专注于特定要求或变革。选项B错误，两者都适用于不同类型的投资者。选项C错误，两者都关注ESG因素。选项D错误，两者都可以是主动的投资行为。",
+      "en": "ESG stewardship is proactive and collaborative through constructive dialogue, while shareholder activism is often confrontational with specific demands. B is incorrect as both apply to different investor types. C is incorrect as both focus on ESG factors. D is incorrect as both can be active."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4413,7 +4692,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "组合加权平均供应链人权审计是评估与人权相关的社会风险敞口的最有用指标，直接反映组合公司在人权方面的实践水平。选项A碳强度衡量环境风险。选项C独立董事比例衡量治理风险。选项D ESG alpha衡量ESG因素对超额收益的贡献。",
+      "en": "Portfolio-weighted average of supply chain human rights audits is the most useful metric for assessing social risk related to human rights. A (carbon intensity) measures environmental risk. C (board independence) measures governance risk. D (ESG alpha) measures ESG contribution to returns."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4460,7 +4742,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "当ESG绩效低于预期时，最佳实践是对表现不佳保持透明，清楚解释导致不佳表现的原因，并概述具体的改进措施和时间表。选项A隐瞒表现不佳会严重损害客户信任。选项C推卸责任给数据提供商不当。选项D更改基准使表现看起来更好是不道德的行为。",
+      "en": "When ESG performance is below expectations, best practice is being transparent, explaining the reasons for underperformance, and outlining specific improvement measures. A (hiding underperformance) damages trust. C (blaming data providers) is inappropriate. D (changing benchmark) is unethical."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4507,7 +4792,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "评估ESG因素对债券发行人信用风险的影响是固定收益组合ESG分析的关键组成部分，因为ESG因素可能影响违约风险和信用利差。选项B计算股票ESG评级不适用于固定收益。选项C仅关注债券收益率忽视ESG因素不完整。选项D跟踪股票ESG指数不适用于固定收益组合。",
+      "en": "Assessing the credit risk impact of ESG factors on bond issuers is a key component, as ESG factors may affect default risk and credit spreads. B (equity ESG rating) is not applicable to fixed income. C (yield only) ignores ESG factors. D (tracking equity ESG index) is not applicable to fixed income."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4554,7 +4842,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG管理权行使是受托责任的关键组成部分，因为它通过主动管理ESG风险来帮助保护和提升长期客户价值。选项A错误，管理权行使对履行受托责任越来越重要。选项C错误，管理权行使与受托责任密切相关。选项D错误，适当的管理权行使不违反受托责任。",
+      "en": "ESG stewardship is a key part of fiduciary duty, as it helps protect and enhance long-term client value through active ESG risk management. A is incorrect as stewardship is increasingly important. C is incorrect as they are closely related. D is incorrect as proper stewardship does not breach fiduciary duty."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4601,7 +4892,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "高管薪酬与ESG绩效挂钩是影响ESG管理权行使效果的治理因素，因为它通过激励机制促使管理层重视ESG目标。选项A碳排放是环境因素。选项C供应链劳动实践是社会因素。选项D员工流失率是社会因素。",
+      "en": "Executive compensation tied to ESG performance is a governance factor that impacts stewardship effectiveness because it incentivizes management to prioritize ESG goals. A (carbon emissions) is an environmental factor. C (supply chain labor practices) is a social factor. D (employee turnover rate) is a social factor."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4648,7 +4942,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG alpha是评估ESG整合对财务收益影响的最有用指标，衡量ESG因素带来的超额收益贡献。选项A组合平均ESG评级衡量的是ESG表现水平而非对收益的影响。选项C碳强度衡量的是环境风险敞口。选项D独立董事比例衡量的是治理风险敞口。",
+      "en": "ESG alpha is the most useful metric for assessing the impact of ESG integration on financial returns, measuring excess return contribution from ESG factors. A (average ESG rating) measures ESG level, not return impact. C (carbon intensity) measures environmental risk exposure. D (board independence) measures governance risk exposure."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4695,7 +4992,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "EU分类法的关键披露要求是报告组合中投资于环境可持续经济活动的比例，帮助投资者了解组合的绿色程度。选项A仅报告ESG评级过于局限。选项C错误，应向所有客户而非仅机构客户披露。选项D错误，分类法要求具体的定量披露。",
+      "en": "The EU Taxonomy requires disclosing the proportion of the portfolio invested in environmentally sustainable economic activities, helping investors understand the portfolio's green alignment. A (ESG rating only) is too narrow. C is incorrect as disclosure should be to all clients. D is incorrect as quantitative disclosure is required."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4742,7 +5042,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "上市公司的ESG管理权行使侧重于代理投票和股东大会参与，而私人公司的管理权行使侧重于直接与管理层沟通互动。选项A错误，管理权行使对上市公司和私人公司都相关。选项C错误，私人公司的管理权行使通常更加积极而非被动。选项D错误，两者都涵盖E、S、G三个维度。",
+      "en": "ESG stewardship for public companies focuses on proxy voting and shareholder meetings, while for private companies it focuses on direct management engagement. A is incorrect as stewardship is relevant for both. C is incorrect as PE stewardship is typically more active, not passive. D is incorrect as both cover E, S, and G."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4789,7 +5092,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "房地产ESG指标（如能源效率、用水效率、废物管理）在不同物业间难以标准化比较，因为物业类型、地理位置和建筑年代差异很大。选项A错误，房地产确实面临ESG风险。选项B错误，不同数据提供商的数据并不一致。选项D错误，房地产组合同样需要ESG分析。",
+      "en": "ESG metrics for real estate (e.g., energy efficiency) are difficult to compare across properties due to differences in property type, location, and building age. A is incorrect as real estate has ESG risks. B is incorrect as data is inconsistent across providers. D is incorrect as real estate requires ESG analysis."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4836,7 +5142,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "教育客户ESG组合可能仍会经历短期损失，但长期来看对ESG相关风险更有韧性，是管理客户期望的最佳方式。选项A承诺ESG组合不会亏损是误导性陈述。选项C隐瞒损失严重违反职业道德。选项D建议客户在市场下跌时卖出ESG投资是短视行为。",
+      "en": "Educating clients that ESG portfolios may still experience short-term losses but are more resilient to ESG-related risks long-term is the best approach. A (promising no losses) is misleading. C (hiding losses) violates ethics. D (selling during downturns) is short-sighted."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4883,7 +5192,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "一组投资者签署联名信要求公司管理层改善ESG实践，是协作性管理权行使的典型例子，通过集体力量增强影响力。选项A单个投资者与公司互动是单独参与而非协作。选项C排除公司是筛选策略而非管理权行使。选项D投票反对ESG股东决议与管理权行使目标相悖。",
+      "en": "A group of investors signing a joint letter requesting improved ESG practices is typical collaborative stewardship, leveraging collective influence. A (individual engagement) is not collaborative. C (excluding companies) is screening. D (voting against ESG resolutions) contradicts stewardship goals."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4930,7 +5242,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "组合加权平均碳强度（范围1和2排放）是评估能源行业转型气候风险敞口的最有用指标，反映公司对低碳转型的暴露程度。选项A对洪水易发地区资产的敞口衡量的是物理气候风险。选项C员工离职率衡量的是社会风险。选项D独立董事比例衡量的是治理风险。",
+      "en": "Portfolio-weighted average carbon intensity (Scope 1 and 2) is the most useful metric for assessing transition climate risk in the energy sector. A (flood-prone area exposure) measures physical climate risk. C (employee turnover) measures social risk. D (board independence) measures governance risk."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4977,7 +5292,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "UN PRI下的最佳实践是披露公司的ESG管理权行使活动及其结果，展示投资者如何积极履行ESG责任。选项A仅报告ESG绩效忽视财务绩效不完整。选项C使用模糊语言无法让利益相关者了解实际行动。选项D每两年报告一次频率太低，无法及时反映管理权行使进展。",
+      "en": "Under UN PRI, best practice is disclosing ESG stewardship activities and their outcomes, demonstrating active ESG responsibility. A (ESG only) ignores financial performance. C (vague language) fails to communicate actions. D (every two years) is too infrequent to reflect stewardship progress."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5024,7 +5342,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG数据在客户报告中的作用是提供组合ESG风险和绩效的透明度，帮助客户了解ESG整合的实际效果。选项A错误，ESG数据补充而非替代财务数据。选项C错误，越来越多的客户关注ESG因素。选项D错误，ESG数据有实质性的投资意义而非仅作装饰。",
+      "en": "ESG data in client reporting provides transparency on ESG risks and performance, helping clients understand the actual effects of ESG integration. A is incorrect as ESG data complements, not replaces, financial data. C is incorrect as more clients care about ESG. D is incorrect as ESG data has substantive investment significance."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5071,7 +5392,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "机构投资者在ESG管理权行使中面临的关键挑战是在管理权行使活动与其他投资职责之间取得平衡，时间和资源有限是主要制约因素。选项A错误，机构投资者对被投公司具有影响力。选项C错误，ESG管理权行使是机构投资者的重要责任。选项D错误，机构投资者负有ESG相关的受信义务。",
+      "en": "A key challenge for institutional investors in ESG stewardship is balancing stewardship activities with other investment responsibilities, as time and resources are limited. A is incorrect as institutional investors do have influence. C is incorrect as stewardship is an important responsibility. D is incorrect as institutional investors have ESG-related fiduciary duties."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5118,7 +5442,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "加权平均ESG评级考虑各持仓的市值权重，大持仓对整体评级影响更大；非加权平均则平等对待所有持仓，不考虑规模差异。选项B错误，两种方法都适用于权益和固定收益组合。选项C错误，两者都涵盖E、S、G三个维度。选项D错误，两种方法的计算难度相当。",
+      "en": "Weighted average ESG rating considers portfolio weights, so larger holdings have more impact; unweighted average treats all holdings equally regardless of size. B is incorrect as both methods apply to equity and fixed-income. C is incorrect as both cover E, S, and G. D is incorrect as both are similarly easy to calculate."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5165,7 +5492,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "对ESG相关股东决议进行投票并与公司管理层就ESG问题进行互动，是上市公司股票组合ESG管理权行使的典型做法。选项A排除ESG评级低于阈值的公司是排除策略。选项C仅关注股价忽视ESG因素不符合管理权行使理念。选项D跟踪固定收益ESG指数不适用于股票组合。",
+      "en": "Voting on ESG-related shareholder resolutions and engaging with company management is typical ESG stewardship for public equity. A (excluding low-rated companies) is exclusion strategy. C (stock price only) contradicts stewardship. D (tracking fixed-income ESG index) is not applicable to equity portfolios."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5212,7 +5542,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "客户反馈在ESG报告中的作用是帮助定制报告内容以满足客户的具体需求和偏好，提高报告的相关性和实用性。选项A错误，客户反馈对改进ESG报告非常重要。选项C错误，反馈不仅用于解释表现不佳。选项D错误，忽视客户反馈会导致报告失去针对性。",
+      "en": "Client feedback helps tailor ESG reports to meet specific client needs and preferences, improving report relevance and utility. A is incorrect as feedback is very important. C is incorrect as feedback is not only for explaining underperformance. D is incorrect as ignoring feedback reduces report relevance."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5259,7 +5592,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "影响投资组合分析的关键组成部分是同时评估财务回报和可衡量的ESG影响（如碳减排量、创造就业数量），两者缺一不可。选项A仅评估财务回报忽视了影响投资的核心目标。选项C仅关注ESG影响忽视财务回报不可持续。选项D使用传统ESG指标不够全面。",
+      "en": "A key component is assessing both financial return and measurable ESG impact (e.g., carbon reduction, job creation). A (financial return only) ignores the core goal. C (ESG impact only) is unsustainable. D (traditional ESG metrics) is insufficient for impact investing."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5306,7 +5642,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG报告关注非财务因素（如环境影响、社会责任、治理质量），而财务报告关注财务绩效和财务状况，两者互为补充。选项A错误，ESG报告在许多司法管辖区已成为强制要求。选项C错误，ESG报告面向所有类型的客户。选项D错误，ESG报告尚未完全标准化。",
+      "en": "ESG reporting focuses on non-financial factors (environmental impact, social responsibility, governance quality), while financial reporting focuses on financial performance. A is incorrect as ESG reporting is mandatory in many jurisdictions. C is incorrect as it is for all clients. D is incorrect as it is not yet fully standardized."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5353,7 +5692,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "散户投资者通常缺乏直接与公司管理层互动的资源和渠道，这是ESG管理权行使的常见挑战。选项A错误，散户投资者对公司的影响力有限。选项C错误，散户投资者有权行使代理投票权。选项D错误，研究表明散户投资者对ESG管理权行使有日益增长的兴趣。",
+      "en": "Retail investors often lack the resources and channels to engage directly with company management, which is a common challenge. A is incorrect as retail investors have limited influence. C is incorrect as they can exercise proxy voting rights. D is incorrect as research shows growing retail interest in ESG stewardship."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5400,7 +5742,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "组合加权平均社区参与倡议是评估与社区关系相关的社会风险的最有用指标，反映公司与所在社区的互动质量。选项A碳强度衡量环境风险。选项C独立董事比例衡量治理风险。选项D ESG alpha衡量ESG因素对超额收益的贡献。",
+      "en": "Portfolio-weighted average of community engagement initiatives is the most useful metric for social risk related to community relations. A (carbon intensity) measures environmental risk. C (board independence) measures governance risk. D (ESG alpha) measures ESG contribution to returns."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5447,7 +5792,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "向客户介绍新ESG策略时，最佳实践是清楚解释策略的ESG目标、如何整合ESG因素、以及潜在的风险和回报，建立透明的沟通。选项A隐瞒风险违反了诚信原则。选项C仅关注ESG收益忽视财务绩效不完整。选项D使用专业术语不利于客户理解。",
+      "en": "When introducing a new ESG strategy, clearly explain the ESG goals, integration approach, and potential risks and returns. A (hiding risks) violates integrity. C (ESG benefits only) ignores financial performance. D (using jargon) hinders client understanding."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5494,7 +5842,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG管理权行使通过持续关注和解决可能导致股价波动的ESG相关风险（如监管变化、声誉危机），有助于降低组合波动性。选项A过于绝对，管理权行使不能消除所有波动性。选项C错误，管理权行使不会增加波动性。选项D错误，管理权行使对波动性有积极影响。",
+      "en": "ESG stewardship reduces volatility by addressing ESG-related risks (e.g., regulatory changes, reputational crises) that can cause price swings. A is too absolute. C is incorrect as stewardship does not increase volatility. D is incorrect as stewardship has a positive impact."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5541,7 +5892,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "SEC ESG披露规则的关键要求是披露ESG因素如何被纳入投资咨询过程，使客户了解ESG在投资决策中的实际作用。选项A仅披露财务绩效过于局限。选项C错误，应向所有客户披露而非仅机构客户。选项D错误，SEC要求定量和定性信息相结合。",
+      "en": "A key SEC ESG Disclosure requirement is disclosing how ESG factors are integrated into the investment advisory process, helping clients understand ESG's role in decisions. A (financial performance only) is too narrow. C is incorrect as disclosure should be to all clients. D is incorrect as both quantitative and qualitative information are required."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5588,7 +5942,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投票支持增加董事会多样性的股东决议是关注治理因素的ESG管理权行使的典型例子，改善公司治理结构。选项A与公司互动减少碳排放关注的是环境因素。选项C与公司互动改善供应链劳动实践关注的是社会因素。选项D计算碳强度是分析活动而非管理权行使。",
+      "en": "Voting for board diversity shareholder resolutions is typical governance-focused ESG stewardship, improving corporate governance. A (carbon reduction) is environmental. C (supply chain labor) is social. D (calculating carbon intensity) is analysis, not stewardship."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5635,7 +5992,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "受托责任要求投资经理以客户的最佳长期财务利益行事，同时充分考虑可能影响投资价值的重要ESG因素。选项A错误，ESG因素不应优先于财务回报。选项C过于极端，不应排除所有有ESG风险的公司。选项D错误，不应将所有ESG决策委托给第三方。",
+      "en": "Fiduciary duty requires acting in the best long-term financial interests of clients while fully considering material ESG factors that could impact investment value. A is incorrect as ESG should not override financial returns. C is too extreme. D is incorrect as ESG decisions should not be fully delegated."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5682,7 +6042,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "有效的ESG管理权行使实施的关键是设定与客户目标和组合策略一致的明确管理权行使目标，确保行动有针对性。选项A仅关注股东投票而忽视直接互动过于局限。选项C忽视小盘公司可能错过重要机会。选项D对所有公司采用一刀切方法缺乏灵活性。",
+      "en": "A key component is setting clear ESG stewardship goals aligned with client objectives and portfolio strategy. A (voting only) is too narrow. C (ignoring small-cap) may miss opportunities. D (one-size-fits-all) lacks flexibility."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5729,7 +6092,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "绝对ESG绩效衡量实际的ESG指标数值（如碳强度为每百万收入50吨CO2），而相对绩效是与基准或同行群体的比较结果。选项A颠倒了两者定义。选项C错误，两者都涵盖环境、社会和治理维度。选项D错误，两者都可用于股票、固定收益等各类组合。",
+      "en": "Absolute ESG performance measures actual ESG metrics (e.g., 50 tons CO2 per million revenue), while relative performance compares to a benchmark or peer group. A reverses the definitions. C is incorrect as both cover E, S, and G. D is incorrect as both apply to all portfolio types."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5776,7 +6142,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "UN PRI要求披露ESG因素如何被纳入投资决策和管理权行使活动，展示负责任投资的承诺和实践。选项A仅报告财务绩效附带简短ESG提及不满足要求。选项C仅使用定性描述缺乏量化证据。选项D将ESG和财务绩效完全分开报告无法展示两者的关联。",
+      "en": "UN PRI requires disclosing how ESG factors are integrated into investment decisions and stewardship activities, demonstrating responsible investment commitment. A (financial with brief ESG mention) is insufficient. C (qualitative only) lacks quantitative evidence. D (separate ESG and financial reporting) fails to show the connection."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5823,7 +6192,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "管理权行使中的参与是与公司管理层进行建设性对话，了解其ESG实践现状并鼓励与长期价值创造一致的改进。选项A施加武断的ESG目标可能适得其反。选项C仅关注ESG表现差的公司忽视了预防性参与的价值。选项D与监管机构互动不是管理权行使的主要形式。",
+      "en": "Engagement in stewardship involves constructive dialogue with management to understand ESG practices and encourage improvements aligned with long-term value creation. A (imposing arbitrary targets) may backfire. C (only poor performers) overlooks preventive engagement. D (engaging regulators) is not the primary form of stewardship."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5870,7 +6242,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "对高风险气候区（如洪水易发地区、海平面上升威胁区域）资产的敞口是评估物理气候风险的最有用指标。选项A组合加权平均ESG评级是综合指标，不专门反映物理气候风险。选项B碳强度（范围1和2）衡量的是转型气候风险。选项D独立董事比例衡量的是治理风险。",
+      "en": "Exposure to assets in high-risk climate zones (e.g., flood-prone areas) is the most useful metric for physical climate risk. A (average ESG rating) is a composite metric. B (carbon intensity Scope 1 and 2) measures transition risk. D (board independence) measures governance risk."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5917,7 +6292,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG客户沟通的常见挑战是使客户对ESG投资的期望与现实的组合绩效和ESG结果保持一致，避免过高或不切实际的期望。选项A错误，客户通常对ESG术语不熟悉。选项C错误，并非所有客户都将ESG置于财务回报之上。选项D错误，目前没有单一标准化的ESG衡量方法。",
+      "en": "A common challenge is aligning client ESG expectations with realistic portfolio performance and ESG outcomes, avoiding unrealistic expectations. A is incorrect as clients are typically unfamiliar with ESG terminology. C is incorrect as not all clients prioritize ESG over returns. D is incorrect as there is no single standardized ESG measurement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5964,7 +6342,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "主动管理权行使涉及积极的投票和与公司管理层的互动参与，而被动管理权行使仅涉及跟踪ESG指数，不进行直接互动。选项B错误，两种方式都适用于不同类型的投资者。选项C错误，两者都可涵盖E、S、G三个维度。选项D错误，被动管理权行使也需要一定成本。",
+      "en": "Active stewardship involves voting and engagement with management, while passive stewardship only involves tracking an ESG index. B is incorrect as both apply to different investor types. C is incorrect as both cover E, S, and G. D is incorrect as passive stewardship also has costs."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6011,7 +6392,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "向客户报告ESG绩效时，最佳实践是同时提供定量指标（如碳强度、ESG评级变化）和定性背景说明，帮助客户全面理解ESG表现。选项A仅使用正面指标会误导客户。选项C使用不相关基准会使比较失去意义。选项D避免讨论ESG风险不诚实。",
+      "en": "When reporting ESG performance, provide both quantitative metrics (e.g., carbon intensity, ESG rating changes) and qualitative context. A (positive metrics only) misleads clients. C (unrelated benchmark) makes comparison meaningless. D (avoiding risk discussion) is dishonest."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6058,7 +6442,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "数据隐私和网络安全实践是科技公司最重要的ESG因素之一，因为数据泄露和网络攻击可能造成重大财务和声誉损失。选项A制造设施的碳排放更适用于传统制造业。选项C农业供应链实践适用于农业相关行业。选项D矿业废物管理适用于矿业公司。",
+      "en": "Data privacy and cybersecurity practices are among the most material ESG factors for technology companies, as data breaches and cyberattacks can cause significant financial and reputational damage. A (manufacturing emissions) suits traditional manufacturing. C (agricultural supply chain) suits agriculture. D (mining waste) suits mining companies."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6105,7 +6492,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "管理权行使是指持续监控和参与被投公司以改善其ESG实践和长期价值的受托活动，是负责任投资的核心组成部分。选项A根据ESG评级选择投资是投资筛选过程。选项C排除ESG表现差的公司是负面筛选策略。选项D向监管机构报告ESG绩效是合规活动。",
+      "en": "Stewardship is the ongoing monitoring and engagement with portfolio companies to improve ESG practices and long-term value, a core component of responsible investing. A (selecting by ESG rating) is the screening process. C (excluding poor performers) is negative screening. D (reporting to regulators) is a compliance activity."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6152,7 +6542,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "组合加权平均员工离职率是评估社会风险敞口的最有用指标，反映公司在员工管理和工作环境方面的社会表现。选项A碳强度衡量环境风险。选项C独立董事比例衡量治理风险。选项D ESG alpha衡量ESG因素对超额收益的贡献。",
+      "en": "Portfolio-weighted average employee turnover rate is the most useful metric for social risk exposure, reflecting employee management and work environment. A (carbon intensity) measures environmental risk. C (board independence) measures governance risk. D (ESG alpha) measures ESG contribution to returns."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6199,7 +6592,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "EU SFDR的关键披露要求是披露ESG因素如何被纳入投资决策过程，包括对可持续性风险和不利影响的考虑。选项A仅披露财务绩效不满足SFDR要求。选项C错误，应向所有客户而非仅机构客户披露。选项D错误，SFDR要求有背景说明和解释的披露。",
+      "en": "A key EU SFDR requirement is disclosing how ESG factors are integrated into the investment decision-making process, including consideration of sustainability risks and adverse impacts. A (financial performance only) does not meet SFDR requirements. C is incorrect as disclosure should be to all clients. D is incorrect as context and explanation are required."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6246,7 +6642,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "代理投票允许投资者在股东大会上表达对ESG相关股东决议的立场，并要求管理层对ESG表现承担责任。选项A错误，代理投票对公司ESG实践有重要影响。选项C错误，代理投票也广泛用于ESG相关议题。选项D错误，散户投资者同样有权行使代理投票权。",
+      "en": "Proxy voting allows investors to express views on ESG-related resolutions at shareholder meetings and hold management accountable for ESG performance. A is incorrect as proxy voting significantly impacts ESG practices. C is incorrect as it is widely used for ESG issues. D is incorrect as retail investors can also vote."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6293,7 +6692,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "向客户传达ESG绩效时，应避免对ESG表现做出夸大声明（如声称组合完全符合ESG标准），这可能导致洗绿指控和监管风险。选项A使用清晰的非技术性语言是推荐做法。选项C为ESG指标提供背景说明是推荐做法。选项D讨论组合的ESG优缺点是推荐做法。",
+      "en": "When communicating ESG performance, avoid making exaggerated claims (e.g., claiming the portfolio is fully ESG-compliant), which may lead to greenwashing accusations and regulatory risk. A (clear non-technical language) is recommended. C (providing context) is recommended. D (discussing strengths and weaknesses) is recommended."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6340,7 +6742,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "一组投资者合作提交关于气候披露的股东提案是协作性管理权行使的典型例子，通过集体行动增强对公司管理层的影响力。选项A单个投资者与公司互动是单独参与。选项C排除ESG表现差的公司是筛选策略。选项D投票反对所有ESG股东决议与管理权行使目标相悖。",
+      "en": "A group of investors collaborating to file a shareholder proposal on climate disclosures is typical collaborative stewardship, enhancing influence through collective action. A (individual engagement) is not collaborative. C (excluding companies) is screening. D (voting against all ESG resolutions) contradicts stewardship."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6387,7 +6792,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "归因分析的目的是确定组合ESG绩效中有多少归因于特定ESG因子或管理权行使行动，帮助投资者理解绩效来源。选项A确定组合的财务回报是收益分析。选项C将ESG绩效与同行群体比较是比较分析。选项D计算碳强度过于局限。",
+      "en": "Attribution analysis identifies how much of the portfolio's ESG performance is due to specific ESG factors or stewardship actions, helping investors understand performance sources. A (financial return) is return analysis. C (peer comparison) is comparative analysis. D (carbon intensity) is too narrow."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6434,7 +6842,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "设定ESG报告频率时，关键是使频率与客户期望和ESG数据的可获得性保持一致，确保报告既及时又有意义。选项A尽可能少报告过于消极。选项C仅在ESG绩效正面时报告不当。选项D固定的年度报告计划忽视了客户的个性化需求。",
+      "en": "When setting reporting frequency, the key is aligning with client expectations and ESG data availability, ensuring reports are both timely and meaningful. A (as infrequent as possible) is too passive. C (only when positive) is inappropriate. D (fixed annual schedule) ignores client needs."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6481,7 +6892,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG管理权行使是ESG整合的子集，专注于投资后的持续监控和与被投公司的互动参与，确保ESG因素在持有期内得到关注。选项A颠倒了两者的关系。选项C同样颠倒了关系。选项D错误，管理权行使和ESG整合都适用于主动和被动投资者。",
+      "en": "ESG stewardship is a subset of ESG integration, focusing on post-investment monitoring and engagement, ensuring ESG factors are addressed during the holding period. A reverses the relationship. C also reverses it. D is incorrect as both apply to active and passive investors."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6528,7 +6942,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "董事会独立性和多样性是应纳入组合ESG分析的核心治理因素，反映公司决策过程的独立性和多元视角的质量。选项A碳排放强度是典型的环境因素指标。选项B员工多元化和包容政策是社会因素。选项C供应链劳动实践是社会因素。",
+      "en": "Board independence and diversity is a core governance factor for portfolio ESG analysis, reflecting decision independence and diverse perspectives. A (carbon intensity) is an environmental factor. B (employee diversity policies) is a social factor. C (supply chain labor) is a social factor."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6575,7 +6992,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG数据通常滞后（因为公司年度报告周期）且不同数据提供商之间存在不一致，这是ESG组合分析的关键挑战。选项A错误，ESG数据并不一致标准化。选项B错误，不同资产类别的ESG指标难以直接比较。选项D错误，ESG因素对组合绩效有重要影响。",
+      "en": "ESG data is often lagging (due to annual reporting cycles) and inconsistent across data providers, which is a key challenge. A is incorrect as data is not standardized. B is incorrect as ESG metrics are hard to compare across asset classes. D is incorrect as ESG factors significantly impact performance."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6622,7 +7042,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "与互动的公司数量及取得的具体改善成果（如政策变化、排放减少、治理结构改善）是展示管理权行使行动影响力的最有用指标。选项A仅衡量ESG评级水平变化。选项C仅衡量碳强度变化幅度。选项D衡量ESG因素对超额收益的贡献。",
+      "en": "Number of companies engaged with and specific improvements achieved (e.g., policy changes, emissions reductions, governance improvements) is the most useful metric for stewardship impact. A measures ESG rating changes. C measures carbon intensity changes. D measures ESG contribution to excess returns."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6669,7 +7092,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资经理必须考虑可能影响长期财务回报的重要ESG因素，这是现代受托责任的核心要求。选项A错误，不应将ESG因素置于财务回报之上。选项C错误，越来越多的法律和监管要求考虑ESG因素。选项D过于极端，不应排除所有有ESG风险的公司。",
+      "en": "Investment managers must consider material ESG factors that could impact long-term financial returns, a core requirement of modern fiduciary duty. A is incorrect as ESG should not override financial returns. C is incorrect as regulations increasingly require ESG consideration. D is too extreme."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6716,7 +7142,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "与债券发行人互动以改善其ESG实践和信息披露，是固定收益组合ESG管理权行使的典型做法。选项A排除所有ESG评级低的债券是排除策略而非管理权行使。选项C跟踪股票ESG指数不适用于固定收益。选项D仅关注债券财务收益率忽视ESG因素不完整。",
+      "en": "Engaging with bond issuers to improve ESG practices and disclosure is typical ESG stewardship for fixed-income portfolios. A (excluding all low-rated bonds) is exclusion, not stewardship. C (tracking equity ESG index) is not applicable. D (yield only) ignores ESG factors."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6763,7 +7192,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "范围1是公司运营的直接排放，范围2是购买电力和热力的间接排放，范围3是价值链上下游的其他间接排放，三者范围逐步扩大。选项B颠倒了排放范围的定义。选项C错误，范围1排放通常需要强制报告。选项D错误，排放范围适用于所有资产类别和行业。",
+      "en": "Scope 1 is direct operational emissions, Scope 2 is indirect emissions from purchased energy, and Scope 3 is other indirect emissions across the value chain. B reverses the definitions. C is incorrect as Scope 1 is typically mandatory. D is incorrect as emission scopes apply to all asset classes."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6810,7 +7242,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG客户期望管理的关键是教育客户了解ESG整合的局限性，包括数据质量、方法论差异和不确定性，同时设定现实的ESG和财务目标。选项A不能承诺ESG组合总是跑赢传统组合。选项C隐瞒ESG风险违反职业道德。选项D错误，ESG因素确实影响财务回报。",
+      "en": "Client expectation management involves educating clients about ESG integration limitations (data quality, methodology differences) and setting realistic ESG and financial goals. A (promising outperformance) is unrealistic. C (hiding risks) violates ethics. D is incorrect as ESG factors do impact returns."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6857,7 +7292,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG管理权行使政策的关键组成部分是对ESG相关股东决议投票的明确框架，指导投资团队如何在股东大会上行使投票权。选项B排除所有有ESG风险的公司过于极端。选项C将所有管理权行使活动委托给第三方缺乏主动性。选项D仅关注环境因素忽视了社会和治理维度。",
+      "en": "A key component is a clear framework for voting on ESG-related shareholder resolutions, guiding how to exercise voting rights. B (excluding all ESG risks) is too extreme. C (delegating all to third parties) lacks proactiveness. D (environmental only) ignores social and governance dimensions."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6904,7 +7342,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "组合加权碳强度（范围1和2排放）是评估转型气候风险的最有用指标，反映组合对低碳经济转型的暴露程度。选项A对洪水易发地区资产的敞口衡量的是物理气候风险。选项C员工离职率衡量的是社会风险。选项D独立董事比例衡量的是治理风险。",
+      "en": "Portfolio-weighted carbon intensity (Scope 1 and 2) is the most useful metric for transition climate risk, reflecting exposure to the low-carbon transition. A (flood-prone area exposure) measures physical risk. C (employee turnover) measures social risk. D (board independence) measures governance risk."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6951,7 +7392,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "GRI标准下的最佳实践是使报告与对组合和客户具有重要性的ESG主题保持一致，确保报告内容的针对性和实用性。选项A仅使用定量ESG指标缺乏背景说明不够全面。选项C使用模糊语言无法有效传达信息。选项D每两年报告一次频率太低。",
+      "en": "Under GRI standards, best practice is aligning reporting with ESG topics material to the portfolio and clients, ensuring relevance and utility. A (quantitative only) lacks context. C (vague language) fails to communicate effectively. D (every two years) is too infrequent."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -6998,7 +7442,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "ESG数据用于评估可能影响组合绩效的ESG风险和机会，为投资决策提供财务数据之外的重要视角。选项A错误，ESG数据补充而非替代财务数据。选项C错误，ESG数据对组合分析越来越重要。选项D错误，ESG数据不仅用于初始筛选，也用于持续监控。",
+      "en": "ESG data is used to assess ESG risks and opportunities that could impact portfolio performance, providing perspectives beyond financial data. A is incorrect as it complements, not replaces, financial data. C is incorrect as ESG data is increasingly important. D is incorrect as it is also for ongoing monitoring."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -7045,7 +7492,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "供应链劳动实践（如公平工资、安全工作条件）是零售公司应纳入ESG分析的重要社会因素，因为零售业高度依赖全球供应链。选项A商店运营的碳排放是环境因素。选项C董事会独立性是治理因素。选项D高管薪酬是治理因素。",
+      "en": "Supply chain labor practices (e.g., fair wages, safe working conditions) are material social factors for retail companies, as retail relies heavily on global supply chains. A (store emissions) is environmental. C (board independence) is governance. D (executive compensation) is governance."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -7092,7 +7542,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "直接参与涉及投资者与公司管理层进行面对面或书面沟通，而间接参与通过第三方（如代理顾问、协作平台）传达意见。选项B错误，两种方式都适用于机构和散户投资者。选项C错误，两者都可涵盖E、S、G三个维度。选项D错误，直接参与是主动行为而非被动。",
+      "en": "Direct engagement involves face-to-face or written communication with management, while indirect engagement works through third parties (e.g., proxy advisors). B is incorrect as both apply to institutional and retail investors. C is incorrect as both cover E, S, and G. D is incorrect as direct engagement is active, not passive."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -7139,7 +7592,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "为避免洗绿指控，ESG报告应清楚披露ESG整合的局限性，包括数据缺口、方法论限制和需要改进的领域。选项A夸大ESG声明是典型的洗绿行为。选项C隐藏负面ESG指标会误导投资者。选项D使用专业术语混淆客户会损害信任。",
+      "en": "To avoid greenwashing, clearly disclose ESG limitations including data gaps, methodological limitations, and areas for improvement. A (exaggerated claims) is typical greenwashing. C (hiding negative metrics) misleads investors. D (using jargon to confuse) damages trust."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -7186,7 +7642,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "中小企业通常资源有限，难以建立完善的ESG管理体系和进行高质量的ESG数据披露，这是ESG管理权行使的关键挑战。选项A错误，中小企业同样面临ESG风险。选项C错误，中小企业可以被纳入ESG组合。选项D错误，中小企业的ESG实践不一定优于大企业。",
+      "en": "SMEs often have limited resources to build comprehensive ESG management systems and provide high-quality ESG data disclosure, which is a key stewardship challenge. A is incorrect as SMEs face ESG risks. C is incorrect as SMEs can be included in ESG portfolios. D is incorrect as SME ESG practices are not necessarily better."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -7233,7 +7692,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "组合加权平均独立董事比例是评估治理风险的最有用指标，反映组合中公司治理结构的独立监督能力。选项A碳强度衡量的是环境风险敞口。选项B员工离职率衡量的是社会风险敞口。选项D ESG alpha衡量的是ESG因素对超额收益的贡献。",
+      "en": "Portfolio-weighted average board independence ratio is the most useful metric for assessing governance risk, reflecting independent oversight capability. A (carbon intensity) measures environmental risk. B (employee turnover) measures social risk. D (ESG alpha) measures ESG contribution to excess returns."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -7280,7 +7742,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "代理顾问提供关于如何对股东决议（包括ESG相关决议）进行投票的专业建议，帮助投资者做出明智的投票决策。选项A错误，代理顾问不做投资决策。选项C错误，代理顾问不替代组合经理的ESG整合角色。选项D错误，代理顾问不能保证ESG组合跑赢传统组合。",
+      "en": "Proxy advisors provide recommendations on how to vote on shareholder resolutions (including ESG-related ones), helping investors make informed voting decisions. A is incorrect as they do not make investment decisions. C is incorrect as they do not replace portfolio managers. D is incorrect as they cannot guarantee outperformance."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -7327,7 +7792,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "向零售客户传达ESG绩效时，最佳实践是使用简单、非技术性的语言解释ESG指标和表现，避免专业术语造成的理解障碍。选项A使用复杂ESG术语不利于零售客户理解。选项C仅提供定量指标缺乏解释不充分。选项D忽视财务回报仅关注ESG绩效不全面。",
+      "en": "When communicating ESG performance to retail clients, use simple, non-technical language to explain ESG metrics and performance, avoiding jargon barriers. A (complex jargon) hinders understanding. C (quantitative only) is insufficient. D (ESG only, ignoring returns) is incomplete."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -7374,7 +7842,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "与物业管理者互动以改善能源效率和气候韧性是房地产组合ESG管理权行使的典型做法，通过实际行动提升物业的ESG表现。选项A排除所有商业地产过于极端。选项C仅关注租金收入忽视ESG因素不完整。选项D跟踪股票ESG指数不适用于房地产组合。",
+      "en": "Engaging with property managers to improve energy efficiency and climate resilience is typical ESG stewardship for real estate. A (excluding all commercial) is too extreme. C (rental income only) ignores ESG. D (tracking equity ESG index) is not applicable to real estate."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -7421,7 +7892,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "重要ESG因素是可能显著影响公司财务绩效或企业价值的因素，而非重要因素对公司的影响很小或没有实质影响。选项A错误，重要性不仅限于短期回报，长期影响同样重要。选项C错误，重要性不限于环境因素，社会和治理因素也可以是重要的。选项D错误，重要性适用于所有资产类别。",
+      "en": "Material ESG factors could significantly impact a company's financial performance or value, while non-material factors have little to no impact. A is incorrect as materiality includes long-term impacts. C is incorrect as S and G factors can also be material. D is incorrect as materiality applies to all asset classes."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -7468,7 +7942,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "TCFD的关键要求是披露气候相关风险和机会如何被识别、评估和管理，涵盖治理、战略、风险管理及指标和目标四个核心支柱。选项A仅报告碳强度过于局限。选项C错误，应向所有利益相关者而非仅监管机构披露。选项D错误，TCFD要求定量和定性信息相结合。",
+      "en": "A key TCFD requirement is disclosing how climate-related risks and opportunities are identified, assessed, and managed across four pillars. A (carbon intensity only) is too narrow. C is incorrect as disclosure should be to all stakeholders. D is incorrect as TCFD requires both quantitative and qualitative information."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -7515,7 +7992,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "情景分析用于评估组合在不同ESG相关情景（如严厉气候监管、ESG丑闻、技术突破）下的潜在表现。选项A错误，情景分析不能精确预测未来的ESG绩效。选项C错误，它是对传统财务分析的补充而非替代。选项D错误，情景分析不用于计算组合的平均ESG评级。",
+      "en": "Scenario analysis assesses how the portfolio would perform under different ESG-related scenarios (e.g., severe regulation, ESG scandal, technology breakthrough). A is incorrect as it cannot predict exact outcomes. C is incorrect as it complements, not replaces, traditional analysis. D is incorrect as it does not calculate ESG ratings."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -7562,7 +8042,10 @@
       "zh": "*8.投资委托，组合分析与客户报告",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "客户常见担忧是ESG整合会降低组合分散化，因为ESG筛选可能排除某些行业或公司，这需要在客户沟通中充分解释ESG整合的实际影响和分散化效果。选项A过于绝对，ESG组合并非总能跑赢传统组合。选项C错误，ESG数据并非总是准确一致。选项D错误，ESG投资适合所有投资者。",
+      "en": "A common client concern is that ESG integration will reduce diversification due to screening, which needs to be addressed by explaining the actual impact. A is too absolute. C is incorrect as ESG data is not always accurate. D is incorrect as ESG investing suits all investors."
+    },
     "source": "v7-bank",
     "tags": []
   }

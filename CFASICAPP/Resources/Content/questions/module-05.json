@@ -1,1 +1,1373 @@
-[]
+[
+  {
+    "id": "m05-q001",
+    "moduleId": "module-05",
+    "number": 1,
+    "text": {
+      "zh": "Which of the following best describes 'engagement' in the context of ESG investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Selling shares of companies with poor ESG practices",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Direct interaction between investors and company management on ESG issues",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investing only in ESG-rated funds",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "股东参与",
+      "en": "Shareholder Engagement"
+    },
+    "explanation": {
+      "zh": "参与是指投资者与公司管理层或董事会就ESG相关事项进行直接互动，以影响企业行为并提升长期价值。选项A描述的是撤资策略，选项C仅涉及投资产品选择，均不符合参与的定义。",
+      "en": "Engagement refers to the direct interaction between investors and company management or boards on ESG-related matters to influence corporate behavior and improve long-term value."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "engagement",
+      "definition"
+    ]
+  },
+  {
+    "id": "m05-q002",
+    "moduleId": "module-05",
+    "number": 2,
+    "text": {
+      "zh": "What is the primary objective of shareholder engagement?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To maximize short-term trading profits",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To improve corporate ESG practices and long-term shareholder value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To replace company management teams",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "股东参与",
+      "en": "Shareholder Engagement"
+    },
+    "explanation": {
+      "zh": "股东参与的核心目标是推动企业改善ESG实践，从而为股东创造长期价值。选项A追求短期交易利润与参与的长期导向相悖，选项C更换管理层是极端手段而非参与的一般目标。",
+      "en": "The primary objective of engagement is to influence companies to improve their ESG practices, which in turn supports long-term value creation for shareholders."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "engagement",
+      "objective"
+    ]
+  },
+  {
+    "id": "m05-q003",
+    "moduleId": "module-05",
+    "number": 3,
+    "text": {
+      "zh": "Which of the following is an example of proxy voting as a stewardship tool?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Writing a letter to the CEO about climate risk",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Casting a vote at an annual general meeting on a shareholder resolution",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Selling shares before a contentious vote",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "代理投票",
+      "en": "Proxy Voting"
+    },
+    "explanation": {
+      "zh": "代理投票允许股东在年度股东大会上就公司事务（包括ESG相关决议）进行投票，无需亲自到场。选项A属于书面沟通渠道，选项C是撤资行为，均不属于代理投票。",
+      "en": "Proxy voting allows shareholders to vote on corporate matters, including ESG-related resolutions, at annual general meetings without attending in person."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "proxy-voting"
+    ]
+  },
+  {
+    "id": "m05-q004",
+    "moduleId": "module-05",
+    "number": 4,
+    "text": {
+      "zh": "What is 'collaborative engagement'?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Multiple investors jointly engaging with a company on ESG issues",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A company engaging with its suppliers on ESG standards",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investors competing to buy shares of ESG leaders",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "协作参与",
+      "en": "Collaborative Engagement"
+    },
+    "explanation": {
+      "zh": "协作参与是指多个投资者联合起来共同与企业就ESG问题进行对话，通过汇集影响力提高达成预期目标的可能性。选项B描述的是供应链管理，选项C是投资竞争行为，均非协作参与。",
+      "en": "Collaborative engagement occurs when multiple investors pool their influence to engage with companies on ESG issues, increasing the likelihood of achieving desired outcomes."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "collaborative-engagement"
+    ]
+  },
+  {
+    "id": "m05-q005",
+    "moduleId": "module-05",
+    "number": 5,
+    "text": {
+      "zh": "Which of the following is a key principle of the ICGN Global Stewardship Principles?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investors should divest from all controversial sectors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Investors should establish and disclose a clear stewardship policy",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Investors should only engage through proxy advisory firms",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "尽责管理准则",
+      "en": "Stewardship Codes"
+    },
+    "explanation": {
+      "zh": "ICGN全球尽责管理原则强调，投资者应制定、实施并公开披露明确的尽责管理政策，作为负责任所有权的基础。选项A的全面撤资过于极端，选项C仅依赖代理顾问公司也不符合原则要求。",
+      "en": "The ICGN Global Stewardship Principles emphasize that investors should establish, implement, and publicly disclose a clear stewardship policy as a foundation for responsible ownership."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "stewardship-codes",
+      "icgn"
+    ]
+  },
+  {
+    "id": "m05-q006",
+    "moduleId": "module-05",
+    "number": 6,
+    "text": {
+      "zh": "What is 'active ownership' in the context of ESG investing?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Frequently buying and selling ESG stocks",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Using ownership rights to influence corporate behavior on ESG matters",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Appointing ESG consultants to manage portfolios",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "积极所有权",
+      "en": "Active Ownership"
+    },
+    "explanation": {
+      "zh": "积极所有权是指利用股东权利和影响力（如参与对话和代理投票）来推动企业改善ESG实践。选项A描述的是频繁交易，选项C是外包管理，均不属于积极所有权的范畴。",
+      "en": "Active ownership involves using the rights and influence that come with share ownership — such as engagement and proxy voting — to encourage companies to improve their ESG practices."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "active-ownership"
+    ]
+  },
+  {
+    "id": "m05-q007",
+    "moduleId": "module-05",
+    "number": 7,
+    "text": {
+      "zh": "Which of the following is NOT typically a channel for shareholder engagement?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Private meetings with company management",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Filing shareholder resolutions",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Short-selling the company's stock",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "C",
+    "topic": {
+      "zh": "股东参与",
+      "en": "Shareholder Engagement"
+    },
+    "explanation": {
+      "zh": "做空股票是一种交易策略，不属于股东参与渠道。典型的参与渠道包括与管理层的私下会面、提交股东决议、代理投票等。做空实际上与积极参与的理念相悖。",
+      "en": "Short-selling is a trading strategy, not an engagement channel. Typical engagement channels include private meetings, letters, shareholder resolutions, and proxy voting."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "engagement",
+      "channels"
+    ]
+  },
+  {
+    "id": "m05-q008",
+    "moduleId": "module-05",
+    "number": 8,
+    "text": {
+      "zh": "What is a 'say-on-pay' vote?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A vote on executive compensation packages",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A vote on employee wage levels",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A vote on product pricing strategy",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "代理投票",
+      "en": "Proxy Voting"
+    },
+    "explanation": {
+      "zh": "薪酬投票是指股东对高管薪酬方案进行的非约束性投票，允许股东表达对高管薪酬安排的认可或反对。选项B涉及普通员工薪资，选项C涉及产品定价，均非薪酬投票的范围。",
+      "en": "Say-on-pay is a non-binding shareholder vote on executive compensation, allowing shareholders to express approval or disapproval of how top executives are paid."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "proxy-voting",
+      "say-on-pay"
+    ]
+  },
+  {
+    "id": "m05-q009",
+    "moduleId": "module-05",
+    "number": 9,
+    "text": {
+      "zh": "Which of the following best describes 'fiduciary duty' in the context of stewardship?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The obligation to maximize returns at any cost",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The legal obligation to act in the best interest of beneficiaries, considering ESG risks",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The duty to follow proxy advisory firm recommendations",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "受托责任",
+      "en": "Fiduciary Duty"
+    },
+    "explanation": {
+      "zh": "受托责任要求资产管理者以受益人最佳利益行事，这包括考虑可能影响长期投资回报的重大ESG风险和机遇。选项A不计代价追求回报忽视了风险管理，选项C盲目遵循代理顾问建议并非受托责任要求。",
+      "en": "Fiduciary duty requires asset owners and managers to act in the best interest of their beneficiaries. This includes considering material ESG risks and opportunities that may affect long-term investment returns."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "fiduciary-duty"
+    ]
+  },
+  {
+    "id": "m05-q010",
+    "moduleId": "module-05",
+    "number": 10,
+    "text": {
+      "zh": "What is the role of proxy advisory firms in stewardship?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "They vote directly on behalf of all shareholders",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "They provide research and voting recommendations to institutional investors",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "They replace the need for investor engagement",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "代理投票",
+      "en": "Proxy Voting"
+    },
+    "explanation": {
+      "zh": "代理顾问公司（如ISS和Glass Lewis）为机构投资者提供研究、分析和投票建议，但最终投票决策权仍在投资者手中。选项A错误地认为他们直接代投，选项C过度夸大了其作用。",
+      "en": "Proxy advisory firms like ISS and Glass Lewis provide research, analysis, and voting recommendations to institutional investors, but the ultimate voting decision remains with the investor."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "proxy-advisory"
+    ]
+  },
+  {
+    "id": "m05-q011",
+    "moduleId": "module-05",
+    "number": 11,
+    "text": {
+      "zh": "Which of the following is a potential escalation tactic when engagement fails?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Filing a shareholder resolution",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Increasing the position size",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Ignoring the issue entirely",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "参与升级",
+      "en": "Engagement Escalation"
+    },
+    "explanation": {
+      "zh": "当初步参与未能取得成果时，投资者可采取升级策略，包括提交股东决议、投票反对管理层、公开声明，或最终撤资。选项B增加持仓并非升级手段，选项C忽视问题则放弃了参与。",
+      "en": "When initial engagement fails to produce results, investors can escalate through various tactics including filing shareholder resolutions, voting against management, public statements, or ultimately divestment."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "id": "m05-q012",
+    "moduleId": "module-05",
+    "number": 12,
+    "text": {
+      "zh": "What is 'divestment' as a stewardship strategy?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Buying more shares of underperforming companies",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Selling holdings in companies that fail to meet ESG criteria after engagement",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Diversifying across more sectors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "撤资",
+      "en": "Divestment"
+    },
+    "explanation": {
+      "zh": "撤资是指在参与努力后，企业仍持续未能解决重大ESG问题时，投资者出售其持仓。撤资通常被视为其他参与策略穷尽后的最后手段，而非投资组合的多元化调整。",
+      "en": "Divestment involves selling holdings in companies that consistently fail to address material ESG issues despite engagement efforts. It is typically considered a last resort after other engagement tactics have been exhausted."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "divestment"
+    ]
+  },
+  {
+    "id": "m05-q013",
+    "moduleId": "module-05",
+    "number": 13,
+    "text": {
+      "zh": "Which of the following is a challenge of engagement for passive investors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "They cannot vote at shareholder meetings",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "They hold shares across many companies, making targeted engagement resource-intensive",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "They are prohibited from engaging by regulation",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "被动投资与参与",
+      "en": "Passive Investing and Engagement"
+    },
+    "explanation": {
+      "zh": "跟踪广泛指数的被动投资者持有数百甚至数千家公司的股份，针对特定ESG问题进行有针对性的参与需要大量资源。选项A错误，被动投资者有权投票；选项C错误，法规并未禁止参与。",
+      "en": "Passive investors tracking broad indices hold hundreds or thousands of companies, making targeted engagement on specific ESG issues resource-intensive. However, many large passive managers have developed engagement programs to address this challenge."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "passive-investing",
+      "engagement"
+    ]
+  },
+  {
+    "id": "m05-q014",
+    "moduleId": "module-05",
+    "number": 14,
+    "text": {
+      "zh": "What is the UK Stewardship Code primarily focused on?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Mandatory divestment from fossil fuels",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Encouraging institutional investors to be active and responsible owners",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Setting minimum ESG ratings for listed companies",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "尽责管理准则",
+      "en": "Stewardship Codes"
+    },
+    "explanation": {
+      "zh": "英国尽责管理准则为机构投资者设定期望，促使其成为积极和负责任的所有者，鼓励参与对话、代理投票以及就尽责管理活动进行公开报告。选项A和C均非该准则的主要内容。",
+      "en": "The UK Stewardship Code sets expectations for institutional investors to be active and responsible owners, encouraging engagement, proxy voting, and public reporting on stewardship activities."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "stewardship-codes",
+      "uk"
+    ]
+  },
+  {
+    "id": "m05-q015",
+    "moduleId": "module-05",
+    "number": 15,
+    "text": {
+      "zh": "Which of the following is an example of a shareholder resolution?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A proposal by shareholders to be voted on at an AGM, such as requesting a climate risk report",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A letter from the CEO to shareholders",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "An analyst report recommending to buy the stock",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "股东决议",
+      "en": "Shareholder Resolutions"
+    },
+    "explanation": {
+      "zh": "股东决议是股东提交的正式提案，在公司年度股东大会上进行投票表决。议题通常涉及ESG问题，如气候风险披露、多元化报告或政治捐款透明度。选项B是管理层沟通，选项C是分析师建议。",
+      "en": "Shareholder resolutions are formal proposals submitted by shareholders for a vote at a company's annual general meeting. They often address ESG issues such as climate risk disclosure, diversity reporting, or political spending transparency."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "shareholder-resolutions"
+    ]
+  },
+  {
+    "id": "m05-q016",
+    "moduleId": "module-05",
+    "number": 16,
+    "text": {
+      "zh": "What is the purpose of an engagement policy disclosure?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "To reveal confidential investment strategies to competitors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "To provide transparency on how investors exercise their ownership rights",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "To comply with insider trading regulations",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "尽责管理",
+      "en": "Stewardship"
+    },
+    "explanation": {
+      "zh": "参与政策披露的目的是向受益人和市场提供透明度，展示投资者如何行使其所有权权利，包括其参与方法、代理投票策略和升级机制。选项A和C均非披露的主要目的。",
+      "en": "Engagement policy disclosures provide transparency to beneficiaries and the market on how investors exercise their ownership rights, including their approach to engagement, proxy voting, and escalation."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "disclosure",
+      "engagement-policy"
+    ]
+  },
+  {
+    "id": "m05-q017",
+    "moduleId": "module-05",
+    "number": 17,
+    "text": {
+      "zh": "Which of the following is a benefit of collaborative engagement?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It eliminates the need for individual investor engagement",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It increases collective influence and reduces duplication of effort",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It guarantees that companies will comply with all requests",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协作参与",
+      "en": "Collaborative Engagement"
+    },
+    "explanation": {
+      "zh": "协作参与使投资者能够汇集影响力、共享研究资源并向企业发出统一声音，增加实现有意义变革的可能性，同时减少重复劳动。选项A过于绝对，选项C保证合规也不现实。",
+      "en": "Collaborative engagement allows investors to pool their influence, share research and resources, and present a unified voice to companies, increasing the likelihood of achieving meaningful change while reducing duplication of effort."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "collaborative-engagement",
+      "benefits"
+    ]
+  },
+  {
+    "id": "m05-q018",
+    "moduleId": "module-05",
+    "number": 18,
+    "text": {
+      "zh": "What is 'stewardship' in the context of investment management?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "The practice of holding assets for the shortest possible time",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The responsible allocation, management, and oversight of capital to create long-term value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The process of selecting stocks based on technical analysis",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "尽责管理",
+      "en": "Stewardship"
+    },
+    "explanation": {
+      "zh": "尽责管理是指负责任地配置、管理和监督资本，以实现长期价值，包括行使其所有权权利。选项A短期持有与长期价值创造相悖，选项C技术分析选股与尽责管理无关。",
+      "en": "Stewardship refers to the responsible allocation, management, and oversight of capital to create long-term value for clients and beneficiaries, including the exercise of ownership rights."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "stewardship",
+      "definition"
+    ]
+  },
+  {
+    "id": "m05-q019",
+    "moduleId": "module-05",
+    "number": 19,
+    "text": {
+      "zh": "Which of the following is an example of voting against management at an AGM?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Supporting a management proposal on executive pay",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Voting in favor of a shareholder resolution requesting greater climate disclosure that management opposes",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Abstaining from all votes",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "代理投票",
+      "en": "Proxy Voting"
+    },
+    "explanation": {
+      "zh": "投票反对管理层是指支持管理层反对的股东提案，或投票反对管理层提出的决议。这是尽责管理中的关键升级策略。选项A是支持管理层，选项C弃权不属于反对。",
+      "en": "Voting against management means supporting shareholder proposals that management opposes, or voting against management-sponsored resolutions. This is a key escalation tactic in stewardship."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "proxy-voting",
+      "against-management"
+    ]
+  },
+  {
+    "id": "m05-q020",
+    "moduleId": "module-05",
+    "number": 20,
+    "text": {
+      "zh": "What is the 'comply or explain' approach in stewardship codes?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Investors must comply with all ESG regulations or face penalties",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Investors should either follow the code's principles or publicly explain why they have not",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Companies must comply with investor demands or explain their refusal",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "尽责管理准则",
+      "en": "Stewardship Codes"
+    },
+    "explanation": {
+      "zh": "“遵守或解释”方法为尽责管理准则提供了灵活性——投资者应遵循准则原则，但如果在特定情况下选择不遵循，必须公开解释其理由。选项A涉及强制性法规，选项C将义务主体搞反了。",
+      "en": "The 'comply or explain' approach allows flexibility in stewardship codes — investors are expected to follow the principles, but if they choose not to in specific cases, they must publicly explain their reasons."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "stewardship-codes",
+      "comply-or-explain"
+    ]
+  },
+  {
+    "id": "m05-q021",
+    "moduleId": "module-05",
+    "number": 21,
+    "text": {
+      "zh": "Which of the following is a material ESG issue that shareholders might engage on?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Board diversity and independence",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The CEO's favorite color",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The company's office interior design",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "股东参与",
+      "en": "Shareholder Engagement"
+    },
+    "explanation": {
+      "zh": "股东参与的重大ESG议题包括董事会多元化与独立性、气候风险管理、高管薪酬、人力资本管理和供应链劳动实践等可能实质性影响长期价值的问题。选项B和C显然不属于重大ESG议题。",
+      "en": "Material ESG issues for engagement include board diversity and independence, climate risk management, executive compensation, human capital management, and supply chain labor practices — issues that can materially affect long-term value."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "engagement",
+      "material-issues"
+    ]
+  },
+  {
+    "id": "m05-q022",
+    "moduleId": "module-05",
+    "number": 22,
+    "text": {
+      "zh": "What is the role of asset owners in the stewardship chain?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "They are the ultimate beneficiaries and have the strongest incentive for long-term value creation",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "They only invest in government bonds",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "They delegate all ownership responsibilities to sell-side analysts",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "尽责管理",
+      "en": "Stewardship"
+    },
+    "explanation": {
+      "zh": "资产所有者（养老基金、主权财富基金、捐赠基金等）是投资的最终受益人。其长期投资视野使其对参与影响长期价值的ESG问题具有最强的动力。选项B和C均是对资产所有者角色的误解。",
+      "en": "Asset owners (pension funds, sovereign wealth funds, endowments) are the ultimate beneficiaries of investments. Their long-term horizons give them the strongest incentive to engage on ESG issues that affect long-term value."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "asset-owners",
+      "stewardship-chain"
+    ]
+  },
+  {
+    "id": "m05-q023",
+    "moduleId": "module-05",
+    "number": 23,
+    "text": {
+      "zh": "Which of the following best describes 'thematic engagement'?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Engaging with a single company on a specific issue",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Engaging with multiple companies on a common ESG theme such as deforestation or human rights",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Engaging only during proxy season",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "主题参与",
+      "en": "Thematic Engagement"
+    },
+    "explanation": {
+      "zh": "主题参与是指投资者就共同的ESG主题（如气候变化、森林砍伐或人权问题）跨行业与多家公司进行对话，以推动系统性变革。选项A描述的是单一公司参与，选项C仅关注代理投票季节。",
+      "en": "Thematic engagement involves investors engaging with multiple companies across sectors on a common ESG theme, such as climate change, deforestation, or human rights, to drive systemic change."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "thematic-engagement"
+    ]
+  },
+  {
+    "id": "m05-q024",
+    "moduleId": "module-05",
+    "number": 24,
+    "text": {
+      "zh": "What is a potential risk of engagement for investors?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It may reveal the investor's intentions to competitors",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It always leads to immediate stock price appreciation",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It is illegal in most jurisdictions",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "股东参与",
+      "en": "Shareholder Engagement"
+    },
+    "explanation": {
+      "zh": "参与的一个潜在风险是可能向竞争对手或市场暴露投资者的观点和意图。投资者在披露参与活动时需要在透明度与战略考量之间取得平衡。选项B过于绝对，选项C与事实不符。",
+      "en": "A potential risk of engagement is that it may reveal the investor's views and intentions to competitors or the market. Investors must balance transparency with strategic considerations when disclosing engagement activities."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "engagement",
+      "risks"
+    ]
+  },
+  {
+    "id": "m05-q025",
+    "moduleId": "module-05",
+    "number": 25,
+    "text": {
+      "zh": "Which of the following is a key metric used to measure engagement effectiveness?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Number of meetings held with company management",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "The investor's total AUM",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "The company's stock price on the day of engagement",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "参与成效评估",
+      "en": "Engagement Effectiveness"
+    },
+    "explanation": {
+      "zh": "参与成效通常通过量化指标来衡量，如会议次数、公司回应率、ESG目标进展以及企业行为或披露的变化。选项B的资产管理规模和选项C的单日股价均非衡量参与成效的直接指标。",
+      "en": "Engagement effectiveness is often measured by quantitative metrics such as number of meetings, response rates from companies, progress on specific ESG targets, and changes in corporate behavior or disclosure."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "engagement",
+      "metrics"
+    ]
+  },
+  {
+    "id": "m05-q026",
+    "moduleId": "module-05",
+    "number": 26,
+    "text": {
+      "zh": "What is the PRI (Principles for Responsible Investment) Engagement Collaborative?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "A regulatory body that enforces ESG compliance",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "A platform that facilitates collaborative engagement among PRI signatories",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "A proxy advisory firm",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "协作参与",
+      "en": "Collaborative Engagement"
+    },
+    "explanation": {
+      "zh": "PRI参与协作平台使PRI签署方能够就参与倡议开展合作，汇集影响力以解决跨公司和跨行业的系统性ESG问题。选项A将其误认为监管机构，选项C将其误认为代理顾问公司。",
+      "en": "The PRI Engagement Collaborative is a platform that enables PRI signatories to collaborate on engagement initiatives, pooling their influence to address systemic ESG issues across companies and sectors."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "pri",
+      "collaborative-engagement"
+    ]
+  },
+  {
+    "id": "m05-q027",
+    "moduleId": "module-05",
+    "number": 27,
+    "text": {
+      "zh": "Which of the following is an example of escalation through public statements?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Writing a private letter to the board",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Publishing an open letter criticizing a company's climate strategy",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Voting silently at an AGM",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "参与升级",
+      "en": "Engagement Escalation"
+    },
+    "explanation": {
+      "zh": "公开声明（如公开信或公开投票披露）是私下参与未能取得成果时采用的升级策略。它们通过增加公众压力来促使企业解决ESG问题。选项A是私下沟通，选项C无声投票不属于公开声明。",
+      "en": "Public statements, such as open letters or public voting disclosures, are escalation tactics used when private engagement has failed to produce results. They increase public pressure on companies to address ESG concerns."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "escalation",
+      "public-statements"
+    ]
+  },
+  {
+    "id": "m05-q028",
+    "moduleId": "module-05",
+    "number": 28,
+    "text": {
+      "zh": "What is the relationship between stewardship and long-term value creation?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "Stewardship activities have no impact on long-term returns",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "Effective stewardship can mitigate ESG risks and enhance long-term value",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "Stewardship only benefits society, not investors",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "尽责管理",
+      "en": "Stewardship"
+    },
+    "explanation": {
+      "zh": "有效的尽责管理——通过参与对话、代理投票和积极所有权——能够帮助缓解ESG风险、改善公司治理，并为投资者和受益人创造长期价值。选项A否定影响，选项C将社会利益与投资者利益割裂，均不正确。",
+      "en": "Effective stewardship — through engagement, proxy voting, and active ownership — can help mitigate ESG risks, improve corporate governance, and enhance long-term value for investors and beneficiaries."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "stewardship",
+      "value-creation"
+    ]
+  },
+  {
+    "id": "m05-q029",
+    "moduleId": "module-05",
+    "number": 29,
+    "text": {
+      "zh": "Which of the following is a limitation of divestment as a stewardship strategy?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It eliminates the investor's ability to influence the company",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It always leads to immediate improvement in corporate behavior",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It is prohibited by most stewardship codes",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "A",
+    "topic": {
+      "zh": "撤资",
+      "en": "Divestment"
+    },
+    "explanation": {
+      "zh": "撤资的一个关键局限是它消除了投资者的所有权份额，从而丧失了通过参与和投票影响公司的能力。股份只是转移给另一位可能不重视ESG问题的新所有者。选项B和C均与事实不符。",
+      "en": "A key limitation of divestment is that it removes the investor's ownership stake and therefore their ability to influence the company through engagement and voting. The shares are simply transferred to another owner who may not prioritize ESG issues."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "divestment",
+      "limitations"
+    ]
+  },
+  {
+    "id": "m05-q030",
+    "moduleId": "module-05",
+    "number": 30,
+    "text": {
+      "zh": "What is the role of engagement in the investment process?",
+      "en": null
+    },
+    "options": [
+      {
+        "label": "A",
+        "text": {
+          "zh": "It is only relevant for active managers",
+          "en": null
+        }
+      },
+      {
+        "label": "B",
+        "text": {
+          "zh": "It can be integrated across the investment process as part of risk management and value creation",
+          "en": null
+        }
+      },
+      {
+        "label": "C",
+        "text": {
+          "zh": "It should only be used after negative screening",
+          "en": null
+        }
+      }
+    ],
+    "correctAnswer": "B",
+    "topic": {
+      "zh": "股东参与",
+      "en": "Shareholder Engagement"
+    },
+    "explanation": {
+      "zh": "参与可以贯穿整个投资流程——从投资前分析到持续的组合管理——作为风险管理、价值创造和负责任所有权的一部分。选项A仅限主动管理者的说法过于狭隘，选项C将其局限于负面筛选之后也不正确。",
+      "en": "Engagement can be integrated across the entire investment process — from pre-investment analysis to ongoing portfolio management — as part of risk management, value creation, and responsible ownership."
+    },
+    "source": "v7-bank",
+    "tags": [
+      "engagement",
+      "investment-process"
+    ]
+  }
+]

@@ -43,8 +43,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The Governance (G) dimension of ESG mainly focuses on the internal management and supervision mechanism of enterprises, including board structure, management efficiency, internal control system, information disclosure, etc. A belongs to the Environmental (E) dimension, B and D belong to the Social (S) dimension.",
-      "en": null
+      "zh": "ESG框架中的治理(G)维度主要关注企业内部管理与监督机制，包括董事会结构、管理层效率、内部控制制度、信息披露等。A选项属于环境(E)维度，B和D选项属于社会(S)维度。",
+      "en": "*The Governance (G) dimension of ESG mainly focuses on the internal management and supervision mechanism of enterprises, including board structure, management efficiency, internal control system, information disclosure, etc. A belongs to the Environmental (E) dimension, B and D belong to the Social (S) dimension."
     },
     "source": "v7-bank",
     "tags": []
@@ -93,8 +93,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Employee turnover rate is a key indicator of the Social (S) dimension, reflecting the level of enterprise employee management. A, B, and D are all core indicators of the Governance (G) dimension, involving board governance, incentive mechanism and information transparency.",
-      "en": null
+      "zh": "员工离职率是社会(S)维度的关键指标，反映企业员工管理水平。A、B、D均为治理(G)维度的核心指标，分别涉及董事会治理、激励机制和信息透明度。",
+      "en": "*Employee turnover rate is a key indicator of the Social (S) dimension, reflecting the level of enterprise employee management. A, B, and D are all core indicators of the Governance (G) dimension, involving board governance, incentive mechanism and information transparency."
     },
     "source": "v7-bank",
     "tags": []
@@ -143,8 +143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Board independence mainly means that the board of directors includes independent directors who have no direct or indirect interest relationship with the enterprise, its major shareholders or management. These independent directors can objectively evaluate and supervise the operation of the enterprise and protect the interests of all shareholders. A, C, and D are one-sided understandings of board independence.",
-      "en": null
+      "zh": "董事会独立性主要指董事会中包含与企业及其主要股东或管理层无直接或间接利益关系的独立董事。这些独立董事能够客观评价和监督企业运营，保护全体股东利益。A、C、D是对董事会独立性的片面理解。",
+      "en": "*Board independence mainly means that the board of directors includes independent directors who have no direct or indirect interest relationship with the enterprise, its major shareholders or management. These independent directors can objectively evaluate and supervise the operation of the enterprise and protect the interests of all shareholders. A, C, and D are one-sided understandings of board independence."
     },
     "source": "v7-bank",
     "tags": []
@@ -193,8 +193,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core role of independent directors is to supervise the operation of the management, ensure that the enterprise's decision-making is fair and transparent, protect the interests of minority shareholders, and prevent the management from abusing power for personal gain. A, C, and D are the responsibilities of the enterprise's management, not independent directors.",
-      "en": null
+      "zh": "独立董事的核心职责是监督管理层运作，确保企业决策公正透明，保护中小股东利益，防止管理层滥用权力谋取私利。A、C、D均属于企业管理层的职责，而非独立董事的职责。",
+      "en": "*The core role of independent directors is to supervise the operation of the management, ensure that the enterprise's decision-making is fair and transparent, protect the interests of minority shareholders, and prevent the management from abusing power for personal gain. A, C, and D are the responsibilities of the enterprise's management, not independent directors."
     },
     "source": "v7-bank",
     "tags": []
@@ -243,8 +243,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core purpose of the internal control system is to standardize the enterprise's business processes, ensure the authenticity, completeness and accuracy of financial information, prevent and control operational risks, compliance risks and financial risks, and ensure the healthy operation of the enterprise. A, C, and D are not the main purposes of the internal control system.",
-      "en": null
+      "zh": "内部控制制度的核心目的是规范企业业务流程，确保财务信息的真实性、完整性和准确性，防范和控制经营风险、合规风险和财务风险，保障企业健康运行。A、C、D均非内部控制制度的主要目的。",
+      "en": "*The core purpose of the internal control system is to standardize the enterprise's business processes, ensure the authenticity, completeness and accuracy of financial information, prevent and control operational risks, compliance risks and financial risks, and ensure the healthy operation of the enterprise. A, C, and D are not the main purposes of the internal control system."
     },
     "source": "v7-bank",
     "tags": []
@@ -293,8 +293,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The key components of the internal control system include risk assessment, control activities, information and communication, internal supervision, etc. The risk assessment and control mechanism is the core part, which is used to identify, assess and respond to the risks faced by the enterprise. A, C, and D are auxiliary management systems of the enterprise, not core components of internal control.",
-      "en": null
+      "zh": "内部控制制度的关键组成部分包括风险评估、控制活动、信息与沟通、内部监督等。风险评估与控制机制是核心部分，用于识别、评估和应对企业面临的风险。A、C、D是企业的辅助管理制度，不属于内部控制的核心组成部分。",
+      "en": "*The key components of the internal control system include risk assessment, control activities, information and communication, internal supervision, etc. The risk assessment and control mechanism is the core part, which is used to identify, assess and respond to the risks faced by the enterprise. A, C, and D are auxiliary management systems of the enterprise, not core components of internal control."
     },
     "source": "v7-bank",
     "tags": []
@@ -343,8 +343,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Executive compensation governance focuses on establishing a fair and transparent compensation system, linking executive compensation with the enterprise's operating performance, long-term development and risk control, so as to balance the interests of executives, shareholders and the enterprise, and stimulate executives to work hard for the long-term development of the enterprise. A, C, and D do not conform to the concept of executive compensation governance.",
-      "en": null
+      "zh": "高管薪酬治理着重建立公平透明的薪酬体系，将高管薪酬与企业经营业绩、长期发展和风险控制挂钩，从而平衡高管、股东和企业的利益，激励高管为企业长期发展努力工作。A、C、D不符合高管薪酬治理的理念。",
+      "en": "*Executive compensation governance focuses on establishing a fair and transparent compensation system, linking executive compensation with the enterprise's operating performance, long-term development and risk control, so as to balance the interests of executives, shareholders and the enterprise, and stimulate executives to work hard for the long-term development of the enterprise. A, C, and D do not conform to the concept of executive compensation governance."
     },
     "source": "v7-bank",
     "tags": []
@@ -393,8 +393,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*A reasonable executive compensation structure should combine short-term and long-term incentives. Fixed salary ensures the basic income of executives, performance bonus links with short-term operating performance, and long-term incentives (such as equity incentives) link executives' interests with the long-term development of the enterprise, which can effectively avoid short-term behaviors of executives. A, C, and D are unreasonable compensation structures.",
-      "en": null
+      "zh": "合理的高管薪酬结构应结合短期和长期激励。固定薪酬保障高管基本收入，绩效奖金与短期经营业绩挂钩，长期激励(如股权激励)将高管利益与企业长期发展挂钩，能有效避免高管的短期行为。A、C、D均为不合理的薪酬结构。",
+      "en": "*A reasonable executive compensation structure should combine short-term and long-term incentives. Fixed salary ensures the basic income of executives, performance bonus links with short-term operating performance, and long-term incentives (such as equity incentives) link executives' interests with the long-term development of the enterprise, which can effectively avoid short-term behaviors of executives. A, C, and D are unreasonable compensation structures."
     },
     "source": "v7-bank",
     "tags": []
@@ -443,8 +443,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Information disclosure is one of the core requirements of corporate governance, which requires enterprises to disclose important information such as financial status, operating results, risk factors, and corporate governance structure to all stakeholders (shareholders, investors, regulators, etc.) in a timely, accurate, complete and transparent manner, so as to protect the right to know of stakeholders. A, C, and D are not the correct understanding of information disclosure.",
-      "en": null
+      "zh": "信息披露是公司治理的核心要求之一，要求企业及时、准确、完整、透明地向所有利益相关者(股东、投资者、监管机构等)披露财务状况、经营成果、风险因素和公司治理结构等重要信息，以保护利益相关者的知情权。A、C、D均不是对信息披露的正确理解。",
+      "en": "*Information disclosure is one of the core requirements of corporate governance, which requires enterprises to disclose important information such as financial status, operating results, risk factors, and corporate governance structure to all stakeholders (shareholders, investors, regulators, etc.) in a timely, accurate, complete and transparent manner, so as to protect the right to know of stakeholders. A, C, and D are not the correct understanding of information disclosure."
     },
     "source": "v7-bank",
     "tags": []
@@ -493,8 +493,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Financial statements and operating reports are the core content of corporate information disclosure, which can reflect the enterprise's financial status, operating results and cash flow, helping stakeholders understand the operation of the enterprise. A, C, and D are either internal information that does not need to be disclosed or information involving privacy and trade secrets, which should not be disclosed arbitrarily.",
-      "en": null
+      "zh": "财务报表和经营报告是企业信息披露的核心内容，能够反映企业的财务状况、经营成果和现金流量，帮助利益相关者了解企业运营情况。A、C、D要么是无需披露的内部信息，要么涉及隐私和商业秘密，不应随意披露。",
+      "en": "*Financial statements and operating reports are the core content of corporate information disclosure, which can reflect the enterprise's financial status, operating results and cash flow, helping stakeholders understand the operation of the enterprise. A, C, and D are either internal information that does not need to be disclosed or information involving privacy and trade secrets, which should not be disclosed arbitrarily."
     },
     "source": "v7-bank",
     "tags": []
@@ -543,8 +543,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Insufficient information disclosure will make investors and the public unable to fully understand the true situation of the enterprise, reduce investor confidence, increase the difficulty and cost of enterprise financing, and may also violate the requirements of regulators, leading to fines and other penalties. A, B, and D are opposite to the actual impact.",
-      "en": null
+      "zh": "信息披露不足会使投资者和公众无法全面了解企业真实情况，降低投资者信心，增加企业融资难度和成本，还可能违反监管要求，导致罚款等处罚。A、B、D与实际影响相反。",
+      "en": "*Insufficient information disclosure will make investors and the public unable to fully understand the true situation of the enterprise, reduce investor confidence, increase the difficulty and cost of enterprise financing, and may also violate the requirements of regulators, leading to fines and other penalties. A, B, and D are opposite to the actual impact."
     },
     "source": "v7-bank",
     "tags": []
@@ -593,8 +593,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Establishing a standardized information disclosure system, clarifying the scope, time and requirements of disclosure, strengthening the review of disclosed information, and ensuring the accuracy, completeness and timeliness of information are effective measures to improve the quality of information disclosure. A, C, and D are acts that damage the quality of information disclosure and violate relevant regulations.",
-      "en": null
+      "zh": "建立规范的信息披露制度，明确披露范围、时间和要求，加强对披露信息的审核，确保信息的准确性、完整性和及时性，是提升信息披露质量的有效措施。A、C、D是损害信息披露质量的行为，违反相关规定。",
+      "en": "*Establishing a standardized information disclosure system, clarifying the scope, time and requirements of disclosure, strengthening the review of disclosed information, and ensuring the accuracy, completeness and timeliness of information are effective measures to improve the quality of information disclosure. A, C, and D are acts that damage the quality of information disclosure and violate relevant regulations."
     },
     "source": "v7-bank",
     "tags": []
@@ -643,8 +643,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core responsibility of the board of directors is to formulate the long-term development strategy and major decision-making of the enterprise, supervise the performance of the management, ensure that the enterprise's operation is in line with the interests of shareholders, and assume the fiduciary responsibility to shareholders. A, C, and D are the responsibilities of the enterprise's management team, not the board of directors.",
-      "en": null
+      "zh": "董事会的核心职责是制定企业的长期发展战略和重大决策，监督管理层的履职情况，确保企业经营符合股东利益，并对股东承担受信责任。A、C、D是企业管理团队的职责，而非董事会的职责。",
+      "en": "*The core responsibility of the board of directors is to formulate the long-term development strategy and major decision-making of the enterprise, supervise the performance of the management, ensure that the enterprise's operation is in line with the interests of shareholders, and assume the fiduciary responsibility to shareholders. A, C, and D are the responsibilities of the enterprise's management team, not the board of directors."
     },
     "source": "v7-bank",
     "tags": []
@@ -693,8 +693,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The proportion of independent directors is a key indicator to evaluate the effectiveness of the board of directors. A higher proportion of independent directors can better play the supervisory role of the board, improve the objectivity and fairness of decision-making, and protect the interests of minority shareholders. A, C, and D are auxiliary indicators and cannot directly reflect the effectiveness of the board of directors.",
-      "en": null
+      "zh": "独立董事比例是评估董事会有效性的关键指标。较高的独立董事比例能更好地发挥董事会的监督职能，提高决策的客观性和公正性，保护中小股东利益。A、C、D是辅助指标，无法直接反映董事会的有效性。",
+      "en": "*The proportion of independent directors is a key indicator to evaluate the effectiveness of the board of directors. A higher proportion of independent directors can better play the supervisory role of the board, improve the objectivity and fairness of decision-making, and protect the interests of minority shareholders. A, C, and D are auxiliary indicators and cannot directly reflect the effectiveness of the board of directors."
     },
     "source": "v7-bank",
     "tags": []
@@ -743,8 +743,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The board of supervisors is an important supervision body in corporate governance, whose core role is to supervise the performance of the board of directors and management, check the enterprise's financial information, and ensure that the enterprise's operation complies with national laws, regulations and the enterprise's articles of association, so as to protect the interests of the enterprise and shareholders. A, C, and D are not the responsibilities of the board of supervisors.",
-      "en": null
+      "zh": "监事会是公司治理中的重要监督机构，其核心作用是监督董事会和管理层的履职行为，检查企业的财务信息，确保企业经营符合国家法律法规和企业章程，从而保护企业和股东的利益。A、C、D不是监事会的职责。",
+      "en": "*The board of supervisors is an important supervision body in corporate governance, whose core role is to supervise the performance of the board of directors and management, check the enterprise's financial information, and ensure that the enterprise's operation complies with national laws, regulations and the enterprise's articles of association, so as to protect the interests of the enterprise and shareholders. A, C, and D are not the responsibilities of the board of supervisors."
     },
     "source": "v7-bank",
     "tags": []
@@ -793,8 +793,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The board of supervisors has the right to supervise the board of directors and management, and if it finds illegal, irregular or dereliction of duty behaviors, it has the right to investigate and put forward suggestions for handling. A, C, and D are the powers of the board of directors, not the board of supervisors.",
-      "en": null
+      "zh": "监事会有权监督董事会和管理层，如发现违法违规或失职行为，有权进行调查并提出处理建议。A、C、D是董事会的权力，而非监事会的权力。",
+      "en": "*The board of supervisors has the right to supervise the board of directors and management, and if it finds illegal, irregular or dereliction of duty behaviors, it has the right to investigate and put forward suggestions for handling. A, C, and D are the powers of the board of directors, not the board of supervisors."
     },
     "source": "v7-bank",
     "tags": []
@@ -843,8 +843,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Shareholder rights protection is an important part of corporate governance, which requires enterprises to respect and protect the legitimate rights and interests of all shareholders (including major shareholders and minority shareholders), including the right to vote at shareholders' meetings, the right to share profits, the right to know enterprise information, and the right to appeal against illegal behaviors. A, C, and D are not the correct understanding of shareholder rights protection.",
-      "en": null
+      "zh": "股东权益保护是公司治理的重要组成部分，要求企业尊重和保护所有股东(包括大股东和中小股东)的合法权益，包括股东大会表决权、利润分配权、知情权以及对违法行为的申诉权。A、C、D不是对股东权益保护的正确理解。",
+      "en": "*Shareholder rights protection is an important part of corporate governance, which requires enterprises to respect and protect the legitimate rights and interests of all shareholders (including major shareholders and minority shareholders), including the right to vote at shareholders' meetings, the right to share profits, the right to know enterprise information, and the right to appeal against illegal behaviors. A, C, and D are not the correct understanding of shareholder rights protection."
     },
     "source": "v7-bank",
     "tags": []
@@ -893,8 +893,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Ensuring that minority shareholders have equal access to enterprise information, equal voting rights, and the right to put forward proposals at shareholders' meetings are important measures to protect the rights and interests of minority shareholders. A, C, and D are acts that damage the rights and interests of minority shareholders.",
-      "en": null
+      "zh": "确保中小股东平等获取企业信息、享有平等的表决权、有权在股东大会上提出议案等，是保护中小股东权益的重要措施。A、C、D是损害中小股东权益的行为。",
+      "en": "*Ensuring that minority shareholders have equal access to enterprise information, equal voting rights, and the right to put forward proposals at shareholders' meetings are important measures to protect the rights and interests of minority shareholders. A, C, and D are acts that damage the rights and interests of minority shareholders."
     },
     "source": "v7-bank",
     "tags": []
@@ -943,8 +943,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Corporate governance structure is a set of institutional arrangements to clarify the rights and responsibilities of shareholders, the board of directors, the board of supervisors and the management, and regulate the decision-making, supervision and execution mechanisms of the enterprise, so as to ensure the standardized operation of the enterprise and protect the interests of all stakeholders. A, C, and D are not the correct understanding of corporate governance structure.",
-      "en": null
+      "zh": "公司治理结构是一套明确股东、董事会、监事会和管理层权利与责任，规范企业决策、监督和执行机制的制度安排，以确保企业规范运作并保护所有利益相关者的利益。A、C、D不是对公司治理结构的正确理解。",
+      "en": "*Corporate governance structure is a set of institutional arrangements to clarify the rights and responsibilities of shareholders, the board of directors, the board of supervisors and the management, and regulate the decision-making, supervision and execution mechanisms of the enterprise, so as to ensure the standardized operation of the enterprise and protect the interests of all stakeholders. A, C, and D are not the correct understanding of corporate governance structure."
     },
     "source": "v7-bank",
     "tags": []
@@ -993,8 +993,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core components of the corporate governance structure are the three major bodies: the board of directors (decision-making body), the board of supervisors (supervision body) and the management (execution body). These three bodies perform their respective duties and restrict each other to ensure the healthy operation of the enterprise. A, B, and D are functional departments of the enterprise, not core components of the governance structure.",
-      "en": null
+      "zh": "公司治理结构的核心组成部分是三大机构：董事会(决策机构)、监事会(监督机构)和管理层(执行机构)。三者各司其职、相互制约，保障企业健康运行。A、B、D是企业的职能部门，不是治理结构的核心组成部分。",
+      "en": "*The core components of the corporate governance structure are the three major bodies: the board of directors (decision-making body), the board of supervisors (supervision body) and the management (execution body). These three bodies perform their respective duties and restrict each other to ensure the healthy operation of the enterprise. A, B, and D are functional departments of the enterprise, not core components of the governance structure."
     },
     "source": "v7-bank",
     "tags": []
@@ -1043,8 +1043,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*A sound corporate governance structure can clarify the rights and responsibilities of each body, standardize the decision-making process, strengthen internal supervision, reduce the risk of management abuse of power, improve the operational stability and anti-risk ability of the enterprise, and help the enterprise achieve long-term development. A, B, and D are opposite to the actual impact.",
-      "en": null
+      "zh": "健全的公司治理结构能够明确各机构的权责，规范决策程序，加强内部监督，降低管理层滥用权力的风险，提高企业的经营稳定性和抗风险能力，有助于企业实现长期发展。A、B、D与实际影响相反。",
+      "en": "*A sound corporate governance structure can clarify the rights and responsibilities of each body, standardize the decision-making process, strengthen internal supervision, reduce the risk of management abuse of power, improve the operational stability and anti-risk ability of the enterprise, and help the enterprise achieve long-term development. A, B, and D are opposite to the actual impact."
     },
     "source": "v7-bank",
     "tags": []
@@ -1093,8 +1093,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*An imperfect corporate governance structure is mainly reflected in the lack of effective supervision and restriction mechanisms, such as the management being not supervised by the board of directors and the board of supervisors, which may lead to the abuse of power and damage the interests of the enterprise and shareholders. A, C, and D are signs of a sound corporate governance structure.",
-      "en": null
+      "zh": "公司治理结构不完善主要体现在缺乏有效的监督和制约机制，如管理层不受董事会和监事会的监督，可能导致权力滥用，损害企业和股东的利益。A、C、D是公司治理结构健全的标志。",
+      "en": "*An imperfect corporate governance structure is mainly reflected in the lack of effective supervision and restriction mechanisms, such as the management being not supervised by the board of directors and the board of supervisors, which may lead to the abuse of power and damage the interests of the enterprise and shareholders. A, C, and D are signs of a sound corporate governance structure."
     },
     "source": "v7-bank",
     "tags": []
@@ -1143,8 +1143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Risk management in corporate governance refers to the enterprise establishing a sound risk management system, identifying and assessing various risks (such as operational risk, financial risk, compliance risk) faced in the process of operation and development, formulating corresponding prevention and control measures and emergency response strategies, so as to minimize the impact of risks on the enterprise. A, C, and D are not the correct understanding of risk management.",
-      "en": null
+      "zh": "公司治理中的风险管理是指企业建立健全风险管理体系，识别和评估经营发展中面临的各类风险(如经营风险、财务风险、合规风险)，制定相应的防控措施和应急策略，从而将风险对企业的影响降到最低。A、C、D不是对风险管理的正确理解。",
+      "en": "*Risk management in corporate governance refers to the enterprise establishing a sound risk management system, identifying and assessing various risks (such as operational risk, financial risk, compliance risk) faced in the process of operation and development, formulating corresponding prevention and control measures and emergency response strategies, so as to minimize the impact of risks on the enterprise. A, C, and D are not the correct understanding of risk management."
     },
     "source": "v7-bank",
     "tags": []
@@ -1193,8 +1193,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The key steps of risk management include risk identification, risk assessment, risk response and risk monitoring. Risk identification is the first step, which is to systematically find out all potential risks faced by the enterprise, so as to carry out subsequent assessment and response work. A, C, and D are unreasonable risk management methods.",
-      "en": null
+      "zh": "风险管理的关键步骤包括风险识别、风险评估、风险应对和风险监控。风险识别是第一步，即系统地找出企业面临的所有潜在风险，以便进行后续评估和应对工作。A、C、D是不合理的风险管理方式。",
+      "en": "*The key steps of risk management include risk identification, risk assessment, risk response and risk monitoring. Risk identification is the first step, which is to systematically find out all potential risks faced by the enterprise, so as to carry out subsequent assessment and response work. A, C, and D are unreasonable risk management methods."
     },
     "source": "v7-bank",
     "tags": []
@@ -1243,8 +1243,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The board of directors is responsible for formulating and approving the enterprise's risk management strategy, determining the risk appetite of the enterprise, and supervising the management to implement risk management measures, so as to ensure that the enterprise's risk management work is carried out in an orderly manner. A, C, and D are the responsibilities of the management, not the board of directors.",
-      "en": null
+      "zh": "董事会负责制定和批准企业的风险管理战略，确定企业的风险偏好，并监督管理层执行风险管理措施，以确保企业风险管理工作有序开展。A、C、D是管理层的职责，而非董事会的职责。",
+      "en": "*The board of directors is responsible for formulating and approving the enterprise's risk management strategy, determining the risk appetite of the enterprise, and supervising the management to implement risk management measures, so as to ensure that the enterprise's risk management work is carried out in an orderly manner. A, C, and D are the responsibilities of the management, not the board of directors."
     },
     "source": "v7-bank",
     "tags": []
@@ -1293,8 +1293,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Compliance risk in corporate governance mainly refers to the risk that the enterprise violates national laws, regulations, regulatory requirements or the enterprise's articles of association in the process of operation, leading to legal liabilities or reputation damage. Not disclosing important information in accordance with regulatory requirements is a typical compliance risk in governance. A and D belong to environmental and social risks, B belongs to social risk.",
-      "en": null
+      "zh": "公司治理中的合规风险主要指企业在经营过程中违反国家法律法规、监管要求或企业章程，导致承担法律责任或声誉受损的风险。未按监管要求披露重要信息是典型的治理合规风险。A和D属于环境和社会风险，B属于社会风险。",
+      "en": "*Compliance risk in corporate governance mainly refers to the risk that the enterprise violates national laws, regulations, regulatory requirements or the enterprise's articles of association in the process of operation, leading to legal liabilities or reputation damage. Not disclosing important information in accordance with regulatory requirements is a typical compliance risk in governance. A and D belong to environmental and social risks, B belongs to social risk."
     },
     "source": "v7-bank",
     "tags": []
@@ -1343,8 +1343,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The purpose of compliance management is to establish a sound compliance management system, standardize the business behaviors of the enterprise and its employees, ensure that all business activities comply with national laws, regulations, regulatory requirements and the enterprise's internal rules and regulations, avoid compliance risks such as legal penalties and reputation damage, and ensure the sustainable operation of the enterprise. A, C, and D are not the purpose of compliance management.",
-      "en": null
+      "zh": "合规管理的目的是建立健全合规管理体系，规范企业及其员工的经营行为，确保各项业务活动符合国家法律法规、监管要求和企业内部规章制度，避免法律处罚和声誉受损等合规风险，保障企业的可持续经营。A、C、D不是合规管理的目的。",
+      "en": "*The purpose of compliance management is to establish a sound compliance management system, standardize the business behaviors of the enterprise and its employees, ensure that all business activities comply with national laws, regulations, regulatory requirements and the enterprise's internal rules and regulations, avoid compliance risks such as legal penalties and reputation damage, and ensure the sustainable operation of the enterprise. A, C, and D are not the purpose of compliance management."
     },
     "source": "v7-bank",
     "tags": []
@@ -1393,8 +1393,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Establishing a special compliance management department, formulating a compliance manual to clarify the compliance requirements of each business link, and conducting regular compliance training for employees are effective measures to strengthen compliance management. B, C, and D are acts that weaken compliance management and increase compliance risks.",
-      "en": null
+      "zh": "设立专门的合规管理部门，制定合规手册明确各业务环节的合规要求，并定期对员工进行合规培训，是加强合规管理的有效措施。B、C、D是削弱合规管理、增加合规风险的行为。",
+      "en": "*Establishing a special compliance management department, formulating a compliance manual to clarify the compliance requirements of each business link, and conducting regular compliance training for employees are effective measures to strengthen compliance management. B, C, and D are acts that weaken compliance management and increase compliance risks."
     },
     "source": "v7-bank",
     "tags": []
@@ -1443,8 +1443,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Director liability refers to the obligation and responsibility that directors must bear when performing their duties. Directors must perform their duties in good faith, with due diligence and in the best interests of the enterprise and all shareholders. If they cause losses to the enterprise due to negligence or intentional acts, they need to bear corresponding legal liabilities. A, C, and D are not the correct understanding of director liability.",
-      "en": null
+      "zh": "董事责任是指董事在履行职责时必须承担的义务和责任。董事必须以诚信、尽职尽责的方式行事，以企业和全体股东的最佳利益为出发点。如果因疏忽或故意行为造成企业损失，需承担相应的法律责任。A、C、D不是对董事责任的正确理解。",
+      "en": "*Director liability refers to the obligation and responsibility that directors must bear when performing their duties. Directors must perform their duties in good faith, with due diligence and in the best interests of the enterprise and all shareholders. If they cause losses to the enterprise due to negligence or intentional acts, they need to bear corresponding legal liabilities. A, C, and D are not the correct understanding of director liability."
     },
     "source": "v7-bank",
     "tags": []
@@ -1493,8 +1493,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Directors need to bear legal liability if they fail to perform their duties in good faith and with due diligence, such as neglecting their duties, failing to supervise the management, or making decisions that violate laws and regulations, resulting in losses to the enterprise. A, C, and D are not situations where directors need to bear legal liability.",
-      "en": null
+      "zh": "董事如未能以诚信和勤勉的态度履行职责，如玩忽职守、未能监督管理层，或做出违反法律法规的决策，导致企业遭受损失，则需承担法律责任。A、C、D不属于董事需承担法律责任的情形。",
+      "en": "*Directors need to bear legal liability if they fail to perform their duties in good faith and with due diligence, such as neglecting their duties, failing to supervise the management, or making decisions that violate laws and regulations, resulting in losses to the enterprise. A, C, and D are not situations where directors need to bear legal liability."
     },
     "source": "v7-bank",
     "tags": []
@@ -1543,8 +1543,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The corporate code of conduct is an important part of corporate governance, which covers the board of directors, management, employees and other subjects, clarifies the behavioral norms and ethical requirements in the process of enterprise operation, guides all employees to operate in accordance with laws, regulations and moral norms, and maintains the image and reputation of the enterprise. A, C, and D are one-sided understandings of the corporate code of conduct.",
-      "en": null
+      "zh": "企业行为准则是公司治理的重要组成部分，涵盖董事会、管理层和员工等主体，明确了企业经营过程中的行为规范和道德要求，引导全体员工依法依规和按道德规范经营，维护企业形象和声誉。A、C、D是对企业行为准则的片面理解。",
+      "en": "*The corporate code of conduct is an important part of corporate governance, which covers the board of directors, management, employees and other subjects, clarifies the behavioral norms and ethical requirements in the process of enterprise operation, guides all employees to operate in accordance with laws, regulations and moral norms, and maintains the image and reputation of the enterprise. A, C, and D are one-sided understandings of the corporate code of conduct."
     },
     "source": "v7-bank",
     "tags": []
@@ -1593,8 +1593,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core content of the corporate code of conduct includes ethical norms for business activities, anti-corruption and anti-bribery requirements, compliance with laws and regulations, protection of stakeholder interests, etc. These contents are closely related to corporate governance. A, C, and D are auxiliary norms of the enterprise and not core content of the code of conduct in governance.",
-      "en": null
+      "zh": "企业行为准则的核心内容包括商业活动的道德规范、反腐败和反贿赂要求、遵守法律法规、保护利益相关者权益等。这些内容与公司治理密切相关。A、C、D是企业的辅助规范，不属于治理行为准则的核心内容。",
+      "en": "*The core content of the corporate code of conduct includes ethical norms for business activities, anti-corruption and anti-bribery requirements, compliance with laws and regulations, protection of stakeholder interests, etc. These contents are closely related to corporate governance. A, C, and D are auxiliary norms of the enterprise and not core content of the code of conduct in governance."
     },
     "source": "v7-bank",
     "tags": []
@@ -1643,8 +1643,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The corporate code of conduct can standardize the behavior of the board of directors, management and employees, clarify the bottom line of behavior, avoid unethical and non-compliant behaviors, reduce operational risks and compliance risks, and help establish a good corporate image. A, C, and D are opposite to the actual role.",
-      "en": null
+      "zh": "企业行为准则能够规范董事会、管理层和员工的行为，明确行为底线，避免不道德和不合规行为的发生，降低经营风险和合规风险，有助于树立良好的企业形象。A、C、D与实际作用相反。",
+      "en": "*The corporate code of conduct can standardize the behavior of the board of directors, management and employees, clarify the bottom line of behavior, avoid unethical and non-compliant behaviors, reduce operational risks and compliance risks, and help establish a good corporate image. A, C, and D are opposite to the actual role."
     },
     "source": "v7-bank",
     "tags": []
@@ -1693,8 +1693,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*To ensure the implementation of the corporate code of conduct, it is necessary to publicize it to all employees, establish a supervision and inspection mechanism, and investigate and punish employees and management who violate the code of conduct, so as to ensure that the code of conduct is effectively implemented. A, C, and D are not conducive to the implementation of the code of conduct.",
-      "en": null
+      "zh": "确保企业行为准则的落实，需要向全体员工宣传准则内容，建立监督检查机制，对违反准则的员工和管理层进行调查和处罚，以确保行为准则得到有效执行。A、C、D不利于行为准则的落实。",
+      "en": "*To ensure the implementation of the corporate code of conduct, it is necessary to publicize it to all employees, establish a supervision and inspection mechanism, and investigate and punish employees and management who violate the code of conduct, so as to ensure that the code of conduct is effectively implemented. A, C, and D are not conducive to the implementation of the code of conduct."
     },
     "source": "v7-bank",
     "tags": []
@@ -1743,8 +1743,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Board diversity mainly refers to the diversity of the composition of the board of directors, including gender diversity, age diversity, educational background diversity, professional background diversity, etc. A diverse board can bring different perspectives and ideas, improve the quality of decision-making, and better respond to the complex market environment. B, C, and D are only part of board diversity and not the full meaning.",
-      "en": null
+      "zh": "董事会多样性主要指董事会组成成员的多样性，包括性别多样性、年龄多样性、教育背景多样性、专业背景多样性等。多元化的董事会能够带来不同的视角和思路，提高决策质量，更好地应对复杂的市场环境。B、C、D只是董事会多样性的一部分，并非完整含义。",
+      "en": "*Board diversity mainly refers to the diversity of the composition of the board of directors, including gender diversity, age diversity, educational background diversity, professional background diversity, etc. A diverse board can bring different perspectives and ideas, improve the quality of decision-making, and better respond to the complex market environment. B, C, and D are only part of board diversity and not the full meaning."
     },
     "source": "v7-bank",
     "tags": []
@@ -1793,8 +1793,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*A diverse board of directors has members with different professional backgrounds, experiences and perspectives, which can avoid group thinking, make the board's decision-making more objective, comprehensive and scientific, and help the enterprise better identify risks and seize opportunities. A, C, and D are opposite to the actual benefits.",
-      "en": null
+      "zh": "多元化的董事会拥有不同专业背景、经验和视角的成员，能够避免群体思维，使董事会的决策更加客观、全面和科学，有助于企业更好地识别风险和把握机遇。A、C、D与实际收益相反。",
+      "en": "*A diverse board of directors has members with different professional backgrounds, experiences and perspectives, which can avoid group thinking, make the board's decision-making more objective, comprehensive and scientific, and help the enterprise better identify risks and seize opportunities. A, C, and D are opposite to the actual benefits."
     },
     "source": "v7-bank",
     "tags": []
@@ -1843,8 +1843,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Setting quotas for female directors, directors from different professional backgrounds (such as finance, law, technology) and different age groups, and expanding the scope of board member recruitment are effective measures to promote board diversity. A, C, and D are not conducive to promoting board diversity.",
-      "en": null
+      "zh": "为女性董事、不同专业背景(如金融、法律、技术)和不同年龄段的董事设置配额，并扩大董事会成员的招募范围，是促进董事会多样性的有效措施。A、C、D不利于促进董事会多样性。",
+      "en": "*Setting quotas for female directors, directors from different professional backgrounds (such as finance, law, technology) and different age groups, and expanding the scope of board member recruitment are effective measures to promote board diversity. A, C, and D are not conducive to promoting board diversity."
     },
     "source": "v7-bank",
     "tags": []
@@ -1893,8 +1893,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Managerial ownership refers to the situation where the enterprise's senior management holds a certain proportion of the enterprise's shares. This system can link the personal interests of the management with the long-term development and stock price performance of the enterprise, stimulate the management to work hard for the long-term development of the enterprise, and reduce the agency conflict between the management and shareholders. A, C, and D are not the correct understanding of managerial ownership.",
-      "en": null
+      "zh": "管理层持股是指企业高级管理人员持有一定比例企业股份的情况。这种制度能够将管理层的个人利益与企业的长期发展和股价表现挂钩，激励管理层为企业长期发展努力工作，减少管理层与股东之间的代理冲突。A、C、D不是对管理层持股的正确理解。",
+      "en": "*Managerial ownership refers to the situation where the enterprise's senior management holds a certain proportion of the enterprise's shares. This system can link the personal interests of the management with the long-term development and stock price performance of the enterprise, stimulate the management to work hard for the long-term development of the enterprise, and reduce the agency conflict between the management and shareholders. A, C, and D are not the correct understanding of managerial ownership."
     },
     "source": "v7-bank",
     "tags": []
@@ -1943,8 +1943,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Appropriate managerial ownership can make the management share the risks and benefits of the enterprise, enhance their sense of responsibility and enthusiasm, and encourage them to formulate and implement long-term development strategies, which is conducive to the long-term stable development of the enterprise. A, B, and D are opposite to the actual impact, and excessive managerial ownership may lead to such problems.",
-      "en": null
+      "zh": "适度的管理层持股能够使管理层分担企业的风险和收益，增强其责任感和积极性，鼓励其制定和执行长期发展战略，有利于企业的长期稳定发展。A、B、D与实际影响相反，过度的管理层持股可能导致这些问题。",
+      "en": "*Appropriate managerial ownership can make the management share the risks and benefits of the enterprise, enhance their sense of responsibility and enthusiasm, and encourage them to formulate and implement long-term development strategies, which is conducive to the long-term stable development of the enterprise. A, B, and D are opposite to the actual impact, and excessive managerial ownership may lead to such problems."
     },
     "source": "v7-bank",
     "tags": []
@@ -1993,8 +1993,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Excessive managerial ownership may make the management hold too much power, control the board of directors and decision-making power, and even make decisions that are beneficial to themselves but not in the interests of minority shareholders, which damages the rights and interests of minority shareholders and affects the fairness of corporate governance. A, C, and D are not problems caused by excessive managerial ownership.",
-      "en": null
+      "zh": "过度的管理层持股可能使管理层掌握过大权力，控制董事会和决策权，甚至做出有利于自身但不符合中小股东利益的决策，损害中小股东权益，影响公司治理的公正性。A、C、D不是过度管理层持股导致的问题。",
+      "en": "*Excessive managerial ownership may make the management hold too much power, control the board of directors and decision-making power, and even make decisions that are beneficial to themselves but not in the interests of minority shareholders, which damages the rights and interests of minority shareholders and affects the fairness of corporate governance. A, C, and D are not problems caused by excessive managerial ownership."
     },
     "source": "v7-bank",
     "tags": []
@@ -2043,8 +2043,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Proxy voting is an important way to protect shareholders' rights and interests, especially minority shareholders. It refers to shareholders who are unable to attend the shareholders' meeting in person entrusting a proxy (such as other shareholders, lawyers) to exercise their voting rights in accordance with the entrustment, so as to ensure that shareholders can exercise their voting rights normally. B, C, and D are not the correct understanding of proxy voting.",
-      "en": null
+      "zh": "代理投票是保护股东权益的重要方式，尤其对中小股东而言。它指因故无法亲自出席股东大会的股东，委托代理人(如其他股东、律师)按照委托行使表决权，以确保股东能够正常行使表决权。B、C、D不是对代理投票的正式理解。",
+      "en": "*Proxy voting is an important way to protect shareholders' rights and interests, especially minority shareholders. It refers to shareholders who are unable to attend the shareholders' meeting in person entrusting a proxy (such as other shareholders, lawyers) to exercise their voting rights in accordance with the entrustment, so as to ensure that shareholders can exercise their voting rights normally. B, C, and D are not the correct understanding of proxy voting."
     },
     "source": "v7-bank",
     "tags": []
@@ -2093,8 +2093,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Proxy voting requires shareholders to issue a formal written entrustment document, clarifying the scope of entrustment (such as which proposals to vote on, how to vote) and the validity period of the entrustment. The proxy must exercise voting rights in accordance with the entrustment document and cannot exceed the scope of entrustment or decide the voting direction at will. A, C, and D do not conform to the requirements of proxy voting.",
-      "en": null
+      "zh": "代理投票要求股东向代理人发出正式的书面委托文件，明确委托范围(如对哪些议案投票、如何投票)和委托有效期。代理人必须按照委托文件行使表决权，不得超越委托范围或自行决定投票方向。A、C、D不符合代理投票的要求。",
+      "en": "*Proxy voting requires shareholders to issue a formal written entrustment document, clarifying the scope of entrustment (such as which proposals to vote on, how to vote) and the validity period of the entrustment. The proxy must exercise voting rights in accordance with the entrustment document and cannot exceed the scope of entrustment or decide the voting direction at will. A, C, and D do not conform to the requirements of proxy voting."
     },
     "source": "v7-bank",
     "tags": []
@@ -2143,8 +2143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Proxy voting solves the problem that shareholders cannot attend the shareholders' meeting in person due to time, distance and other reasons, ensuring that all shareholders (including minority shareholders) can exercise their voting rights, participate in the decision-making of the enterprise, and protect their legitimate rights and interests. A, C, and D are opposite to the actual role.",
-      "en": null
+      "zh": "代理投票解决了股东因时间、距离等原因无法亲自出席股东大会的问题，确保所有股东(包括中小股东)能够行使表决权，参与企业决策，保护自身的合法权益。A、C、D与实际作用相反。",
+      "en": "*Proxy voting solves the problem that shareholders cannot attend the shareholders' meeting in person due to time, distance and other reasons, ensuring that all shareholders (including minority shareholders) can exercise their voting rights, participate in the decision-making of the enterprise, and protect their legitimate rights and interests. A, C, and D are opposite to the actual role."
     },
     "source": "v7-bank",
     "tags": []
@@ -2193,8 +2193,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Corporate governance rating is an evaluation of the enterprise's corporate governance level (including board structure, internal control, information disclosure, shareholder rights protection, etc.) by professional rating institutions. The rating result can reflect the effectiveness of the enterprise's governance and provide reference for investors, regulators and other stakeholders. A, C, and D are not corporate governance ratings.",
-      "en": null
+      "zh": "公司治理评级是专业评级机构对企业公司治理水平(包括董事会结构、内部控制、信息披露、股东权益保护等)的评价。评级结果能够反映企业的治理效果，为投资者、监管机构等利益相关者提供参考。A、C、D不是公司治理评级。",
+      "en": "*Corporate governance rating is an evaluation of the enterprise's corporate governance level (including board structure, internal control, information disclosure, shareholder rights protection, etc.) by professional rating institutions. The rating result can reflect the effectiveness of the enterprise's governance and provide reference for investors, regulators and other stakeholders. A, C, and D are not corporate governance ratings."
     },
     "source": "v7-bank",
     "tags": []
@@ -2243,8 +2243,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The key indicators for corporate governance rating mainly include board structure (such as the proportion of independent directors), internal control effectiveness, information disclosure quality, shareholder rights protection, executive compensation governance, etc. A and B are economic indicators, D is a social indicator, which are not key indicators for governance rating.",
-      "en": null
+      "zh": "公司治理评级的关键指标主要包括董事会结构(如独立董事比例)、内部控制有效性、信息披露质量、股东权益保护、高管薪酬治理等。A和B是经济指标，D是社会指标，均不是治理评级的关键指标。",
+      "en": "*The key indicators for corporate governance rating mainly include board structure (such as the proportion of independent directors), internal control effectiveness, information disclosure quality, shareholder rights protection, executive compensation governance, etc. A and B are economic indicators, D is a social indicator, which are not key indicators for governance rating."
     },
     "source": "v7-bank",
     "tags": []
@@ -2293,8 +2293,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*A high corporate governance rating indicates that the enterprise's governance structure is sound, internal control is effective, and information disclosure is transparent, which can improve the trust of investors and regulators in the enterprise, reduce the difficulty and cost of financing, and enhance the enterprise's long-term competitiveness. A, C, and D are opposite to the actual impact.",
-      "en": null
+      "zh": "较高的公司治理评级表明企业治理结构健全、内部控制有效、信息披露透明，能够提升投资者和监管机构对企业的信任度，降低融资难度和成本，增强企业的长期竞争力。A、C、D与实际影响相反。",
+      "en": "*A high corporate governance rating indicates that the enterprise's governance structure is sound, internal control is effective, and information disclosure is transparent, which can improve the trust of investors and regulators in the enterprise, reduce the difficulty and cost of financing, and enhance the enterprise's long-term competitiveness. A, C, and D are opposite to the actual impact."
     },
     "source": "v7-bank",
     "tags": []
@@ -2343,8 +2343,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Strengthening the construction of internal control system, improving the transparency and completeness of information disclosure, optimizing the board structure, and protecting the rights and interests of shareholders are effective measures to improve the corporate governance rating. A, C, and D will reduce the corporate governance rating.",
-      "en": null
+      "zh": "加强内部控制体系建设，提高信息披露的透明度和完整性，优化董事会结构，保护股东权益等，是提升公司治理评级的有效措施。A、C、D会降低公司治理评级。",
+      "en": "*Strengthening the construction of internal control system, improving the transparency and completeness of information disclosure, optimizing the board structure, and protecting the rights and interests of shareholders are effective measures to improve the corporate governance rating. A, C, and D will reduce the corporate governance rating."
     },
     "source": "v7-bank",
     "tags": []
@@ -2393,8 +2393,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The agency problem in corporate governance refers to the conflict of interests between shareholders (owners of the enterprise) and management (agents entrusted by shareholders to manage the enterprise). Shareholders pursue the maximization of enterprise value, while management may pursue personal interests (such as high salary, job stability) at the expense of shareholder interests, resulting in agency costs. A, B, and D are not agency problems in the narrow sense.",
-      "en": null
+      "zh": "公司治理中的代理问题是指股东(企业所有者)与管理层(受股东委托管理企业的人)之间的利益冲突。股东追求企业价值最大化，而管理层可能追求个人利益(如高薪、职位稳定)而牺牲股东利益，产生代理成本。A、B、D不是狭义上的代理问题。",
+      "en": "*The agency problem in corporate governance refers to the conflict of interests between shareholders (owners of the enterprise) and management (agents entrusted by shareholders to manage the enterprise). Shareholders pursue the maximization of enterprise value, while management may pursue personal interests (such as high salary, job stability) at the expense of shareholder interests, resulting in agency costs. A, B, and D are not agency problems in the narrow sense."
     },
     "source": "v7-bank",
     "tags": []
@@ -2443,8 +2443,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The management investing in high-risk projects to pursue short-term performance (so as to obtain high performance bonuses) but ignoring the long-term risks of the enterprise is a typical agency problem. This behavior is beneficial to the management's personal interests but may damage the interests of shareholders. B, C, and D are not examples of agency problems.",
-      "en": null
+      "zh": "管理层为追求短期业绩(以获得高额绩效奖金)而投资高风险项目，却忽视企业的长期风险，是典型的代理问题。这种行为有利于管理层的个人利益，但可能损害股东利益。B、C、D不是代理问题的例子。",
+      "en": "*The management investing in high-risk projects to pursue short-term performance (so as to obtain high performance bonuses) but ignoring the long-term risks of the enterprise is a typical agency problem. This behavior is beneficial to the management's personal interests but may damage the interests of shareholders. B, C, and D are not examples of agency problems."
     },
     "source": "v7-bank",
     "tags": []
@@ -2493,8 +2493,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Establishing an effective incentive and restraint mechanism is the core measure to solve the agency problem. The incentive mechanism (such as equity incentives) links the management's interests with the enterprise's long-term value, and the restraint mechanism (such as board supervision, internal control) restricts the management's behavior, so as to align the goals of the management and shareholders. A, C, and D cannot solve the agency problem, but will aggravate it.",
-      "en": null
+      "zh": "建立有效的激励约束机制是解决代理问题的核心措施。激励机制(如股权激励)将管理层利益与企业长期价值挂钩，约束机制(如董事会监督、内部控制)限制管理层行为，从而对齐管理层与股东的目标。A、C、D无法解决代理问题，反而会加剧。",
+      "en": "*Establishing an effective incentive and restraint mechanism is the core measure to solve the agency problem. The incentive mechanism (such as equity incentives) links the management's interests with the enterprise's long-term value, and the restraint mechanism (such as board supervision, internal control) restricts the management's behavior, so as to align the goals of the management and shareholders. A, C, and D cannot solve the agency problem, but will aggravate it."
     },
     "source": "v7-bank",
     "tags": []
@@ -2543,8 +2543,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Internal audit is an important part of corporate governance, which is an independent and objective supervision and evaluation activity carried out by the enterprise's internal audit department. It is used to evaluate the effectiveness of the enterprise's internal control, the authenticity of financial information, and the rationality of operational activities, and put forward improvement suggestions. A is external audit, C and D are not internal audit in the sense of governance.",
-      "en": null
+      "zh": "内部审计是公司治理的重要组成部分，是由企业内部审计部门开展的独立、客观的监督和评价活动，用于评价企业内部控制的有效性、财务信息的真实性和经营活动的合理性，并提出改进建议。A是外部审计，C和D不是治理意义上的内部审计。",
+      "en": "*Internal audit is an important part of corporate governance, which is an independent and objective supervision and evaluation activity carried out by the enterprise's internal audit department. It is used to evaluate the effectiveness of the enterprise's internal control, the authenticity of financial information, and the rationality of operational activities, and put forward improvement suggestions. A is external audit, C and D are not internal audit in the sense of governance."
     },
     "source": "v7-bank",
     "tags": []
@@ -2593,8 +2593,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core role of internal audit is to evaluate the effectiveness of the enterprise's internal control system, identify potential operational and financial risks, put forward improvement suggestions, help the enterprise optimize the governance structure, standardize business processes, and reduce risks. A, C, and D are opposite to the actual role of internal audit.",
-      "en": null
+      "zh": "内部审计的核心作用是评价企业内部控制体系的有效性，识别潜在的经营和财务风险，提出改进建议，帮助企业优化治理结构、规范业务流程、降低风险。A、C、D与内部审计的实际作用相反。",
+      "en": "*The core role of internal audit is to evaluate the effectiveness of the enterprise's internal control system, identify potential operational and financial risks, put forward improvement suggestions, help the enterprise optimize the governance structure, standardize business processes, and reduce risks. A, C, and D are opposite to the actual role of internal audit."
     },
     "source": "v7-bank",
     "tags": []
@@ -2643,8 +2643,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The responsibility of the internal audit department includes auditing the enterprise's internal control system, financial activities, operational activities, compliance with laws and regulations, etc., and putting forward targeted improvement suggestions to help the enterprise improve its governance level. A, C, and D are not the responsibilities of the internal audit department.",
-      "en": null
+      "zh": "内部审计部门的职责包括审计企业的内部控制制度、财务活动、经营活动、法律法规的遵守情况等，并提出有针对性的改进建议，帮助企业提升治理水平。A、C、D不是内部审计部门的职责。",
+      "en": "*The responsibility of the internal audit department includes auditing the enterprise's internal control system, financial activities, operational activities, compliance with laws and regulations, etc., and putting forward targeted improvement suggestions to help the enterprise improve its governance level. A, C, and D are not the responsibilities of the internal audit department."
     },
     "source": "v7-bank",
     "tags": []
@@ -2693,8 +2693,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The independence of the internal audit department is the premise of ensuring the objectivity and fairness of the audit work. The internal audit department must be independent of the management (the object of supervision) and report directly to the board of directors or the board of supervisors, so as to avoid being interfered by the management in the audit work. A, C, and D damage the independence of the internal audit department.",
-      "en": null
+      "zh": "内部审计部门的独立性是确保审计工作客观公正的前提。内部审计部门必须独立于管理层(监督对象)，直接向董事会或监事会报告，以避免管理层对审计工作的干预。A、C、D损害了内部审计部门的独立性。",
+      "en": "*The independence of the internal audit department is the premise of ensuring the objectivity and fairness of the audit work. The internal audit department must be independent of the management (the object of supervision) and report directly to the board of directors or the board of supervisors, so as to avoid being interfered by the management in the audit work. A, C, and D damage the independence of the internal audit department."
     },
     "source": "v7-bank",
     "tags": []
@@ -2743,8 +2743,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Corporate governance reform refers to the enterprise aiming at improving the level of corporate governance, optimizing the governance structure (such as adjusting the board structure, improving the role of independent directors), improving the internal control system, enhancing the transparency of information disclosure, and solving existing governance problems, so as to enhance the effectiveness of corporate governance and promote the sustainable development of the enterprise. A, C, and D are not corporate governance reforms.",
-      "en": null
+      "zh": "公司治理改革是指企业以提升公司治理水平为目标，优化治理结构(如调整董事会结构、完善独立董事制度)、完善内部控制制度、增强信息披露透明度、解决现有治理问题，从而增强公司治理的有效性，促进企业的可持续发展。A、C、D不是公司治理改革。",
+      "en": "*Corporate governance reform refers to the enterprise aiming at improving the level of corporate governance, optimizing the governance structure (such as adjusting the board structure, improving the role of independent directors), improving the internal control system, enhancing the transparency of information disclosure, and solving existing governance problems, so as to enhance the effectiveness of corporate governance and promote the sustainable development of the enterprise. A, C, and D are not corporate governance reforms."
     },
     "source": "v7-bank",
     "tags": []
@@ -2793,8 +2793,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Optimizing the board structure (such as increasing the proportion of independent directors, improving the diversity of the board), improving the internal control system, strengthening information disclosure, and improving the incentive and restraint mechanism of the management are common contents of corporate governance reform. A, C, and D are operational reforms of the enterprise, not governance reforms.",
-      "en": null
+      "zh": "优化董事会结构(如提高独立董事比例、改善董事会多样性)、完善内部控制制度、加强信息披露、改善管理层激励约束机制等，是公司治理改革的常见内容。A、C、D是企业的经营改革，而非治理改革。",
+      "en": "*Optimizing the board structure (such as increasing the proportion of independent directors, improving the diversity of the board), improving the internal control system, strengthening information disclosure, and improving the incentive and restraint mechanism of the management are common contents of corporate governance reform. A, C, and D are operational reforms of the enterprise, not governance reforms."
     },
     "source": "v7-bank",
     "tags": []
@@ -2843,8 +2843,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The purpose of corporate governance reform is to solve the existing problems in the enterprise's governance structure and mechanism, improve the effectiveness of governance, strengthen internal supervision, reduce operational and compliance risks, protect the interests of all stakeholders, and enhance the enterprise's long-term competitiveness and sustainable development ability. A, C, and D are not the purpose of corporate governance reform.",
-      "en": null
+      "zh": "公司治理改革的目的是解决企业治理结构和机制中存在的问题，提高治理的有效性，加强内部监督，降低经营和合规风险，保护所有利益相关者的利益，增强企业的长期竞争力和可持续发展能力。A、C、D不是公司治理改革的目的。",
+      "en": "*The purpose of corporate governance reform is to solve the existing problems in the enterprise's governance structure and mechanism, improve the effectiveness of governance, strengthen internal supervision, reduce operational and compliance risks, protect the interests of all stakeholders, and enhance the enterprise's long-term competitiveness and sustainable development ability. A, C, and D are not the purpose of corporate governance reform."
     },
     "source": "v7-bank",
     "tags": []
@@ -2893,8 +2893,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The effectiveness of corporate governance reform is mainly reflected in the improvement of the governance level, such as more scientific and transparent decision-making of the board of directors, more effective internal control, better protection of shareholder rights and interests, and reduction of operational risks. A, C, and D are indicators of operational performance, which cannot directly reflect the effectiveness of governance reform.",
-      "en": null
+      "zh": "公司治理改革的有效性主要体现在治理水平的提升上，如董事会决策更加科学透明、内部控制更加有效、股东权益得到更好的保护、经营风险降低等。A、C、D是经营绩效指标，无法直接反映治理改革的有效性。",
+      "en": "*The effectiveness of corporate governance reform is mainly reflected in the improvement of the governance level, such as more scientific and transparent decision-making of the board of directors, more effective internal control, better protection of shareholder rights and interests, and reduction of operational risks. A, C, and D are indicators of operational performance, which cannot directly reflect the effectiveness of governance reform."
     },
     "source": "v7-bank",
     "tags": []
@@ -2943,8 +2943,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Shareholder activism refers to shareholders (especially institutional shareholders) actively participating in the corporate governance process, such as putting forward proposals at shareholders' meetings, voting on important decisions, supervising the behavior of the board of directors and management, and promoting the enterprise to improve its governance level and protect shareholder interests. A, C, and D are not the correct understanding of shareholder activism.",
-      "en": null
+      "zh": "股东积极主义是指股东(尤其是机构投资者)积极参与公司治理过程，如在股东大会上提出议案、对重要决策进行投票表决、监督董事会和管理层的行为，推动企业提升治理水平并保护股东利益。A、C、D不是对股东积极主义的正确理解。",
+      "en": "*Shareholder activism refers to shareholders (especially institutional shareholders) actively participating in the corporate governance process, such as putting forward proposals at shareholders' meetings, voting on important decisions, supervising the behavior of the board of directors and management, and promoting the enterprise to improve its governance level and protect shareholder interests. A, C, and D are not the correct understanding of shareholder activism."
     },
     "source": "v7-bank",
     "tags": []
@@ -2993,8 +2993,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Institutional shareholders putting forward proposals to optimize the executive compensation system, improve the board structure, or oppose improper decisions of the management at the shareholders' meeting is a typical example of shareholder activism. This behavior helps to promote the enterprise to improve its governance level. B, C, and D are not examples of shareholder activism.",
-      "en": null
+      "zh": "机构投资者在股东大会上提出优化高管薪酬制度、改善董事会结构或反对管理层不当决策的议案，是股东积极主义的典型例子。这种行为有助于推动企业提升治理水平。B、C、D不是股东积极主义的例子。",
+      "en": "*Institutional shareholders putting forward proposals to optimize the executive compensation system, improve the board structure, or oppose improper decisions of the management at the shareholders' meeting is a typical example of shareholder activism. This behavior helps to promote the enterprise to improve its governance level. B, C, and D are not examples of shareholder activism."
     },
     "source": "v7-bank",
     "tags": []
@@ -3043,8 +3043,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Moderate shareholder activism can promote the enterprise to standardize its decision-making process, improve the transparency of information disclosure, strengthen the supervision of the management, and protect the legitimate rights and interests of shareholders, which is conducive to improving the level of corporate governance. A, C, and D are the negative impacts of excessive shareholder activism, not the general impact.",
-      "en": null
+      "zh": "适度的股东积极主义能够推动企业规范决策程序，提高信息披露透明度，加强对管理层的监督，保护股东的合法权益，有利于提升公司治理水平。A、C、D是过度股东积极主义的负面影响，而非一般性影响。",
+      "en": "*Moderate shareholder activism can promote the enterprise to standardize its decision-making process, improve the transparency of information disclosure, strengthen the supervision of the management, and protect the legitimate rights and interests of shareholders, which is conducive to improving the level of corporate governance. A, C, and D are the negative impacts of excessive shareholder activism, not the general impact."
     },
     "source": "v7-bank",
     "tags": []
@@ -3093,8 +3093,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Corporate governance principles are a set of guiding principles and norms for corporate governance formulated by international organizations (such as the OECD) or national regulatory authorities, which cover board governance, shareholder rights protection, information disclosure, internal control and other aspects, and guide enterprises to establish a sound corporate governance structure. A, C, and D are not corporate governance principles.",
-      "en": null
+      "zh": "公司治理原则是由国际组织(如OECD)或国家监管机构制定的一套公司治理指导原则和规范，涵盖董事会治理、股东权益保护、信息披露、内部控制等方面，指导企业建立健全公司治理结构。A、C、D不是公司治理原则。",
+      "en": "*Corporate governance principles are a set of guiding principles and norms for corporate governance formulated by international organizations (such as the OECD) or national regulatory authorities, which cover board governance, shareholder rights protection, information disclosure, internal control and other aspects, and guide enterprises to establish a sound corporate governance structure. A, C, and D are not corporate governance principles."
     },
     "source": "v7-bank",
     "tags": []
@@ -3143,8 +3143,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core content of the OECD Corporate Governance Principles includes protecting shareholder rights and interests, ensuring the equitable treatment of all shareholders, strengthening the role of the board of directors, improving information disclosure and transparency, and respecting the rights of other stakeholders. A, B, and D are not core contents of the OECD Corporate Governance Principles.",
-      "en": null
+      "zh": "OECD公司治理原则的核心内容包括保护股东权益、确保所有股东的公平待遇、强化董事会的作用、提高信息披露和透明度、尊重其他利益相关者的权利等。A、B、D不是OECD公司治理原则的核心内容。",
+      "en": "*The core content of the OECD Corporate Governance Principles includes protecting shareholder rights and interests, ensuring the equitable treatment of all shareholders, strengthening the role of the board of directors, improving information disclosure and transparency, and respecting the rights of other stakeholders. A, B, and D are not core contents of the OECD Corporate Governance Principles."
     },
     "source": "v7-bank",
     "tags": []
@@ -3193,8 +3193,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Corporate governance principles provide a scientific and reasonable reference framework for enterprises, guiding enterprises to establish and improve their corporate governance structure, standardize their governance behavior, and improve their governance level. They do not force enterprises to adopt a unified model, but allow enterprises to adjust according to their own actual situation. A, C, and D are opposite to the actual role.",
-      "en": null
+      "zh": "公司治理原则为企业提供了科学合理的参考框架，指导企业建立和完善公司治理结构，规范治理行为，提升治理水平。它不强制企业采用统一模式，而是允许企业根据自身实际情况进行调整。A、C、D与实际作用相反。",
+      "en": "*Corporate governance principles provide a scientific and reasonable reference framework for enterprises, guiding enterprises to establish and improve their corporate governance structure, standardize their governance behavior, and improve their governance level. They do not force enterprises to adopt a unified model, but allow enterprises to adjust according to their own actual situation. A, C, and D are opposite to the actual role."
     },
     "source": "v7-bank",
     "tags": []
@@ -3243,8 +3243,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The compliance committee is a special committee under the board of directors (or directly under the management) of the enterprise, which is responsible for formulating the enterprise's compliance policies and strategies, supervising the implementation of compliance management, investigating compliance risks, and ensuring that the enterprise's operation complies with laws, regulations and internal rules. A, C, and D are not the functions of the compliance committee.",
-      "en": null
+      "zh": "合规委员会是企业董事会下设(或直属管理层)的专门委员会，负责制定企业的合规政策和战略，监督合规管理工作的实施，排查合规风险，确保企业经营符合法律法规和内部规章制度。A、C、D不是合规委员会的职能。",
+      "en": "*The compliance committee is a special committee under the board of directors (or directly under the management) of the enterprise, which is responsible for formulating the enterprise's compliance policies and strategies, supervising the implementation of compliance management, investigating compliance risks, and ensuring that the enterprise's operation complies with laws, regulations and internal rules. A, C, and D are not the functions of the compliance committee."
     },
     "source": "v7-bank",
     "tags": []
@@ -3293,8 +3293,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The responsibilities of the compliance committee include formulating compliance policies, conducting compliance training, supervising the implementation of compliance work, investigating non-compliant behaviors of the enterprise and its employees, and putting forward rectification suggestions. A, C, and D are not the responsibilities of the compliance committee.",
-      "en": null
+      "zh": "合规委员会的职责包括制定合规政策、开展合规培训、监督合规工作的落实、调查企业及其员工的不合规行为，并提出整改建议。A、C、D不是合规委员会的职责。",
+      "en": "*The responsibilities of the compliance committee include formulating compliance policies, conducting compliance training, supervising the implementation of compliance work, investigating non-compliant behaviors of the enterprise and its employees, and putting forward rectification suggestions. A, C, and D are not the responsibilities of the compliance committee."
     },
     "source": "v7-bank",
     "tags": []
@@ -3343,8 +3343,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*To ensure the independence and professionalism of the compliance committee, its members should include independent directors (to ensure objectivity) and professionals with legal, compliance, financial and other backgrounds (to ensure professional judgment), so as to effectively perform the compliance supervision function. A, C, and D do not meet the composition requirements of the compliance committee.",
-      "en": null
+      "zh": "为确保合规委员会的独立性和专业性，其成员应包括独立董事(确保客观性)和具备法律、合规、财务等背景的专业人员(确保专业判断)，以有效履行合规监督职能。A、C、D不符合合规委员会的组成要求。",
+      "en": "*To ensure the independence and professionalism of the compliance committee, its members should include independent directors (to ensure objectivity) and professionals with legal, compliance, financial and other backgrounds (to ensure professional judgment), so as to effectively perform the compliance supervision function. A, C, and D do not meet the composition requirements of the compliance committee."
     },
     "source": "v7-bank",
     "tags": []
@@ -3393,8 +3393,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The board remuneration committee is a special committee of the board of directors, mainly responsible for formulating and reviewing the compensation system of the enterprise's senior management and directors, evaluating the performance of the management, linking the compensation with the performance, and ensuring that the compensation system is fair, reasonable and able to stimulate the management. A, C, and D are not the functions of the board remuneration committee.",
-      "en": null
+      "zh": "董事会薪酬委员会是董事会下设的专门委员会，主要负责制定和审查企业高级管理人员及董事的薪酬制度，评估管理层的绩效，将薪酬与绩效挂钩，确保薪酬制度公平合理且能够激励管理层。A、C、D不是董事会薪酬委员会的职能。",
+      "en": "*The board remuneration committee is a special committee of the board of directors, mainly responsible for formulating and reviewing the compensation system of the enterprise's senior management and directors, evaluating the performance of the management, linking the compensation with the performance, and ensuring that the compensation system is fair, reasonable and able to stimulate the management. A, C, and D are not the functions of the board remuneration committee."
     },
     "source": "v7-bank",
     "tags": []
@@ -3443,8 +3443,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core responsibility of the board remuneration committee is to formulate the compensation plan for the enterprise's senior management and directors, evaluate the performance of the management, adjust the compensation according to the performance, and submit the plan to the board of directors for approval. A, C, and D are not the responsibilities of the board remuneration committee.",
-      "en": null
+      "zh": "董事会薪酬委员会的核心职责是为企业高级管理人员和董事制定薪酬方案，评估管理层的绩效，根据绩效调整薪酬，并将方案提交董事会审批。A、C、D不是董事会薪酬委员会的职责。",
+      "en": "*The core responsibility of the board remuneration committee is to formulate the compensation plan for the enterprise's senior management and directors, evaluate the performance of the management, adjust the compensation according to the performance, and submit the plan to the board of directors for approval. A, C, and D are not the responsibilities of the board remuneration committee."
     },
     "source": "v7-bank",
     "tags": []
@@ -3493,8 +3493,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*Establishing a board remuneration committee can make the formulation of the executive compensation system more professional, fair and transparent, link the executive compensation with the enterprise's performance and long-term development, reduce the agency conflict between the management and shareholders, and stimulate the management to work hard for the enterprise's development. A, C, and D are opposite to the actual benefit.",
-      "en": null
+      "zh": "设立董事会薪酬委员会能够使高管薪酬制度的制定更加专业、公正和透明，将高管薪酬与企业绩效和长期发展挂钩，减少管理层与股东之间的代理冲突，激励管理层为企业发展努力工作。A、C、D与实际收益相反。",
+      "en": "*Establishing a board remuneration committee can make the formulation of the executive compensation system more professional, fair and transparent, link the executive compensation with the enterprise's performance and long-term development, reduce the agency conflict between the management and shareholders, and stimulate the management to work hard for the enterprise's development. A, C, and D are opposite to the actual benefit."
     },
     "source": "v7-bank",
     "tags": []
@@ -3543,8 +3543,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The board nomination committee is a special committee of the board of directors, mainly responsible for formulating the criteria for the selection of directors and senior management, recommending qualified candidates for directors and senior management, and ensuring that the board of directors and management have the necessary professional ability and integrity to perform their duties. A, C, and D are not the functions of the board nomination committee.",
-      "en": null
+      "zh": "董事会提名委员会是董事会下设的专门委员会，主要负责制定董事和高级管理人员的选拔标准，推荐具备资格的董事和高级管理人员候选人，确保董事会和管理层具备履职所需的专业能力和诚信品质。A、C、D不是董事会提名委员会的职能。",
+      "en": "*The board nomination committee is a special committee of the board of directors, mainly responsible for formulating the criteria for the selection of directors and senior management, recommending qualified candidates for directors and senior management, and ensuring that the board of directors and management have the necessary professional ability and integrity to perform their duties. A, C, and D are not the functions of the board nomination committee."
     },
     "source": "v7-bank",
     "tags": []
@@ -3593,8 +3593,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The responsibilities of the board nomination committee include formulating the selection criteria for directors and senior management, searching for and evaluating qualified candidates, recommending candidates to the board of directors, and evaluating the performance of existing directors and senior management. A, C, and D are not the responsibilities of the board nomination committee.",
-      "en": null
+      "zh": "董事会提名委员会的职责包括制定董事和高级管理人员的选拔标准、搜索和评估合格的候选人、向董事会推荐候选人，以及评估现有董事和高级管理人员的表现。A、C、D不是董事会提名委员会的职责。",
+      "en": "*The responsibilities of the board nomination committee include formulating the selection criteria for directors and senior management, searching for and evaluating qualified candidates, recommending candidates to the board of directors, and evaluating the performance of existing directors and senior management. A, C, and D are not the responsibilities of the board nomination committee."
     },
     "source": "v7-bank",
     "tags": []
@@ -3643,8 +3643,8 @@
       "en": null
     },
     "explanation": {
-      "zh": "*The core role of the board nomination committee is to select qualified directors and senior management for the enterprise, ensure that the board of directors and management have the professional ability, experience and integrity required to perform their duties, improve the overall quality of the board of directors and management, and promote the standardized operation of the enterprise. B, C, and D are opposite to the actual role.",
-      "en": null
+      "zh": "董事会提名委员会的核心作用是为企业选拔合格的董事和高级管理人员，确保董事会和管理层具备履职所需的专业能力、经验和诚信品质，提高董事会和管理层的整体素质，促进企业的规范运作。B、C、D与实际作用相反。",
+      "en": "*The core role of the board nomination committee is to select qualified directors and senior management for the enterprise, ensure that the board of directors and management have the professional ability, experience and integrity required to perform their duties, improve the overall quality of the board of directors and management, and promote the standardized operation of the enterprise. B, C, and D are opposite to the actual role."
     },
     "source": "v7-bank",
     "tags": []
@@ -3692,7 +3692,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者参与的核心目的是通过与被投企业互动来改善其ESG表现(A)、降低投资组合的ESG相关风险(B)以及增强长期价值创造能力(D)。短期投机获取超额收益(C)不属于投资者参与的目的，它与ESG投资的长期导向相悖。",
+      "en": "The core purposes of investor engagement include improving the ESG performance of invested companies (A), reducing ESG-related risks in the investment portfolio (B), and enhancing long-term value creation capacity (D). Obtaining excess returns through short-term speculation (C) is not a purpose of investor engagement, as it contradicts the long-term orientation of ESG investing."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3739,7 +3742,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "积极所有权与负面筛选的主要区别在于方式不同：积极所有权通过主动与企业沟通、投票等方式影响企业改善ESG表现；负面筛选则是被动地将不符合ESG标准的资产从投资组合中排除。A说法颠倒，C和D与实际不符。",
+      "en": "The primary difference is the approach: active ownership proactively engages with and influences companies to improve their ESG practices, while negative screening passively excludes assets that do not meet ESG criteria from the investment portfolio. A reverses the descriptions, C and D are inaccurate."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3786,7 +3792,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "在积极所有权的背景下，管理责任(Stewardship)是指投资者有责任监督和影响被投企业，保护长期投资价值。这不仅是追求短期利润(A)，也不是简单地卖出资产(C)或仅依据历史ESG表现选股(D)。",
+      "en": "In the context of active ownership, stewardship refers to the responsibility of investors to monitor and influence invested companies to protect long-term value. It is not about maximizing short-term profits (A), selling underperforming assets (C), or selecting assets based solely on past ESG performance (D)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3833,7 +3842,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者与被投企业的常见互动形式包括与公司高管举行定期会议讨论ESG议题。忽视与管理层的沟通(A)、仅依赖公开报告(C)和拒绝在公司治理提案上投票(D)都不是有效的参与方式。",
+      "en": "Common forms of investor engagement include holding regular meetings with company executives to discuss ESG issues. Ignoring communication with management (A), only relying on public reports (C), and refusing to vote on governance proposals (D) are not effective forms of engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3880,7 +3892,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "积极所有权中的升级技巧是指当企业对初步参与努力未做出回应时，投资者加大施压力度以促使企业采取行动。立即终止参与(A)、降低参与程度(C)和仅关注短期财务收益(D)都不符合升级技巧的目的。",
+      "en": "Escalation techniques in active ownership are used to increase pressure on a company that fails to respond to initial engagement efforts, encouraging the company to take action. Ending engagement immediately (A), reducing involvement (C), and focusing solely on short-term gains (D) do not describe escalation techniques."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3927,7 +3942,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "股东决议是积极所有权的重要工具，典型例子是股东提交提案要求公司披露其碳排放目标。董事会决定增加股息(B)、管理层请求股东批准新CEO(C)和投资者计划卖出股份(D)都不属于股东决议。",
+      "en": "Shareholder resolutions are an important tool of active ownership. A typical example is a proposal submitted by shareholders requesting the company to disclose its carbon emissions targets. Board decisions on dividends (B), management requests for CEO approval (C), and plans to sell shares (D) are not shareholder resolutions."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3974,7 +3992,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "积极所有权对投资者的主要好处在于通过改善被投企业的ESG表现和治理水平，降低投资组合的风险，从而提高风险调整后收益。消除所有投资风险(A)、保证短期利润(C)和减少ESG分析需求(D)都不是积极所有权的真实收益。",
+      "en": "The main benefit of active ownership for investors is improving risk-adjusted returns of the investment portfolio by driving positive ESG changes in invested companies. Eliminating all risks (A), guaranteeing short-term profits (C), and reducing the need for ESG analysis (D) are not realistic benefits."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4021,7 +4042,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者参与的一个潜在局限性是需要投入大量时间和资源才能有效实施。总是能立即改善公司ESG表现(B)、消除投资组合多元化需求(C)和保证比被动投资更高的回报(D)都不是正确的局限性描述。",
+      "en": "A potential limitation of investor engagement is that it requires significant time and resources to implement effectively. Always leading to immediate ESG improvements (B), eliminating the need for diversification (C), and guaranteeing higher returns than passive investing (D) are not accurate limitations."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4068,7 +4092,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者参与过程通常涉及公司管理层和董事会(A)、其他机构投资者(B)以及个人散户投资者(C)。被投企业的竞争对手(D)通常不参与投资者互动过程，因为他们与被投企业存在利益冲突。",
+      "en": "Investor engagement processes typically involve company management and the board (A), other institutional investors (B), and individual retail investors (C). Competitors of the invested company (D) are not typically involved, as they have conflicts of interest with the invested company."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4115,7 +4142,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "协作参与与个人参与的主要区别是：协作参与由多个投资者共同合作与企业互动，汇集资源和影响力；个人参与则由单一投资者独立进行。A说反了，C和D的描述不准确。",
+      "en": "The key difference is that collaborative engagement involves multiple investors working together to engage a company, pooling resources and influence, while individual engagement is done by a single investor. A reverses the descriptions, C and D are inaccurate."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4162,7 +4192,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "根据CFA ESG v7，有效管理责任的关键原则包括定期监控被投企业的ESG和治理表现。优先考虑短期利润(A)、避免与管理层沟通(C)和仅关注财务指标(D)都不是有效管理责任的原则。",
+      "en": "According to CFA ESG v7, a key principle of effective stewardship is regular monitoring of invested companies' ESG and governance performance. Prioritizing short-term profits (A), avoiding communication with management (C), and focusing solely on financial metrics (D) are not principles of effective stewardship."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4209,7 +4242,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "提交股东决议(A)、公开批评公司的ESG实践(B)和从公司撤资(D)都是积极所有权中升级策略的形式。增持公司股份(C)不属于升级策略，它表示增加投资而非施加压力。",
+      "en": "Filing a shareholder resolution (A), publicly criticizing the company's ESG practices (B), and divesting from the company (D) are all forms of escalation in active ownership. Increasing holdings in the company (C) is not an escalation technique, as it represents increasing investment rather than applying pressure."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4256,7 +4292,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投票在积极所有权中发挥着重要作用，它使投资者能够表达对公司治理和ESG提案的意见和立场。投票并非对决策无影响的被动策略(A)，也不仅用于批准股息(C)，更不能替代与管理层的直接互动(D)。",
+      "en": "Voting plays an important role in active ownership by allowing investors to express their views on corporate governance and ESG proposals. It is not a passive strategy with no impact (A), not only used for dividends (C), and does not eliminate the need for direct engagement (D)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4303,7 +4342,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "积极所有权与ESG整合是相互补充的关系：ESG整合为有效的积极所有权提供了必要的分析基础和信息支持，帮助投资者识别需要关注的ESG问题。两者不是互斥策略(A)，也不是同一概念(C、D)。",
+      "en": "Active ownership and ESG integration are complementary: ESG integration provides the analysis needed for effective active ownership, helping investors identify ESG issues that require attention. They are not mutually exclusive (A), nor does one focus solely on financial/non-financial metrics (C), and ESG integration is not a form of active ownership (D)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4350,7 +4392,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "与上市公司相比，参与非上市公司面临的主要挑战是非上市公司的ESG信息披露通常较少，透明度较低，投资者获取信息的渠道有限。非上市公司并非没有ESG风险(A)，也不一定更透明(B)，且通常不需要召开年度股东大会(D)。",
+      "en": "The key challenge of engaging with private companies compared to public companies is that private companies often have less public disclosure of ESG information, making it harder for investors to access relevant data. Private companies do have ESG risks (A), are not necessarily more transparent (B), and are not required to hold annual general meetings (D)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4397,7 +4442,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "公司董事会缺乏独立董事是典型的治理(G)问题，可通过积极所有权来推动解决。碳排放(A)属于环境问题，供应链劳工实践(B)属于社会问题，水使用(D)属于环境问题。",
+      "en": "A lack of independent directors on the company's board is a typical governance (G) issue that can be addressed through active ownership. Carbon emissions (A) are an environmental issue, labor practices in the supply chain (B) are a social issue, and water usage (D) is an environmental issue."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4444,7 +4492,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者衡量参与效果的方式是评估公司在ESG实践和治理方面的变化。仅关注短期财务回报(A)、与管理层会议次数(C)和参与花费金额(D)都不是衡量参与效果的正确方式。",
+      "en": "Investors measure the effectiveness of their engagement by assessing changes in the company's ESG practices and governance. Focusing solely on short-term returns (A), counting meetings held (C), and measuring money spent (D) are not appropriate measures of engagement effectiveness."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4491,7 +4542,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "资产管理人在积极所有权方面的核心责任是在与企业互动时，始终以客户的最佳利益为出发点行事。忽视被投企业的ESG表现(A)、优先考虑自身利润(C)和避免任何形式的股东投票(D)都不符合资产管理人的核心责任。",
+      "en": "A core responsibility of asset managers in active ownership is acting in the best interests of their clients when engaging with companies. Ignoring ESG performance (A), prioritizing their own profits (C), and avoiding shareholder voting (D) do not align with asset managers' core responsibilities."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4538,7 +4592,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "协作参与的好处包括增强对目标公司的影响力(A)、投资者之间共享资源和专业知识(B)以及降低单个投资者的参与成本(C)。降低个人投资者的问责性(D)不是协作参与的好处，实际上协作参与通常要求参与者对承诺负责。",
+      "en": "Benefits of collaborative engagement include increased influence on the target company (A), shared resources and expertise (B), and reduced costs for individual investors (C). Reduced accountability for individual investors (D) is not a benefit; collaborative engagement typically requires participants to be accountable for their commitments."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4585,7 +4642,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "在积极所有权背景下，撤资是指因ESG或治理问题未能得到解决而出售公司全部或部分股份的行为。增持股份(A)、与其他投资者协作(B)和提交股东决议(D)都不属于撤资的定义。",
+      "en": "In the context of active ownership, divestment refers to selling all or part of a company's shares due to unresolved ESG or governance concerns. Increasing holdings (A), collaborating with investors (C), and filing shareholder resolutions (D) are not forms of divestment."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4632,7 +4692,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "代理投票在积极所有权中的作用是投资者行使其股东权利，对关键公司提案进行投票。它不是直接选举管理层(A)、不只用于非上市公司(C)，也不能替代与管理层的互动(D)。",
+      "en": "Proxy voting allows investors to exercise their shareholder rights on key corporate proposals in active ownership. It does not allow direct election of management (A), is not only for private companies (C), and does not eliminate the need for engagement with management (D)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4679,7 +4742,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "公司未能披露其气候相关风险是最可能通过投资者参与来解决的ESG问题。历史股价表现(A)、季度收益报告(C)和当前市值(D)是财务信息而非ESG问题，不需要通过参与来解决。",
+      "en": "A company's failure to disclose its climate-related risks is most likely to be addressed through investor engagement. Historical stock price (A), quarterly earnings (C), and market capitalization (D) are financial metrics rather than ESG issues that require engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4726,7 +4792,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "无效的投资者参与可能导致投资组合中风险增加，因为企业未能改善其ESG实践，相关风险持续存在。改善ESG表现(A)是有效参与的结果，短期利润增加(C)和减少管理责任需求(D)都不是无效参与的后果。",
+      "en": "Ineffective investor engagement may lead to increased risk in the investor's portfolio, as the company fails to improve its ESG practices and related risks persist. Improved ESG performance (A) is a result of effective engagement, while higher short-term profits (C) and reduced need for stewardship (D) are not consequences of ineffective engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4773,7 +4842,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "参与升级阶梯是指当初步参与努力失败时，投资者依次使用力度逐渐加大的一系列参与策略，从私下沟通逐步升级到公开批评、提交股东决议乃至撤资。它不是衡量财务表现的工具(B)、不应参与的公司名单(C)或被动投资选择方法(D)。",
+      "en": "The engagement escalation ladder is a sequence of increasingly aggressive engagement tactics used when initial efforts fail, progressing from private dialogue to public criticism, shareholder resolutions, and ultimately divestment. It is not a financial performance tool (B), an avoidance list (C), or a passive investment selection method (D)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4820,7 +4892,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "公司董事会多样性(B)是社会(S)问题的一个例子，可通过积极所有权推动解决。温室气体排放(A)、水污染(C)和森林砍伐(D)都属于环境(E)问题。",
+      "en": "A company's board diversity (B) is an example of a social (S) issue that can be addressed through active ownership. Greenhouse gas emissions (A), water pollution (C), and deforestation (D) are all environmental (E) issues."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4867,7 +4942,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "积极所有权与股东积极主义的区别在于：股东积极主义是积极所有权的一种更为激进的形式，通常涉及更大声势的公开行动。积极所有权不是股东积极主义的子集(A)、两者关注点不仅限于ESG或财务问题(C)，且两个术语含义不同(D)。",
+      "en": "The difference is that shareholder activism is a more aggressive form of active ownership, often involving more public and confrontational actions. Active ownership is not a subset of shareholder activism (A), they do not focus exclusively on ESG or financial issues (C), and the terms are not identical (D)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4914,7 +4992,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "决定是否与企业互动时，ESG或治理问题的重要性(Materiality)是关键考量因素。历史股价(A)、市场份额(C)和季度收入(D)不是决定参与的关键因素，ESG问题的实质性才是核心。",
+      "en": "When deciding to engage with a company, the materiality of the ESG or governance issue is a key factor to consider. Historical stock price (A), market share (C), and quarterly revenue (D) are not key factors; the materiality of the ESG issue is the core consideration."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4961,7 +5042,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者确保参与努力与受信责任一致的方式是通过与企业互动来促进长期价值创造。仅关注短期回报(A)、避免风险管理(C)和优先考虑自身利益(D)都不符合受信责任的要求。",
+      "en": "Investors ensure alignment with fiduciary duties by engaging with companies to promote long-term value creation. Focusing solely on short-term returns (A), avoiding risk management (C), and prioritizing their own interests (D) do not align with fiduciary duties."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5008,7 +5092,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者参与的常见目标包括改善公司ESG信息披露(A)、加强公司治理(C)和缓解ESG相关风险(D)。降低公司长期价值(B)显然不是投资者参与的目标，这与参与的初衷相悖。",
+      "en": "Common goals of investor engagement include improving ESG disclosure (A), enhancing corporate governance (C), and mitigating ESG-related risks (D). Reducing the company's long-term value (B) is clearly not a goal of engagement, as it contradicts the purpose of engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5055,7 +5142,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "鼓励公司采用净零碳目标是环境参与的典型例子。推动员工多样性(A)属于社会参与，倡导高管薪酬实践(B)和要求改善董事会独立性(D)属于治理参与。",
+      "en": "Encouraging a company to adopt a net-zero carbon target is a typical example of environmental engagement. Improving employee diversity (A) is social engagement, while advocating executive compensation practices (C) and requesting improved board independence (D) are governance engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5102,7 +5192,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者参与中透明度的好处在于它使利益相关者能够了解投资者的参与目标和行动，增强问责性和公信力。减少问责(A)、增加参与成本(C)和限制影响力(D)都不是透明度的真实好处。",
+      "en": "The benefit of transparency in investor engagement is that it allows stakeholders to understand the investor's engagement goals and actions, enhancing accountability and credibility. Reducing accountability (A), increasing costs (C), and limiting influence (D) are not true benefits of transparency."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5149,7 +5242,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "与新兴市场企业互动的主要挑战是ESG信息获取渠道有限且治理标准相对薄弱。更强的监管框架(A)、更高的ESG意识(B)和更低的ESG风险(D)都不是新兴市场的实际挑战。",
+      "en": "The key challenge of engaging with companies in emerging markets is limited access to ESG information and weaker governance standards. Stronger regulatory frameworks (A), higher ESG awareness (B), and lower ESG-related risks (D) do not describe challenges of emerging markets."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5196,7 +5292,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "参与监控是指与企业保持跟进，确保其落实双方商定的改变措施。跟踪公司财务表现(A)、参与失败时卖出股份(C)和提交股东决议(D)都不是参与监控的最佳定义。",
+      "en": "Engagement monitoring refers to following up with the company to ensure it implements agreed-upon changes. Tracking financial performance (A), selling shares if engagement fails (C), and filing shareholder resolutions (D) are not the best descriptions of engagement monitoring."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5243,7 +5342,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "联合国负责任投资原则(UN PRI)关于积极所有权的关键原则是投资者应将ESG因素纳入其所有权政策和实践。避免与企业互动(A)、优先短期利润(C)和忽视ESG表现(D)都不符合UN PRI原则。",
+      "en": "A key principle of the UN PRI related to active ownership is that investors should incorporate ESG factors into their ownership policies and practices. Avoiding engagement (A), prioritizing short-term profits (C), and ignoring ESG performance (D) do not align with UN PRI principles."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5290,7 +5392,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "要求公司减少碳足迹(C)属于环境参与，不是治理参与。推动增加独立董事(A)、倡导高管薪酬透明(B)和敦促改善审计委员会监督(D)都属于治理参与。",
+      "en": "Requesting a company to reduce its carbon footprint (C) is environmental engagement, not governance engagement. Pushing for independent directors (A), advocating transparent executive compensation (B), and urging improved audit committee oversight (D) are all governance engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5337,7 +5442,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "积极所有权通过推动企业实现积极的ESG变革和促进长期可持续发展，为可持续投资做出贡献。排除所有有ESG风险的公司(A)、仅关注财务回报(C)和避免与企业互动(D)都不是积极所有权的贡献方式。",
+      "en": "Active ownership contributes to sustainable investing by driving positive ESG changes in companies and promoting long-term sustainability. Excluding all companies with ESG risks (A), focusing solely on financial returns (C), and avoiding engagement (D) do not describe how active ownership contributes."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5384,7 +5492,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "互动对目标公司的潜在好处包括改善ESG表现和企业声誉。增加监管风险(A)、减少资本获取渠道(C)和提高运营成本(D)都不是参与的潜在好处。",
+      "en": "Potential benefits of engagement for the target company include improved ESG performance and reputation. Increased regulatory risk (A), reduced access to capital (C), and higher operational costs (D) are not benefits of engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5431,7 +5542,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "制定参与策略时的关键考量包括ESG问题的重要性和企业参与意愿。短期股价波动(A)、投资者短期财务目标(B)和持股数量(D)都不是制定参与策略的关键考量因素。",
+      "en": "Key considerations when developing an engagement strategy include the materiality of the ESG issue and the company's willingness to engage. Short-term stock price movements (A), investor's short-term financial goals (B), and number of shares held (D) are not key considerations."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5478,7 +5592,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "代理投票建议是指独立机构为投资者提供关于如何在股东提案上投票的指导。公司管理层建议(A)、撤资策略(B)和选择参与公司(D)都不是代理投票建议的定义。",
+      "en": "Proxy advice refers to independent guidance for investors on how to vote on shareholder proposals. Advice from company management (A), a divestment strategy (C), and a method to select companies for engagement (D) are not definitions of proxy advice."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5525,7 +5642,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者参与成功的典型结果是公司在投资者互动后实施了新的多元化与包容政策。公司忽视投资者请求(A)、投资者撤资(C)和公司股价下跌(D)都不是成功的参与结果。",
+      "en": "A successful engagement outcome is a company implementing a new diversity and inclusion policy after investor engagement. A company ignoring requests (A), an investor divesting (C), and a stock price decline (D) are not successful engagement outcomes."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5572,7 +5692,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "机构投资者在积极所有权中的作用是利用其大规模持股的影响力来推动企业改善ESG实践和治理水平。避免互动(A)、仅关注短期回报(C)和将参与责任委托给散户(D)都不是机构投资者应发挥的作用。",
+      "en": "The role of institutional investors in active ownership is to use their large holdings to influence companies' ESG and governance practices. Avoiding engagement (A), focusing solely on short-term returns (C), and delegating to retail investors (D) are not the roles institutional investors should play."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5619,7 +5742,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "股东决议作为参与工具的局限性在于需要大量资源来准备和推动。通过太容易(A)、总是能立即改变公司实践(C)和仅对散户开放(D)都不是股东决议的真实局限性。",
+      "en": "A limitation of shareholder resolutions as an engagement tool is that they require significant resources to prepare and promote. Being too easy to pass (A), always resulting in immediate changes (C), and being only available to retail investors (D) are not accurate limitations."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5666,7 +5792,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "撤资是积极所有权的一种形式，通常作为升级技术在其他参与手段无效时使用。两者不是互斥策略(B)、撤资不是替代积极所有权的被动策略(C)，积极所有权也不一定总是导致撤资(D)。",
+      "en": "Divestment is a form of active ownership, used as an escalation technique when other engagement methods prove ineffective. They are not mutually exclusive strategies (B), divestment is not a passive replacement for active ownership (C), and active ownership does not always lead to divestment (D)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5713,7 +5842,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "气候变化风险和碳排放是对化石燃料公司最为重要的(Material)ESG议题。技术部门的员工多样性(A)、零售部门的董事会多样性(C)和办公楼的用水量(D)对化石燃料公司的实质性较低。",
+      "en": "Climate change risk and carbon emissions are the most material ESG issues for a fossil fuel company. Employee diversity in tech (A), board diversity in retail (C), and office building water usage (D) have lower materiality for a fossil fuel company."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5760,7 +5892,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "有效参与计划的关键组成部分包括明确的跟进和监控时间表。没有明确目标(A)、避免与管理层沟通(C)和关注非实质性ESG问题(D)都不是有效参与计划的组成部分。",
+      "en": "A key component of an effective engagement plan is a timeline for follow-up and monitoring. No clear goals (A), avoiding communication with management (C), and focusing on non-material issues (D) are not components of an effective engagement plan."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5807,7 +5942,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "积极所有权能够推动企业改善其ESG实践和治理水平，对企业行为产生积极影响。对企业无影响(A)、总是导致利润下降(C)和迫使企业仅关注短期目标(D)都不是积极所有权对企业行为的真实影响。",
+      "en": "Active ownership can drive companies to improve their ESG practices and governance, having a positive impact on corporate behavior. No impact (A), always decreasing profits (C), and forcing short-term focus (D) are not accurate descriptions of active ownership's impact."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5854,7 +5992,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "协作参与倡议的典型例子是一群机构投资者就气候变化问题联合与企业互动。单一投资者会面(A)、独自提交股东决议(C)和因ESG问题撤资(D)都不是协作参与的例子。",
+      "en": "An example of collaborative engagement is a group of institutional investors jointly engaging a company on climate change. A single investor meeting (A), filing a resolution alone (C), and divesting due to ESG concerns (D) are not examples of collaborative engagement."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5901,7 +6042,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "投资者在管理责任方面的关键职责是监控并追究企业管理层在ESG和治理实践方面的责任。忽视ESG表现(A)、优先短期利润(C)和回避股东投票(D)都不符合管理责任的要求。",
+      "en": "A key responsibility of investors in terms of stewardship is to monitor and hold company management accountable for ESG and governance practices. Ignoring ESG performance (A), prioritizing short-term profits (C), and avoiding voting (D) do not align with stewardship responsibilities."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -5948,7 +6092,10 @@
       "zh": "*5.积极所有权与参与",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "随着投资者越来越关注ESG和长期价值，积极所有权的重要性将持续增长。随着被动投资增长而变得不重要(A)、被负面筛选取代(C)和仅关注财务指标(D)都不是积极所有权的未来趋势。",
+      "en": "Active ownership will continue to grow in importance as investors focus more on ESG and long-term value. Becoming less important with passive investing growth (A), being replaced by negative screening (C), and focusing solely on financial metrics (D) are not the future trends of active ownership."
+    },
     "source": "v7-bank",
     "tags": []
   }

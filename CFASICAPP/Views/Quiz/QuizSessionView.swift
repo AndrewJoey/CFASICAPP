@@ -1,10 +1,20 @@
 import SwiftUI
 import SwiftData
+import Combine
 
 struct QuizSessionView: View {
     @Environment(\.dismiss) private var dismiss
     @Bindable var viewModel: StudyViewModel
     @Environment(\.modelContext) private var modelContext
+    @State private var showExitConfirmation = false
+    @State private var elapsedSeconds: Int = 0
+    @State private var timer: Timer?
+
+    private var timerDisplay: String {
+        let minutes = elapsedSeconds / 60
+        let seconds = elapsedSeconds % 60
+        return String(format: "%d:%02d", minutes, seconds)
+    }
 
     var body: some View {
         Group {
@@ -14,12 +24,51 @@ struct QuizSessionView: View {
                     onDismiss: { dismiss() },
                     onRetry: { viewModel.retrySameSession(modelContext: modelContext) }
                 )
+            } else if viewModel.questions.isEmpty {
+                ContentUnavailableView(
+                    "没有题目",
+                    systemImage: "questionmark.circle",
+                    description: Text("所选模式下没有可用题目")
+                )
             } else if let question = viewModel.currentQuestion {
                 questionView(question)
             }
         }
         .navigationTitle("第 \(viewModel.currentIndex + 1)/\(viewModel.questions.count) 题")
         .navigationBarTitleDisplayMode(.inline)
+        .toolbar {
+            ToolbarItem(placement: .cancellationAction) {
+                Button("退出") { showExitConfirmation = true }
+            }
+            ToolbarItem(placement: .principal) {
+                Text(timerDisplay)
+                    .font(.caption)
+                    .monospacedDigit()
+                    .foregroundStyle(.secondary)
+            }
+        }
+        .onAppear { startTimer() }
+        .onDisappear { stopTimer() }
+        .alert("确认退出", isPresented: $showExitConfirmation) {
+            Button("取消", role: .cancel) {}
+            Button("退出", role: .destructive) { dismiss() }
+        } message: {
+            Text("退出后本次答题进度将丢失")
+        }
+    }
+
+    // MARK: - Timer
+
+    private func startTimer() {
+        elapsedSeconds = 0
+        timer = Timer.scheduledTimer(withTimeInterval: 1, repeats: true) { _ in
+            elapsedSeconds = Int(viewModel.sessionElapsed)
+        }
+    }
+
+    private func stopTimer() {
+        timer?.invalidate()
+        timer = nil
     }
 
     @ViewBuilder

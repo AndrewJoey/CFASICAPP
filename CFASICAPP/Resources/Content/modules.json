@@ -103,7 +103,7 @@
       "en": "Engagement and Stewardship"
     },
     "examWeight": "~10%",
-    "questionCount": 0,
+    "questionCount": 30,
     "questionsFile": "questions/module-05.json",
     "content": [
       {

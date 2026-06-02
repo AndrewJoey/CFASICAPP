@@ -42,7 +42,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。劳工问题导致消费者抵制属于社会(S)因素，直接影响公司收入和估值。A是环境(E)因素（碳排放目标未达标）；B是治理(G)因素（董事会缺乏独立性）；D是财务指标（高负债权益比率）与ESG无关。考生需区分E、S、G三类因素。",
+      "en": "C is correct. A consumer boycott due to poor labor practices is a social (S) factor that directly impacts revenue and valuation. A is an environmental (E) factor (carbon emissions targets); B is a governance (G) factor (lack of board independence); D is a financial metric (high debt-to-equity ratio), unrelated to ESG. Candidates must distinguish between E, S, and G factors."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -89,7 +92,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG分析在投资组合构建中的作用是将ESG因素纳入资产配置和证券选择，以构建更具韧性的投资组合。A过于绝对（ESG无法消除所有非财务风险）；C过于限制（不要求仅投资ESG表现完美的公司）；D错误（ESG是补充而非替代传统方法）。",
+      "en": "B is correct. ESG analysis in portfolio construction involves incorporating ESG factors into asset allocation and security selection to build more resilient portfolios. A is too absolute (ESG cannot eliminate all non-financial risks); C is too restrictive (perfect ESG performance is not required); D is wrong (ESG complements rather than replaces traditional methods)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -136,7 +142,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。GRI采用双重重要性概念，既考虑ESG因素对公司财务的影响，也考虑公司对社会和环境的影响。TCFD(A)聚焦气候相关财务披露；SASB(C)关注财务重要性；UN PRI(D)是投资者责任投资原则。双重重要性是GRI的标志性特征。",
+      "en": "B is correct. GRI adopts the double materiality concept, considering both the financial impact of ESG factors on the company and the company's impact on society and the environment. TCFD (A) focuses on climate-related financial disclosures; SASB (C) focuses on financial materiality; UN PRI (D) provides responsible investment principles. Double materiality is GRI's hallmark feature."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -183,7 +192,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。公司自我报告的ESG数据可能存在偏差，企业倾向于强调正面ESG表现而淡化负面方面。A过于绝对（并非总是不准确）；C错误（上市公司确实会披露ESG数据）；D错误（问题不在于数据过于详细）。投资者需结合第三方数据交叉验证。",
+      "en": "B is correct. Company self-reported ESG data may be biased, as firms tend to emphasize positive ESG performance while downplaying negative aspects. A is too absolute (not always inaccurate); C is wrong (public companies do disclose ESG data); D is wrong (the issue is not excessive detail). Investors should cross-verify with third-party data."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -230,7 +242,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG整合是将ESG因素融入财务分析，而主题投资是围绕特定ESG主题（如可再生能源）构建投资组合。A将两者定义颠倒；C错误（两者均不限于特定资产类别）；D错误（ESG整合并不忽略财务表现）。区分ESG投资策略是考试重点。",
+      "en": "B is correct. ESG integration incorporates ESG factors into financial analysis, while thematic investing builds portfolios around specific ESG themes (e.g., renewable energy). A reverses the definitions; C is wrong (neither is limited to specific asset classes); D is wrong (ESG integration does not ignore financial performance). Distinguishing ESG investment strategies is an exam focus."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -277,7 +292,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。气候相关信用风险是银行机构最重要的环境因素，直接影响贷款组合质量和信用风险。A（制造业碳排放）对银行不具行业相关性；C（农业供应链劳工问题）与银行业务无关；D（废物管理）同样不是银行的核心ESG议题。ESG重要性因行业而异。",
+      "en": "B is correct. Climate-related credit risk is the most material environmental factor for banking institutions, directly affecting loan portfolio quality and credit risk. A (manufacturing carbon emissions) is not industry-relevant for banks; C (agricultural labor practices) is unrelated to banking; D (waste management) is not a core banking ESG issue. ESG materiality varies by industry."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -324,7 +342,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG数据质量差会增加不确定性，投资者会要求更高的折现率来补偿风险，从而降低估值。A错误（数据质量确实影响估值）；C逻辑错误（质量差不会导致更高估值）；D错误（良好的ESG数据不会降低估值）。数据质量是ESG估值的关键前提。",
+      "en": "B is correct. Poor ESG data quality increases uncertainty, leading investors to demand a higher discount rate to compensate for risk, thereby lowering valuation. A is wrong (data quality does affect valuation); C is logically incorrect (poor quality does not lead to higher valuation); D is wrong (good ESG data does not decrease valuation). Data quality is a key prerequisite for ESG valuation."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -371,7 +392,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。在私募债务投资中，ESG整合的核心是评估ESG因素对发行人偿债能力的影响。A过于绝对（不应排除所有ESG表现差的发行人）；C过于限制（仅投资最高ESG评级的发行人不切实际）；D错误（ESG因素确实会影响私募债务回报）。",
+      "en": "B is correct. In private debt investing, ESG integration means assessing the impact of ESG factors on the issuer's ability to repay debt. A is too absolute (excluding all poor ESG issuers is impractical); C is too restrictive (only investing in highest-rated issuers is unrealistic); D is wrong (ESG factors do affect private debt returns)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -418,7 +442,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。员工留存率是社会(S)因素的关键指标，反映公司人力资本管理能力。A（碳排放强度）是环境(E)指标；C（董事会独立性比率）是治理(G)指标；D（资产回报率）是财务指标而非ESG指标。考生需准确归类各指标所属的E、S或G类别。",
+      "en": "B is correct. Employee retention rate is a key social (S) factor metric, reflecting a company's human capital management capability. A (carbon intensity) is an environmental (E) metric; C (board independence ratio) is a governance (G) metric; D (return on assets) is a financial metric, not ESG. Candidates must correctly classify metrics into E, S, or G categories."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -465,7 +492,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG重要性评估是识别和优先排序最可能影响公司财务表现或长期价值的ESG因素的过程。A描述的是ESG评级排序；C描述的是ESG数据比较；D描述的是ESG财务影响衡量。这些都不是重要性评估的核心定义。理解重要性评估的概念是ESG分析的基础。",
+      "en": "B is correct. ESG materiality assessment is the process of identifying and prioritizing ESG factors most likely to impact a company's financial performance or long-term value. A describes ESG rating ranking; C describes ESG data comparison; D describes measuring financial impact. None captures the core definition. Understanding materiality assessment is fundamental to ESG analysis."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -512,7 +542,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。REITs面临的主要ESG挑战是不同物业类型（如住宅vs商业）的ESG数据存在差异，导致标准化比较困难。A和B明显错误（REITs确实有ESG风险且影响估值）；D错误（REITs并非被要求披露所有ESG数据）。理解不同资产类别的ESG挑战是考试重点。",
+      "en": "C is correct. The main ESG challenge for REITs is the variability in ESG data across different property types (e.g., residential vs. commercial), making standardized comparisons difficult. A and B are clearly wrong (REITs do have ESG risks that affect valuations); D is wrong (REITs are not required to disclose all ESG data). Understanding ESG challenges across asset classes is an exam focus."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -559,7 +592,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "A是正确答案。良好的ESG表现可能带来更高的市净率(P/B)，因为投资者认可账面价值未反映的无形资产（如品牌声誉、人力资本）。B逻辑错误（良好ESG不会导致更低P/B）；C错误（ESG确实影响估值倍数）；D逻辑错误（ESG差不会导致更高P/B）。ESG对估值倍数的影响是重要考点。",
+      "en": "A is correct. Good ESG performance may lead to a higher P/B multiple because investors value intangible assets (e.g., reputation, human capital) not captured in book value. B is logically incorrect (good ESG does not lower P/B); C is wrong (ESG does affect valuation multiples); D is logically incorrect (poor ESG does not raise P/B). ESG's impact on valuation multiples is an important exam topic."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -606,7 +642,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "A是正确答案。实施节能技术降低运营成本是环境因素对估值产生正面影响的典型例子，直接提升现金流和盈利能力。B（面临环保罚款）是负面影响；C（碳排放增加）是负面影响；D（使用不可再生能源）增加转型风险。ESG分析需识别正面和负面因素。",
+      "en": "A is correct. Implementing energy-efficient technologies that reduce operational costs is a classic example of an environmental factor positively impacting valuation by directly improving cash flows and profitability. B (regulatory fines) is negative; C (increased carbon emissions) is negative; D (using non-renewable energy) increases transition risk. ESG analysis must identify both positive and negative factors."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -653,7 +692,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG评级为ESG分析提供起点，但需结合财务分析和行业分析进行补充。A过于绝对（评级不应是唯一决策依据）；C错误（评级不能替代财务分析）；D错误（评级与ESG整合密切相关）。考生需理解ESG评级在投资流程中的定位。",
+      "en": "B is correct. ESG ratings provide a starting point for ESG analysis, complemented by financial and industry analysis. A is too absolute (ratings should not be the sole decision basis); C is wrong (ratings cannot replace financial analysis); D is wrong (ratings are closely related to ESG integration). Candidates must understand the role of ESG ratings in the investment process."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -700,7 +742,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。GRI聚焦双重重要性（公司对社会的影响及社会对公司的反影响），SASB聚焦财务重要性（仅关注影响财务表现的ESG因素）。A颠倒了（GRI是综合框架，SASB是行业特定的）；C错误（两者均面向多方利益相关者）；D错误（两者均覆盖E、S、G三类因素）。",
+      "en": "B is correct. GRI focuses on double materiality (company's impact on society and vice versa), while SASB focuses on financial materiality (only ESG factors affecting financial performance). A is reversed (GRI is comprehensive, SASB is industry-specific); C is wrong (both serve multiple stakeholders); D is wrong (both cover E, S, and G factors)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -747,7 +792,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。药品可及性是制药公司最重要的社会(S)因素，直接影响公司声誉、监管关系和市场份额。A（制造业碳排放）虽相关但非制药行业核心议题；C（农业用水）与制药业关系不大；D（董事会独立性）是治理因素但非制药行业特有。行业特定重要性是ESG分析的核心。",
+      "en": "B is correct. Access to affordable medicines is the most material social (S) factor for pharmaceutical companies, directly affecting reputation, regulatory relations, and market share. A (manufacturing carbon emissions) is relevant but not core to pharma; C (agricultural water usage) is less related; D (board independence) is a governance factor but not pharma-specific. Industry-specific materiality is central to ESG analysis."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -794,7 +842,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。投资者应分析各评级机构的方法论以理解差异原因，并调和不同评级结果。A错误（不应忽略差异）；C过于极端（不应因此排除公司）；D错误（不应假定最低评级最准确）。理解ESG评级差异的原因是ESG整合的重要技能。",
+      "en": "B is correct. Investors should analyze the methodologies of each provider to understand differences and reconcile the ratings. A is wrong (differences should not be ignored); C is too extreme (companies should not be excluded solely for this reason); D is wrong (the lowest rating should not be assumed most accurate). Understanding ESG rating differences is a critical ESG integration skill."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -841,7 +892,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG估值溢价是指ESG表现优秀的公司因风险较低、长期价值更高而获得的估值溢价。A描述的是ESG折价而非溢价；C与数据提供商费用无关；D逻辑错误（良好ESG表现不会导致估值折价）。理解ESG溢价/折价机制是估值整合的关键。",
+      "en": "B is correct. The ESG valuation premium refers to the higher valuation paid for companies with strong ESG performance, reflecting lower risk and higher long-term value. A describes an ESG discount, not premium; C relates to data provider fees, not valuation; D is logically incorrect (good ESG does not lead to a discount). Understanding ESG premium/discount mechanisms is key to valuation integration."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -888,7 +942,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。风险投资面临的主要ESG挑战是早期公司通常ESG数据有限、ESG实践不成熟，难以进行全面评估。A错误（VC确实可以影响被投公司的ESG实践）；C错误（ESG因素确实影响早期公司价值）；D错误（越来越多的VC投资者关注ESG因素）。",
+      "en": "B is correct. The main ESG challenge in venture capital is that early-stage companies often have limited ESG data and immature ESG practices, making comprehensive assessment difficult. A is wrong (VCs can influence portfolio company ESG practices); C is wrong (ESG factors do affect early-stage company value); D is wrong (increasingly more VC investors consider ESG factors)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -935,7 +992,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。高管薪酬结构奖励短期利润而忽视长期价值是治理(G)因素，可能导致过度冒险行为，影响公司长期现金流。A是环境因素；C是社会因素（员工流失率）；D是社会因素（社区项目）。治理因素通过影响管理层决策间接影响现金流。",
+      "en": "B is correct. Executive compensation rewarding short-term profits over long-term value is a governance (G) factor that may encourage excessive risk-taking, affecting long-term cash flows. A is an environmental factor; C is a social factor (employee turnover); D is a social factor (community programs). Governance factors indirectly affect cash flows through management decisions."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -982,7 +1042,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG数据在风险管理中的作用是识别传统风险指标（如波动率）无法捕捉的非财务风险。A过于绝对（ESG不能消除所有风险）；C错误（应同时关注E、S、G三类风险）；D错误（ESG是补充而非替代传统风险管理）。ESG风险识别是投资管理的重要补充。",
+      "en": "B is correct. ESG data in risk management identifies non-financial risks not captured by traditional risk metrics (e.g., volatility). A is too absolute (ESG cannot eliminate all risks); C is wrong (all E, S, and G risks should be considered); D is wrong (ESG complements rather than replaces traditional risk management). ESG risk identification is an important supplement to investment management."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1029,7 +1092,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。UN PRI（联合国负责任投资原则）是专门指导投资者ESG整合实践的框架，提供六大原则供投资者签署和遵循。GRI(A)和SASB(B)主要面向企业报告；TCFD(D)聚焦气候相关披露。区分面向投资者和面向企业的ESG框架是考试重点。",
+      "en": "C is correct. UN PRI (Principles for Responsible Investment) is specifically designed to guide investors' ESG integration practices, providing six principles for investors to sign and follow. GRI (A) and SASB (B) primarily target corporate reporting; TCFD (D) focuses on climate-related disclosures. Distinguishing investor-focused and company-focused ESG frameworks is an exam focus."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1076,7 +1142,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。第三方ESG数据提供商提供标准化和经验证的数据，便于跨公司比较。A错误（第三方数据通常需要付费）；C过于绝对（不一定总是比自我报告更准确）；D错误（第三方数据覆盖范围广泛，不仅限于大盘股）。第三方数据是ESG分析的重要数据来源。",
+      "en": "B is correct. Third-party ESG data providers offer standardized and verified data, facilitating cross-company comparisons. A is wrong (third-party data typically requires payment); C is too absolute (not always more accurate than self-reported data); D is wrong (coverage extends beyond large-cap companies). Third-party data is an important ESG analysis source."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1123,7 +1192,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG表现差会增加公司的资本成本，因为投资者会要求更高的风险溢价来补偿额外的ESG风险。A逻辑错误（良好ESG应降低而非增加资本成本）；C错误（ESG确实影响资本成本）；D表述矛盾。ESG与资本成本的关系是估值核心考点。",
+      "en": "B is correct. Poor ESG performance increases the cost of capital, as investors demand a higher risk premium to compensate for additional ESG risks. A is logically incorrect (good ESG should lower, not increase, cost of capital); C is wrong (ESG does affect cost of capital); D is contradictory in wording. The ESG-cost of capital relationship is a core valuation exam topic."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1170,7 +1242,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。在大宗商品投资中，ESG整合是评估商品生产商（如矿业公司）的ESG风险以评估供应链稳定性。A过于极端（不应排除所有有ESG风险的商品）；C不切实际（仅投资最高ESG评级的商品不可行）；D错误（ESG因素确实影响商品投资回报）。",
+      "en": "B is correct. In commodity investing, ESG integration means assessing ESG risks of commodity producers (e.g., mining companies) to evaluate supply chain stability. A is too extreme (excluding all commodities with ESG risks is impractical); C is unrealistic (only investing in highest-rated commodities is infeasible); D is wrong (ESG factors do affect commodity investment returns)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1217,7 +1292,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "D是正确答案。ESG数据缺口指的是特定公司或行业缺乏必要的ESG数据，使分析难以进行。A描述的是ESG评级与财务表现的差异；B描述的是数据标准化问题；C描述的是评级差异。这些都是ESG数据挑战，但不是数据缺口的定义。准确理解ESG术语是考试基础。",
+      "en": "D is correct. The ESG data gap refers to the missing ESG data for a specific company or industry, making analysis difficult. A describes the gap between ESG ratings and financial performance; B describes standardization issues; C describes rating discrepancies. These are ESG data challenges but not the definition of data gap. Accurate understanding of ESG terminology is an exam foundation."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1264,7 +1342,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。固定收益投资者ESG整合的关键原则是评估ESG因素对发行人信用状况和违约概率的影响。A错误（ESG因素确实影响信用风险）；C错误（应同时关注E、S、G三类因素）；D过于极端（不应排除所有ESG表现差的发行人）。ESG在固定收益中的应用是重要考点。",
+      "en": "B is correct. The key principle of ESG integration for fixed-income investors is assessing the impact of ESG factors on the issuer's creditworthiness and default probability. A is wrong (ESG factors do affect credit risk); C is wrong (all E, S, and G factors should be considered); D is too extreme (not all poor ESG issuers should be excluded). ESG application in fixed income is an important exam topic."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1311,7 +1392,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。供应链可持续性（如可持续农业、公平贸易）是食品饮料行业最重要的ESG因素，直接影响原材料供应、品牌声誉和消费者信任。A（电厂碳排放）与食品饮料行业关联度低；C（数据隐私）虽重要但非核心行业议题；D（董事会独立性）是通用治理因素。",
+      "en": "B is correct. Supply chain sustainability (e.g., sustainable agriculture, fair trade) is the most material ESG factor for food and beverage companies, directly affecting raw material supply, brand reputation, and consumer trust. A (power plant carbon emissions) is less relevant; C (data privacy) is important but not a core industry issue; D (board independence) is a general governance factor."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1358,7 +1442,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。定性ESG数据用于补充定量ESG数据，帮助投资者深入了解公司的ESG实践和文化。A错误（不应仅依赖定性数据）；C错误（定性数据不能替代定量数据）；D错误（定性数据不应取代定量数据）。定量与定性数据的结合是ESG分析的最佳实践。",
+      "en": "B is correct. Qualitative ESG data complements quantitative ESG data, helping investors gain insights into a company's ESG practices and culture. A is wrong (decisions should not rely solely on qualitative data); C is wrong (qualitative data cannot replace quantitative data); D is wrong (qualitative data should not override quantitative data). Combining quantitative and qualitative data is ESG analysis best practice."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1405,7 +1492,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG估值调整的局限性在于依赖对ESG因素财务影响的主观假设，不同分析师可能得出不同结论。A错误（ESG估值调整并不简单）；C过于绝对（不一定总是导致更高估值）；D错误（ESG估值调整适用于各种规模的公司）。主观性是ESG估值的核心挑战。",
+      "en": "B is correct. The limitation of ESG valuation adjustments is their reliance on subjective assumptions about the financial impact of ESG factors, leading different analysts to different conclusions. A is wrong (ESG valuation adjustments are not simple); C is too absolute (not always leading to higher valuation); D is wrong (applicable to companies of all sizes). Subjectivity is a core challenge in ESG valuation."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1452,7 +1542,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG表现差会增加债务成本，因为贷款人会要求更高的风险溢价来补偿更高的信用风险。A逻辑错误（良好ESG应降低而非增加债务成本）；C错误（ESG确实影响债务成本）；D表述矛盾。ESG与信用利差的关系是固定收益分析重点。",
+      "en": "B is correct. Poor ESG performance increases the cost of debt, as lenders demand a higher premium for increased credit risk. A is logically incorrect (good ESG should lower, not increase, cost of debt); C is wrong (ESG does affect cost of debt); D is contradictory in wording. The ESG-credit spread relationship is a fixed income analysis focus."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1499,7 +1592,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "A是正确答案。强大且独立的董事会提供有效监督，是治理因素对估值产生正面影响的典型例子，能降低代理成本和治理风险。B、C、D均为负面治理因素——薪酬透明度不足、内部人主导的董事会、审计委员会监督缺失都会降低估值。治理质量直接影响公司长期价值。",
+      "en": "A is correct. A strong and independent board providing effective oversight is a classic governance factor positively impacting valuation by reducing agency costs and governance risks. B, C, and D are all negative governance factors. Lack of compensation transparency, insider-dominated board, and absent audit oversight all lower valuation. Governance quality directly affects long-term company value."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1546,7 +1642,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。新兴市场ESG整合的主要挑战是监管框架较弱，导致ESG披露不一致、执法不力。A明显错误（新兴市场公司确实有ESG风险）；B错误（新兴市场ESG数据通常比发达市场更稀缺）；D错误（越来越多的新兴市场投资者开始关注ESG）。",
+      "en": "C is correct. The key challenge of ESG integration in emerging markets is weaker regulatory frameworks leading to inconsistent ESG disclosure and enforcement. A is clearly wrong (emerging market companies do have ESG risks); B is wrong (ESG data is typically scarcer in emerging markets); D is wrong (more emerging market investors are considering ESG)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1593,7 +1692,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG分析在并购中的作用是评估目标公司的ESG风险和机会，这些因素会影响收购价格和并购后整合。A错误（不应忽略ESG因素）；C错误（仅关注财务表现是不完整的）；D错误（ESG尽职调查是财务尽职调查的补充而非替代）。",
+      "en": "B is correct. ESG analysis in M&A assesses the target company's ESG risks and opportunities, which can impact the acquisition price and post-merger integration. A is wrong (ESG factors should not be ignored); C is wrong (focusing only on financial performance is incomplete); D is wrong (ESG due diligence complements, not replaces, financial due diligence)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1640,7 +1742,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。董事会独立性比率是治理(G)因素的关键指标，反映公司治理结构的质量和独立监督能力。A（碳排放强度）是环境(E)指标；B（员工留存率）是社会(S)指标；D（净资产收益率）是财务指标。准确分类ESG指标是ESG分析的基础技能。",
+      "en": "C is correct. Board independence ratio is a key governance (G) metric, reflecting the quality of corporate governance structure and independent oversight capability. A (carbon intensity) is an environmental (E) metric; B (employee retention rate) is a social (S) metric; D (return on equity) is a financial metric. Accurately classifying ESG metrics is a fundamental ESG analysis skill."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1687,7 +1792,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG整合对公司的好处包括提高运营效率和降低成本，例如通过节能措施减少能源支出。A（资本获取减少）是负面影响而非好处；C（监管风险增加）是负面影响；D（品牌声誉降低）是负面影响。ESG整合能为企业创造实质性价值。",
+      "en": "B is correct. Benefits of ESG integration for companies include improved operational efficiency and cost savings, such as reduced energy expenses through energy-saving measures. A (reduced capital access) is a negative impact, not a benefit; C (increased regulatory risk) is negative; D (reduced brand reputation) is negative. ESG integration creates tangible value for companies."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1734,7 +1842,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG整合是将ESG因素融入财务分析，而同类最佳筛选是在各行业中选择ESG表现最好的公司。A将两者定义颠倒（排除ESG表现差的是负面筛选而非ESG整合）；C错误（两者均不限于正面或负面因素）；D错误（两者均适用于多种资产类别）。",
+      "en": "B is correct. ESG integration incorporates ESG factors into financial analysis, while best-in-class screening selects companies with the best ESG performance in their industry. A reverses the definitions (excluding poor ESG performers is negative screening, not ESG integration); C is wrong (neither is limited to positive or negative factors); D is wrong (both apply to multiple asset classes)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1781,7 +1892,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。数据隐私和网络安全是科技公司最重要的治理(G)因素，直接影响用户信任、监管合规和业务模式。A（制造业碳排放）对科技公司相关性较低；C（农业用水）与科技行业无关；D（矿业劳工实践）与科技行业关系不大。行业特定ESG重要性分析是考试核心。",
+      "en": "B is correct. Data privacy and cybersecurity are the most material governance (G) factors for technology companies, directly affecting user trust, regulatory compliance, and business models. A (manufacturing carbon emissions) is less relevant to tech; C (agricultural water usage) is unrelated; D (mining labor practices) is less related to tech. Industry-specific ESG materiality analysis is an exam core topic."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1828,7 +1942,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。投资者通过使用标准化框架和方法论来减少ESG分析中的主观性，提高分析的一致性和可比性。A错误（不应忽略主观因素）；C错误（不应因此排除公司）；D错误（不应假设所有主观因素无关）。标准化是应对ESG主观性的关键手段。",
+      "en": "B is correct. Investors address ESG analysis subjectivity by using standardized frameworks and methodologies to reduce subjectivity and improve consistency and comparability. A is wrong (subjective factors should not be ignored); C is wrong (companies should not be excluded for this reason); D is wrong (not all subjective factors are irrelevant). Standardization is key to addressing ESG subjectivity."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1875,7 +1992,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。TCFD框架的局限性在于它仅关注气候相关因素，忽略了社会和治理因素，无法提供全面的ESG分析。A错误（TCFD不覆盖所有ESG因素）；C错误（TCFD适用于各种规模的公司）；D错误（投资者和企业均可使用TCFD）。理解各ESG框架的适用范围和局限性是考试重点。",
+      "en": "B is correct. The limitation of the TCFD framework is that it focuses solely on climate-related factors, ignoring social and governance factors, and cannot provide comprehensive ESG analysis. A is wrong (TCFD does not cover all ESG factors); C is wrong (TCFD applies to companies of all sizes); D is wrong (both investors and companies use TCFD). Understanding ESG framework scope and limitations is an exam focus."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1922,7 +2042,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。良好的ESG表现改善投资者情绪，增加对公司证券的需求，从而推高价格。A错误（ESG确实影响投资者情绪）；C逻辑错误（ESG表现差不会改善情绪）；D逻辑错误（良好ESG不会恶化情绪）。ESG通过投资者情绪渠道影响估值是行为金融学的重要应用。",
+      "en": "B is correct. Good ESG performance improves investor sentiment, leading to higher demand for the company's securities and higher prices. A is wrong (ESG does affect investor sentiment); C is logically incorrect (poor ESG does not improve sentiment); D is logically incorrect (good ESG does not worsen sentiment). ESG's impact through the investor sentiment channel is an important behavioral finance application."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -1969,7 +2092,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。在基础设施投资中，ESG整合是评估项目的气候适应性（如道路的防洪能力）以评估长期可行性。A过于极端（不应排除所有有ESG风险的项目）；C不切实际（仅投资最高ESG评级项目不可行）；D错误（ESG因素确实影响基础设施投资回报）。",
+      "en": "B is correct. In infrastructure investing, ESG integration means assessing the climate resilience of projects (e.g., flood protection for roads) to evaluate long-term viability. A is too extreme (excluding all projects with ESG risks is impractical); C is unrealistic (only investing in highest-rated projects is infeasible); D is wrong (ESG factors do affect infrastructure investment returns)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2016,7 +2142,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG整合是指将ESG因素纳入投资决策的所有环节，包括分析、估值和风险管理。A描述的是负面筛选策略；C描述的是同类最佳筛选策略；D描述的是不考虑ESG因素的传统方法。准确理解ESG整合的定义是ESG投资的基础。",
+      "en": "B is correct. ESG integration in investment management is a strategy that incorporates ESG factors into all aspects of investment decision-making, including analysis, valuation, and risk management. A describes negative screening; C describes best-in-class screening; D describes traditional methods ignoring ESG. Accurately understanding the definition of ESG integration is fundamental to ESG investing."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2063,7 +2192,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG数据质量的主要挑战是数据往往不一致、不准确或不完整，影响分析的可靠性。A逻辑错误（数据过于标准化不会使比较困难）；C不准确（ESG数据不限于大盘股）；D逻辑错误（数据容易获取不会导致过度依赖）。数据质量是ESG分析面临的核心挑战。",
+      "en": "B is correct. The key challenge of ESG data quality is that data is often inconsistent, inaccurate, or incomplete, affecting analysis reliability. A is logically incorrect (excessive standardization would not hinder comparison); C is inaccurate (ESG data is not limited to large-cap); D is logically incorrect (easy access does not cause over-reliance). Data quality is the core challenge facing ESG analysis."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2110,7 +2242,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。碳排放和气候转型风险是能源公司最重要的环境(E)因素，直接影响公司的商业模式、监管合规和长期生存能力。A（数据隐私）虽重要但非能源行业核心议题；C（零售供应链劳工实践）与能源行业关联度低；D（董事会独立性）是通用治理因素。",
+      "en": "B is correct. Carbon emissions and climate transition risk are the most material environmental (E) factors for energy companies, directly affecting business models, regulatory compliance, and long-term viability. A (data privacy) is important but not a core energy issue; C (retail labor practices) is less relevant; D (board independence) is a general governance factor."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2157,7 +2292,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG分析在投资决策中的核心目的是识别可能影响长期投资价值的非财务风险和机会。A错误（ESG不替代传统财务分析）；C错误（不应优先考虑环境因素而忽略其他因素）；D错误（ESG分析不应忽视财务回报）。理解ESG分析的目的是学习ESG投资的第一步。",
+      "en": "B is correct. The core purpose of ESG analysis in investment decision-making is to identify non-financial risks and opportunities that may affect long-term investment value. A is wrong (ESG does not replace traditional financial analysis); C is wrong (environmental factors should not be prioritized over others); D is wrong (ESG analysis should not disregard financial returns)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2204,7 +2342,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。评估ESG因素对公司的重要性（materiality）是ESG分析流程的关键步骤，帮助投资者聚焦最具影响力的ESG因素。A错误（不应忽略行业特定因素）；C错误（不应仅依赖未经验证的公司数据）；D错误（应同时关注正面和负面因素）。重要性评估是ESG分析的核心方法论。",
+      "en": "B is correct. Assessing the materiality of ESG factors for the company is a key step in the ESG analysis process, helping investors focus on the most impactful ESG factors. A is wrong (industry-specific factors should not be ignored); C is wrong (relying solely on unverified company data is inappropriate); D is wrong (both positive and negative factors should be considered)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2251,7 +2392,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG分析中的重要性（materiality）是指某一ESG因素对公司财务表现或价值产生重大影响的可能性。A描述的是报告覆盖范围；C描述的是ESG指标数量；D描述的是与可持续发展标准的一致性。准确理解重要性概念是ESG分析的基础。",
+      "en": "B is correct. Materiality in ESG analysis refers to the likelihood that an ESG factor will have a significant impact on a company's financial performance or value. A describes reporting coverage; C describes the number of ESG metrics; D describes alignment with sustainability standards. Accurately understanding materiality is fundamental to ESG analysis."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2298,7 +2442,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。GRI（全球报告倡议组织）最专注于为公司提供标准化的ESG披露要求，是最广泛使用的综合性ESG报告框架。UN PRI(A)面向投资者而非企业报告；MSCI ESG Ratings(C)是评级服务而非披露框架；SASB(D)提供行业特定标准而非综合性披露要求。",
+      "en": "B is correct. GRI (Global Reporting Initiative) is most focused on providing standardized ESG disclosure requirements for companies and is the most widely used comprehensive ESG reporting framework. UN PRI (A) targets investors, not corporate reporting; MSCI ESG Ratings (C) is a rating service, not a disclosure framework; SASB (D) provides industry-specific standards, not comprehensive disclosure requirements."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2345,7 +2492,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG分析通常通过调整折现率或现金流预测来反映ESG风险和机会，从而影响公司估值。A错误（ESG因素确实影响估值）；C过于绝对（不一定总是提高估值）；D错误（ESG影响不限于高风险行业）。ESG估值整合的方法是考试核心考点。",
+      "en": "B is correct. ESG analysis typically impacts valuation by adjusting the discount rate or cash flow projections to reflect ESG risks and opportunities. A is wrong (ESG factors do affect valuation); C is too absolute (not always increasing valuation); D is wrong (ESG impact is not limited to high-risk industries). ESG valuation integration methods are an exam core topic."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2392,7 +2542,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。因不遵守环境法规而面临诉讼是ESG因素对现金流产生负面影响的典型例子，会导致罚款、法律费用和声誉损失。A（可再生能源项目降低成本）是正面影响；C（改善员工留存）是正面影响；D（提升品牌声誉）是正面影响。识别ESG风险对现金流的影响是估值分析的关键。",
+      "en": "B is correct. Facing a lawsuit due to non-compliance with environmental regulations is a classic example of an ESG factor negatively impacting cash flow, causing fines, legal costs, and reputational damage. A (renewable energy reducing costs) is positive; C (improving employee retention) is positive; D (enhancing brand reputation) is positive."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2439,7 +2592,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG整合方法是将ESG因素融入传统财务分析和投资决策中，而非独立于财务分析之外。A描述的是负面筛选；C描述的是同类最佳筛选；D错误（ESG分析不应与财务分析分离）。ESG整合的核心理念是ESG因素是财务分析的有机组成部分。",
+      "en": "B is correct. The ESG integration approach incorporates ESG factors into traditional financial analysis and investment decision-making, not as a separate exercise. A describes negative screening; C describes best-in-class screening; D is wrong (ESG analysis should not be separated from financial analysis). The core idea is that ESG factors are an organic part of financial analysis."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2486,7 +2642,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "A是正确答案。权益投资者ESG整合的关键挑战是缺乏跨公司的标准化ESG数据，导致比较分析困难。B错误（ESG因素确实影响股票回报）；C错误（不同公司的ESG数据格式差异很大）；D错误（ESG整合适用于多种资产类别）。数据标准化是ESG整合面临的核心障碍。",
+      "en": "A is correct. The key challenge in ESG integration for equity investors is the lack of standardized ESG data across companies, making comparative analysis difficult. B is wrong (ESG factors do affect equity returns); C is wrong (ESG data formats vary greatly); D is wrong (ESG integration applies to multiple asset classes). Data standardization is the core barrier to ESG integration."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2533,7 +2692,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。固定收益投资者通常通过评估ESG因素对发行人信用风险和违约概率的影响来整合ESG因素。A过于狭隘（不应仅关注环境因素）；C过于极端（不应排除所有有ESG风险的证券）；D错误（ESG因素确实影响固定收益回报）。ESG在固定收益投资中的应用是考试重点。",
+      "en": "B is correct. Fixed-income investors typically integrate ESG factors by assessing their impact on the issuer's credit risk and default probability. A is too narrow (not only environmental factors); C is too extreme (not all securities with ESG risks should be excluded); D is wrong (ESG factors do affect fixed-income returns). ESG application in fixed-income investing is an exam focus."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2580,7 +2742,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。第三方ESG数据提供商（如MSCI、Sustainalytics）被认为是最客观和独立的数据来源，因为它们采用标准化方法论进行独立评估。A（公司自我报告数据）可能存在偏差；C（社交媒体情绪）不够客观；D（行业协会报告）可能有行业利益偏见。",
+      "en": "B is correct. Third-party ESG data providers (e.g., MSCI, Sustainalytics) are considered the most objective and independent data sources, as they use standardized methodologies for independent assessment. A (company self-reported data) may be biased; C (social media sentiment) is not objective; D (industry association reports) may have industry bias."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2627,7 +2792,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。第三方ESG数据的局限性在于不同提供商使用不同方法论，导致同一公司的评级可能不一致。A错误（费用不是主要局限性）；B过于绝对（数据并非总是过时）；D不准确（第三方数据覆盖范围不仅限于大盘股）。理解ESG评级差异的原因是ESG数据管理的重要课题。",
+      "en": "C is correct. The limitation of third-party ESG data is that different providers use different methodologies, leading to inconsistent ratings for the same company. A is wrong (cost is not the primary limitation); B is too absolute (data is not always outdated); D is inaccurate (coverage extends beyond large-cap)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2674,7 +2842,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "A是正确答案。双重重要性是指同时考虑ESG因素对公司财务表现的影响以及公司对社会和环境的影响。B描述的是正面和负面因素的平衡；C描述的是时间维度；D描述的是投资者类型。双重重要性是欧盟可持续发展报告的重要概念，GRI框架的核心特征。",
+      "en": "A is correct. Double materiality refers to considering both the materiality of ESG factors for the company's financial performance and the company's impact on society and the environment. B describes balancing positive and negative factors; C describes the time dimension; D describes investor types. Double materiality is a key concept in EU sustainability reporting and a core GRI feature."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2721,7 +2892,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。数据隐私和网络安全是科技公司最重要的治理(G)因素，直接影响用户信任、监管合规和商业模式可持续性。A（制造业碳排放）对科技公司相关性较低；C（农业用水）与科技行业无关；D（原材料开采）与科技公司核心业务关系不大。",
+      "en": "B is correct. Data privacy and cybersecurity are the most material governance (G) factors for technology companies, directly affecting user trust, regulatory compliance, and business model sustainability. A (manufacturing carbon emissions) is less relevant to tech; C (agricultural water usage) is unrelated; D (raw material mining) is less related to tech core business."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2768,7 +2942,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "A是正确答案。ESG表现差会增加折现率以反映更高的风险，从而降低公司估值。B逻辑错误（良好ESG不应增加折现率）；C错误（ESG确实影响折现率）；D不完整（ESG同时影响现金流和折现率）。ESG对折现率的影响是DCF估值中ESG整合的核心方法。",
+      "en": "A is correct. Poor ESG performance increases the discount rate to reflect higher risk, thereby lowering company valuation. B is logically incorrect (good ESG should not increase the discount rate); C is wrong (ESG does affect the discount rate); D is incomplete (ESG affects both cash flows and the discount rate)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2815,7 +2992,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。在房地产投资中，ESG整合是评估建筑的能源效率以估算运营成本和租金收入，直接影响投资回报。A描述的是仅投资LEED认证建筑的筛选策略；C描述的是排除策略；D错误（ESG因素确实影响房地产回报）。ESG整合应融入投资分析而非仅作为筛选工具。",
+      "en": "B is correct. In real estate investing, ESG integration means assessing a building's energy efficiency to estimate operating costs and rental income, directly affecting investment returns. A describes a screening strategy (LEED-only); C describes an exclusion strategy; D is wrong (ESG factors do affect real estate returns)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2862,7 +3042,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG估值调整是修改公司估值以反映ESG风险和机会的财务影响。A过于简单（不是固定百分比）；C过于绝对（不是对所有ESG表现差的公司统一折价）；D过于绝对（不是对所有ESG表现好的公司统一溢价）。ESG估值调整应基于具体公司的ESG因素进行差异化评估。",
+      "en": "B is correct. ESG valuation adjustment is a modification to a company's valuation to reflect the financial impact of ESG risks and opportunities. A is too simplistic (not a fixed percentage); C is too absolute (not a uniform discount for all poor ESG performers); D is too absolute (not a uniform premium for all good ESG performers)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2909,7 +3092,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。有效ESG数据管理的关键原则是定期验证和更新ESG数据以确保准确性。A错误（仅使用单一数据源会导致片面性）；C错误（不应忽略缺失数据）；D错误（应同时关注定量和定性数据）。数据质量管理是ESG分析可靠性的重要保障。",
+      "en": "B is correct. A key principle of effective ESG data management is regularly verifying and updating ESG data to ensure accuracy. A is wrong (using only one data source leads to bias); C is wrong (missing data should not be ignored); D is wrong (both quantitative and qualitative data should be considered)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -2956,7 +3142,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。SASB框架通过识别行业特定的重要ESG因素和指标来支持ESG分析，为77个行业提供了具体的标准。A描述的是GRI框架的特征（综合性披露指南）；C描述的是ESG评级机构的功能；D错误（SASB覆盖E、S、G三类因素）。SASB的行业特定性是其最大特色。",
+      "en": "B is correct. The SASB framework supports ESG analysis by identifying industry-specific material ESG factors and metrics, providing specific standards for 77 industries. A describes GRI's feature (comprehensive disclosure guidelines); C describes ESG rating agency functions; D is wrong (SASB covers E, S, and G factors). SASB's industry specificity is its greatest feature."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3003,7 +3192,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。公司对利益相关者参与的政策属于定性ESG因素，无法用具体数值衡量。A（碳排放量）是定量指标；B（女性董事比例）是定量指标；D（用水量）是定量指标。区分定性和定量ESG因素是ESG分析的基本技能，两者结合使用效果最佳。",
+      "en": "C is correct. A company's policy on stakeholder engagement is a qualitative ESG factor that cannot be measured with specific numbers. A (carbon emissions) is quantitative; B (percentage of women on the board) is quantitative; D (water usage) is quantitative. Distinguishing qualitative and quantitative ESG factors is a basic skill."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3050,7 +3242,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。私募股权投资ESG整合的主要挑战是被投公司通常ESG数据披露有限，不像上市公司那样有标准化的ESG报告。A错误（PE公司确实可以影响被投公司的ESG实践）；C错误（ESG因素确实影响私有公司价值）；D错误（越来越多的PE投资者关注ESG）。",
+      "en": "B is correct. The key challenge of ESG integration in private equity is that private companies often have limited ESG data disclosure, unlike public companies with standardized reporting. A is wrong (PE firms can influence portfolio company ESG practices); C is wrong (ESG factors do affect private company value); D is wrong (more PE investors are considering ESG)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3097,7 +3292,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。ESG表现与公司盈利能力的关系取决于具体情境，但良好的ESG表现可以通过降低风险和把握机会来增强长期盈利能力。A和B过于绝对（ESG与盈利能力的关系不是必然的）；D错误（研究表明两者确实存在相关性）。ESG与财务表现的关系是ESG投资理论的核心议题。",
+      "en": "C is correct. The relationship between ESG performance and profitability is context-dependent, but good ESG performance can enhance long-term profitability by reducing risks and capturing opportunities. A and B are too absolute; D is wrong (research shows a correlation exists). The ESG-financial performance relationship is a core ESG investment theory topic."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3144,7 +3342,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。权益投资者最常用的ESG整合方法是将ESG因素融入财务分析（如DCF、估值倍数），因为这种方法最直接地将ESG与投资价值联系起来。A（负面筛选）是最简单但非最常用的方法；B（同类最佳筛选）是一种选择策略；D（主题投资）是聚焦特定主题的方法。",
+      "en": "C is correct. The most commonly used ESG integration method for equity investors is integrating ESG factors into financial analysis (e.g., DCF, multiples), as it most directly links ESG to investment value. A (negative screening) is simplest but not most common; B (best-in-class) is a selection strategy; D (thematic investing) focuses on specific themes."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3191,7 +3392,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。评估ESG数据质量的关键考虑因素是数据的一致性、准确性和相关性。A（指标数量）不等于质量；C（报告长度）与数据质量无关；D（年报中ESG的提及次数）不能衡量数据质量。数据质量评估应关注实质内容而非表面指标。",
+      "en": "B is correct. Key considerations when assessing ESG data quality are the consistency, accuracy, and relevance of the data. A (number of metrics) does not equal quality; C (report length) is unrelated; D (number of ESG mentions) cannot measure data quality. Data quality assessment should focus on substance."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3238,7 +3442,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "A是正确答案。良好的ESG表现可能带来更高的市盈率(P/E)，因为投资者认为风险较低，愿意为每单位收益支付更高价格。B逻辑错误（良好ESG不会导致更低P/E）；C错误（ESG确实影响估值倍数）；D逻辑错误（ESG表现差不会导致更高P/E）。ESG对估值倍数的影响是相对估值法中的重要考量。",
+      "en": "A is correct. Good ESG performance may lead to a higher P/E multiple, as investors perceive lower risk and are willing to pay more per unit of earnings. B is logically incorrect; C is wrong (ESG does affect valuation multiples); D is logically incorrect. ESG's impact on valuation multiples is an important consideration in relative valuation."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3285,7 +3492,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。公司的废物管理实践是环境(E)因素的典型例子，涉及资源使用和污染管理。A（董事会独立性）是治理(G)因素；B（员工流失率）是社会(S)因素；D（客户满意度）是社会(S)因素。准确识别和分类ESG因素是ESG分析的基本功。",
+      "en": "C is correct. A company's waste management practices are a classic example of an environmental (E) factor, involving resource usage and pollution management. A (board independence) is governance (G); B (employee turnover) is social (S); D (customer satisfaction) is social (S). Accurately identifying and classifying ESG factors is fundamental."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3332,7 +3542,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG分析在风险管理中的作用是识别和评估传统风险分析可能遗漏的非财务风险。A过于绝对（ESG不能消除所有风险）；C错误（应同时关注E、S、G三类风险）；D错误（ESG是补充而非替代传统风险管理）。ESG风险管理的价值在于拓宽风险识别的维度。",
+      "en": "B is correct. The role of ESG analysis in risk management is to identify and assess non-financial risks that may not be captured by traditional risk analysis. A is too absolute; C is wrong (all E, S, and G risks should be considered); D is wrong (ESG complements rather than replaces traditional risk management)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3379,7 +3592,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。TCFD（气候相关财务信息披露工作组）专注于气候相关披露，提供治理、战略、风险管理、指标和目标四大支柱的披露建议。GRI(A)是综合性ESG报告框架；SASB(C)提供行业特定标准；UN PRI(D)是投资者责任投资原则。TCFD的气候聚焦性是其标志性特征。",
+      "en": "B is correct. TCFD (Task Force on Climate-related Financial Disclosures) focuses on climate-related disclosures, providing recommendations across four pillars: governance, strategy, risk management, and metrics/targets. GRI (A) is comprehensive; SASB (C) is industry-specific; UN PRI (D) targets investors. TCFD's climate focus is its hallmark feature."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3426,7 +3642,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。新兴市场ESG整合的挑战是监管框架较弱，可能导致ESG披露不一致和执法不力，增加了分析难度和数据不确定性。A明显错误（新兴市场公司确实有ESG风险）；B错误（新兴市场ESG数据通常更稀缺）；D错误（越来越多的新兴市场投资者关注ESG）。",
+      "en": "C is correct. The challenge of ESG integration in emerging markets is that weaker regulatory frameworks may lead to inconsistent ESG disclosure and enforcement, increasing analysis difficulty. A is clearly wrong; B is wrong (ESG data is typically scarcer); D is wrong (more investors are considering ESG)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3473,7 +3692,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。投资者使用ESG评级来补充其他分析（如财务分析、行业分析）以评估风险和价值，而非作为唯一决策依据。A错误（不应仅依赖ESG评级）；C过于极端（不应仅凭低评级就排除公司）；D错误（ESG评级不能替代财务分析）。ESG评级是投资分析的补充工具。",
+      "en": "B is correct. Investors use ESG ratings to complement other analysis (e.g., financial, industry) to assess risk and value, not as the sole decision basis. A is wrong; C is too extreme; D is wrong (ESG ratings cannot replace financial analysis). ESG ratings are a complementary tool to investment analysis."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3520,7 +3742,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。公司的劳工实践（如公平工资、工作条件）是社会(S)因素的典型例子，涉及员工权益和人力资本管理。A（温室气体排放）是环境(E)因素；B（高管薪酬结构）是治理(G)因素；D（董事会构成）是治理(G)因素。准确区分E、S、G因素类别是ESG分析的基础。",
+      "en": "C is correct. A company's labor practices (e.g., fair wages, working conditions) are a classic example of a social (S) factor. A (greenhouse gas emissions) is environmental (E); B (executive compensation) is governance (G); D (board composition) is governance (G). Accurately distinguishing E, S, and G categories is fundamental."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3567,7 +3792,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG重要性矩阵是评估ESG因素重要性的工具，通过评估ESG因素对公司的影响以及公司对利益相关者的影响两个维度来确定优先级。A描述的是ESG评级功能；C描述的是ESG估值功能；D描述的是数据比较功能。重要性矩阵体现了双重重要性理念。",
+      "en": "B is correct. The ESG materiality matrix assesses materiality by evaluating the impact of ESG factors on the company and the company's impact on stakeholders across two dimensions. A describes rating functions; C describes valuation functions; D describes data comparison functions. The materiality matrix embodies the double materiality concept."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3614,7 +3842,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG整合的主要局限性是缺乏标准化的ESG指标和报告，使得整合工作具有挑战性，不同公司的数据难以直接比较。A错误（ESG因素并不容易衡量和整合）；C过于绝对（ESG整合不一定导致更低回报）；D错误（ESG因素对短期和长期投资均相关）。",
+      "en": "B is correct. The key limitation of ESG integration is the lack of standardized ESG metrics and reporting, making integration challenging. A is wrong (ESG factors are not easy to measure); C is too absolute; D is wrong (ESG factors are relevant for both short and long-term investments)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3661,7 +3892,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG表现差会增加信用利差，因为投资者要求更高的风险溢价来补偿更高的信用风险。A逻辑错误（良好ESG应缩小而非扩大利差）；C错误（ESG确实影响信用利差）；D表述矛盾。ESG与信用利差的关系是固定收益ESG整合的核心。",
+      "en": "B is correct. Poor ESG performance increases the credit spread, as investors demand a higher premium for increased credit risk. A is logically incorrect; C is wrong (ESG does affect credit spread); D is contradictory. The ESG-credit spread relationship is the core of fixed income ESG integration."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3708,7 +3942,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。公司的董事会独立性和监督是治理(G)因素的典型例子，直接影响公司决策质量和代理成本。A（用水量）是环境(E)因素；B（员工多样性）是社会(S)因素；D（社区外展项目）是社会(S)因素。治理因素的核心是公司权力结构和决策机制。",
+      "en": "C is correct. A company's board independence and oversight are a classic example of a governance (G) factor. A (water usage) is environmental (E); B (employee diversity) is social (S); D (community outreach) is social (S). The core of governance factors lies in corporate power structure and decision-making."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3755,7 +3992,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG数据在估值中的作用是调整关键估值输入（如现金流、折现率）以反映非财务风险和机会。A错误（ESG数据补充而非替代财务数据）；C错误（ESG数据与估值相关）；D错误（估值不能仅依赖ESG数据而无财务分析）。ESG估值整合的方法是考试核心考点。",
+      "en": "B is correct. ESG data in valuation is used to adjust key valuation inputs (e.g., cash flows, discount rate) to reflect non-financial risks and opportunities. A is wrong (ESG data complements, not replaces, financial data); C is wrong; D is wrong (valuation cannot rely solely on ESG data)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3802,7 +4042,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG整合是将ESG因素融入财务分析，而负面筛选是排除ESG表现差的公司。A将两者定义颠倒；C不准确（两者均不限于正面或负面因素）；D错误（两者均适用于多种资产类别）。ESG整合与负面筛选的区别是ESG投资策略的基础知识。",
+      "en": "B is correct. ESG integration incorporates ESG factors into financial analysis, while negative screening excludes companies with poor ESG performance. A reverses the definitions; C is inaccurate; D is wrong (both apply to multiple asset classes)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3849,7 +4092,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。供应链劳工实践是消费品公司最重要的社会(S)因素，直接影响品牌声誉、消费者信任和供应链稳定性。A（电厂碳排放）与消费品行业关联度低；C（原材料开采）虽相关但非核心议题；D（董事会独立性）是通用治理因素。",
+      "en": "B is correct. Supply chain labor practices are the most material social (S) factor for consumer goods companies, directly affecting brand reputation and supply chain stability. A (power plant emissions) is less relevant; C (raw material mining) is relevant but not core; D (board independence) is a general governance factor."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3896,7 +4142,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。投资者应使用代理数据（如行业平均水平）或定性信息来填补ESG数据缺口，而非简单忽略或排除。A错误（忽略缺失数据会导致分析不完整）；C过于极端（不应因此排除公司）；D错误（缺失数据不应被假定为ESG表现差）。灵活处理数据缺口是ESG分析的实务技能。",
+      "en": "B is correct. Investors should use proxy data (e.g., industry averages) or qualitative information to fill ESG data gaps. A is wrong (ignoring leads to incomplete analysis); C is too extreme; D is wrong (missing data should not be assumed as poor ESG)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3943,7 +4192,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG整合金字塔是一个描述ESG整合层次的框架，从基础筛选到完全融入财务分析，展示了ESG整合的进阶路径。A描述的是重要性排序工具；C描述的是ESG财务影响衡量工具；D描述的是ESG评级比较工具。理解ESG整合的不同层次有助于投资者选择适合自身的整合策略。",
+      "en": "B is correct. The ESG integration pyramid outlines levels of ESG integration, from basic screening to full integration into financial analysis. A describes materiality ranking tools; C describes financial impact measurement tools; D describes rating comparison tools."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -3990,7 +4242,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。ESG整合对投资者的好处是通过识别非财务风险和机会来改善风险调整后回报。A（投资组合多元化降低）是负面影响而非好处；C错误（ESG整合不保证更高的短期回报）；D错误（ESG整合不能减少对财务分析的需求）。",
+      "en": "B is correct. The benefit of ESG integration for investors is improved risk-adjusted returns by identifying non-financial risks and opportunities. A (reduced diversification) is negative, not a benefit; C is wrong (no guarantee of higher short-term returns); D is wrong (does not reduce need for financial analysis)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4037,7 +4292,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。对冲基金ESG整合的典型方式是将ESG因素融入基本面分析以识别定价错误的证券，这与对冲基金的价值发现策略一致。A描述的做空策略虽可行但非ESG整合的核心；C过于限制；D错误（ESG因素对对冲基金同样重要）。ESG整合应适应不同投资策略的特点。",
+      "en": "B is correct. The typical ESG integration approach in hedge funds is incorporating ESG factors into fundamental analysis to identify mispriced securities. A describes shorting (feasible but not core); C is too restrictive; D is wrong (ESG factors are important for hedge funds too)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4084,7 +4342,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。更高的ESG披露如果揭示了较差的ESG表现，反而可能导致更低的估值。A过于绝对（更多披露不一定导致更高估值）；C错误（ESG披露确实影响估值）；D逻辑错误（更低披露不会导致更高估值）。ESG披露是双刃剑，披露质量比数量更重要。",
+      "en": "B is correct. Higher ESG disclosure can lead to lower valuation if the disclosed ESG performance is poor. A is too absolute; C is wrong (ESG disclosure does affect valuation); D is logically incorrect. ESG disclosure is a double-edged sword; quality matters more than quantity."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4131,7 +4392,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。碳排放强度（每单位收入的CO2吨数）是环境(E)因素的关键指标，衡量公司的碳效率。A（净资产收益率）是财务指标；C（员工流失率）是社会(S)指标；D（董事会独立性比率）是治理(G)指标。碳排放强度是衡量公司环境绩效的核心指标之一。",
+      "en": "B is correct. Carbon intensity (tons of CO2 per unit of revenue) is a key environmental (E) metric, measuring carbon efficiency. A (ROE) is financial; C (employee turnover) is social (S); D (board independence ratio) is governance (G)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4178,7 +4442,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "B是正确答案。使用多家ESG评级机构的挑战在于不同机构使用不同方法论，导致同一公司可能获得相互矛盾的评级。A明显错误（不同机构的评级通常不一致）；C错误（ESG评级确实有多家提供商）；D错误（费用不是主要挑战）。理解评级差异的原因和处理方法是ESG数据管理的关键。",
+      "en": "B is correct. The challenge of using ESG ratings from multiple providers is that different providers use different methodologies, leading to conflicting ratings. A is clearly wrong; C is wrong (ratings are available from multiple providers); D is wrong (cost is not the primary challenge)."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4225,7 +4492,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "A是正确答案。良好的ESG表现通过降低长期风险来提高终值，因为投资者对公司的长期持续经营能力更有信心。B逻辑错误（良好ESG不会增加长期成本从而降低终值）；C错误（ESG确实影响终值）；D逻辑错误（ESG表现差不会增加终值）。ESG对终值的影响是DCF估值中ESG整合的重要考量。",
+      "en": "A is correct. Good ESG performance increases terminal value by reducing long-term risk, as investors have greater confidence in the company's long-term viability. B is logically incorrect; C is wrong (ESG does affect terminal value); D is logically incorrect."
+    },
     "source": "v7-bank",
     "tags": []
   },
@@ -4272,7 +4542,10 @@
       "zh": "*6.ESG分析，估值与整合",
       "en": null
     },
-    "explanation": null,
+    "explanation": {
+      "zh": "C是正确答案。因劳工问题导致消费者抵制属于社会(S)因素，直接影响公司收入和估值。A（碳排放目标未达标）是环境(E)因素；B（董事会缺乏独立成员）是治理(G)因素；D（高负债权益比率）是财务指标而非ESG因素。本题与Q1相同，强化了E、S、G因素的区分能力。",
+      "en": "C is correct. A consumer boycott due to poor labor practices is a social (S) factor that directly impacts revenue and valuation. A (carbon emissions targets) is environmental (E); B (no independent board members) is governance (G); D (high debt-to-equity ratio) is financial, not ESG."
+    },
     "source": "v7-bank",
     "tags": []
   }

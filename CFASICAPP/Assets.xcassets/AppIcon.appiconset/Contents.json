@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "ChatGPT Image 2026年5月25日 13_59_21-2.png",
+      "filename" : "app-icon-light.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -13,7 +13,7 @@
           "value" : "dark"
         }
       ],
-      "filename" : "ChatGPT Image 2026年5月25日 13_56_20-2 1.png",
+      "filename" : "app-icon-dark.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -25,7 +25,7 @@
           "value" : "tinted"
         }
       ],
-      "filename" : "ChatGPT Image 2026年5月25日 13_56_20-2.png",
+      "filename" : "app-icon-tinted.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"

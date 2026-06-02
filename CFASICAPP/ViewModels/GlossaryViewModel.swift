@@ -6,7 +6,12 @@ final class GlossaryViewModel {
     var allTerms: [GlossaryTerm]
     var currentIndex: Int = 0
     var isFlipped: Bool = false
-    var showHighFrequencyOnly: Bool = false
+    var showHighFrequencyOnly: Bool = false {
+        didSet {
+            currentIndex = 0
+            isFlipped = false
+        }
+    }
 
     var activeTerms: [GlossaryTerm] {
         if showHighFrequencyOnly {
@@ -28,9 +33,7 @@ final class GlossaryViewModel {
     }
 
     func flip() {
-        withAnimation(.easeInOut(duration: 0.4)) {
-            isFlipped.toggle()
-        }
+        isFlipped.toggle()
     }
 
     func next() {
