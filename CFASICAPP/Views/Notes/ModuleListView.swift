@@ -18,15 +18,10 @@ struct ModuleListView: View {
 
                 // Module cards
                 ForEach(dataLoader.modules) { module in
-                    NavigationLink {
-                        MarkdownReaderView(module: module, moduleContent: module.content[0])
-                    } label: {
-                        ModuleCard(
-                            module: module,
-                            wrongCount: totalWrongByModule[module.id] ?? 0
-                        )
-                    }
-                    .buttonStyle(.plain)
+                    ModuleCard(
+                        module: module,
+                        wrongCount: totalWrongByModule[module.id] ?? 0
+                    )
                 }
             }
             .padding()
@@ -78,6 +73,22 @@ struct ModuleListView: View {
                 Label("\(totalWrong) 待复习", systemImage: "xmark.circle.fill")
                     .foregroundStyle(.red)
                     .font(.caption)
+                Spacer()
+
+                // Textbook button
+                let zhURL = DataLoader.shared.resolvePDF(relativePath: "content/textbook/2026v7CHNTB.pdf")
+                let enURL = DataLoader.shared.resolvePDF(relativePath: "content/textbook/2026v7ENGTB.pdf")
+                if zhURL != nil || enURL != nil {
+                    NavigationLink {
+                        PDFReaderView(title: "原版教材", chineseURL: zhURL, englishURL: enURL)
+                    } label: {
+                        Label("原版教材", systemImage: "book.closed.fill")
+                            .font(.caption)
+                            .fontWeight(.medium)
+                            .foregroundStyle(.orange)
+                    }
+                }
+
                 Spacer()
                 Label("\(dataLoader.modules.count) 模块", systemImage: "book.fill")
                     .foregroundStyle(.secondary)

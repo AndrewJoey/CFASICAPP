@@ -112,6 +112,14 @@ final class DataLoader {
         return try? String(contentsOf: url, encoding: .utf8)
     }
 
+    /// Resolve a PDF file URL from a relative path.
+    func resolvePDF(relativePath: String) -> URL? {
+        let pathURL = URL(fileURLWithPath: relativePath)
+        let resourceName = pathURL.deletingPathExtension().lastPathComponent
+        let ext = pathURL.pathExtension
+        return Bundle.main.url(forResource: resourceName, withExtension: ext)
+    }
+
     // MARK: - Helpers
 
     func module(by id: String) -> ModuleInfo? {
