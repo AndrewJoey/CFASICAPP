@@ -13,15 +13,27 @@ struct ModuleListView: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 16) {
-                // Overview card
-                overviewCard
+                // Textbook entry card
+                textbookCard
 
                 // Module cards
                 ForEach(dataLoader.modules) { module in
-                    ModuleCard(
-                        module: module,
-                        wrongCount: totalWrongByModule[module.id] ?? 0
-                    )
+                    if let firstContent = module.content.first {
+                        NavigationLink {
+                            MarkdownReaderView(module: module, moduleContent: firstContent)
+                        } label: {
+                            ModuleCard(
+                                module: module,
+                                wrongCount: totalWrongByModule[module.id] ?? 0
+                            )
+                        }
+                        .buttonStyle(.plain)
+                    } else {
+                        ModuleCard(
+                            module: module,
+                            wrongCount: totalWrongByModule[module.id] ?? 0
+                        )
+                    }
                 }
             }
             .padding()
@@ -30,75 +42,38 @@ struct ModuleListView: View {
         .navigationTitle("CFA-SIC 备考")
     }
 
-    private var overviewCard: some View {
-        let totalQuestions = dataLoader.modules.reduce(0) { $0 + $1.questionCount }
-        let totalWrong = totalWrongByModule.values.reduce(0, +)
-        let modulesWithWrong = totalWrongByModule.keys.count
+    // MARK: - Textbook card
 
-        return VStack(spacing: 12) {
-            HStack {
-                VStack(alignment: .leading, spacing: 4) {
-                    Text("学习概览")
+    private var textbookCard: some View {
+        let zhURL = DataLoader.shared.resolvePDF(relativePath: "content/textbook/2026v7CHNTB.pdf")
+        let enURL = DataLoader.shared.resolvePDF(relativePath: "content/textbook/2026v7ENGTB.pdf")
+
+        return NavigationLink {
+            PDFReaderView(title: "原版教材", chineseURL: zhURL, englishURL: enURL)
+        } label: {
+            HStack(spacing: 14) {
+                Image(systemName: "book.closed.fill")
+                    .font(.title2)
+                    .foregroundStyle(.orange)
+                VStack(alignment: .leading, spacing: 2) {
+                    Text("浏览教材")
                         .font(.headline)
-                    Text("已学 \(modulesWithWrong)/\(dataLoader.modules.count) 模块")
+                        .foregroundStyle(.primary)
+                    Text("CFA ESG Investing 原版教材（中英双语）")
                         .font(.caption)
                         .foregroundStyle(.secondary)
                 }
                 Spacer()
-                VStack(alignment: .trailing, spacing: 4) {
-                    Text("\(totalQuestions)")
-                        .font(.title2)
-                        .bold()
-                        .foregroundStyle(.blue)
-                    Text("总题数")
-                        .font(.caption)
-                        .foregroundStyle(.secondary)
-                }
-            }
-
-            // Progress bar
-            GeometryReader { geo in
-                ZStack(alignment: .leading) {
-                    Capsule()
-                        .fill(Color(.systemGray5))
-                        .frame(height: 6)
-                    Capsule()
-                        .fill(Color.blue.gradient)
-                        .frame(width: geo.size.width * CGFloat(modulesWithWrong) / CGFloat(max(dataLoader.modules.count, 1)), height: 6)
-                }
-            }
-            .frame(height: 6)
-
-            HStack {
-                Label("\(totalWrong) 待复习", systemImage: "xmark.circle.fill")
-                    .foregroundStyle(.red)
+                Image(systemName: "chevron.right")
                     .font(.caption)
-                Spacer()
-
-                // Textbook button
-                let zhURL = DataLoader.shared.resolvePDF(relativePath: "content/textbook/2026v7CHNTB.pdf")
-                let enURL = DataLoader.shared.resolvePDF(relativePath: "content/textbook/2026v7ENGTB.pdf")
-                if zhURL != nil || enURL != nil {
-                    NavigationLink {
-                        PDFReaderView(title: "原版教材", chineseURL: zhURL, englishURL: enURL)
-                    } label: {
-                        Label("原版教材", systemImage: "book.closed.fill")
-                            .font(.caption)
-                            .fontWeight(.medium)
-                            .foregroundStyle(.orange)
-                    }
-                }
-
-                Spacer()
-                Label("\(dataLoader.modules.count) 模块", systemImage: "book.fill")
-                    .foregroundStyle(.secondary)
-                    .font(.caption)
+                    .foregroundStyle(.tertiary)
             }
+            .padding(16)
+            .background(Color(.systemBackground))
+            .cornerRadius(16)
+            .adaptiveShadow()
         }
-        .padding(16)
-        .background(Color(.systemBackground))
-        .cornerRadius(16)
-        .adaptiveShadow()
+        .buttonStyle(.plain)
     }
 }
 

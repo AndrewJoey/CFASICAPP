@@ -39,8 +39,16 @@ struct ErrorBookView: View {
     // Pre-built question lookup cache for the current filtered set
     private var questionCache: [String: Question] {
         var cache: [String: Question] = [:]
+        let mockFiles = ["mock-a.json", "mock-b.json", "mock-c.json"]
+        // Load chapter questions
         for moduleId in Set(filteredRecords.map(\.moduleId)) {
             for q in dataLoader.questions(for: moduleId) {
+                cache[q.id] = q
+            }
+        }
+        // Load mock exam questions
+        for file in mockFiles {
+            for q in dataLoader.questions(forFile: file) {
                 cache[q.id] = q
             }
         }
@@ -98,7 +106,9 @@ struct ErrorBookView: View {
                                 deleteRecords(records, at: indexSet)
                             }
                         } header: {
-                            if let module = dataLoader.module(by: moduleId) {
+                            if moduleId.hasPrefix("mock-") {
+                                Text(moduleId == "mock-a" ? "模拟卷 A" : moduleId == "mock-b" ? "模拟卷 B" : "协会模考题")
+                            } else if let module = dataLoader.module(by: moduleId) {
                                 Text("模块 \(module.number): \(module.title.display)")
                             }
                         }

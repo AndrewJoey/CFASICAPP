@@ -169,4 +169,46 @@ final class StudyViewModelTests: XCTestCase {
         XCTAssertEqual(wrongDetails[0].selectedAnswer, "A")
         XCTAssertEqual(wrongDetails[1].selectedAnswer, "C")
     }
+
+    // MARK: - Fix Verification
+
+    func testDoubleSubmission_isPrevented() {
+        let questions = TestHelpers.makeQuestions(count: 2, correctAnswer: "B")
+        viewModel.questions = questions
+        viewModel.currentIndex = 0
+        viewModel.isAnswered = false
+
+        // First submission
+        viewModel.submitAnswer("B", modelContext: container.mainContext)
+        XCTAssertEqual(viewModel.sessionResults.count, 1)
+        XCTAssertTrue(viewModel.isAnswered)
+
+        // Second submission should be ignored
+        viewModel.submitAnswer("A", modelContext: container.mainContext)
+        XCTAssertEqual(viewModel.sessionResults.count, 1, "Double submission should be blocked")
+    }
+
+    func testSessionTags_isStored() {
+        viewModel.sessionTags = ["mock-a"]
+        XCTAssertEqual(viewModel.sessionTags, ["mock-a"])
+    }
+
+    func testSessionTags_nilByDefault() {
+        XCTAssertNil(viewModel.sessionTags)
+    }
+
+    func testNextQuestion_pastEnd_setsIsFinished() {
+        let questions = TestHelpers.makeQuestions(count: 2)
+        viewModel.questions = questions
+        viewModel.currentIndex = 1 // Last question
+
+        viewModel.nextQuestion()
+        XCTAssertTrue(viewModel.isFinished)
+        XCTAssertEqual(viewModel.currentIndex, 2)
+    }
+
+    func testSessionElapsed_withoutStart_returnsZero() {
+        XCTAssertNil(viewModel.sessionStartTime)
+        XCTAssertEqual(viewModel.sessionElapsed, 0)
+    }
 }

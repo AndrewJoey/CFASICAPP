@@ -24,16 +24,23 @@ struct MockExam: Identifiable {
 
 struct QuizHomeView: View {
     let dataLoader = DataLoader.shared
+    @Query(sort: \WrongAnswerRecord.timestamp, order: .reverse) private var allWrongAnswers: [WrongAnswerRecord]
     @State private var selectedBankType: QuestionBankType = .chapter
     @State private var selectedModule: String? = nil
     @State private var selectedMode: QuizMode = .random
     @State private var questionCount: Int = 20
     @State private var selectedMock: MockExam? = nil
+    @State private var showMockConfirmation = false
     @State private var navigateToQuiz = false
 
     @Environment(\.modelContext) private var modelContext
 
     private let countOptions = [10, 20, 30, 50]
+
+    private var totalWrongByModule: [String: Int] {
+        Dictionary(grouping: allWrongAnswers.filter { !$0.isMastered }, by: \.moduleId)
+            .mapValues(\.count)
+    }
 
     private let mockExams: [MockExam] = [
         MockExam(id: "mock-a", tag: "mock-a", title: "模拟卷 A", subtitle: "100 题 · 全真模拟", icon: "📝", questionCount: 100),
@@ -43,6 +50,13 @@ struct QuizHomeView: View {
 
     var body: some View {
         Form {
+            // Overview card
+            Section {
+                overviewCard
+            }
+            .listRowBackground(Color.clear)
+            .listRowInsets(EdgeInsets())
+
             // Bank type selector
             Section("题库类型") {
                 Picker("题库", selection: $selectedBankType) {
@@ -61,6 +75,25 @@ struct QuizHomeView: View {
             }
         }
         .navigationTitle("刷题")
+        .confirmationDialog(
+            "确认开始",
+            isPresented: $showMockConfirmation,
+            titleVisibility: .visible
+        ) {
+            if let mock = selectedMock {
+                Button("开始 \(mock.title)（\(mock.questionCount) 题）") {
+                    selectedMode = .sequential
+                    navigateToQuiz = true
+                }
+                Button("取消", role: .cancel) {
+                    selectedMock = nil
+                }
+            }
+        } message: {
+            if let mock = selectedMock {
+                Text("即将开始 \(mock.title)，共 \(mock.questionCount) 题。确认开始吗？")
+            }
+        }
         .navigationDestination(isPresented: $navigateToQuiz) {
             QuizSessionView(
                 viewModel: {
@@ -150,8 +183,7 @@ struct QuizHomeView: View {
                 ForEach(mockExams) { mock in
                     Button {
                         selectedMock = mock
-                        selectedMode = .sequential
-                        navigateToQuiz = true
+                        showMockConfirmation = true
                     } label: {
                         HStack(spacing: 14) {
                             Text(mock.icon)
@@ -184,20 +216,68 @@ struct QuizHomeView: View {
             }
 
             Section {
-                if let mock = selectedMock {
-                    Button {
-                        navigateToQuiz = true
-                    } label: {
-                        Text("开始 \(mock.title)")
-                            .frame(maxWidth: .infinity)
-                            .bold()
-                    }
-                    .buttonStyle(.borderedProminent)
-                }
+                // Mode picker already above; no extra button needed
             } footer: {
                 Text("模拟卷为全真模拟，共 100 题，计时作答")
             }
         }
+    }
+
+    // MARK: - Overview card
+
+    private var overviewCard: some View {
+        let totalQuestions = dataLoader.modules.reduce(0) { $0 + $1.questionCount }
+        let totalWrong = totalWrongByModule.values.reduce(0, +)
+        let modulesWithWrong = totalWrongByModule.keys.count
+
+        return VStack(spacing: 12) {
+            HStack {
+                VStack(alignment: .leading, spacing: 4) {
+                    Text("学习概览")
+                        .font(.headline)
+                    Text("已学 \(modulesWithWrong)/\(dataLoader.modules.count) 模块")
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                }
+                Spacer()
+                VStack(alignment: .trailing, spacing: 4) {
+                    Text("\(totalQuestions)")
+                        .font(.title2)
+                        .bold()
+                        .foregroundStyle(.blue)
+                    Text("总题数")
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                }
+            }
+
+            // Progress bar
+            GeometryReader { geo in
+                ZStack(alignment: .leading) {
+                    Capsule()
+                        .fill(Color(.systemGray5))
+                        .frame(height: 6)
+                    Capsule()
+                        .fill(Color.blue.gradient)
+                        .frame(width: geo.size.width * CGFloat(modulesWithWrong) / CGFloat(max(dataLoader.modules.count, 1)), height: 6)
+                }
+            }
+            .frame(height: 6)
+
+            HStack {
+                Label("\(totalWrong) 待复习", systemImage: "xmark.circle.fill")
+                    .foregroundStyle(.red)
+                    .font(.caption)
+                Spacer()
+                Label("\(dataLoader.modules.count) 模块", systemImage: "book.fill")
+                    .foregroundStyle(.secondary)
+                    .font(.caption)
+            }
+        }
+        .padding(16)
+        .background(Color(.systemBackground))
+        .cornerRadius(16)
+        .adaptiveShadow()
     }
 
     // MARK: - Computed

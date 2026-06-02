@@ -6,6 +6,7 @@ struct ProgressDashboardView: View {
     @State private var viewModel = ProgressViewModel()
     @Environment(\.modelContext) private var modelContext
     @State private var notificationManager = NotificationManager.shared
+    @State private var showShareSheet = false
     @State private var shareImage: UIImage?
 
     var body: some View {
@@ -45,13 +46,16 @@ struct ProgressDashboardView: View {
                         wrongAnswersPending: viewModel.wrongAnswerCount,
                         masteredCount: viewModel.masteredCount
                     )
+                    showShareSheet = true
                 } label: {
                     Image(systemName: "square.and.arrow.up")
                 }
             }
         }
-        .sheet(item: $shareImage) { image in
-            ShareSheet(items: [image])
+        .sheet(isPresented: $showShareSheet) {
+            if let image = shareImage {
+                ShareSheet(items: [image])
+            }
         }
         .task {
             viewModel.load(modelContext: modelContext)
@@ -180,12 +184,6 @@ private struct ShareSheet: UIViewControllerRepresentable {
     }
 
     func updateUIViewController(_ vc: UIActivityViewController, context: Context) {}
-}
-
-// MARK: - UIImage Identifiable conformance for .sheet(item:)
-
-extension UIImage: @retroactive Identifiable {
-    public var id: Int { hash }
 }
 
 private struct StatCard: View {

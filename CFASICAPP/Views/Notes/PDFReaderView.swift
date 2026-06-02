@@ -10,6 +10,7 @@ struct PDFReaderView: View {
     @State private var currentPage: Int = 1
     @State private var totalPages: Int = 0
     @State private var useEnglish: Bool = false
+    @State private var showShareSheet = false
 
     private var currentURL: URL? {
         useEnglish ? englishURL : chineseURL
@@ -55,6 +56,15 @@ struct PDFReaderView: View {
                             .cornerRadius(6)
                     }
                 }
+
+                // Share button
+                if currentURL != nil {
+                    Button {
+                        showShareSheet = true
+                    } label: {
+                        Image(systemName: "square.and.arrow.up")
+                    }
+                }
             }
 
             if totalPages > 0 {
@@ -65,7 +75,24 @@ struct PDFReaderView: View {
                 }
             }
         }
+        .sheet(isPresented: $showShareSheet) {
+            if let url = currentURL {
+                ShareSheet(items: [url])
+            }
+        }
     }
+}
+
+// MARK: - Share Sheet
+
+private struct ShareSheet: UIViewControllerRepresentable {
+    let items: [Any]
+
+    func makeUIViewController(context: Context) -> UIActivityViewController {
+        UIActivityViewController(activityItems: items, applicationActivities: nil)
+    }
+
+    func updateUIViewController(_ vc: UIActivityViewController, context: Context) {}
 }
 
 // MARK: - PDFKit UIViewRepresentable

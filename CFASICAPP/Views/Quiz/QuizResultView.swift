@@ -27,69 +27,72 @@ struct QuizResultView: View {
     }
 
     var body: some View {
-        VStack(spacing: 24) {
-            Text(emoji)
-                .font(.system(size: 64))
+        ScrollView {
+            VStack(spacing: 24) {
+                Text(emoji)
+                    .font(.system(size: 64))
 
-            Text("练习完成")
-                .font(.title)
-                .bold()
+                Text("练习完成")
+                    .font(.title)
+                    .bold()
 
-            // Score card
-            VStack(spacing: 12) {
-                HStack(spacing: 32) {
-                    StatItem(value: "\(viewModel.correctCount)", label: "正确")
-                    StatItem(value: "\(viewModel.sessionResults.count - viewModel.correctCount)", label: "错误")
-                    StatItem(value: "\(Int(viewModel.accuracy * 100))%", label: "正确率")
-                    StatItem(value: formatTime(viewModel.averageTimePerQuestion), label: "平均用时")
-                }
-                HStack(spacing: 12) {
-                    StatItem(value: formatTime(totalSessionTime), label: "总用时")
-                    Spacer()
-                }
-            }
-            .padding(20)
-            .background(Color(.systemGray6))
-            .cornerRadius(16)
-
-            // Wrong questions list
-            if !wrongQuestions.isEmpty {
-                VStack(alignment: .leading, spacing: 8) {
-                    Text("错题回顾")
-                        .font(.headline)
-                        .frame(maxWidth: .infinity, alignment: .leading)
-
-                    ForEach(Array(wrongQuestions.enumerated()), id: \.element.index) { _, item in
-                        let (index, question) = item
-                        Button {
-                            if let reviewIdx = viewModel.wrongQuestionDetails.firstIndex(where: { $0.question.id == question.id }) {
-                                reviewInitialIndex = reviewIdx
-                                showReviewSheet = true
-                            }
-                        } label: {
-                            HStack(alignment: .top) {
-                                Text("Q\(question.number)")
-                                    .font(.caption)
-                                    .foregroundStyle(.secondary)
-                                    .frame(width: 36, alignment: .leading)
-                                Text(question.text.display)
-                                    .font(.subheadline)
-                                    .lineLimit(2)
-                                Spacer()
-                                Image(systemName: "chevron.right")
-                                    .font(.caption)
-                                    .foregroundStyle(.tertiary)
-                            }
-                        }
-                        .buttonStyle(.plain)
+                // Score card
+                VStack(spacing: 12) {
+                    HStack(spacing: 32) {
+                        StatItem(value: "\(viewModel.correctCount)", label: "正确")
+                        StatItem(value: "\(viewModel.sessionResults.count - viewModel.correctCount)", label: "错误")
+                        StatItem(value: "\(Int(viewModel.accuracy * 100))%", label: "正确率")
+                        StatItem(value: formatTime(viewModel.averageTimePerQuestion), label: "平均用时")
+                    }
+                    HStack(spacing: 12) {
+                        StatItem(value: formatTime(totalSessionTime), label: "总用时")
+                        Spacer()
                     }
                 }
-                .padding()
+                .padding(20)
                 .background(Color(.systemGray6))
-                .cornerRadius(12)
-            }
+                .cornerRadius(16)
 
-            // Action buttons
+                // Wrong questions list
+                if !wrongQuestions.isEmpty {
+                    VStack(alignment: .leading, spacing: 8) {
+                        Text("错题回顾")
+                            .font(.headline)
+                            .frame(maxWidth: .infinity, alignment: .leading)
+
+                        ForEach(Array(wrongQuestions.enumerated()), id: \.element.index) { _, item in
+                            let (index, question) = item
+                            Button {
+                                if let reviewIdx = viewModel.wrongQuestionDetails.firstIndex(where: { $0.question.id == question.id }) {
+                                    reviewInitialIndex = reviewIdx
+                                    showReviewSheet = true
+                                }
+                            } label: {
+                                HStack(alignment: .top) {
+                                    Text("Q\(question.number)")
+                                        .font(.caption)
+                                        .foregroundStyle(.secondary)
+                                        .frame(width: 36, alignment: .leading)
+                                    Text(question.text.display)
+                                        .font(.subheadline)
+                                        .lineLimit(2)
+                                    Spacer()
+                                    Image(systemName: "chevron.right")
+                                        .font(.caption)
+                                        .foregroundStyle(.tertiary)
+                                }
+                            }
+                            .buttonStyle(.plain)
+                        }
+                    }
+                    .padding()
+                    .background(Color(.systemGray6))
+                    .cornerRadius(12)
+                }
+            }
+            .padding()
+        }
+        .safeAreaInset(edge: .bottom) {
             VStack(spacing: 12) {
                 if !viewModel.wrongQuestionDetails.isEmpty {
                     Button {
@@ -118,8 +121,9 @@ struct QuizResultView: View {
                 }
                 .buttonStyle(.bordered)
             }
+            .padding()
+            .background(.ultraThinMaterial)
         }
-        .padding()
         .navigationBarBackButtonHidden()
         .sheet(isPresented: $showReviewSheet) {
             WrongQuestionReviewView(

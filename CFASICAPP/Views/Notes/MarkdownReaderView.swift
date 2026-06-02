@@ -42,6 +42,14 @@ struct MarkdownReaderView: View {
                             Markdown(markdown)
                                 .markdownTheme(.customStudy)
                                 .padding(.horizontal)
+
+                            // Next chapter link
+                            if let next = nextModule {
+                                nextChapterLink(next)
+                                    .padding(.top, 32)
+                                    .padding(.horizontal)
+                                    .padding(.bottom, 40)
+                            }
                         }
                         .background(GeometryReader { geo in
                             Color.clear.preference(
@@ -101,9 +109,6 @@ struct MarkdownReaderView: View {
         .onDisappear {
             saveReadingProgress()
         }
-        .safeAreaInset(edge: .bottom) {
-            chapterNavigationBar
-        }
     }
 
     // MARK: - Module header
@@ -133,63 +138,30 @@ struct MarkdownReaderView: View {
         .background(Color(.systemBackground))
     }
 
-    // MARK: - Chapter navigation bar
+    // MARK: - Next chapter link
 
-    private var chapterNavigationBar: some View {
-        HStack(spacing: 12) {
-            if let prev = prevModule {
-                NavigationLink {
-                    MarkdownReaderView(module: prev, moduleContent: prev.content[0])
-                } label: {
-                    HStack(spacing: 4) {
-                        Image(systemName: "chevron.left")
-                            .font(.caption)
-                        VStack(alignment: .leading, spacing: 1) {
-                            Text("上一章")
-                                .font(.caption2)
-                                .foregroundStyle(.secondary)
-                            Text("模块 \(prev.number)")
-                                .font(.caption)
-                                .fontWeight(.medium)
-                        }
-                    }
-                    .frame(maxWidth: .infinity, alignment: .leading)
+    private func nextChapterLink(_ next: ModuleInfo) -> some View {
+        NavigationLink {
+            MarkdownReaderView(module: next, moduleContent: next.content[0])
+        } label: {
+            HStack {
+                VStack(alignment: .leading, spacing: 4) {
+                    Text("下一步")
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                    Text("模块 \(next.number)：\(next.title.display)")
+                        .font(.headline)
+                        .foregroundStyle(.blue)
                 }
-                .buttonStyle(.plain)
-            } else {
                 Spacer()
+                Image(systemName: "chevron.right")
+                    .foregroundStyle(.blue)
             }
-
-            if let next = nextModule {
-                NavigationLink {
-                    MarkdownReaderView(module: next, moduleContent: next.content[0])
-                } label: {
-                    HStack(spacing: 4) {
-                        VStack(alignment: .trailing, spacing: 1) {
-                            Text("下一章")
-                                .font(.caption2)
-                                .foregroundStyle(.secondary)
-                            Text("模块 \(next.number)")
-                                .font(.caption)
-                                .fontWeight(.medium)
-                        }
-                        Image(systemName: "chevron.right")
-                            .font(.caption)
-                    }
-                    .frame(maxWidth: .infinity, alignment: .trailing)
-                }
-                .buttonStyle(.plain)
-            } else {
-                Spacer()
-            }
+            .padding()
+            .background(Color(.systemGray6))
+            .cornerRadius(12)
         }
-        .padding(.horizontal)
-        .padding(.vertical, 10)
-        .background(.ultraThinMaterial)
-        .overlay(
-            Divider(),
-            alignment: .top
-        )
+        .buttonStyle(.plain)
     }
 
     // MARK: - Data

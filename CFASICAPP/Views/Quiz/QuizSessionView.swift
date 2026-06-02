@@ -151,10 +151,18 @@ struct QuizSessionView: View {
                     .font(.headline)
             }
 
-            if let explanation = question.explanation?.display {
-                Text(explanation)
+            if let zh = question.explanation?.zh {
+                Text(zh)
                     .font(.subheadline)
                     .foregroundStyle(.secondary)
+            }
+
+            if let en = question.explanation?.en {
+                Divider()
+                    .padding(.vertical, 4)
+                Text(en)
+                    .font(.caption)
+                    .foregroundStyle(.tertiary)
             }
 
             Button {
